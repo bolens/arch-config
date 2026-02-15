@@ -1,0 +1,67 @@
+# Zoom - https://zoom.us
+{ "name": "zoom", "type": "Chat" }
+
+# weechat: https://weechat.org/
+{ "name": "weechat", "type": "Chat" }
+
+# https://www.viber.com
+{ "name": "viber", "type": "Chat" }
+
+# https://desktop.telegram.org/
+{ "name": "Telegram", "type": "Chat" }
+{ "name": "telegram-desktop", "type": "Chat" }
+{ "name": "telegram-desktop.bin", "type": "Chat" }
+{ "name": "telegram", "type": "Chat" }
+
+# Discord: https://discord.com/
+{ "name": "Discord", "type": "Chat" }
+{ "name": "discord", "type": "Chat" }
+{ "name": "DiscordCanary", "type": "Chat" }
+{ "name": "DiscordDevelopment", "type": "Chat" }
+{ "name": "DiscordPTB", "type": "Chat" }
+{ "name": "webcord", "type": "Chat" }
+{ "name": "armcord", "type": "Chat" }
+{ "name": "vesktop.bin", "type": "Chat" }
+{ "name": "vesktop", "type": "Chat" }
+
+# https://hexchat.github.io
+{ "name": "hexchat", "type": "Chat" }
+
+# Teams: https://teams.microsoft.com/downloadsallDevicesSection
+{ "name": "kotatogram-desktop", "type": "Chat" }
+{ "name": "teams", "type": "Chat" }
+{ "name": "kotatogram-desktop.bin", "type": "Chat" }
+
+# 64gram: https://64gr.am/
+{ "name": "64gram-desktop", "type": "Chat" }
+
+# http://vk.com/messenger
+{ "name": "caprine", "type": "Chat" }
+{ "name": "qtox", "type": "Chat" }
+{ "name": "rambox", "type": "Chat" }
+{ "name": "signal-desktop", "type": "Chat" }
+{ "name": "signal-desktop-beta", "type": "Chat" }
+{ "name": "skypeforlinux", "type": "Chat" }
+{ "name": "slack", "type": "Chat" }
+{ "name": "vk", "type": "Chat" }
+{ "name": "mailspring", "type": "Chat" }
+
+# https://www.mozilla.org/en-US/thunderbird/
+{ "name": "thunderbird", "type": "Chat" }
+
+# https://github.com/Betterbird/thunderbird-patches
+{ "name": "betterbird", "type": "Chat" }
+{ "name": "betterbird-bin", "type": "Chat" }
+
+# Franz and its forks: https://meetfranz.com/
+{ "name": "ferdi", "type": "Chat" }
+{ "name": "ferdium", "type": "Chat" }
+{ "name": "franz", "type": "Chat" }
+
+# Matrix: https://matrix.org/
+{ "name": "cinny-desktop", "type": "Chat" }
+{ "name": "element-desktop", "type": "Chat" }
+{ "name": "fluffychat", "type": "Chat" }
+{ "name": "fractal", "type": "Chat" }
+{ "name": "neochat", "type": "Chat" }
+{ "name": "nheko", "type": "Chat" }

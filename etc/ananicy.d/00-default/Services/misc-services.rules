@@ -1,0 +1,14 @@
+# https://github.com/containers/bubblewrap
+{ "name": "bwrap", "type": "Service" }
+
+{ "name": "devmon", "type": "Service" }
+{ "name": "fsnotifier", "type": "Service" }
+{ "name": "udevil", "type": "Service" }
+{ "name": "upowerd", "type": "Service" }
+{ "name": "udisksd", "type": "Service" }
+
+{ "name": "dconf-service", "type": "Service" }
+
+{ "name": "gpg", "type": "Service" }
+{ "name": "gpg-agent", "type": "Service" }
+{ "name": "scdaemon", "type": "Service" }

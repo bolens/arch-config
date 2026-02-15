@@ -1,0 +1,71 @@
+### Chromium-Based Browsers ###
+
+# Brave - https://brave.com/
+{ "name": "/usr/lib/brave-bin/brave", "type": "Doc-View" }
+{ "name": "brave", "type": "Doc-View" }
+{ "name": "brave-bin", "type": "Doc-View" }
+{ "name": "brave-browser", "type": "Doc-View" }
+{ "name": "brave-sandbox", "type": "Doc-View" }
+
+# Chrome - https://www.google.com/chrome/
+{ "name": "chrome", "type": "Doc-View" }
+{ "name": "chrome-sandbox", "type": "Doc-View" }
+{ "name": "google-chrome-dev", "type": "Doc-View" }
+{ "name": "google-chrome-unstable", "type": "Doc-View" }
+{ "name": "nacl_helper", "type": "Doc-View" }
+{ "name": "chrome_crashpad_handler", "type": "BG_CPUIO" }
+
+# Chromium - https://www.chromium.org/
+{ "name": "chromium", "type": "Doc-View" }
+
+# Cromite - https://github.com/uazo/cromite
+{ "name": "cromite", "type": "Doc-View" }
+
+# Helium - https://helium.computer/
+{ "name": "helium", "type": "Doc-View" }
+{ "name": "helium_crashpad_handler", "type": "BG_CPUIO" }
+
+# Opera - https://www.opera.com/
+{ "name": "opera", "type": "Doc-View" }
+
+# Vivaldi  - https://vivaldi.com/
+{ "name": "vivaldi", "type": "Doc-View" }
+{ "name": "vivaldi-snapshot", "type": "Doc-View" }
+
+### Firefox-Based Browsers ###
+
+# FireDragon - https://github.com/dr460nf1r3/firedragon-browser
+{ "name": "firedragon", "type": "Doc-View" }
+{ "name": "firedragon-bin", "type": "Doc-View" }
+
+# Firefox - https://firefox.com
+{ "name": "firefox", "type": "Doc-View" }
+{ "name": "firefox-bin", "type": "Doc-View" }
+{ "name": "firefox-developer-edition", "type": "Doc-View" }
+{ "name": "firefox-esr", "type": "Doc-View" }
+{ "name": "firefox-nightly", "type": "Doc-View" }
+
+# IceCat - https://www.gnu.org/software/gnuzilla/
+{ "name": "icecat", "type": "Doc-View" }
+
+# LibreWolf - https://librewolf.net/
+{ "name": "librewolf", "type": "Doc-View" }
+{ "name": "librewolf-bin", "type": "Doc-View" }
+{ "name": "librewolf-nightly", "type": "Doc-View" }
+
+# Tor - https://www.torproject.org
+{ "name": "firefox.real", "type": "Doc-View" }
+
+# Waterfox - https://www.waterfox.net
+{ "name": "waterfox-g", "type": "Doc-View" }
+
+# Zen: https://zen-browser.app
+{ "name": "zen-bin", "type": "Doc-View" }
+{ "name": "zen", "type": "Doc-View" }
+
+# Floorp - https://floorp.app
+{ "name": "floorp", "type": "Doc-View" }
+
+# Microsoft Edge - https://www.microsoft.com/en-us/edge/
+{ "name": "msedge", "type": "Doc-View" }
+{ "name": "msedge_crashpad", "type": "BG_CPUIO" }

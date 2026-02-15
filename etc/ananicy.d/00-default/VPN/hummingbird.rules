@@ -1,0 +1,2 @@
+# Hummingbird - AirVPN client
+{ "name": "hummingbird", "type": "LowLatency_RT", "ionice": 1 }

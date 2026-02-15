@@ -1,0 +1,2 @@
+# Allow members of the input group to access uinput device
+KERNEL=="uinput", GROUP="input", MODE="0660"

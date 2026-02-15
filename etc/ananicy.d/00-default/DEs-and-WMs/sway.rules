@@ -1,0 +1,12 @@
+# https://swaywm.org/
+{ "name": "sway", "type": "LowLatency_RT" }
+
+# Sway notification daemon
+# https://github.com/ErikReider/SwayNotificationCenter
+{ "name": "swaync", "type": "Service" }
+{ "name": "swaync-client", "type": "Service" }
+
+
+# Sway idle daemon
+# https://github.com/swaywm/swayidle
+{ "name": "swayidle", "type": "Service" }

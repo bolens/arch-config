@@ -1,0 +1,21 @@
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a device; this may
+# be used with UUID= as a more robust way to name devices that works even if
+# disks are added and removed. See fstab(5).
+#
+# <file system>             <mount point>  <type>  <options>  <dump>  <pass>
+UUID=5BEA-6F74                            /boot          vfat    defaults,umask=0077 0 2
+UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /              btrfs   subvol=/@,defaults,noatime,compress-force=zstd:1,discard=async,commit=120 0 0
+UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /home          btrfs   subvol=/@home,defaults,noatime,compress-force=zstd:1,discard=async,commit=120 0 0
+UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /root          btrfs   subvol=/@root,defaults,noatime,compress=zstd 0 0
+UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /srv           btrfs   subvol=/@srv,defaults,noatime,compress=zstd 0 0
+UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /var/cache     btrfs   subvol=/@cache,defaults,noatime,compress=zstd 0 0
+UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /var/tmp       btrfs   subvol=/@tmp,defaults,noatime,compress=zstd 0 0
+UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /var/log       btrfs   subvol=/@log,defaults,noatime,compress=zstd 0 0
+UUID=5d7a6c0f-5c39-454b-a48a-809eaf071ee5 /mnt/apps      btrfs   defaults,noatime,compress=zstd:3,autodefrag,discard=async,space_cache=v2 0 0
+UUID=ac2c6276-2389-4ac3-8d6b-2bfd80035c7f /mnt/games     btrfs   defaults,noatime,compress=zstd:3,autodefrag,discard=async,space_cache=v2 0 0
+UUID=89f815d1-1b31-4047-a4b4-57360313361d /mnt/backup    btrfs   defaults,noatime,compress=zstd:3,autodefrag,nofail,x-systemd.device-timeout=5s 0 0
+UUID=7dd46bd5-c62c-4d0c-a42a-fb0c81dfba84 /mnt/media     xfs     defaults,noatime,nodiratime,logbufs=8,logbsize=256k,delaylog 0 0
+UUID=e9702903-f1fd-4a84-bbf3-856e060c8efd /mnt/dev       xfs     defaults,noatime,nodiratime,lazytime,logbufs=8,logbsize=256k,delaylog,nofail 0 2
+tmpfs                                     /tmp           tmpfs   defaults,noatime,size=100G,mode=1777   0   0

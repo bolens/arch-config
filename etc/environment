@@ -1,0 +1,24 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+
+# Hardware Accel & Prime
+__NV_PRIME_RENDER_OFFLOAD=1
+__GLX_VENDOR_LIBRARY_NAME=nvidia
+GBM_BACKEND=nvidia-drm
+
+# Gaming & Latency
+PROTON_ENABLE_NVAPI=1
+__GL_GSYNC_ALLOWED=1
+__GL_MaxFramesAllowed=1
+NVPRESENT_ENABLE_SMOOTH_MOTION=1
+
+# Desktop Environment Fixes (GTK4 / GNOME)
+# 'ngl' is the modern replacement for 'gl'. 'vulkan' is also an option.
+GSK_RENDERER=ngl 
+
+# Linker Optimization
+# Forces the 'mold' linker globally for any manual compiles
+LD_LIBRARY_PATH=/usr/lib/mold:$LD_LIBRARY_PATH

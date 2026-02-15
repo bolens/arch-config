@@ -1,0 +1,10 @@
+# display manager
+{ "name": "gdm3", "type": "Service" }
+{ "name": "gdm", "type": "Service" }
+{ "name": "gdm-wayland-session", "type": "Service" }
+{ "name": "gdm-session-worker", "type": "Service" }
+
+# gnome shell
+{ "name": "gnome-shell","type": "Service"}
+{ "name": "gnome-session-binary","type": "Service"}
+{ "name": "gnome-session-ctl","type": "Service"}

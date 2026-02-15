@@ -1,0 +1,3 @@
+KERNEL=="binder", MODE="0666"
+KERNEL=="hwbinder", MODE="0666"
+KERNEL=="vndbinder", MODE="0666"
