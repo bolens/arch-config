@@ -37,7 +37,9 @@ if test -n "$(git status --porcelain)"
     echo "📝 Changes detected. Automating commit and push..."
     
     # Check if SSH key is in the agent (uses YOUR user agent)
-    if not ssh-add -l > /dev/null 2>&1
+    # Ensure your specific key is loaded
+    if not ssh-add -l | grep -q "michael@bolens"
+        echo "🔑 Loading SSH signing key..."
         ssh-add $TARGET_HOME/.ssh/bolens@duck
         ssh-add $TARGET_HOME/.ssh/michael@bolens
     end
