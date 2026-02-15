@@ -1,5 +1,11 @@
 source /usr/share/cachyos-fish-config/cachyos-config.fish
 
+#ssh
+if status is-interactive
+    keychain --eval --quiet michael@bolens | source
+    keychain --eval --quiet bolens@duck | source
+end
+
 # overwrite greeting
 # potentially disabling fastfetch
 #function fish_greeting
