@@ -1,0 +1,18 @@
+[Unit]
+Description=LibreDefender Antivirus Scan
+After=clamav-freshclam.service
+
+[Service]
+Type=oneshot
+# -i only shows infected files
+# --recursive ensures all subfolders are hit
+ExecStart=/usr/bin/libredefender scan / --recursive -i
+
+# CPU/IO Optimization for 7900X3D
+# Low priority so it doesn't slow down your workstation
+Nice=19
+IOSchedulingClass=idle
+CPUSchedulingPolicy=idle
+
+[Install]
+WantedBy=multi-user.target

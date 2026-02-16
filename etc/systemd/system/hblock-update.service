@@ -1,0 +1,12 @@
+[Unit]
+Description=Update hblock hosts file
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+# Using your specific source list and output path
+ExecStart=/usr/bin/hblock -S /home/panda/.config/hblock/sources.list -O /etc/hosts
+
+[Install]
+WantedBy=multi-user.target

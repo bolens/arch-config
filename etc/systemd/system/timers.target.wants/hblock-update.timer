@@ -1,0 +1,11 @@
+[Unit]
+Description=Run hblock update twice daily
+
+[Timer]
+# Run at midnight and noon
+OnCalendar=00/12:00:00
+# Ensure it runs on boot if a scheduled time was missed
+Persistent=true
+
+[Install]
+WantedBy=timers.target
