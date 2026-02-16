@@ -1,0 +1,11 @@
+[Unit]
+Description=Run Config Backup daily
+
+[Timer]
+# Runs every day at 00:00 (Midnight). You can change this to 'hourly' if you prefer.
+OnCalendar=daily
+# If the PC was off at midnight, run it immediately on boot
+Persistent=true
+
+[Install]
+WantedBy=timers.target

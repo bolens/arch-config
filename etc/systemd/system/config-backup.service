@@ -1,0 +1,13 @@
+[Unit]
+Description=Daily Arch Config Backup to GitHub
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=rsync-backup
+# The path to your friendly sync script
+ExecStart=/usr/bin/fish /home/rsync-backup/gh-configs/sync.fish
+
+[Install]
+WantedBy=multi-user.target
