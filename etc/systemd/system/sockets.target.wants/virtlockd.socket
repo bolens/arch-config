@@ -1,0 +1,12 @@
+[Unit]
+Description=libvirt locking daemon socket
+
+[Socket]
+ListenStream=/run/libvirt/virtlockd-sock
+Service=virtlockd.service
+SocketMode=0600
+RemoveOnStop=yes
+
+[Install]
+WantedBy=sockets.target
+Also=virtlockd-admin.socket

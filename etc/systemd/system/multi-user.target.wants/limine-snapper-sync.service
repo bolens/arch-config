@@ -1,0 +1,35 @@
+[Unit]
+Description=[limine-snapper-sync.service] automatically synchronizes boot entries with the Snapper snapshot list.
+
+[Service]
+Type=simple
+User=root
+ExecStart=limine-snapper-watcher
+Restart=on-failure
+RestartSec=10s
+
+### Security hardening
+IPAddressDeny=any
+CapabilityBoundingSet=CAP_SYS_ADMIN
+LockPersonality=yes
+PrivateNetwork=yes
+ProtectControlGroups=yes
+ProtectClock=yes
+ProtectHome=yes
+ProtectHostname=yes
+ProtectKernelLogs=yes
+ProtectKernelModules=yes
+ProtectKernelTunables=yes
+ReadWritePaths=/tmp
+RemoveIPC=yes
+### Note: If AF_INET and AF_INET6 are removed, 'logger' will fail to work.
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+RestrictNamespaces=yes
+RestrictSUIDSGID=yes
+NoNewPrivileges=yes
+SystemCallArchitectures=native
+SystemCallFilter=@system-service @mount
+
+[Install]
+Alias=limine-snapper-watcher.service
+WantedBy=multi-user.target

@@ -5,7 +5,7 @@
 # disks are added and removed. See fstab(5).
 #
 # <file system>             <mount point>  <type>  <options>  <dump>  <pass>
-UUID=5BEA-6F74                            /boot          vfat    defaults,umask=0077 0 2
+UUID=5BEA-6F74                            /boot          vfat    defaults,umask=0022 0 2
 UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /              btrfs   subvol=/@,defaults,noatime,compress-force=zstd:1,discard=async,commit=120 0 0
 UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /home          btrfs   subvol=/@home,defaults,noatime,compress-force=zstd:1,discard=async,commit=120 0 0
 UUID=a78aae67-b6b4-4e90-9575-3be853cfc9b5 /root          btrfs   subvol=/@root,defaults,noatime,compress=zstd 0 0

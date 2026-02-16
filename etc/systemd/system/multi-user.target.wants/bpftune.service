@@ -1,0 +1,14 @@
+# chkconfig: 345 99 01
+# description: BPF-based auto-tuning of system parameters
+
+[Unit]
+Description=BPF-based auto-tuning of system parameters
+After=systemd-sysctl.service network.target
+
+[Service]
+ExecStart=/usr/bin/bpftune
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
