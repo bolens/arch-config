@@ -1,5 +1,7 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export SSH_AGENT_PID:750814
+SETUVAR --export SSH_AUTH_SOCK:/home/panda/\x2essh/agent/s\x2eKWhuZZNNbf\x2eagent\x2edQINoCAuPF
 SETUVAR __done_min_cmd_duration:10000
 SETUVAR __done_notification_urgency_level:low
 SETUVAR __fish_initialized:4300
