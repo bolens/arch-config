@@ -455,6 +455,7 @@ certipy
 certsync
 cewl
 cflow
+chafa
 chainsaw
 chameleon
 chameleonmini
@@ -522,6 +523,7 @@ clion-cmake
 clion-gdb
 clion-jre
 clion-lldb
+cliphist
 cloakify
 clonehero
 cloud-buster
@@ -1759,6 +1761,7 @@ kglobalaccel
 kgoldrunner
 kgpg
 kgraphviewer
+kguiaddons
 kh2hc
 khangman
 khc
@@ -1815,6 +1818,7 @@ knetwalk
 knewstuff
 knights
 knock
+knotifications
 knxmap
 koadic
 koboldcpp-cuda
@@ -2561,6 +2565,8 @@ oxfmt
 oxlint
 oz
 pack
+packagekit
+packagekit-qt6
 packerid
 packet-o-matic
 packetq

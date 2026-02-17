@@ -11,6 +11,14 @@ ExecStart=/usr/sbin/clamd --foreground=true
 # Reload the database
 ExecReload=/bin/kill -USR2 $MAINPID
 TimeoutStartSec=420
+# Hard limit: service killed on exceed (OOM invoked)
+MemoryMax=1200M
+# Soft/high watermark: throttle before hard limit
+MemoryHigh=1000M
+# Guaranteed minimum: won't be reclaimed below this
+MemoryLow=800M
+# OOM protection: lower score = less likely to be killed (-1000 = immune)
+OOMScoreAdjust=-500
 
 [Install]
 WantedBy=multi-user.target
