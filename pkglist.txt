@@ -108,7 +108,7 @@ apkstudio
 apkurlgrep
 apnbf
 appflowy-bin
-appimagelauncher
+appimagelauncher-git
 applewin-git
 appmenu-gtk-module
 appmon
@@ -948,6 +948,7 @@ enyelkm
 eos
 epicwebhoneypot
 equicord-hook
+equicord-installer-bin
 erase-registrations
 eraser
 erdtree
@@ -3524,6 +3525,7 @@ stepic
 stews
 sticky-keys-hunter
 stig-viewer
+stoat-desktop-bin
 stompy
 stoq
 storm-ring

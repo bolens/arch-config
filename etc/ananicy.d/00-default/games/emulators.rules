@@ -39,6 +39,9 @@
 # Eden Emulator for Switch games: https://eden-emu.dev/
 { "name": "eden", "type": "Game" }
 
+# Ryujinx Emulator for Switch games: https://ryujinx.app/
+{ "name": "ryujinx", "type": "Game" }
+
 ### Others ###
 
 # Multi-purpose emulation framework. https://www.mamedev.org/
@@ -72,3 +75,6 @@
 
 # PCSX2, PlayStation 2 emulator: https://pcsx2.net
 { "name": "pcsx2-qt", "type": "Game" }
+
+# SHADPS4, a PlayStation 4 emulator: https://shadps4.net
+{ "name": "shadps4", "type": "Game" }
