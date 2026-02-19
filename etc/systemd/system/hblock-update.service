@@ -6,7 +6,7 @@ After=network-online.target
 [Service]
 Type=oneshot
 # Using your specific source list and output path
-ExecStart=/usr/bin/hblock -S /home/panda/.config/hblock/sources.list -O /etc/hosts
+ExecStart=/usr/bin/hblock -S /home/panda/.config/hblock/sources.list -A /home/panda/.config/hblock/allow.list -O /etc/hosts
 
 [Install]
 WantedBy=multi-user.target

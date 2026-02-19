@@ -596,6 +596,8 @@ cottontail
 country-ip-blocks
 cowpatty
 cpfinder
+cpp-httplib
+cpp-jwt
 cpp2il
 cpptest
 cpupower
@@ -1166,6 +1168,7 @@ garak
 gasmask
 gatecrasher
 gau
+gawkextlib
 gcat
 gcfuse-git
 gcpbucketbrute
@@ -1789,6 +1792,7 @@ kiriki
 kismet-earth
 kismet2earth
 kismon
+kitemviews
 kiten
 kiterunner
 kitty
@@ -2260,6 +2264,7 @@ modemmanager
 modifycerttemplate
 modlishka
 modscan
+mold
 moloch
 moltbot
 mongoaudit
@@ -2985,8 +2990,8 @@ rbasefind
 rbdoom3-bfg-git
 rbkb
 rbndr
+rclone
 rclone-browser
-rclone-git
 rclone-manager
 rclonefzf-git
 rcracki-mt
@@ -3409,9 +3414,11 @@ socketwrench
 sockstat
 sof-firmware
 solaar
+solid
 sonar-scanner
 sonic-pi-git
 sonicradio
+sonnet
 soot
 sooty
 sophia
@@ -3875,6 +3882,7 @@ vstt
 vsvbp
 vt-cli
 vtop
+vulkan-memory-allocator
 vulkan-radeon
 vulmap
 vulnerabilities-spider
