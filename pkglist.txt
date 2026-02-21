@@ -516,6 +516,7 @@ clairvoyance
 clamav
 clamscanlogparser
 classyshark
+claude-code
 cleverhans
 climber
 clion
@@ -1008,6 +1009,7 @@ facebot
 facebrok
 facebrute
 factordb-pycli
+factory-cli-bin
 fail2ban
 fakeap
 fakedns
@@ -2462,6 +2464,7 @@ nuclei
 nuclei-templates
 nullinux
 nullscan
+nvidia-container-toolkit
 nvidia-settings
 nvidia-utils
 nvtop
@@ -2505,8 +2508,10 @@ oniongrok
 onionscan
 onionsearch
 open-supaplex
+openai-codex
 openarena
 opencl-nvidia
+opencode
 opencomic-bin
 opencv-cuda
 opendoor
