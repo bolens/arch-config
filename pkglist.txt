@@ -1775,9 +1775,6 @@ khelpcenter
 kicad
 kicad-library
 kicad-library-3d
-kicad-library-3d-nightly
-kicad-library-nightly
-kicad-nightly
 kickthemout
 kiconthemes
 kig
