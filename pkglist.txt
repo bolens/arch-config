@@ -2074,7 +2074,6 @@ lisa.py
 list-urls
 littleblackbox
 littlebrother
-lmstudio
 lmstudio-bin
 loadlibrary
 local-php-security-checker
@@ -2921,6 +2920,7 @@ python-pcodedmp
 python-peid
 python-pipx
 python-polars
+python-pyfuse3
 python-pyqt5
 python-reportlab
 python-search-engine-parser
