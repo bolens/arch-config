@@ -27,3 +27,7 @@ set -gx SSH_AUTH_SOCK (gpgconf --list-dirs agent-ssh-socket)
 
 # Launch GPG Agent if not running
 gpgconf --launch gpg-agent
+
+# Rust Optimizations
+set -gx RUSTFLAGS "-C target-cpu=native -C opt-level=3"
+fish_add_path -p --path ~/.cargo/bin

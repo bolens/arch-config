@@ -983,7 +983,6 @@ exercism
 exescan
 exfatprogs
 exiflooter
-exiftool-rs-git
 exitmap
 expimp-lookup
 exploit-db
@@ -1179,6 +1178,7 @@ gdbgui
 gdir.pl
 gdsdecomp-bin
 gdu
+gemini-cli
 gene
 genisys
 genlist
@@ -2513,6 +2513,7 @@ open-supaplex
 openai-codex
 openarena
 opencl-nvidia
+openclaw-git
 opencode
 opencomic-bin
 opencv-cuda
@@ -3149,7 +3150,7 @@ rusthound-ce
 rustpad
 rustrover
 rustrover-jre
-rustup
+rustup-provides
 rustywind-bin
 rutorrent-git
 rvi-capture
