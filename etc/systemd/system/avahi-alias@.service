@@ -1,0 +1,30 @@
+# Template: advertise this host as <name>.local via mDNS without changing the
+# system hostname. Use for any stack (Harbor, Gitea, etc.) so you can reach
+# services at https://<name>.local on the LAN (e.g. bypass Cloudflare for large
+# uploads). Install on the host that runs Caddy (the reverse proxy).
+#
+# Install once:
+#   sudo cp scripts/avahi-alias@.service /etc/systemd/system/
+#   sudo systemctl daemon-reload
+#
+# Enable per alias (each advertises <name>.local):
+#   sudo systemctl enable --now avahi-alias@harbor.service
+#   sudo systemctl enable --now avahi-alias@gitea.service
+#   sudo systemctl enable --now avahi-alias@nextcloud.service
+#   ... etc.
+#
+# Requires: avahi-daemon, avahi-utils. Uses -R to avoid reverse-DNS conflict.
+
+[Unit]
+Description=Publish %i.local (mDNS) for local access
+After=avahi-daemon.service
+Requires=avahi-daemon.service
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c 'IP=$$(hostname -I | awk "{print \$$1}"); exec /usr/bin/avahi-publish -a -R %i $$IP'
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
