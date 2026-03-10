@@ -1,7 +1,6 @@
 ### Chromium-Based Browsers ###
 
 # Brave - https://brave.com/
-{ "name": "/usr/lib/brave-bin/brave", "type": "Doc-View" }
 { "name": "brave", "type": "Doc-View" }
 { "name": "brave-bin", "type": "Doc-View" }
 { "name": "brave-browser", "type": "Doc-View" }
@@ -17,6 +16,10 @@
 
 # Chromium - https://www.chromium.org/
 { "name": "chromium", "type": "Doc-View" }
+
+# Thorium - https://thorium.rocks/
+{ "name": "thorium", "type": "Doc-View" }
+{ "name": "thorium-browser", "type": "Doc-View" }
 
 # Cromite - https://github.com/uazo/cromite
 { "name": "cromite", "type": "Doc-View" }
