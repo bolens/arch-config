@@ -121,6 +121,7 @@ arachni
 aranea
 arcane
 archivebox
+archlinux-wallpaper
 archlinuxcn-keyring
 ardour
 arduino-language-server
@@ -713,6 +714,8 @@ decodify
 deemix-git
 deen
 deepce
+deepin-community-wallpapers
+deepin-wallpapers
 deezer-downloader
 delldrac
 delorean
@@ -921,6 +924,7 @@ ekphos-git
 electric-fence
 electricsheep
 element-desktop
+elementary-wallpapers
 elettra
 elettra-gui
 elevate
@@ -1498,7 +1502,9 @@ hypridle
 hyprland
 hyprland-protocols
 hyprlauncher
+hyprlax
 hyprlock
+hyprpaper
 hyprpicker
 hyprpolkitagent
 hyprpwcenter
@@ -1858,6 +1864,7 @@ kolkata
 kollision
 kolourpaint
 komikku
+komorebi
 kompare
 kompose
 konan
@@ -2773,6 +2780,7 @@ podman-compose
 podman-desktop
 podman-tui-git
 poison
+pokemon-wallpapers
 polkit-kde-agent
 poly
 polyswarm
@@ -3766,6 +3774,7 @@ uberfile
 ubertooth
 ubiquiti-probing
 ubitack
+ubuntu-wallpapers
 udis86
 udork
 udp-hunter
@@ -3778,6 +3787,7 @@ ufo-wardriving
 ufonet
 ufw
 uhoh365
+ukui-wallpapers
 ultimate-facebook-scraper
 umap
 umbrello
