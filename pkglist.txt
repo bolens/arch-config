@@ -592,7 +592,7 @@ cosmic-settings-daemon
 cosmic-store
 cosmic-terminal
 cosmic-text-editor
-cosmic-wallpapers
+cosmic-wallpapers-git
 cosmic-workspaces
 cottontail
 country-ip-blocks
@@ -654,7 +654,7 @@ cups-filters
 cups-pdf
 cura-bin
 curlie
-cursor-bin
+cutefish-wallpapers
 cutensor
 cutycapt
 cve-api
@@ -1513,6 +1513,7 @@ hyprsnipper
 hyprsunset
 hyprswitch
 hypruler
+hyprwallhaven-git
 hyprwave-hifi
 hyprwhspr
 i2pd-git
@@ -1695,6 +1696,7 @@ kadimus
 kajongg
 kalarm
 kalgebra
+kali-wallpapers
 kalibrate-rtl
 kalk
 kalm
@@ -2077,6 +2079,7 @@ linux-exploit-suggester.sh
 linux-firmware
 linux-inject
 linux-smart-enumeration
+liri-wallpapers-git
 lisa.py
 list-urls
 littleblackbox
@@ -2434,6 +2437,7 @@ nmon
 nodejs-cross-env
 nohidy
 nomorexor
+nordic-wallpapers
 noriben
 nosqlattack
 nosqli
@@ -2785,6 +2789,7 @@ polkit-kde-agent
 poly
 polyswarm
 pompem
+pop-wallpapers-git
 poppler-glib
 popstation
 poracle
@@ -3761,7 +3766,6 @@ tweetshell
 twint
 twintaillauncher-bin
 twitch-dl-git
-twitch-drops-miner-bin
 twitch-tui
 twofi
 typescript-language-server
@@ -3917,6 +3921,7 @@ wafw00f
 waidps
 waifu2x-ncnn-vulkan-git
 waldo
+wallhaven-cli
 wapiti
 warp-terminal
 wascan
@@ -3993,6 +3998,7 @@ wifiphisher
 wifiscanmap
 wifitap
 wig
+wiki-loves-monuments-wallpapers
 wikigen
 wildpwn
 windapsearch
@@ -4008,6 +4014,7 @@ wine-staging
 winexe
 winfo
 winhex
+winmacs-wallpapers
 winpwn
 winregfs
 winrelay

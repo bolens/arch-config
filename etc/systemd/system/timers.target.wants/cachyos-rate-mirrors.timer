@@ -1,0 +1,10 @@
+[Unit]
+Description=Automatically refresh arch / cachyos mirror lists
+
+[Timer]
+OnBootSec=15s
+OnUnitActiveSec=5d
+Persistent=true
+
+[Install]
+WantedBy=timers.target
