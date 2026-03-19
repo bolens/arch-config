@@ -1,0 +1,553 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### M ###
+
+#  Machine Mind https://store.steampowered.com/app/2861590/Machine_Mind/
+{ "name": "Machines.exe", "type": "Game" }
+
+#  Mad Max https://store.steampowered.com/app/234140/Mad_Max/
+{ "name": "MadMax.exe", "type": "Game" }
+
+# Madden NFL 24 https://store.steampowered.com/app/2140330/Madden_NFL_24/
+{ "name": "Madden24.exe", "type": "Game" }
+{ "name": "Madden24_Trial.exe", "type": "Game" }
+
+# Madden NFL 23 https://store.steampowered.com/app/1760250/Madden_NFL_23/
+{ "name": "Madden23.exe", "type": "Game" }
+{ "name": "Madden23_Trial.exe", "type": "Game" }
+
+# Madden NFL 22 https://store.steampowered.com/app/1519350/Madden_NFL_22/
+{ "name": "Madden22.exe", "type": "Game" }
+{ "name": "Madden22_Trial.exe", "type": "Game" }
+
+# Madden NFL 21 https://store.steampowered.com/app/1239520/Madden_NFL_21/
+{ "name": "Madden21.exe", "type": "Game" }
+{ "name": "Madden21_Trial.exe", "type": "Game" }
+
+# Mafia II (Classic) https://store.steampowered.com/app/50130/Mafia_II_Classic/
+{ "name": "mafia2.exe", "type": "Game" }
+
+# Mafia II: Definitive Edition https://store.steampowered.com/app/1030830/Mafia_II_Definitive_Edition/
+{ "name": "Mafia II Definitive Edition.exe", "type": "Game" }
+
+# Mafia III: Definitive Edition https://store.steampowered.com/app/360430/Mafia_III_Definitive_Edition/
+{ "name": "Mafia3DefinitiveEdition.exe", "type": "Game" }
+
+# Mafia: Definitive Edition https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/
+{ "name": "mafiadefinitiveedition.exe", "type": "Game" }
+
+# Mafia: The Old Country https://store.steampowered.com/app/1941540/Mafia_The_Old_Country/
+{ "name": "Nero.exe", "type": "Game" }
+{ "name": "Nero-Win64-Shipping.exe", "type": "Game" }
+
+# Magicka https://store.steampowered.com/app/42910/Magicka/
+{ "name": "Magicka.exe", "type": "Game" }
+
+# Magicka 2  https://store.steampowered.com/app/238370/Magicka_2/
+{ "name": "Magicka2.exe", "type": "Game" }
+
+# Magic: The Gathering Arena https://store.steampowered.com/app/2141910/Magic_The_Gathering_Arena/
+{ "name": "MTGA.exe", "type": "Game" }
+
+# Mahjong https://store.steampowered.com/app/539270/Mahjong/
+{ "name": "Mahjong.exe", "type": "Game" }
+
+# Mahjong Soul https://store.steampowered.com/app/2739990/Mahjong_Soul/
+{ "name": "Jantama_MahjongSoul.exe", "type": "Game" }
+
+# MakeRoom https://store.steampowered.com/app/2212670/MakeRoom/
+{ "name": "MakeRoom.exe", "type": "Game" }
+
+# Mama's Sleeping Angels https://store.steampowered.com/app/2918310/Mamas_Sleeping_Angels/
+{ "name": "Blaster.exe", "type": "Game" }
+{ "name": "Blaster-Win64-Shipping.exe", "type": "Game" }
+
+# Man Hunt https://store.steampowered.com/app/12130/Manhunt/
+{ "name": "manhunt.exe", "type": "Game" }
+
+# Manor Lords https://store.steampowered.com/app/1363080/Manor_Lords/
+{ "name": "ManorLords.exe", "type": "Game" }
+{ "name": "ManorLords-Win64-Shipping.exe", "type": "Game" }
+
+# MapleStory https://store.steampowered.com/app/216150/MapleStory/
+{ "name": "MapleStory.exe", "type": "Game" }
+
+# Marathon https://store.steampowered.com/app/3065800/Marathon/
+{ "name": "Marathon.exe", "type": "Game" }
+
+# March of Empires https://store.steampowered.com/app/702320/March_of_Empires/
+{ "name": "MOE.exe", "type": "Game" }
+{ "name": "MOE-Win64-Shipping.exe", "type": "Game" }
+
+# Mars: War Logs https://store.steampowered.com/app/232750/Mars_War_Logs/
+{ "name": "MarsWarLogs.exe", "type": "Game" }
+
+# Mars Attracts https://store.steampowered.com/app/2760580/Mars_Attracts/
+{ "name": "Mars Attracts.exe", "type": "Game" }
+
+# Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
+{ "name": "Marvel.exe", "type": "Game" }
+{ "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
+{ "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "CapturePro.exe", "type": "BG_CPUIO" }
+{ "name": "client_diagnose.exe", "type": "BG_CPUIO" }
+{ "name": "upload_profile.exe", "type": "BG_CPUIO" }
+
+# Marvel's Guardians of the Galaxy https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/
+{ "name": "gotg.exe", "type": "Game" }
+
+# Marvel's Midnight Suns https://store.steampowered.com/app/368260/Marvels_Midnight_Suns/
+{ "name": "MidnightSuns.exe", "type": "Game" }
+{ "name": "MidnightSuns-Win64-shipping.exe.exe", "type": "Game" }
+
+# MARVEL SNAP https://store.steampowered.com/app/1997040/MARVEL_SNAP/
+{ "name": "SNAP.exe", "type": "Game" }
+
+# Marvel's Spider-Man 2 https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/
+{ "name": "Spider-Man2.exe", "type": "Game" }
+
+# Marvel’s Spider-Man Remastered https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
+{ "name": "Spider-Man.exe", "type": "Game" }
+
+# Mass Effect 2 (2010 Edition) https://store.steampowered.com/app/24980/Mass_Effect_2_2010_Edition/
+{ "name": "MassEffect2.exe", "type": "Game" }
+
+# Mass Effect™ 3 N7 Digital Deluxe Edition (2012) https://store.steampowered.com/app/1238020/Mass_Effect_3_N7_Digital_Deluxe_Edition_2012/
+{ "name": "MassEffect3.exe", "type": "Game" }
+
+# Mass Effect (2007) https://store.steampowered.com/app/17460/Mass_Effect_2007/
+{ "name": "MassEffect.exe", "type": "Game" }
+
+# Mass Effect™ Legendary Edition https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/
+{ "name": "MassEffect1.exe", "type": "Game" }
+
+# Mass Effect™: Andromeda Deluxe Edition https://store.steampowered.com/app/1238000/Mass_Effect_Andromeda_Deluxe_Edition/
+{ "name": "MassEffectAndromeda.exe", "type": "Game" }
+{ "name": "MassEffectAndromedaTrial.exe", "type": "Game" }
+
+# Master of Command https://store.steampowered.com/app/2878450/Master_of_Command/
+{ "name": "Master Of Command.exe", "type": "Game" }
+
+# Masters of Anima https://store.steampowered.com/app/606890/Masters_of_Anima/
+{ "name": "Masters of Anima.exe", "type": "Game" }
+
+# Max Payne https://store.steampowered.com/app/12140/Max_Payne/
+{ "name": "maxpayne.exe", "type": "Game" }
+
+# Max Payne 2: The Fall of Max Payne https://store.steampowered.com/app/12150/Max_Payne_2_The_Fall_of_Max_Payne/
+{ "name": "maxpayne2.exe", "type": "Game" }
+
+# Max Payne 3 https://store.steampowered.com/app/204100/Max_Payne_3/
+{ "name": "MaxPayne3.exe", "type": "Game" }
+
+# MAVRIX by Matt Jones https://store.steampowered.com/app/2926900/MAVRIX_by_Matt_Jones/
+{ "name": "MtbClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "MtbClient.exe", "type": "Game" }
+
+# Mecha BREAK https://store.steampowered.com/app/2452280/Mecha_BREAK/
+{ "name": "MechaBREAK.exe", "type": "Game" }
+
+# MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
+{ "name": "MechWarrior.exe", "type": "Game" }
+{ "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
+
+# MechWarrior Online™ Legends https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
+{ "name": "MWOClient.exe", "type": "Game" }
+
+# Medieval Dynasty https://store.steampowered.com/app/1129580/Medieval_Dynasty/
+{ "name": "Medieval_Dynasty.exe", "type": "Game" }
+{ "name": "Medieval_Dynasty-Win64-Shipping.exe", "type": "Game" }
+
+# Medieval: Total War™ - Collection https://store.steampowered.com/app/345260/Medieval_Total_War__Collection/
+{ "name": "Medieval_TW.exe", "type": "Game" }
+
+# Megabonk https://store.steampowered.com/app/3405340/Megabonk/
+{ "name": "Megabonk.exe", "type": "Game" }
+
+# Megaquarium https://store.steampowered.com/app/600480/Megaquarium/
+{ "name": "Megaquarium.exe", "type": "Game" }
+
+# MENACE https://store.steampowered.com/app/2432860/MENACE/
+{ "name": "Menace.exe", "type": "Game" }
+
+# Menherarium https://store.steampowered.com/app/3394770/Menherarium/
+{ "name": "Menherarium.exe", "type": "Game" }
+
+# METAL GEAR AND METAL GEAR 2: Solid Snake https://store.steampowered.com/app/2131680/METAL_GEAR__METAL_GEAR_2_Solid_Snake/
+{ "name": "METAL GEAR.exe", "type": "Game" }
+
+# METAL GEAR RISING: REVENGEANCE https://store.steampowered.com/app/235460/METAL_GEAR_RISING_REVENGEANCE/
+{ "name": "METAL GEAR RISING REVENGEANCE.exe", "type": "Game" }
+
+# METAL GEAR SOLID 3: Snake Eater - Master Collection Version https://store.steampowered.com/app/2131650/METAL_GEAR_SOLID_3_Snake_Eater__Master_Collection_Version/
+{ "name": "METAL GEAR SOLID3.exe", "type": "Game" }
+
+# METAL GEAR SOLID V: GROUND ZEROES https://store.steampowered.com/app/311340/METAL_GEAR_SOLID_V_GROUND_ZEROES/
+{ "name": "MgsGroundZeroes.exe", "type": "Game" }
+
+# METAL GEAR SOLID V: THE PHANTOM PAIN https://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/
+{ "name": "mgsvtpp.exe", "type": "Game" }
+
+# METAL GEAR SOLID Δ: SNAKE EATER https://store.steampowered.com/app/2417610/METAL_GEAR_SOLID_D_SNAKE_EATER/
+{ "name": "MGSDelta-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Nightmare-Win64-Shipping.exe", "type": "Game" }
+
+# METAL GEAR SOLID - Master Collection Version https://store.steampowered.com/app/2131630/METAL_GEAR_SOLID__Master_Collection_Version/
+{ "name": "METAL GEAR SOLID.exe", "type": "Game" }
+
+# METAL GEAR SURVIVE https://store.steampowered.com/app/543900/METAL_GEAR_SURVIVE/
+{  "name": "mgv.exe", "type": "Game" }
+
+# Metal: Hellsinger https://store.steampowered.com/app/1061910/Metal_Hellsinger/
+{ "name": "Metal.exe", "type": "Game" }
+
+# Metal Unit https://store.steampowered.com/app/1173200/Metal_Unit/
+{ "name": "MetalUnit.exe", "type": "Game" }
+
+# Metaphor: ReFantazio https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
+{ "name": "METAPHOR.exe", "type": "Game" }
+
+# Metro Awakening https://store.steampowered.com/app/2669410/Metro_Awakening/
+{ "name": "Impact.exe", "type": "Game" }
+{ "name": "Impact-Win64-Shipping.exe", "type": "Game" }
+
+# Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
+{ "name": "MetroExodus.exe", "type": "Game" }
+
+# Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
+# Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
+{ "name": "metro.exe", "type": "Game" }
+
+# Mewgenics https://store.steampowered.com/app/686060/Mewgenics/
+{ "name": "Mewgenics.exe", "type": "Game" }
+
+# Microsoft Flight Simulator (2020) 40th Anniversary Edition https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_2020_40th_Anniversary_Edition/
+{ "name": "FlightSimulator.exe", "type": "Game" }
+
+# Microsoft Flight Simulator 2024 https://store.steampowered.com/app/2537590/Microsoft_Flight_Simulator_2024/
+{ "name": "FlightSimulator2024.exe", "type": "Game" }
+
+# Microsoft Flight Simulator X: Steam Edition https://store.steampowered.com/app/314160/Microsoft_Flight_Simulator_X_Steam_Edition/
+{ "name": "fsx.exe", "type": "Game" }
+
+# Middle-earth™: Shadow of Mordor™ https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
+{ "name": "ShadowOfMordor.exe", "type": "Game" }
+
+# Middle-earth™: Shadow of War™ https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/
+{ "name": "ShadowOfWar.exe", "type": "Game" }
+
+# MIMESIS https://store.steampowered.com/app/2827200/MIMESIS/
+{ "name": "MIMESIS.exe", "type": "Game" }
+
+# MindsEye https://store.steampowered.com/app/3265250/MindsEye/
+{ "name": "MindsEye.exe", "type": "Game" }
+{ "name": "MindsEye-Win64-Shipping.exe", "type": "Game" }
+
+# Minecraft Dungeons https://store.steampowered.com/app/1672970/Minecraft_Dungeons/
+{ "name": "Dungeons.exe", "type": "Game" }
+
+# Minecraft Legends https://store.steampowered.com/app/1928870/Minecraft_Legends/
+{ "name": "MinecraftLegends.Windows.exe", "type": "Game" }
+
+# MineMogul https://store.steampowered.com/app/3846120/MineMogul/
+{ "name": "MineMogul.exe", "type": "Game" }
+
+# Mini Cozy Room: Lo-Fi https://store.steampowered.com/app/3511030/Mini_Cozy_Room_LoFi/
+{ "name": "MiniCozyRoom.exe", "type": "Game" }
+
+# Mini Royale https://store.steampowered.com/app/1657090/Mini_Royale/
+{ "name": "MiniRoyale.exe", "type": "Game" }
+
+# Minoria https://store.steampowered.com/app/940910/Minoria/
+{ "name": "Minoria.exe", "type": "Game" }
+
+# Mindustry https://store.steampowered.com/app/1127400/Mindustry/
+{ "name": "Mindustry.exe", "type": "Game" }
+
+# MIO: Memories in Orbit https://store.steampowered.com/app/1672810/MIO_Memories_in_Orbit/
+{ "name": "mio.exe", "type": "Game" }
+
+# MIR4 https://store.steampowered.com/app/1623660/MIR4/
+{ "name": "Mir4S.exe", "type": "Game" }
+
+# Mirror's Edge™ https://store.steampowered.com/app/17410/Mirrors_Edge/
+{ "name": "MirrorsEdge.exe", "type": "Game" }
+
+# Mirror's Edge™ https://store.steampowered.com/app/1233570/Mirrors_Edge_Catalyst/
+{ "name": "MirrorsEdgeCatalyst.exe", "type": "Game" }
+
+# Mistful Crimson Morning https://gamebanana.com/mods/387663
+{ "name": "Mistful Crimson Morning.exe", "type": "Game" }
+{ "name": "Mist.exe", "type": "Game" }
+
+# Mixolumia https://store.steampowered.com/app/1414020/Mixolumia/
+{ "name": "Mixolumia.exe", "type": "Game" }
+
+# MOBILE SUIT GUNDAM BATTLE OPERATION 2 https://store.steampowered.com/app/1367080/MOBILE_SUIT_GUNDAM_BATTLE_OPERATION_2/
+{ "name": "MSGBO2.exe", "type": "Game" }
+
+# MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED https://store.steampowered.com/app/1857740/MOBILE_SUIT_GUNDAM_SEED_BATTLE_DESTINY_REMASTERED/
+{ "name": "SEED BATTLE DESTINY REMASTERED.exe", "type": "Game" }
+
+# Mobmod https://gamebanana.com/mods/464620
+{ "name": "Mobbos.exe", "type": "Game" }
+
+# Monster Energy Supercross 25 - The Official Video Game https://store.steampowered.com/app/2581370/Monster_Energy_Supercross_25__The_Official_Video_Game/
+{ "name": "supercross7.exe", "type": "Game" }
+{ "name": "supercross7-Win64-Shipping.exe", "type": "Game" }
+
+# Monster Energy Supercross - The Official Videogame https://store.steampowered.com/app/711750/Monster_Energy_Supercross__The_Official_Videogame/
+{ "name": "supercross.exe", "type": "Game" }
+{ "name": "supercross-Win64-Shipping.exe", "type": "Game" }
+
+# Monster Energy Supercross - The Official Videogame 2 https://store.steampowered.com/app/882020/Monster_Energy_Supercross__The_Official_Videogame_2/
+{ "name": "supercross2.exe", "type": "Game" }
+{ "name": "supercross2-Win64-Shipping.exe", "type": "Game" }
+
+# Monster Energy Supercross - The Official Videogame 3 https://store.steampowered.com/app/1089830/Monster_Energy_Supercross__The_Official_Videogame_3/
+{ "name": "supercross3.exe", "type": "Game" }
+{ "name": "supercross3-Win64-Shipping.exe", "type": "Game" }
+
+# Monster Energy Supercross - The Official Videogame 4 https://store.steampowered.com/app/1304340/Monster_Energy_Supercross__The_Official_Videogame_4/
+{ "name": "supercross4.exe", "type": "Game" }
+{ "name": "supercross4-Win64-Shipping.exe", "type": "Game" }
+
+# Monster Energy Supercross - The Official Videogame 5 https://store.steampowered.com/app/1610460/Monster_Energy_Supercross__The_Official_Videogame_5/
+{ "name": "supercross5.exe", "type": "Game" }
+{ "name": "supercross5-Win64-Shipping.exe", "type": "Game" }
+
+# Monster Energy Supercross - The Official Videogame 6 https://store.steampowered.com/app/2058750/Monster_Energy_Supercross__The_Official_Videogame_6/
+{ "name": "supercross6.exe", "type": "Game" }
+{ "name": "supercross6-Win64-Shipping.exe", "type": "Game" }
+
+# MONSTER HUNTER RISE https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/
+{ "name": "MonsterHunterRise.exe", "type": "Game" }
+
+# Monster Hunter Stories https://store.steampowered.com/app/2356560/Monster_Hunter_Stories/
+{ "name": "MHST.exe", "type": "Game" }
+
+# Monster Hunter Stories 3: Twisted Reflection https://store.steampowered.com/app/2852190/Monster_Hunter_Stories_3_Twisted_Reflection/
+{ "name": "MONSTER_HUNTER_STORIES_3_TWISTED_REFLECTION.exe", "type": "Game" }
+
+# Monster Hunter Wilds https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/
+{ "name": "MonsterHunterWilds.exe", "type": "Game" }
+
+# Monster Hunter: World https://store.steampowered.com/app/582010/Monster_Hunter_World/
+{ "name": "MonsterHunterWorld.exe", "type": "Game" }
+
+# Monster Lab Simulator https://store.steampowered.com/app/3994610/Monster_Lab_Simulator/
+{ "name": "Monster Lab Simulator.exe", "type": "Game" }
+
+# Monster Jam™ Showdown https://store.steampowered.com/app/2350280/Monster_Jam_Showdown/
+{ "name": "monsterjam1.exe", "type": "Game" }
+{ "name": "monsterjam1-Win64-Shipping.exe", "type": "Game" }
+
+# Monster Rancher 1 & 2 DX https://store.steampowered.com/app/1716120/Monster_Rancher_1__2_DX/
+{ "name": "MF.exe", "type": "Game" }
+{ "name": "MF2.exe", "type": "Game" }
+
+# Monsters are Coming! Rock & Road https://store.steampowered.com/app/2934220/Monsters_are_Coming_Rock__Road/
+{ "name": "MonstersComing.exe", "type": "Game" }
+
+# Monster Truck Championship https://store.steampowered.com/app/1209360/Monster_Truck_Championship/
+{ "name": "MonsterTruck.exe", "type": "Game" }
+{ "name": "MonsterTruck-Win64-Shipping.exe", "type": "Game" }
+
+# Mordheim: City of the Damned https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/
+{ "name": "mordheim.exe", "type": "Game" }
+
+# Mortal Kombat 1 https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
+{ "name": "MK12.exe", "type": "Game" }
+
+# Mortal Kombat 11 https://store.steampowered.com/app/976310/Mortal_Kombat_11/
+{ "name": "MK11.exe", "type": "Game" }
+{ "name": "MK11_DX12.exe", "type": "Game" }
+
+# Mortal Kombat X https://store.steampowered.com/app/307780/Mortal_Kombat_X/
+{ "name": "MK10.exe", "type": "Game" }
+{ "name": "MKXLauncher.exe", "type": "Game" }
+
+# Mortal Shell https://store.steampowered.com/app/1110910/Mortal_Shell/
+{ "name": "Dungeonhaven-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Dungeonhaven.exe", "type": "Game" }
+
+# MotoGP™13 https://store.steampowered.com/app/240600/MotoGP13/
+{ "name": "MotoGP13.exe", "type": "Game" }
+
+# MotoGP™14 https://store.steampowered.com/app/256390/MotoGP14/
+{ "name": "MotoGP14.exe", "type": "Game" }
+{ "name": "MotoGP14X64.exe", "type": "Game" }
+
+# MotoGP™15 https://store.steampowered.com/app/355130/MotoGP15/
+{ "name": "MotoGP15.exe", "type": "Game" }
+{ "name": "MotoGP15X64.exe", "type": "Game" }
+
+# MotoGP™17 https://store.steampowered.com/app/561610/MotoGP17/
+{ "name": "MotoGP17.exe", "type": "Game" }
+{ "name": "MotoGP17X64.exe", "type": "Game" }
+
+# MotoGP™18 https://store.steampowered.com/app/775900/MotoGP18/
+{ "name": "motogp18.exe", "type": "Game" }
+{ "name": "motogp18-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP™19 https://store.steampowered.com/app/984780/MotoGP19/
+{ "name": "motogp19.exe", "type": "Game" }
+{ "name": "motogp19-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP™20 https://store.steampowered.com/app/1161490/MotoGP20/
+{ "name": "motogp20.exe", "type": "Game" }
+{ "name": "motogp20-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP™21 https://store.steampowered.com/app/1447000/MotoGP21/
+{ "name": "motogp21.exe", "type": "Game" }
+{ "name": "motogp21-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP™22 https://store.steampowered.com/app/1710580/MotoGP22/
+{ "name": "motogp22.exe", "type": "Game" }
+{ "name": "motogp22-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP™23 https://store.steampowered.com/app/2100160/MotoGP23/
+{ "name": "motogp23.exe", "type": "Game" }
+{ "name": "motogp23-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP™24 https://store.steampowered.com/app/2581700/MotoGP24/
+{ "name": "motogp24.exe", "type": "Game" }
+{ "name": "motogp24-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP™25 https://store.steampowered.com/app/3077390/MotoGP25/
+{ "name": "motogp25.exe", "type": "Game" }
+{ "name": "motogp25-Win64-Shipping.exe", "type": "Game" }
+
+# MOTORSLICE Demo https://store.steampowered.com/app/2830030/MOTORSLICE/
+{ "name": "MotorSliceDemo.exe", "type": "Game" }
+{ "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
+
+# Moonlighter 2: The Endless Vault https://store.steampowered.com/app/2350790/Moonlighter_2_The_Endless_Vault/
+{ "name": "Moonlighter 2 The Endless Vault.exe", "type": "Game" }
+
+# Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
+{ "name": "Moonlighter.exe", "type": "Game" }
+
+# Mount & Blade II: Bannerlord - https://www.taleworlds.com/en/Games/Bannerlord
+# Note: All exe's are possible process names depending on how the game was launched.
+# Vanilla Launcher
+{ "name": "TaleWorlds.MountAndBlade.Launcher.exe", "type": "Game" }
+# Vanilla Direct Start
+{ "name": "Bannerlord.exe", "type": "Game" }
+# Vanilla Direct Start Native
+{ "name": "Bannerlord.Native.exe", "type": "Game" }
+# Bannerlord Software Extender - https://github.com/BUTR/Bannerlord.BLSE
+# BLSE Extended Launcher
+{ "name": "Bannerlord.BLSE.LauncherEx.exe", "type": "Game" }
+# BLSE Vanilla Launcher
+{ "name": "Bannerlord.BLSE.Launcher.exe", "type": "Game" }
+# BLSE Direct Start
+{ "name": "Bannerlord.BLSE.Standalone.exe", "type": "Game" }
+
+# Moving Out https://store.steampowered.com/app/996770/Moving_Out/
+{ "name": "MovingOut.exe", "type": "Game" }
+
+# Moving Out 2 https://store.steampowered.com/app/1641700/Moving_Out_2/
+{ "name": "mo2.exe", "type": "Game" }
+
+# Ms. Splosion Man https://store.steampowered.com/app/105420/Ms_Splosion_Man/
+{ "name": "MsSplosionMan.exe", "type": "Game" }
+
+# Mr. DRILLER DrillLand https://store.steampowered.com/app/1126750/Mr_DRILLER_DrillLand/
+{ "name": "DrillLand.exe", "type": "Game" }
+
+# Muck https://store.steampowered.com/app/1625450/Muck/
+{ "name": "Muck.exe", "type": "Game" }
+
+# MUD - FIM Motocross World Championship™ https://store.steampowered.com/app/226780/MUD__FIM_Motocross_World_Championship/
+{ "name": "MUD.exe", "type": "Game" }
+
+# MudRunner https://store.steampowered.com/app/675010/MudRunner/
+{ "name": "MudRunner.exe", "type": "Game" }
+
+# Mugsters https://store.steampowered.com/app/712180/Mugsters/
+{ "name": "Mugsters.exe", "type": "Game" }
+
+# Muse Dash https://store.steampowered.com/app/774171/Muse_Dash/
+{ "name": "MuseDash.exe", "type": "Game" }
+
+# Munchkin Digital https://store.steampowered.com/app/1722860/Munchkin_Digital/
+{ "name": "Munchkin.exe", "type": "Game" }
+
+# MX Bikes https://store.steampowered.com/app/655500/MX_Bikes/
+{ "name": "MxGame2021.exe", "type": "Game" }
+{ "name": "MxGame2021-Win64-Shipping.exe", "type": "Game" }
+
+# MX vs ATV Legends https://store.steampowered.com/app/1205970/MX_vs_ATV_Legends/
+{ "name": "mxbikes.exe", "type": "Game" }
+
+# MXGP2 - The Official Motocross Videogame https://store.steampowered.com/app/400800/MXGP2__The_Official_Motocross_Videogame/
+{ "name": "MXGP_2.exe", "type": "Game" }
+{ "name": "MXGP_2X64.exe", "type": "Game" }
+
+# MXGP3 - The Official Motocross Videogame https://store.steampowered.com/app/561600/MXGP3__The_Official_Motocross_Videogame/
+{ "name": "mxgp3.exe", "type": "Game" }
+{ "name": "mxgp3-Win64-Shipping.exe", "type": "Game" }
+
+# MXGP 2019 - The Official Motocross Videogame https://store.steampowered.com/app/1018160/MXGP_2019__The_Official_Motocross_Videogame/
+{ "name": "mxgp5.exe", "type": "Game" }
+{ "name": "mxgp5-Win64-Shipping.exe", "type": "Game" }
+
+# MXGP 2020 - The Official Motocross Videogame https://store.steampowered.com/app/1259800/MXGP_2020__The_Official_Motocross_Videogame/
+{ "name": "mxgp6.exe", "type": "Game" }
+{ "name": "mxgp6-Win64-Shipping.exe", "type": "Game" }
+
+# MXGP 2021 - The Official Motocross Videogame https://store.steampowered.com/app/1610470/MXGP_2021__The_Official_Motocross_Videogame/
+{ "name": "mxgp7.exe", "type": "Game" }
+{ "name": "mxgp7-Win64-Shipping.exe", "type": "Game" }
+
+# MXGP PRO https://store.steampowered.com/app/798290/MXGP_PRO/
+{ "name": "mxgp4.exe", "type": "Game" }
+{ "name": "mxgp4-Win64-Shipping.exe", "type": "Game" }
+
+# MXGP - The Official Motocross Videogame https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/
+# MXGP 24: The Official Game https://store.steampowered.com/app/2603040/MXGP_24_The_Official_Game/
+{ "name": "MXGP.exe", "type": "Game" }
+
+# My Friend Pedro https://store.steampowered.com/app/557340/My_Friend_Pedro/
+{ "name": "My Friend Pedro - Blood Bullets Bananas.exe", "type": "Game" }
+
+# MY HERO ACADEMIA: All’s Justice https://store.steampowered.com/app/2362050/MY_HERO_ACADEMIA_Alls_Justice/
+{ "name": "AJGAME.exe", "type": "Game" }
+
+# MY HERO ULTRA RUMBLE https://store.steampowered.com/app/1607250/MY_HERO_ULTRA_RUMBLE/
+{ "name": "MHUR.exe", "type": "Game" }
+
+# MY HERO ONE'S JUSTICE https://store.steampowered.com/app/748360/MY_HERO_ONES_JUSTICE/
+{ "name": "MHOJ.exe", "type": "Game" }
+
+# MY HERO ONE'S JUSTICE 2 https://store.steampowered.com/app/1058450/MY_HERO_ONES_JUSTICE_2/
+{ "name": "MHOJ2.exe", "type": "Game" }
+
+# MySims™ https://store.steampowered.com/app/3328900/MySims/
+{ "name": "MySims.exe", "type": "Game" }
+
+# MySims™ Kingdom https://store.steampowered.com/app/3328910/MySims_Kingdom/
+{ "name": "MySimsKingdom.exe", "type": "Game" }
+
+# My Singing Monsters https://store.steampowered.com/app/1419170/My_Singing_Monsters/
+{ "name": "MySingingMonsters.exe", "type": "Game" }
+
+# My Summer Car https://store.steampowered.com/app/516750/My_Summer_Car/
+{ "name": "mysummercar.exe", "type": "Game" }
+
+# My Time at Portia https://store.steampowered.com/app/666140/My_Time_at_Portia/
+{ "name": "Portia.exe", "type": "Game" }
+
+# My Time at Sandrock https://store.steampowered.com/app/1084600/My_Time_at_Sandrock/
+{ "name": "SandrockMultiPlayer.exe", "type": "Game" }
+{ "name": "Sandrock.exe", "type": "Game" }
+
+# MyVoiceZoo https://store.steampowered.com/app/4015530/MyVoiceZoo/
+{ "name": "MyVoiceZoo.exe", "type": "Game" }
+
+# My Winter Car https://store.steampowered.com/app/4164420/My_Winter_Car/
+{ "name": "mywintercar.exe", "type": "Game" }

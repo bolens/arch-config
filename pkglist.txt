@@ -96,6 +96,7 @@ anti-xss
 antigravity
 antiransom
 anubis-netsec
+anyrun-git
 anytype-bin
 apache-users
 apachetomcatscanner
@@ -602,6 +603,7 @@ cpp-httplib
 cpp-jwt
 cpp2il
 cpptest
+cpufetch
 cpupower
 cr3dov3r
 crabstick
@@ -769,6 +771,7 @@ discord
 discord-rpc
 disitool
 disk-benchmark
+diskonaut
 dislocker
 dissector
 dizzy
@@ -1667,6 +1670,7 @@ jooforce
 joomlascan
 joomlavs
 joomscan
+jp2a
 jpegdump
 jpexs-decompiler
 jsearch
@@ -2133,6 +2137,7 @@ lzdoom
 m3-gen
 m64py-git
 mac-robber
+macchina
 machinae
 maclookup
 mage

@@ -1,0 +1,40 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### I ###
+
+# Icewind Dale: Enhanced Edition  https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
+{ "name": "IcewindDale", "type": "Game" }
+
+# Indivisible https://store.steampowered.com/app/421170/Indivisible/
+{ "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
+
+# Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
+{ "name": "fcengine-bin32", "type": "Game" }
+
+# Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
+{ "name": "Insider_Trading.x86_64", "type": "Game" }
+
+# Insurgency https://store.steampowered.com/app/222880/Insurgency/
+{ "name": "insurgency_linux", "type": "Game" }
+
+# Imperator: Rome https://www.paradoxinteractive.com/games/imperator-rome
+{ "name": "imperator", "type": "Game" }
+
+# Ion Fury https://store.steampowered.com/app/562860/Ion_Fury/
+{ "name": "fury.bin", "type": "Game" }
+
+# ioquake3: https://ioquake3.org/
+{ "name": "ioquake3", "type": "Game" }
+{ "name": "quake3", "type": "Game" }
+
+# Iortcw : Merge of ioquake3 features and fixes into RTCW code bases https://github.com/iortcw/iortcw
+{ "name": "iortcw-mp", "type": "Game" }
+{ "name": "iortcw-sp", "type": "Game" }
+{ "name": "iowolfmp.x86_64", "type": "Game" }
+{ "name": "iowolfsp.x86_64", "type": "Game" }
+
+# Ironwail: High-performance QuakeSpasm fork https://github.com/andrei-drexler/ironwail
+{ "name": "ironwail", "type": "Game" }

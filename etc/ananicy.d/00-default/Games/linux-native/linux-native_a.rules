@@ -1,0 +1,61 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### A ###
+
+# A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
+{ "name": "A Game About Feeding A Black Hole.x86_64", "type": "Game" }
+
+# AdVenture Capitalist https://store.steampowered.com/app/346900/AdVenture_Capitalist/
+{ "name": "adventure-capitalist.x86_64", "type": "Game" }
+{ "name": "adventure-capitalist.x86", "type": "Game" }
+
+# aleph one: https://alephone.lhowon.org/
+{ "name": "alephone", "type": "Game" }
+
+# Air Brawl https://store.steampowered.com/app/375600/Air_Brawl/
+{ "name": "Air Brawl.x86", "type": "Game" }
+
+# Alien Isolation https://store.steampowered.com/app/214490/Alien_Isolation/
+{ "name": "AlienIsolation", "type": "Game" }
+
+# All Quiet in the Trenches https://store.steampowered.com/app/863500/All_Quiet_in_the_Trenches/
+{ "name": "All Quiet in the Trenches.x86_64", "type": "Game" }
+
+# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
+{ "name": "amtrucks", "type": "Game" }
+
+# Amnesia: Rebirth https://store.steampowered.com/app/999220/Amnesia_Rebirth/
+{ "name": "Amnesia2.bin.x86_64", "type": "Game" }
+{ "name": "Amnesia2_NoSteam.bin.x86_64", "type": "Game" }
+
+# Amnesia: The Dark Descent https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
+{ "name": "Amnesia.bin.x86_64", "type": "Game" }
+{ "name": "Amnesia.bin.x86_64", "type": "Game" }
+{ "name": "Amnesia_NOSTEAM.bin.x86", "type": "Game" }
+{ "name": "Amnesia_NOSTEAM.bin.x86_64", "type": "Game" }
+
+# Another World – 20th Anniversary Edition https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
+{ "name": "AnotherWorld-amd64", "type": "Game" }
+
+# Aperture Desk Job https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
+{ "name": "deskjob", "type": "Game" }
+
+# ARMED SEVEN https://store.steampowered.com/app/349690/ARMED_SEVEN/
+{ "name": "ArmedSeven.x86", "type": "Game" }
+
+# AssaultCube https://assault.cubers.net
+{ "name": "linux_64_client", "type": "Game" }
+
+# A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
+{ "name": "ThronesOfBritannia", "type": "Game" }
+{ "name": "ThronesOfBritannia.sh", "type": "Game" }
+
+# Audiosurf 2 https://store.steampowered.com/app/235800/Audiosurf_2/
+{ "name": "Audiosurf2.x86_64", "type": "Game" }
+
+# Axiom Verge https://store.steampowered.com/app/332200/Axiom_Verge/
+{ "name": "AxiomVerge.bin.x86", "type": "Game" }
+{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }

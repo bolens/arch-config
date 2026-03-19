@@ -1,0 +1,50 @@
+# Konsole
+{ "name": "konsole", "type": "Doc-View" }
+{ "name": "yakuake", "type": "Doc-View" }
+
+# simple terminal (https://st.suckless.org/)
+{ "name": "st", "type": "Doc-View" }
+
+# alacritty terminal (https://github.com/alacritty/alacritty)
+{ "name": "alacritty", "type": "Doc-View" }
+
+# kitty: https://sw.kovidgoyal.net/kitty/
+{ "name": "kitty", "type": "Doc-View" }
+
+# hyper
+{ "name": "hyper", "type": "Doc-View" }
+
+# Mosh
+{ "name": "mosh", "type": "Doc-View" }
+
+# foot
+{ "name": "foot", "type": "Doc-View" }
+{ "name": "footclient", "type": "Doc-View" }
+
+# Gnome terminal
+{ "name": "gnome-terminal-server", "type": "Doc-View" }
+
+# urxvt 
+{ "name": "urxvt", "type": "Doc-View" }
+{ "name": "urxvtc", "type": "Doc-View" }
+{ "name": "urxvtd", "type": "Doc-View" }
+{ "name": "urxvt-tabbed", "type": "Doc-View" }
+
+# wayst: https://github.com/91861/wayst
+{ "name": "wayst", "type": "Doc-View" }
+
+# wezterm
+{ "name": "wezterm-gui", "type": "Doc-View" }
+
+# ghostty
+{ "name": "ghostty", "type": "Doc-View" }
+
+# rio
+{ "name": "rio", "type": "Doc-View" }
+
+# ptyxis
+{ "name": "ptyxis", "type": "Doc-View" }
+{ "name": "ptyxis-agent", "type": "Doc-View" }
+
+# COSMIC terminal
+{ "name": "cosmic-term", "type": "Doc-View" }
