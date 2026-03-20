@@ -56,7 +56,6 @@ akonadi-calendar-tools
 akonadi-import-wizard
 akonadiconsole
 akregator
-alacritty
 albatar
 alligator
 allthevhosts
@@ -96,7 +95,7 @@ anti-xss
 antigravity
 antiransom
 anubis-netsec
-anyrun-git
+anyrun
 anytype-bin
 apache-users
 apachetomcatscanner
@@ -1286,7 +1285,6 @@ goshs
 gosint
 gospider
 gostringsr2
-gotop
 gowitness
 goxlr-utility
 gpac
@@ -1465,7 +1463,6 @@ hqlmap
 hsecscan
 htcap
 htexploit
-htop
 htpwdscan
 htrosbif
 htshells
@@ -1814,7 +1811,6 @@ kismon
 kitemviews
 kiten
 kiterunner
-kitty
 kitty-framework
 kiwix-desktop
 kiwix-tools
@@ -3643,7 +3639,6 @@ sysinternals-suite
 system-config-printer
 systemd-language-server
 t50
-tabby-bin
 tabi
 tabletop-club-bin
 tachyon-scanner
