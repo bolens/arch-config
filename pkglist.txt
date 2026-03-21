@@ -1658,6 +1658,7 @@ jira-scan
 jmcomic-downloader-bin
 jndi-injection-exploit
 jnetmap
+jocalsend
 john
 johnny
 jok3r
