@@ -1,6 +1,7 @@
 0ad
 0d1n
 0trace
+3cpio
 3proxy
 3proxy-win32
 42zip
@@ -347,6 +348,7 @@ brave-nightly-bin
 breeze-icons-git
 bridge-utils
 bridgekeeper
+brltty-udev-generic
 brosec
 browselist
 browser-fuzzer
@@ -860,6 +862,7 @@ dpscan
 dr-checker
 dr0p1t-framework
 dracnmap
+dracut-brltty
 dradis-ce
 dragon
 dragon-backdoor
@@ -1633,6 +1636,7 @@ jackdaw
 jaeles
 jaidam
 jast
+java-brltty
 javasnoop
 jbe
 jboss-autopwn
@@ -2503,6 +2507,7 @@ obfs4proxy
 objdump2shellcode
 objection
 obsidian
+ocaml-brltty
 oclhashcat
 ocs
 octopi
@@ -2744,6 +2749,7 @@ phrasendrescher
 picard
 picmi
 pidense
+pigz
 pillager
 pim-data-exporter
 pim-sieve-editor
@@ -2934,6 +2940,7 @@ pytbull
 pythem
 python
 python-api-dnsdumpster
+python-brltty
 python-cymruwhois
 python-dateparser
 python-defusedxml
@@ -3123,6 +3130,7 @@ rita
 riwifshell
 rlogin-scanner
 rmiscout
+rng-tools
 roadlib
 roadoidc
 roadrecon
@@ -3658,6 +3666,7 @@ tbear
 tbtools
 tcgetkey
 tchunt-ng
+tcl-brltty
 tcpcontrol-fuzzer
 tcpcopy
 tcpdstat
@@ -3762,6 +3771,7 @@ torrent7z
 torshammer
 tpcat
 tplmap
+tpm2-tools
 traefik
 trape
 traxss

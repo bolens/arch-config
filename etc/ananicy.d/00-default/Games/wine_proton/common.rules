@@ -5,6 +5,7 @@
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
 { "name": "player.exe", "type": "Game" }
 
+# CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # BLACK SOULS II https://store.steampowered.com/app/3855540/BLACK_SOULS_II/
 # BLACK SOULS https://store.steampowered.com/app/3755860/BLACK_SOULS/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
@@ -13,6 +14,8 @@
 # Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
 { "name": "Game.exe", "type": "Game" }
 
+# Dragon Cliff https://store.steampowered.com/app/758190/Dragon_Cliff/
+# Fish Idle 2: Underwater Mystery https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/
 # Castlevania Anniversary Collection https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 # Bloodstained: Curse of the Moon 2 https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
 # Persona® 5 Strikers https://store.steampowered.com/app/1382330/Persona_5_Strikers/
@@ -21,7 +24,13 @@
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
+# Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
+# Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Launcher.exe", "type": "Game" }
+
+# CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
+# A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
+{ "name": "launcher.exe", "type": "Game" }
 
 # Guild Wars® Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
 # GUNTOUCHABLES https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
@@ -51,6 +60,40 @@
 { "name": "Ride-Win64-Shipping.exe", "type": "Game" }
 { "name": "RideX64.exe", "type": "Game" }
 
+# Grand Theft Auto IV: The Complete Edition https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
+# Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
+{ "name": "PlayGTAV.exe", "type": "Game" }
+
+# ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
+# PAC-MAN™ Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
+{ "name": "PAC-MAN.exe", "type": "Game" }
+
+# Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
+# Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
+# Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
+{ "name": "dowser.exe", "type": "BG_CPUIO" }
+
+# Baldur's Gate Store page is down https://store.steampowered.com/app/22828
+# Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
+# Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
+{ "name": "Baldur.exe", "type": "Game" }
+
+# Call to Arms https://store.steampowered.com/app/302670/Call_to_Arms/
+# Call to Arms - Gates of Hell: Ostfront https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
+{ "name": "call_to_arms.exe", "type": "Game" }
+{ "name": "call_to_arms_ed.exe", "type": "Game" }
+{ "name": "call_to_arms_server.exe", "type": "Game" }
+
+# DRAGON BALL XENOVERSE 2 https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
+# FREEDOM WARS Remastered https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
+{ "name": "START.exe", "type": "Game" }
+
+# Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
+{ "name": "SteamWorksExample.exe", "type": "Service" }
+
+# Call of Duty Launcher
+{ "name": "bootstrapper.exe", "type": "BG_CPUIO" }
+
 # Some KOEI TECMO Franchise's Game's
 { "name": "Launch.exe", "type": "Game" }
 { "name": "Launch_EA.exe", "type": "Game" }
@@ -60,30 +103,37 @@
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 { "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
 { "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "CrashLogsGenerator.exe", "type": "BG_CPUIO" }
+{ "name": "codCrashHandler.exe", "type": "BG_CPUIO" }
+{ "name": "bootstrapperCrashHandler.exe", "type": "BG_CPUIO" }
 
 # Anti-cheat clients
-{ "name": "start_protected_game.exe", "type": "Game" }
-{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+{ "name": "start_protected_game.exe", "type": "BG_CPUIO" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "BG_CPUIO" }
+{ "name": "EAAntiCheat.GameServiceLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "BEService_x64.exe", "type": "BG_CPUIO" }
+{ "name": "SGuard64.exe", "type": "BG_CPUIO" }
 
 # Web helper processes
-{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
+{ "name": "UnrealCEFSubProcess.exe", "type": "BG_CPUIO" }
 { "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
 { "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
-{ "name": "ZFGameBrowser.exe", "type": "Game" }
-{ "name": "CoherentUI_Host.exe", "type": "Game" }
-{ "name": "awesomium_process.exe", "type": "Game" }
+{ "name": "ZFGameBrowser.exe", "type": "BG_CPUIO" }
+{ "name": "CoherentUI_Host.exe", "type": "BG_CPUIO" }
+{ "name": "awesomium_process.exe", "type": "BG_CPUIO" }
+{ "name": "EOSBootstrapper.exe", "type": "BG_CPUIO" }
 
 # Background video player helper processes
-{ "name": "CCVideoPlayer.exe", "type": "Game" }
-{ "name": "MLiveCCPlayerApp.exe", "type": "Game" }
-{ "name": "CCMini.exe", "type": "Game" }
+{ "name": "CCVideoPlayer.exe", "type": "BG_CPUIO" }
+{ "name": "MLiveCCPlayerApp.exe", "type": "BG_CPUIO" }
+{ "name": "CCMini.exe", "type": "BG_CPUIO" }
 
 # Redistributables
-{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
-{ "name": "DXSETUP.exe", "type": "Game" }
-{ "name": "D3D11Install.exe", "type": "Game" }
-{ "name": "vcredist_x64.exe", "type": "Game" }
-{ "name": "vcredist_x86.exe", "type": "Game" }
-{ "name": "VC_redist.x64.exe", "type": "Game" }
-{ "name": "VC_redist.x86.exe", "type": "Game" }
-{ "name": "Touchup.exe", "type": "Game" }
+{ "name": "UEPrereqSetup_x64.exe", "type": "BG_CPUIO" }
+{ "name": "DXSETUP.exe", "type": "BG_CPUIO" }
+{ "name": "D3D11Install.exe", "type": "BG_CPUIO" }
+{ "name": "vcredist_x64.exe", "type": "BG_CPUIO" }
+{ "name": "vcredist_x86.exe", "type": "BG_CPUIO" }
+{ "name": "VC_redist.x64.exe", "type": "BG_CPUIO" }
+{ "name": "VC_redist.x86.exe", "type": "BG_CPUIO" }
+{ "name": "Touchup.exe", "type": "BG_CPUIO" }
