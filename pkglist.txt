@@ -718,7 +718,6 @@ decodify
 deemix-git
 deen
 deepce
-deepin-community-wallpapers
 deepin-wallpapers
 deezer-downloader
 delldrac
