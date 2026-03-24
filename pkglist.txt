@@ -2710,6 +2710,7 @@ pentestly
 pentmenu
 pepe
 pepper
+performous
 periscope
 perl
 persistencesniper
@@ -3427,8 +3428,6 @@ sn1per
 snallygaster
 snapception
 snapper
-snapx
-snapx-ui
 snare
 snarf-mitm
 snes9x-git
@@ -3887,6 +3886,7 @@ ufw
 uhoh365
 ukui-wallpapers
 ultimate-facebook-scraper
+ultrastardx-git
 umap
 umbrello
 umit
