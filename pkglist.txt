@@ -912,7 +912,6 @@ eaphammer
 eapmd5pass
 easy-creds
 easyda
-easyeffects
 easyfuzzer
 eazy
 ecfs
@@ -1047,7 +1046,7 @@ fernflower
 fernmelder
 feroxbuster
 fetchcord
-ffdec
+ffdec-git
 ffm
 ffmpegthumbnailer
 ffmpegthumbs
@@ -2488,8 +2487,7 @@ nullinux
 nullscan
 nut
 nvidia-container-toolkit
-nvidia-settings
-nvidia-utils
+nvidia-settings-beta
 nvtop
 nx-udev
 nxcrypt
@@ -3174,7 +3172,6 @@ rtl8814au-dkms-git
 rtlamr
 rtlizer
 rtlsdr-scanner
-rtorrent
 rtp-flood
 rtpbreak
 rubilyn
