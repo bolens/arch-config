@@ -1520,6 +1520,7 @@ hypruler
 hyprwallhaven-git
 hyprwave-hifi
 hyprwhspr
+i2p
 i2pd-git
 ia-get-bin
 iaxflood
@@ -2073,6 +2074,7 @@ linkedint
 linkfinder
 links
 linset
+linutil
 linux-cachyos
 linux-cachyos-headers
 linux-cachyos-lts
