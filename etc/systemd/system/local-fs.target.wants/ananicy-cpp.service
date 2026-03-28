@@ -1,11 +1,10 @@
 [Unit]
 Description=Ananicy-Cpp - ANother Auto NICe daemon in C++
 After=local-fs.target
-StartLimitIntervalSec=0
-StartLimitBurst=10
+StartLimitIntervalSec=60
+StartLimitBurst=5
 
 [Service]
-Type=simple
 ExecStart=/usr/bin/ananicy-cpp start
 ExecReload=/usr/bin/ananicy-cpp --reload
 Nice=-5
@@ -13,50 +12,47 @@ SuccessExitStatus=143
 OOMScoreAdjust=-999
 Restart=always
 RestartSec=10
-CPUAccounting=true
 MemoryHigh=16M
 MemoryMax=64M
 
 # Hardening
-ProtectSystem=true
-ProtectHome=true
+ProtectSystem=full
+ProtectHome=yes
 PrivateTmp=yes
-PrivateDevices=true
-ProtectClock=true
-ProtectKernelLogs=true
-ProtectKernelModules=true
-ProtectKernelTunables=true
+PrivateDevices=yes
+ProtectClock=yes
+ProtectKernelLogs=yes
+ProtectKernelModules=yes
+ProtectKernelTunables=yes
 
-CapabilityBoundingSet=~CAP_SYS_PTRACE CAP_CHOWN CAP_FSETID CAP_SETFCAP CAP_SETUID CAP_SETGID CAP_SETPCAP
+CapabilityBoundingSet=CAP_SYS_NICE CAP_SYS_RESOURCE CAP_DAC_READ_SEARCH CAP_SYS_ADMIN CAP_DAC_OVERRIDE
 ProcSubset=pid
 RestrictAddressFamilies=AF_UNIX AF_NETLINK
-NoNewPrivileges=true
+NoNewPrivileges=yes
 
-RestrictSUIDSGID=true
+RestrictSUIDSGID=yes
 RestrictNamespaces=cgroup
-ProtectHostname=true
-LockPersonality=true
-MemoryDenyWriteExecute=true
+ProtectHostname=yes
+LockPersonality=yes
+MemoryDenyWriteExecute=yes
 
-# Filter system calls to those absolutely requrired for correct functioning.
+# Filter system calls to those absolutely required for correct functioning.
 #SystemCallErrorNumber=EPERM
 #SystemCallFilter=@system-service
 #SystemCallFilter=~@debug @module @mount @reboot @swap @clock @obsolete @cpu-emulation
 
-
 # Required to see other processes
-PrivateUsers=false
+PrivateUsers=no
 ProtectProc=default
 
 # Required for the process-listener socket to work
-PrivateNetwork=false
-
+PrivateNetwork=no
 
 # Required for control groups (obviously)
-ProtectControlGroups=false
+ProtectControlGroups=no
 
 # Required for future use.
-RestrictRealtime=false
+RestrictRealtime=no
 
 [Install]
-WantedBy=local-fs.target
+WantedBy=multi-user.target

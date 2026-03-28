@@ -2389,6 +2389,7 @@ net-tools
 netactview
 netattack
 netbios-share-scanner
+netbird-bin
 netbus
 netcommander
 netcon
@@ -4266,6 +4267,7 @@ zen-twilight-bin
 zenith
 zeratool
 zeronet-git
+zerotier-one
 zerowine
 zeus
 zeus-scanner
