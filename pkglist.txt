@@ -195,7 +195,6 @@ aws-extender-cli
 aws-iam-privesc
 aws-inventory
 awsbucketdump
-azahar-git
 azazel
 aztarna
 backcookie
@@ -637,6 +636,7 @@ crunch
 crunchy-cli
 crypthook
 cryptohazemultiforcer
+cryptomator-bin
 cryptonark
 cryptsetup
 csdr
@@ -1395,6 +1395,7 @@ hate-crack
 haveibeenpwned-downloader-git
 havn
 havoc-c2
+havoc-git
 haystack
 hbad
 hblock
@@ -1538,6 +1539,7 @@ idswakeup
 ifchk
 iftop
 ifuzz
+ignorant-git
 igscraper
 iheartxor
 iis-shortname-scanner
@@ -2003,6 +2005,7 @@ libosmocore
 libparistraceroute
 libredefender
 libreoffice-fresh
+libretro-azahar
 libretro-beetle-ngp-git
 libretro-beetle-pce
 libretro-beetle-pce-fast
@@ -3006,7 +3009,9 @@ qrgen
 qrljacker
 qsreplace
 qsv
+qtforkawesome
 qtox-toktok
+qtutilities
 quake4
 quakespasm-git
 quakespasm-spiked-git
@@ -3634,7 +3639,6 @@ syborg
 sylkie
 syms2elf
 syncthing-git
-syncthingtray-git
 syndication
 synflood
 synner
