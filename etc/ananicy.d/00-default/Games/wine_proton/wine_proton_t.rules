@@ -118,6 +118,9 @@
 # Terraria https://store.steampowered.com/app/105600/Terraria/
 { "name": "Terraria", "type": "Game" }
 
+# TerraTech https://store.steampowered.com/app/285920/TerraTech/
+{ "name" : "TerraTechWin64.exe", "type": "Game" }
+
 # Test Drive Unlimited Solar Crown https://store.steampowered.com/app/1249970/Test_Drive_Unlimited_Solar_Crown/
 { "name": "TDUSC.exe", "type": "Game" }
 
@@ -154,6 +157,9 @@
 
 # this is from open beta test, beware https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
 { "name": "TL.exe", "type": "Game" }
+
+# This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
+{ "name": "This War of Mine.exe", "type": "Game" }
 
 # Thronefall https://store.steampowered.com/app/2239150/Thronefall/
 { "name": "Thronefall.exe", "type": "Game" }
