@@ -80,6 +80,7 @@ android-apktool
 android-ndk
 android-sdk
 android-udev-rules
+androidmeda
 androidpincrack
 androidsniffer
 androwarn
@@ -126,6 +127,7 @@ archlinux-wallpaper
 archlinuxcn-keyring
 ardour
 arduino-language-server
+ares
 ares-emu-git
 argus
 argus-clients
@@ -146,7 +148,6 @@ arpwner
 artikulate
 artillery
 artlas
-arybo
 asciiquarium
 asleap
 asn
@@ -197,6 +198,7 @@ aws-inventory
 awsbucketdump
 azazel
 aztarna
+azurehound
 backcookie
 backdoor-apk
 backdoor-factory
@@ -244,6 +246,7 @@ beets
 beholder
 belati
 beleth
+berate_ap
 beroot
 betterbird-bin
 bettercap-ui
@@ -1623,7 +1626,7 @@ ipmipwn
 ipobfuscator
 ipscan
 ipsourcebypass
-iptables-nft
+iptables
 iptodomain
 iptv
 ipv4bypass
@@ -1662,6 +1665,7 @@ jd-cli
 jd-gui
 jdeserialize
 jdownloader2
+jdwp-knife
 jeangrey
 jeb-android
 jeb-arm
@@ -2628,7 +2632,6 @@ osi.ig
 osint-spy
 osinterator
 osintgram
-osrframework
 osslsigncode
 ostinato
 osueta
@@ -2906,6 +2909,7 @@ profile-sync-daemon
 profuzz
 prometheus-firewall
 promiscdetect
+promptfoo
 protobuf-language-server
 proton-cachyos
 proton-ge-custom-bin
@@ -2959,6 +2963,7 @@ pwnedornot
 pwnedpasswords
 pwnloris
 pwvucontrol
+pyadrecon
 pyaxmlparser
 pybozocrack
 pycharm
@@ -3784,6 +3789,7 @@ timeverter
 tinfoleak
 tinfoleak2
 tinja
+titus
 tixati
 tls-attacker
 tls-fingerprinting
@@ -3974,6 +3980,7 @@ usb-canary
 usb_modeswitch
 usbrip
 usbutils
+user-scanner
 username-anarchy
 usernamer
 userrecon
