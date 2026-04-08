@@ -1,6 +1,3 @@
-# done plugin configuration
-set -gx __done_min_cmd_duration 10000
-set -gx __done_notification_urgency_level low
 # MIT License
 
 # Copyright (c) 2016 Francisco Lourenço & Daniel Wehner

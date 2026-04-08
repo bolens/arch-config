@@ -274,6 +274,7 @@ bios_memimage
 birp
 bitchat-tui
 bitdump
+bitnet-git
 bittwist
 bitwarden
 bitwarden-cli
@@ -355,6 +356,7 @@ brosec
 browselist
 browser-fuzzer
 browsh
+brush
 brute-force
 brute12
 bruteforce-luks
@@ -580,24 +582,6 @@ cookie-cadger
 corscanner
 corstest
 corsy
-cosmic-app-library
-cosmic-bg
-cosmic-comp
-cosmic-ext-forecast-git
-cosmic-ext-tweaks-git
-cosmic-files
-cosmic-icon-theme
-cosmic-notifications
-cosmic-osd
-cosmic-player
-cosmic-randr
-cosmic-screenshot
-cosmic-settings-daemon
-cosmic-store
-cosmic-terminal
-cosmic-text-editor
-cosmic-wallpapers-git
-cosmic-workspaces
 cottontail
 country-ip-blocks
 cowpatty
@@ -692,6 +676,7 @@ darkscrape
 darkspiritz
 dart-sass
 dartium
+dash
 datagrip
 datagrip-jre
 datajackproxy
@@ -899,6 +884,7 @@ dumpacl
 dumpsmbshare
 dumpusers
 dumpzilla
+dunesh
 duplicity
 duplicut
 dust
@@ -940,6 +926,7 @@ elfparser
 elidecode
 elisa
 elite-proxy-finder
+elvish
 email2phonenumber
 ember-language-server
 emldump
@@ -1218,6 +1205,7 @@ ghostty
 ghostwriter
 ghunt
 gibberish-detector
+gifski
 gimp-devel
 girsh
 giskismet
@@ -1345,6 +1333,7 @@ gtfoblookup
 gtk2-perl
 gtp-scan
 gufw
+gum
 gutenprint
 guymager
 gwcheck
@@ -1681,6 +1670,7 @@ jira-scan
 jmcomic-downloader-bin
 jndi-injection-exploit
 jnetmap
+jo
 jocalsend
 john
 johnny
@@ -1697,6 +1687,7 @@ jpexs-decompiler
 jsearch
 jsfuck
 jshell
+jshon
 jsonbee
 jsonnet-language-server
 jsparser
@@ -1722,6 +1713,7 @@ k9s
 kacak
 kaddressbook
 kadimus
+kaffeine
 kajongg
 kalarm
 kalgebra
@@ -1747,6 +1739,7 @@ katsnoop
 kauth
 kautilya
 kbackup
+kbibtex
 kblackbox
 kblocks
 kbookmarks
@@ -1793,6 +1786,7 @@ kerbcrack
 kerberoast
 kerbrute
 kernelpop
+kew
 keychain
 keye
 keysmith
@@ -1800,6 +1794,7 @@ kfind
 kfourinline
 kgamma
 kgeography
+kgeotag
 kget
 kglobalaccel
 kgoldrunner
@@ -1810,6 +1805,7 @@ kh2hc
 khangman
 khc
 khelpcenter
+ki18n
 kicad
 kicad-library
 kicad-library-3d
@@ -1817,6 +1813,7 @@ kickthemout
 kiconthemes
 kig
 kigo
+kile
 killbots
 killcast
 killerbee
@@ -1845,6 +1842,7 @@ klar
 klee
 kleopatra
 klettres
+klevernotes
 klickety
 klines
 klogger
@@ -1894,6 +1892,8 @@ kolkata
 kollision
 kolourpaint
 komikku
+kommit
+komodo
 komorebi
 kompare
 kompose
@@ -1909,19 +1909,23 @@ kotlin-language-server
 kpackage
 kparts
 kpat
+kproperty
 kraken
 krbjack
 krbrelayx
 krdc
 krecorder
+kreport
 kretro
 kreversi
 krfb
 krita
+kronometer
 kronos
 kruler
 kscan
 kservice
+ksh
 kshisen
 ksirk
 ksnakeduel
@@ -1943,10 +1947,13 @@ kubestriker
 kubo
 kubolt
 kubrick
+kuickshow
+kup
 kuserfeedback
 kwallet
 kwalletmanager
 kwave
+kwayland-integration
 kweather
 kwetza
 kwidgetsaddons
@@ -2536,6 +2543,7 @@ nuclei
 nuclei-templates
 nullinux
 nullscan
+nushell
 nut
 nvidia-container-toolkit
 nvidia-settings-beta
@@ -2580,6 +2588,7 @@ onioff
 oniongrok
 onionscan
 onionsearch
+onnxruntime-opt-cuda
 open-supaplex
 openai-codex
 openarena
@@ -2696,6 +2705,7 @@ parsec-bin
 parsero
 partitionmanager
 paru
+parui
 pasco
 pascube
 pass
@@ -2815,8 +2825,16 @@ pipal
 pipeline
 piper
 pipewire-alsa
+pipewire-docs
+pipewire-ffado
 pipewire-libcamera
+pipewire-onnx
 pipewire-pulse
+pipewire-roc
+pipewire-session-manager
+pipewire-v4l2
+pipewire-x11-bell
+pipewire-zeroconf
 pirana
 pivotsuite
 pix
@@ -2834,6 +2852,7 @@ plasma-keyboard
 plasma-login-manager
 plasma-meta
 plasma-pass
+plasma-x11-session
 plasmatube
 platypus
 playdate-sdk
@@ -2851,6 +2870,7 @@ pmapper
 pmcma
 pmdump
 pngcheck
+pngquant
 pnscan
 pocsuite
 poddl-git
@@ -2991,6 +3011,8 @@ pythem
 python
 python-api-dnsdumpster
 python-brltty
+python-cuda
+python-customtkinter
 python-cymruwhois
 python-dateparser
 python-defusedxml
@@ -3013,9 +3035,12 @@ python-pipx
 python-polars
 python-pyfuse3
 python-pyqt5
+python-pytorch-opt-cuda
 python-reportlab
 python-search-engine-parser
 python-ssh-mitm
+python-tensorflow-opt-cuda
+python-torchvision-cuda
 python-trackerjacker
 python-uncompyle6
 python-witnessme
@@ -3369,6 +3394,7 @@ shellnoob
 shellpop
 shellsploit-framework
 shellter
+shelly
 shellz
 sherlock
 sherlocked
@@ -4078,6 +4104,7 @@ waybackpack
 waybackurls
 waybar
 waydroid
+wayland-docs
 waymore
 waypaper
 wayparam
@@ -4099,6 +4126,7 @@ webhandler
 webhunter
 webkiller
 webpwn3r
+webrtc-audio-processing
 webrute
 webscarab
 websearch
@@ -4225,7 +4253,6 @@ xcat
 xcavator
 xcname
 xdcc-git
-xdg-desktop-portal-cosmic
 xdg-desktop-portal-hyprland
 xdg-user-dirs
 xdman
@@ -4239,7 +4266,7 @@ xfsprogs
 xl2tpd
 xmap-git
 xmlrpc-bruteforcer
-xonsh-git
+xonsh
 xorbruteforcer
 xorg-xwayland
 xorg-xwininfo
