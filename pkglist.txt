@@ -1038,6 +1038,7 @@ feroxbuster
 fetchcord
 ffdec-git
 ffm
+ffmpeg-cuda-full
 ffmpegthumbnailer
 ffmpegthumbs
 ffuf
@@ -1082,7 +1083,6 @@ fl0p
 flare
 flare-floss
 flashlight
-flashpoint-launcher-bin
 flashscanner
 flashsploit
 flask-session-cookie-manager2
