@@ -1161,7 +1161,7 @@ fwupd
 g72x++
 gadgetinspector
 gadgettojscript
-gallery-dl-git
+gallery-dl
 galleta
 game-cheetah
 garak
@@ -3042,6 +3042,7 @@ python-ssh-mitm
 python-tensorflow-opt-cuda
 python-torchvision-cuda
 python-trackerjacker
+python-truststore
 python-uncompyle6
 python-witnessme
 python-yara-python-dex
