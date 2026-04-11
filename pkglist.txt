@@ -526,11 +526,11 @@ classyshark
 claude-code
 cleverhans
 climber
-clion
-clion-cmake
-clion-gdb
-clion-jre
-clion-lldb
+clion-eap
+clion-eap-cmake
+clion-eap-gdb
+clion-eap-jre
+clion-eap-lldb
 cliphist
 cloakify
 clonehero
@@ -677,8 +677,8 @@ darkspiritz
 dart-sass
 dartium
 dash
-datagrip
-datagrip-jre
+datagrip-eap
+datagrip-eap-jre
 datajackproxy
 dataspell
 dataspell-jre
@@ -810,6 +810,7 @@ docem
 docker
 docker-compose
 docker-language-server
+docker-machine
 dockerscan
 dog
 dolphin
@@ -1249,8 +1250,8 @@ go-windapsearch
 gobd
 gocabrito
 goddi
-goland
-goland-jre
+goland-eap
+goland-eap-jre
 goldendict-ng
 goldeneye
 golismero
@@ -2800,8 +2801,8 @@ php-vulnerability-hunter
 phpggc
 phpsploit
 phpstan
-phpstorm
-phpstorm-jre
+phpstorm-eap
+phpstorm-eap-jre
 phpstress
 phrasendrescher
 picard
@@ -2986,7 +2987,7 @@ pwvucontrol
 pyadrecon
 pyaxmlparser
 pybozocrack
-pycharm
+pycharm-eap
 pydictor
 pyersinia
 pyew
@@ -3195,7 +3196,7 @@ rhodiola
 richsploit
 ricochet-refresh
 ridenum
-rider
+rider-eap
 ridrelay
 rifiuti2
 rinetd
@@ -3255,7 +3256,8 @@ rtlsdr-scanner
 rtp-flood
 rtpbreak
 rubilyn
-rubymine
+rubymine-eap
+rubymine-eap-jre
 ruffle-nightly-bin
 ruler
 rulesfinder
@@ -3266,8 +3268,8 @@ rustcat
 rustdesk
 rusthound-ce
 rustpad
-rustrover
-rustrover-jre
+rustrover-eap
+rustrover-eap-jre
 rustup-provides
 rustywind-bin
 rutorrent-git
@@ -4020,6 +4022,7 @@ uw-udpscan
 uw-zone
 uwsm
 v3n0m
+vagrant
 vais
 vala-language-server
 valhalla-api
@@ -4137,8 +4140,8 @@ webslayer
 websockify
 webspa
 websploit
-webstorm
-webstorm-jre
+webstorm-eap
+webstorm-eap-jre
 webtech
 webxploiter
 weebdns
