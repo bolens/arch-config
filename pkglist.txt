@@ -808,6 +808,7 @@ dnswatch
 dnsx
 docem
 docker
+docker-buildx
 docker-compose
 docker-language-server
 docker-machine
@@ -1092,6 +1093,7 @@ flask-unsign
 flasm
 flatpak
 flatseal
+flite
 flood-git
 floorp-bin
 flowinspect
@@ -1538,6 +1540,7 @@ icloudbrutter
 icmpquery
 icmpsh
 icmptx
+icu74
 id-entify
 ida-free
 idb
@@ -2112,6 +2115,7 @@ libtins
 libva-nvidia-driver
 libva-utils
 libvdpau-va-gl
+libwpe
 lief
 liffy
 lightbulb
@@ -4229,6 +4233,8 @@ wpa_supplicant
 wpbf
 wpbrute-rpc
 wpbullet
+wpebackend-fdo
+wpewebkit
 wpforce
 wpintel
 wpseku
