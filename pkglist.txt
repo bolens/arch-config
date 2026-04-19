@@ -815,7 +815,6 @@ docker-machine
 dockerscan
 dog
 dolphin
-dolphin-emu
 dolphin-plugins
 domain-analyzer
 domain-stats
