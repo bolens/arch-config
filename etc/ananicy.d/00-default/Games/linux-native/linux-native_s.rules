@@ -140,12 +140,13 @@
 { "name": "SlayTheSpire2", "type": "Game" }
 
 # Slime Rancher https://store.steampowered.com/app/433340/Slime_Rancher/
+{ "name": "SlimeRancher.x86", "type": "Game" }
 { "name": "SlimeRancher.x86_64", "type": "Game" }
 
 # Small World https://store.steampowered.com/app/235620/Small_World/
 { "name": "Small World 2", "type": "Game" }
 
-# Sober : Roblox game launcher: https://sober.vinegarhq.org/
+# Sober : Roblox game launcher https://sober.vinegarhq.org/
 { "name": "sober", "type": "Game" }
 { "name": "sober_services", "type": "Game" }
 
@@ -164,7 +165,7 @@
 { "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
 { "name": "Soma.bin.x86_64", "type": "Game" }
 
-# Sonic Unleashed Recompiled : https://github.com/hedge-dev/UnleashedRecomp
+# Sonic Unleashed Recompiled https://github.com/hedge-dev/UnleashedRecomp
 { "name": "UnleashedRecomp", "type": "Game" }
 
 # Soulstone Survivors https://store.steampowered.com/app/2066020/Soulstone_Survivors/
@@ -257,7 +258,6 @@
 # STEEL STRIDER https://store.steampowered.com/app/404100/STEEL_STRIDER/
 { "name": "SteelStrider.x86", "type": "Game" }
 
-# Stellaris https://www.paradoxinteractive.com/games/stellaris
 # Stellaris https://store.steampowered.com/app/281990/Stellaris/
 { "name": "stellaris", "type": "Game" }
 
@@ -267,7 +267,7 @@
 # STONKS-9800: Stock Market Simulator https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/
 { "name": "STONKS_9800", "type": "Game" }
 
-# Stranded Deep https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
+# Stranded Deep https://store.steampowered.com/app/313120/Stranded_Deep/
 { "name": "Stranded_Deep", "type": "Game" }
 
 # Streets of Rage 4 https://store.steampowered.com/app/985890/Streets_of_Rage_4/

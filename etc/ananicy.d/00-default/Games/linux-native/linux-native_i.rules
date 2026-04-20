@@ -9,7 +9,7 @@
 { "name": "ibbobb.elf", "type": "Game" }
 { "name": "ibbobb-i386.elf", "type": "Game" }
 
-# Icewind Dale: Enhanced Edition  https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
+# Icewind Dale: Enhanced Edition https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
 { "name": "IcewindDale", "type": "Game" }
 
 # Idle Wizard https://store.steampowered.com/app/992070/Idle_Wizard/
@@ -62,13 +62,13 @@
 # Invisible, Inc. https://store.steampowered.com/app/243970/Invisible_Inc/
 { "name": "invisibleinc", "type": "Game" }
 
-# Imperator: Rome https://www.paradoxinteractive.com/games/imperator-rome
+# Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator", "type": "Game" }
 
 # Ion Fury https://store.steampowered.com/app/562860/Ion_Fury/
 { "name": "fury.bin", "type": "Game" }
 
-# ioquake3: https://ioquake3.org/
+# ioquake3 https://ioquake3.org/
 { "name": "ioquake3", "type": "Game" }
 { "name": "quake3", "type": "Game" }
 
