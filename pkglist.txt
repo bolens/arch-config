@@ -388,6 +388,7 @@ buster
 buttinsky
 bvi
 bw-pinentry
+bws-bin
 byepass
 bypass-firewall-dns-history
 bytecode-viewer
