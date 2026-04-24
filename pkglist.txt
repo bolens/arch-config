@@ -1353,6 +1353,7 @@ hackernews_tui
 hackersh
 hackredis
 hacktv
+hadolint-bin
 haiti
 haka
 hakku
