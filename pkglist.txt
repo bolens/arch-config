@@ -158,6 +158,7 @@ assassingo
 assetfinder
 astra
 astrojs-language-server
+asusctl
 atac
 atear
 athena-ssl-scanner
@@ -288,6 +289,7 @@ blackeye
 blackhash
 blacknurse
 bleah
+blender
 blendr
 bless
 bletchley
@@ -396,6 +398,7 @@ c5scan
 c7decrypt
 cachedump
 cachy-update
+cachyos-benchmarker
 cachyos-fish-config
 cachyos-gaming-applications
 cachyos-gaming-meta
@@ -580,6 +583,8 @@ conscan
 converseen
 cook
 cookie-cadger
+coolercontrol
+coolercontrold
 corscanner
 corstest
 corsy
@@ -591,6 +596,7 @@ cpp-httplib
 cpp-jwt
 cpp2il
 cpptest
+cpu-x
 cpufetch
 cpupower
 cr3dov3r
@@ -768,6 +774,7 @@ djvulibre
 dkmc
 dlss-updater
 dmde
+dmemcg-booster
 dmg2img
 dmidecode
 dmitry
@@ -1066,6 +1073,7 @@ findmyiphone
 findsploit
 finduncommonshares
 fingerprinter
+fio
 firebase-tools
 firebaseenum
 firecamp-appimage
@@ -1097,7 +1105,7 @@ flite
 flood-git
 floorp-bin
 flowinspect
-fluent-reader-git
+fluent-reader-bin
 fluffychat-bin
 flunym0us
 fluxion
@@ -1180,6 +1188,7 @@ gdbgui
 gdir.pl
 gdsdecomp-bin
 gdu
+geekbench
 gemini-cli
 gene
 genisys
@@ -1283,6 +1292,7 @@ gostringsr2
 gowitness
 goxlr-utility
 gpac
+gparted
 gplist
 gpocrack
 gpodder
@@ -1391,8 +1401,8 @@ hatcloud
 hate-crack
 haveibeenpwned-downloader-git
 havn
+havoc
 havoc-c2
-havoc-git
 haystack
 hbad
 hblock
@@ -1526,7 +1536,6 @@ hyprsnap
 hyprsnipper
 hyprswitch
 hypruler
-hyprwallhaven-git
 hyprwave-hifi
 hyprwhspr
 hypryou
@@ -1589,6 +1598,7 @@ insanity
 insomnia
 instagramosint
 instashell
+intel-oneapi-compiler-dpcpp-cpp-runtime-libs
 intelmq
 intelplot
 intensio-obfuscator
@@ -1783,6 +1793,7 @@ kdevelop-python
 kdf
 kdialog
 kdiamond
+kdiskmark
 kdoctools
 keditbookmarks
 keimpx
@@ -1967,6 +1978,7 @@ kwordquiz
 kxmlgui
 l0l
 labplot
+lact
 ladybird
 laf
 languagetool
@@ -2031,9 +2043,11 @@ libdvdcss
 libfvde
 libgsf
 libguestfs
+libharu
 libopenraw
 libosmocore
 libparistraceroute
+libpfm
 libredefender
 libreoffice-fresh
 libretro-azahar
@@ -2234,6 +2248,7 @@ mana
 mando.me
 mandown-git
 mangal-git
+manifold
 manspider
 manticore
 mantra
@@ -2443,6 +2458,7 @@ neighbor-cache-fingerprinter
 nemesis
 neo-regeorg
 neochat
+neovide
 neovim
 nessus
 net-creds
@@ -2604,11 +2620,14 @@ opencode
 opencomic-bin
 opencv-cuda
 opendoor
+openimagedenoise
 openimageio
+openlinkhub
 openloco
 openmsx
 openmw
 openoffice-bin
+openpgl
 openpuff
 openra
 openrct2
@@ -2774,6 +2793,7 @@ pentestly
 pentmenu
 pepe
 pepper
+perf
 performous
 periscope
 perl
@@ -2854,6 +2874,7 @@ pkinittools
 pkt2flow
 plasma-applet-window-buttons
 plasma-disasm
+plasma-foreground-booster
 plasma-keyboard
 plasma-login-manager
 plasma-meta
@@ -3221,6 +3242,7 @@ roadrecon
 roadtx
 rocketchat-desktop
 rocs
+rog-control-center
 rogue-mysql-server
 roguehostapd
 rombuster
@@ -3674,6 +3696,7 @@ stowaway
 streamdeck-ui-git
 streamfinder
 streamrip-git
+stress-ng
 striker
 stringsifter
 striptls
@@ -3723,6 +3746,7 @@ syndication
 synflood
 synner
 synscan
+syntax-highlighting
 syringe
 sysfsutils
 sysinternals-suite
@@ -3818,6 +3842,7 @@ tidos-framework
 tiger
 tilem-gtk3-git
 tilt
+time
 timegen
 timeverter
 tinfoleak
@@ -3842,6 +3867,7 @@ tokodon
 tomcatwardeployer
 toolblex
 topera
+topgrade
 tor-autocircuit
 tor-browser
 tor-router
