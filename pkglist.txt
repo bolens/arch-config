@@ -2569,7 +2569,8 @@ nullscan
 nushell
 nut
 nvidia-container-toolkit
-nvidia-settings-beta
+nvidia-settings
+nvidia-utils
 nvtop
 nx-udev
 nxcrypt
