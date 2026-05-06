@@ -5,6 +5,9 @@
 
 ### R ###
 
+# Race The Sun https://store.steampowered.com/app/253030/Race_The_Sun/
+{ "name": "RaceTheSun.x86", "type": "Game" }
+
 # Rail Route https://store.steampowered.com/app/1124180/Rail_Route/
 { "name": "Rail Route.x86", "type": "Game" }
 
@@ -14,7 +17,7 @@
 # Ravenfield https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.x86_64", "type": "Game" }
 
-# rbdoom3bfg https://github.com/RobertBeckebans/RBDOOM-3-BFG
+# rbdoom3bfg https://github.com/RobertBeckebans/RBDOOM-3-BFG/
 { "name": "rbdoom3bfg", "type": "Game" }
 
 # Receiver https://store.steampowered.com/app/234190/Receiver/
@@ -68,8 +71,10 @@
 { "name": "riot-web", "type": "LowLatency_RT" }
 
 # Rise of the Tomb Raider https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
-{ "name": "RiseOfTheTombRaider.sh", "type": "Game" }
 { "name": "RiseOfTheTombRaider", "type": "Game" }
+
+# Rising Lords https://store.steampowered.com/app/835650/Rising_Lords/
+{ "name": "RisingLords", "type": "Game" }
 
 # Risk of Rain (2013) https://store.steampowered.com/app/248820/Risk_of_Rain_2013/
 { "name": "Risk_of_Rain", "type": "Game" }
@@ -90,6 +95,9 @@
 # Rocket League http://store.steampowered.com/app/252950/Rocket_League/
 { "name": "RocketLeague", "type": "Game" }
 
+# Roguebook https://store.steampowered.com/app/1076200/Roguebook/
+{ "name": "Roguebook", "type": "Game" }
+
 # Rogue: Genesia https://store.steampowered.com/app/2067920/Rogue_Genesia/
 { "name": "Rogue Genesia.x86_64", "type": "Game" }
 
@@ -104,7 +112,7 @@
 { "name": "rott-registered", "type": "Game" }
 { "name": "rott-shareware", "type": "Game" }
 
-# rottexptr https://github.com/LTCHIPS/rottexpr
+# rottexptr https://github.com/LTCHIPS/rottexpr/
 { "name": "rott", "type": "Game" }
 { "name": "rottexpr", "type": "Game" }
 

@@ -2,9 +2,9 @@
 # Add name of game next to the url.
 # Get name of game from steam.
 # If not from any store add name you think it needs.
+# There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T".
 
 ### The ###
-# There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
@@ -19,6 +19,10 @@
 
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman.exe", "type": "Game" }
+
+# The Ascent https://store.steampowered.com/app/979690/The_Ascent/
+{ "name": "TheAscent.exe", "type": "Game" }
+{ "name": "TheAscent-Win64-Shipping.exe", "type": "Game" }
 
 # The Ball https://store.steampowered.com/app/35460/The_Ball/
 { "name": "TheBall.exe", "type": "Game" }
@@ -341,7 +345,7 @@
 # The Journey Down: Chapter One https://store.steampowered.com/app/220090/The_Journey_Down_Chapter_One/
 { "name": "JourneyDown1.exe", "type": "Game" }
 
-# The Joy of Creation https://store.steampowered.com/app/2948730/THE_JOY_OF_CREATION/
+# The Joy of Creation Demo https://steamdb.info/app/3107070/
 { "name": "TJoC_SM.exe", "type": "Game" }
 { "name": "TJoC_SM-Win64-Shipping.exe", "type": "Game" }
 { "name": "TJoC_R.exe", "type": "Game" }
@@ -444,6 +448,9 @@
 # The Long Drive https://store.steampowered.com/app/1017180/The_Long_Drive/
 { "name": "TheLongDrive.exe", "type": "Game" }
 
+# THE LONGING https://store.steampowered.com/app/893850/THE_LONGING/
+{ "name": "The Longing.exe", "type": "Game" }
+
 # The Lord of the Rings: Adventure Card Game - Definitive Edition https://store.steampowered.com/app/509580/The_Lord_of_the_Rings_Adventure_Card_Game__Definitive_Edition/
 { "name": "Lord of the Rings - LCG.exe", "type": "Game" }
 
@@ -494,6 +501,9 @@
 # The Occultist https://store.steampowered.com/app/2092840/The_Occultist/
 { "name": "The_Occultist.exe", "type": "Game" }
 { "name": "The_Occultist-Win64-Shipping.exe", "type": "Game" }
+
+# the other older ghost recon games use the same exe name https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
+{ "name": "GhostRecon.exe", "type": "Game" }
 
 # The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
@@ -700,4 +710,3 @@
 
 # The Yawhg https://store.steampowered.com/app/269030/The_Yawhg/
 { "name": "the yawhg.exe", "type": "Game" }
-

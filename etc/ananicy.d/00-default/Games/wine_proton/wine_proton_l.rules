@@ -36,6 +36,10 @@
 # Last Epoch https://store.steampowered.com/app/899770/Last_Epoch/
 { "name": "Last Epoch.exe", "type": "Game" }
 
+# Last Flag https://store.steampowered.com/app/2721340/Last_Flag/
+{ "name": "LastFlagClient.exe", "type": "Game" }
+{ "name": "LastFlagClient-Win64-Shipping.exe", "type": "Game" }
+
 # Last Man Sitting https://store.steampowered.com/app/774291/Last_Man_Sitting/
 { "name": "LMSGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "LMSGame.exe", "type": "Game" }
@@ -378,6 +382,9 @@
 # Lords Of The Fallen 2014 https://store.steampowered.com/app/265300/Lords_Of_The_Fallen_2014/
 { "name": "LordsOfTheFallen.exe", "type": "Game" }
 
+# Lorelei and the Laser Eyes https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/
+{ "name": "Lorelei and the Laser Eyes.exe", "type": "Game" }
+
 # LORT https://store.steampowered.com/app/2956680/LORT/
 { "name": "LortGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "LortGame.exe", "type": "Game" }
@@ -469,4 +476,3 @@
 
 # LYNE https://store.steampowered.com/app/266010/LYNE/
 { "name": "LYNE.exe", "type": "Game" }
-

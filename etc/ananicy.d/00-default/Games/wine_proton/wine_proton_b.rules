@@ -445,7 +445,7 @@
 { "name": "BlazingSails-Win64-Shipping.exe", "type": "Game" }
 { "name": "BlazingSails.exe", "type": "Game" }
 
-# BLEACH Brave Souls https://store.steampowered.com/app/1201240/
+# BLEACH Brave Souls https://store.steampowered.com/app/1201240/BLEACH_Brave_Souls/
 { "name": "BleachBraveSouls.exe", "type": "Game" }
 
 # BLEACH Rebirth of Souls https://store.steampowered.com/app/1689620/BLEACH_Rebirth_of_Souls/
@@ -457,6 +457,10 @@
 
 # Bleed https://store.steampowered.com/app/239800/Bleed/
 { "name": "Bleed.exe", "type": "Game" }
+
+# Bless Unleashed https://store.steampowered.com/app/1254120/Bless_Unleashed/
+{ "name": "Bless.exe", "type": "Game" }
+{ "name": "BlessUnleashedLauncher.exe", "type": "Game" }
 
 # Blitzkrieg 3 https://store.steampowered.com/app/235380/Blitzkrieg_3/
 { "name": "b3.exe", "type": "Game" }
@@ -798,4 +802,3 @@
 
 # Bye Sweet Carole https://store.steampowered.com/app/2428980/Bye_Sweet_Carole/
 { "name": "Bye Sweet Carole.exe", "type": "Game" }
-

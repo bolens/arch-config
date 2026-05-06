@@ -44,6 +44,9 @@
 # IdleOn https://store.steampowered.com/app/1476970/IdleOn/
 { "name": "LegendsOfIdleon.exe", "type": "Game" }
 
+# Idle Research https://store.steampowered.com/app/1482860/Idle_Research/
+{ "name": "Idle Research.exe", "type": "Game" }
+
 # Idle Slayer https://store.steampowered.com/app/1353300/Idle_Slayer/
 { "name": "Idle Slayer.exe", "type": "Game" }
 
@@ -205,6 +208,9 @@
 # Intravenous https://store.steampowered.com/app/1486630/Intravenous/
 { "name": "intravenous.exe", "type": "Game" }
 
+# Intravenous 2 https://store.steampowered.com/app/2608270/Intravenous_2/
+{ "name": "intravenous2.exe", "type": "Game" }
+
 # Intrusion 2 https://store.steampowered.com/app/214970/Intrusion_2/
 { "name": "intrusion2.exe", "type": "Game" }
 
@@ -278,4 +284,3 @@
 
 # I, Zombie https://store.steampowered.com/app/307230/I_Zombie/
 { "name": "I, Zombie.exe", "type": "Game" }
-

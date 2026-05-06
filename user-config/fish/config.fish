@@ -22,3 +22,12 @@ for _go_bin in $_go_paths
         end
     end
 end
+
+# Keep vcpkg and Nix tools consistent in fish sessions.
+set -gx VCPKG_ROOT "$HOME/.local/share/vcpkg"
+set -gx VCPKG_DISABLE_METRICS "1"
+set -gx NIX_CONFIG "experimental-features = nix-command flakes"
+
+# Use micro for tools that honor EDITOR/VISUAL (e.g. sudoedit).
+set -gx EDITOR "micro"
+set -gx VISUAL "code-insiders --wait"

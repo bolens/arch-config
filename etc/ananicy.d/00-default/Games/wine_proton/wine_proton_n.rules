@@ -54,6 +54,11 @@
 # Nation Red https://store.steampowered.com/app/39800/Nation_Red/
 { "name": "NationRed.exe", "type": "Game" }
 
+# Natural Selection 2 http://store.steampowered.com/app/4920/Natural_Selection_2/
+{ "name": "Tracy.exe", "type": "Game" }
+{ "name": "NS2.exe", "type": "Game" }
+{ "name": "ns2.exe", "type": "Game" }
+
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 { "name": "NavalActionCrashSender.exe", "type": "Game" }
 
@@ -376,6 +381,9 @@
 # No Time to Relax https://store.steampowered.com/app/829660/No_Time_to_Relax/
 { "name": "No Time to Relax.exe", "type": "Game" }
 
+# Notruf 112 | Emergency Call 112 https://store.steampowered.com/app/491530/Notruf_112__Emergency_Call_112/
+{ "name": "notruf112.exe", "type": "Game" }
+
 # No Vacation for an Executioner https://store.steampowered.com/app/2949120/No_Vacation_for_an_Executioner/
 { "name": "NoVacationForAnExecutioner.exe", "type": "Game" }
 
@@ -415,4 +423,3 @@
 
 # Nunholy https://store.steampowered.com/app/2854740/Nunholy/
 { "name": "Nunholy.exe", "type": "Game" }
-

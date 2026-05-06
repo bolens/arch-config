@@ -44,7 +44,7 @@
 # ACE COMBAT 7: SKIES UNKNOWN https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/
 { "name": "Ace7Game.exe", "type": "Game" }
 
-# Ace Combat Assault Horizon - Enhanced Edition https://store.steampowered.com/app/228400/
+# Ace Combat Assault Horizon - Enhanced Edition https://store.steampowered.com/app/228400/ACE_COMBAT_ASSAULT_HORIZON_Enhanced_Edition/
 { "name": "Ace Combat_AH.exe", "type": "Game" }
 
 # Ace of Spades: Battle Builder https://store.steampowered.com/app/224540/Ace_of_Spades_Battle_Builder/
@@ -116,6 +116,9 @@
 # A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
 { "name": "A Game About Feeding A Black Hole.exe", "type": "Game" }
 
+# A Game of Thrones: The Board Game - Digital Edition https://store.steampowered.com/app/1075190/A_Game_of_Thrones_The_Board_Game__Digital_Edition/
+{ "name": "AGameOfThronesTheBoardGame.exe", "type": "Game" }
+
 # Agarest: Generations of War https://store.steampowered.com/app/237890/Agarest_Generations_of_War/
 { "name": "Agarest.exe", "type": "Game" }
 
@@ -156,6 +159,9 @@
 
 # Age of Mythology: Retold https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/
 { "name": "AoMRT_s.exe", "type": "Game" }
+
+# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
+{ "name": "AoW.exe", "type": "Game" }
 
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
 { "name": "Paradox Launcher.exe", "type": "Game" }
@@ -593,9 +599,17 @@
 # Arx Fatalis https://store.steampowered.com/app/1700/Arx_Fatalis/
 { "name": "arx.exe", "type": "Game" }
 
+# Ascension https://store.steampowered.com/app/2328480/Ascension/
+{ "name": "Acension.exe", "type": "Game" }
+
 # Ashes of creation https://store.steampowered.com/app/4124950/Ashes_of_Creation/
 { "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
+
+# Ashes of the Singularity: Escalation https://store.steampowered.com/app/507490/Ashes_of_the_Singularity_Escalation/
+{ "name": "AshesEscalation.exe", "type": "Game" }
+{ "name": "AshesEscalation_DX11.exe", "type": "Game" }
+{ "name": "AshesEscalation_DX12.exe", "type": "Game" }
 
 # A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
 { "name": "AShortHike.exe", "type": "Game" }
@@ -867,4 +881,3 @@
 # Azur Lane Crosswave https://store.steampowered.com/app/1150080/Azur_Lane_Crosswave/
 { "name": "Azurlane.exe", "type": "Game" }
 { "name": "Azurlane-Win64-Shipping.exe", "type": "Game" }
-

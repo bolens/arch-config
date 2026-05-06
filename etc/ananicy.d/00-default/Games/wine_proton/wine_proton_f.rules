@@ -393,6 +393,10 @@
 { "name": "FFX-2.exe", "type": "Game" }
 { "name": "FFX.exe", "type": "Game" }
 
+# Final Sentence https://store.steampowered.com/app/2413950/Final_Sentence/
+{ "name": "TheEnd.exe", "type": "Game" }
+{ "name": "TheEndClient-Win64-Shipping.exe", "type": "Game" }
+
 # Firewatch https://store.steampowered.com/app/383870/Firewatch/
 { "name": "Firewatch.exe", "type": "Game" }
 
@@ -449,9 +453,6 @@
 # Five Nights at Freddy's: Sister Location https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
 { "name": "SisterLocation.exe", "type": "Game" }
 
-# Five Nights at Freddy's World (steam page is down rip) https://store.steampowered.com/app/427920/
-{ "name": "FNaF_World.exe", "type": "Game" }
-
 # Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator https://store.steampowered.com/app/605740/Flashing_Lights__Police_Firefighting_Emergency_Services_EMS_Simulator/
 { "name": "flashinglights.exe", "type": "Game" }
 
@@ -483,6 +484,9 @@
 # Flyout https://store.steampowered.com/app/777390/Flyout/
 { "name": "Flyout.exe", "type": "Game" }
 
+# FNaF World https://steamdb.info/app/427920/
+{ "name": "FNaF_World.exe", "type": "Game" }
+
 # Fobia - St. Dinfna Hotel https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/
 { "name": "Fobia.exe", "type": "Game" }
 { "name": "Fobia-Win64-Shipping.exe", "type": "Game" }
@@ -506,8 +510,16 @@
 # Forever Skies https://store.steampowered.com/app/1641960/Forever_Skies/
 { "name": "ForeverSkies.exe", "type": "Game" }
 
+# FOREWARNED https://store.steampowered.com/app/1562420/
+{ "name": "FOREWARNED.exe", "type": "Game" }
+
 # Forgive Me Father https://store.steampowered.com/app/1590910/Forgive_Me_Father/
 { "name": "FMF.exe", "type": "Game" }
+{ "name": "FMF-Win64-Shipping.exe", "type": "Game" }
+
+# Forgive Me Father 2 https://store.steampowered.com/app/2272250/Forgive_Me_Father_2/
+{ "name": "FMF2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "FMF2.exe", "type": "Game" }
 
 # Forgotlings https://store.steampowered.com/app/2059570/Forgotlings/
 { "name": "Forgotlings.exe", "type": "Game" }
@@ -647,4 +659,3 @@
 
 # Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
 { "name": "FuryUnleashed.exe", "type": "Game" }
-

@@ -271,6 +271,9 @@
 # Senren＊Banka https://store.steampowered.com/app/1144400/SenrenBanka/
 { "name": "SenrenBanka.exe", "type": "Game" }
 
+# Sentinels of the Multiverse https://store.steampowered.com/app/337150/Sentinels_of_the_Multiverse/
+{ "name": "Sentinels.exe", "type": "Game" }
+
 # Senua’s Saga: Hellblade II https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
 { "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Hellblade2.exe", "type": "Game" }
@@ -430,6 +433,9 @@
 # Shelter 2 https://store.steampowered.com/app/275100/Shelter_2/
 { "name": "Shelter2.exe", "type": "Game" }
 
+# Sheltered https://store.steampowered.com/app/356040/Sheltered/
+{ "name": "Sheltered.exe", "type": "Game" }
+
 # Sheltered 2 https://store.steampowered.com/app/1289380/Sheltered_2/
 { "name": "Sheltered2.exe", "type": "Game" }
 
@@ -440,6 +446,9 @@
 # Shenmue III (2020) https://store.steampowered.com/app/878670/Shenmue_III/
 { "name": "Shenmue3-Win64-Shipping.exe", "type": "Game" }
 { "name": "Shenmue3.exe", "type": "Game" }
+
+# SHENZHEN I/O https://store.steampowered.com/app/504210/SHENZHEN_IO/
+{ "name": "Shenzhen.exe", "type": "Game" }
 
 # Sherlock Holmes Chapter One https://store.steampowered.com/app/1137300/Sherlock_Holmes_Chapter_One/
 { "name": "SH9.exe", "type": "Game" }
@@ -640,6 +649,9 @@
 { "name": "LootWorthy.exe", "type": "Game" }
 { "name": "LootWorthy-Win64-Shipping.exe", "type": "Game" }
 
+# Skillshot City https://store.steampowered.com/app/308600/Skillshot_City/
+{ "name": "SkillshotCity.exe", "type": "Game" }
+
 # S.K.I.L.L. - Special Force 2 (Shooter) https://store.steampowered.com/app/286940/SKILL__Special_Force_2_Shooter/
 { "name": "sf2.exe", "type": "Game" }
 
@@ -649,6 +661,9 @@
 
 # Skullgirls 2nd Encore https://store.steampowered.com/app/245170/Skullgirls_2nd_Encore/
 { "name": "Skullgirls.exe", "type": "Game" }
+
+# Skull Horde https://store.steampowered.com/app/3199360/Skull_Horde/
+{ "name": "SkullHorde.exe", "type": "Game" }
 
 # Skul: The Hero Slayer https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/
 { "name": "Skul.exe", "type": "Game" }
@@ -785,11 +800,17 @@
 # Solar 2 https://store.steampowered.com/app/97000/Solar_2/
 { "name": "Solar2.exe", "type": "Game" }
 
+# Solar Expanse - Space Exploration Manager https://store.steampowered.com/app/1369700/Solar_Expanse__Space_Exploration_Manager/
+{ "name": "Solar Expanse.exe", "type": "Game" }
+
 # Solasta: Crown of the Magister https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/
 { "name": "Solasta.exe", "type": "Game" }
 
 # Solasta II https://store.steampowered.com/app/2975950/Solasta_II/
 { "name": "Solasta_2.exe", "type": "Game" }
+
+# Sol Cesto https://store.steampowered.com/app/2738490/Sol_Cesto/
+{ "name": "SolCesto.exe", "type": "Game" }
 
 # Soldat https://store.steampowered.com/app/638490/Soldat/
 { "name": "soldat.exe", "type": "Game" }
@@ -1753,4 +1774,3 @@
 
 # System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
 { "name": "SS2.exe", "type": "Game" }
-

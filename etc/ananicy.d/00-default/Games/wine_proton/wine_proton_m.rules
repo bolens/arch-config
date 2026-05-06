@@ -497,6 +497,10 @@
 # Minoria https://store.steampowered.com/app/940910/Minoria/
 { "name": "Minoria.exe", "type": "Game" }
 
+# MINOS https://store.steampowered.com/app/3181650/MINOS/
+{ "name": "Minos-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Minos.exe", "type": "Game" }
+
 # MIO: Memories in Orbit https://store.steampowered.com/app/1672810/MIO_Memories_in_Orbit/
 { "name": "mio.exe", "type": "Game" }
 
@@ -532,7 +536,7 @@
 # MOBILE SUIT GUNDAM SEED BATTLE DESTINY REMASTERED https://store.steampowered.com/app/1857740/MOBILE_SUIT_GUNDAM_SEED_BATTLE_DESTINY_REMASTERED/
 { "name": "SEED BATTLE DESTINY REMASTERED.exe", "type": "Game" }
 
-# Mobmod https://gamebanana.com/mods/464620
+# Mobmod https://gamebanana.com/mods/464620/
 { "name": "Mobbos.exe", "type": "Game" }
 
 # Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
@@ -738,7 +742,7 @@
 { "name": "motogp25.exe", "type": "Game" }
 { "name": "motogp25-Win64-Shipping.exe", "type": "Game" }
 
-# MOTORSLICE Demo https://store.steampowered.com/app/2830030/MOTORSLICE/
+# MOTORSLICE Demo https://steamdb.info/app/3910170/
 { "name": "MotorSliceDemo.exe", "type": "Game" }
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
 
@@ -910,9 +914,3 @@
 
 # My Winter Car https://store.steampowered.com/app/4164420/My_Winter_Car/
 { "name": "mywintercar.exe", "type": "Game" }
-
-# Natural Selection 2 http://store.steampowered.com/app/4920/Natural_Selection_2/
-{ "name": "Tracy.exe", "type": "Game" }
-{ "name": "NS2.exe", "type": "Game" }
-{ "name": "ns2.exe", "type": "Game" }
-

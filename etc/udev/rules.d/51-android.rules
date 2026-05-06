@@ -454,6 +454,20 @@ LABEL="not_IUNI"
 ATTR{idVendor}!="17ef", GOTO="not_Lenovo"
 #   Lenovo Tab K10
 ATTR{idProduct}=="201c", GOTO="adb"
+#   Lenovo Legion Tab Y700 ADB / non-data-transfer mode
+ATTR{idProduct}=="7f3d", GOTO="adb"
+#   Lenovo Legion Tab Y700 File Transfer
+ATTR{idProduct}=="7f41", GOTO="adbmtp"
+#   Lenovo Legion Tab Y700 MTP (ADB disabled)
+ATTR{idProduct}=="7f40", GOTO="mtp"
+#   Lenovo Legion Tab Y700 MIDI
+ATTR{idProduct}=="7f4b", GOTO="adbmidi"
+#   Lenovo Legion Tab Y700 MIDI (ADB disabled)
+ATTR{idProduct}=="7f4a", GOTO="midi"
+#   Lenovo Legion Tab Y700 PTP
+ATTR{idProduct}=="7f45", GOTO="adbptp"
+#   Lenovo Legion Tab Y700 PTP (ADB disabled)
+ATTR{idProduct}=="7f44", GOTO="ptp"
 GOTO="android_usb_rules_end"
 LABEL="not_Lenovo"
 
@@ -742,6 +756,10 @@ ATTR{idProduct}=="676c", SYMLINK+="android_adb"
 #   Xiaomi A1 (90bb=midi,adb)
 ATTR{idProduct}=="90bb", GOTO="adbmidi"
 ATTR{idProduct}=="90dc", GOTO="adb"
+#   Lenovo Legion Tab Y700 / FP3 USB tethering mode (ADB disabled)
+ATTR{idProduct}=="f00e", GOTO="rndis"
+#   Lenovo Legion Tab Y700 USB tethering mode
+ATTR{idProduct}=="9024", GOTO="adbrndis"
 #   OnePlus 5 / 6 / 6T
 ATTR{idProduct}=="9011", SYMLINK+="android_adb"
 #   OnePlus 6 / Asia

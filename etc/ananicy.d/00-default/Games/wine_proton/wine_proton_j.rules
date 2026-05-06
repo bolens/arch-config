@@ -8,7 +8,6 @@
 # Jabroni Brawl: Episode 3 https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
 { "name": "dmxconvert.exe", "type": "Game" }
 { "name": "jbep3.exe", "type": "Game" }
-{ "name": "vpk.exe", "type": "Game" }
 
 # Jackal https://store.steampowered.com/app/3124230/Jackal/
 { "name": "jackal.exe", "type": "Game" }
@@ -127,3 +126,5 @@
 # Just Cause 4 Reloaded https://store.steampowered.com/app/517630/Just_Cause_4_Reloaded/
 { "name": "JustCause4.exe", "type": "Game" }
 
+# Just Shapes & Beats https://store.steampowered.com/app/531510/Just_Shapes__Beats/
+{ "name": "JSB.exe", "type": "Game" }

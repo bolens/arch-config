@@ -72,6 +72,9 @@
 # Talisman: Digital Classic Edition https://store.steampowered.com/app/247000/Talisman_Digital_Classic_Edition/
 { "name": "Talisman.exe", "type": "Game" }
 
+# TAMASHIKA https://store.steampowered.com/app/2996080/TAMASHIKA/
+{ "name": "TAMASHIKA.exe", "type": "Game" }
+
 # Tangy TD https://store.steampowered.com/app/2245620/Tangy_TD/
 { "name": "TangyTD.exe", "type": "Game" }
 
@@ -92,6 +95,9 @@
 
 # TAPSONIC BOLD https://store.steampowered.com/app/938220/TAPSONIC_BOLD/
 { "name": "BOLD.exe", "type": "Game" }
+
+# Tap Tap Loot https://store.steampowered.com/app/3959890/Tap_Tap_Loot/
+{ "name": "TapTapLoot.exe", "type": "Game" }
 
 # Task Force Admiral - Vol.1: American Carrier Battles https://store.steampowered.com/app/1281220/Task_Force_Admiral__Vol1_American_Carrier_Battles/
 { "name": "TFA.exe", "type": "Game" }
@@ -231,9 +237,6 @@
 
 # Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
 { "name": "Them's Fightin' Herds.exe", "type": "Game" }
-
-# the other older ghost recon games use the same exe name https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
-{ "name": "GhostRecon.exe", "type": "Game" }
 
 # There Is No Game: Wrong Dimension https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/
 { "name": "Ting.exe", "type": "Game" }
@@ -546,6 +549,10 @@
 # Total Annihilation https://store.steampowered.com/app/298030/Total_Annihilation/
 { "name": "TAE.EXE", "type": "Game" }
 { "name": "TotalA.exe", "type": "Game" }
+
+# Total Conflict: Resistance https://store.steampowered.com/app/1860510/Total_Conflict_Resistance/
+{ "name": "TotalConflictResistance.exe", "type": "Game" }
+{ "name": "TotalConflictResistance-Win64-Shipping.exe", "type": "Game" }
 
 # Totally Accurate Battlegrounds https://store.steampowered.com/app/823130/Totally_Accurate_Battlegrounds/
 { "name": "TotallyAccurateBattlegrounds.exe", "type": "Game" }
@@ -883,4 +890,3 @@
 
 # Tyranny https://store.steampowered.com/app/362960/Tyranny/
 { "name": "Tyranny.exe", "type": "Game" }
-

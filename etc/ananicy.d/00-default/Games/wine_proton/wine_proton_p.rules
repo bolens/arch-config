@@ -268,6 +268,9 @@
 # Phantasy Star Online 2 New Genesis https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
 { "name": "pso2.exe", "type": "Game" }
 
+# Phantom Brigade https://store.steampowered.com/app/553540/Phantom_Brigade/
+{ "name": "PhantomBrigade.exe", "type": "Game" }
+
 # Phantom Squad https://store.steampowered.com/app/2841770/Phantom_Squad/
 { "name": "PhantomSquad.exe", "type": "Game" }
 
@@ -347,6 +350,15 @@
 
 # Pixel Puzzles: Japan https://store.steampowered.com/app/284950/Pixel_Puzzles_Japan/
 { "name": "Pixel Puzzles - Japan.exe", "type": "Game" }
+
+# Pixel Starships https://store.steampowered.com/app/378760/Pixel_Starships/
+
+
+# Pixel Starships 2 https://store.steampowered.com/app/2154270/Pixel_Starships_2/
+{ "name": "Pixel Starships.exe", "type": "Game" }
+
+# Pixel Worlds: MMO Sandbox https://store.steampowered.com/app/636040/Pixel_Worlds_MMO_Sandbox/
+{ "name": "PixelWorlds.exe", "type": "Game" }
 
 # Pix the Cat https://store.steampowered.com/app/330180/Pix_the_Cat/
 { "name": "PixTheCat.exe", "type": "Game" }
@@ -515,7 +527,10 @@
 # Praey for the Gods https://store.steampowered.com/app/494430/Praey_for_the_Gods/
 { "name": "Praey For the Gods.exe", "type": "Game" }
 
-# PRAGMATA DEMO https://store.steampowered.com/app/3357650/PRAGMATA/
+# PRAGMATA https://store.steampowered.com/app/3357650/PRAGMATA/
+{ "name": "PRAGMATA.exe", "type": "Game" }
+
+# PRAGMATA DEMO https://steamdb.info/app/4003800/
 { "name": "PRAGMATA_SKETCHBOOK.exe", "type": "Game" }
 
 # Predator: Hunting Grounds https://store.steampowered.com/app/1556200/Predator_Hunting_Grounds/
@@ -660,7 +675,7 @@
 # Pseudoregalia https://store.steampowered.com/app/2365810/Pseudoregalia/
 { "name": "pseudoregalia.exe", "type": "Game" }
 
-# Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
+# Psych Engine https://github.com/ShadowMario/FNF-PsychEngine/
 { "name": "PsychEngine.exe", "type": "Game" }
 
 # Psychonauts https://store.steampowered.com/app/3830/Psychonauts/
@@ -710,4 +725,3 @@
 
 # Puzzle Together https://store.steampowered.com/app/1478220/Puzzle_Together_Multiplayer_Jigsaw_Puzzles/
 { "name": "Puzzle Together.exe", "type": "Game" }
-

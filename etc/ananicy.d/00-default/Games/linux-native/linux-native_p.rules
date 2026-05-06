@@ -5,12 +5,15 @@
 
 ### P ###
 
+# Packing Life https://store.steampowered.com/app/3482510/Packing_Life/
+{ "name": "Packing Life.x86_64", "type": "Game" }
+
 # PAC-MAN 256 https://store.steampowered.com/app/455400/PACMAN_256/
 { "name": "PAC-MAN256.x86_64", "type": "Game" }
 { "name": "PAC-MAN256.x86", "type": "Game" }
 
-# Packing Life https://store.steampowered.com/app/3482510/Packing_Life/
-{ "name": "Packing Life.x86_64", "type": "Game" }
+# Painkiller Hell & Damnation https://store.steampowered.com/app/214870/Painkiller_Hell__Damnation/
+{ "name": "PKHDGame", "type": "Game" }
 
 # Paint the Town Red https://store.steampowered.com/app/337320/Paint_the_Town_Red/
 { "name": "PaintTheTownRed.x86_64", "type": "Game" }
@@ -24,6 +27,9 @@
 # Papers, Please https://store.steampowered.com/app/239030/Papers_Please/
 { "name": "PapersPlease", "type": "Game" }
 
+# Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
+{ "name": "PYGame-Linux", "type": "Game" }
+
 # Paranautical Activity: Deluxe Atonement Edition https://store.steampowered.com/app/250580/Paranautical_Activity_Deluxe_Atonement_Edition/
 { "name": "Paranautical Activity.x86", "type": "Game" }
 
@@ -33,7 +39,7 @@
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
 
-# PA UI : User interface Planetary Annihilation https://github.com/planetary-annihilation/pa-ui
+# PA UI : User interface Planetary Annihilation https://github.com/planetary-annihilation/pa-ui/
 { "name": "CoherentUI_Host", "type": "Game" }
 
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
@@ -64,8 +70,21 @@
 # Pillars of Eternity II: Deadfire https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/
 { "name": "PillarsOfEternityII", "type": "Game" }
 
+# Pirates Vikings & Knights II https://store.steampowered.com/app/17570/Pirates_Vikings__Knights_II/
+{ "name": "vtf2tga_linux32", "type": "Game" }
+{ "name": "vtf2tga_linux64", "type": "Game" }
+{ "name": "pvkii_linux", "type": "Game" }
+{ "name": "pvkii_linux32", "type": "Game" }
+{ "name": "pvkii_linux64", "type": "Game" }
+
+# PixelJunk Monsters Ultimate https://store.steampowered.com/app/243780/PixelJunk_Monsters_Ultimate/
+{ "name": "Monsters", "type": "Game" }
+
 # Pixel Piracy https://store.steampowered.com/app/264140/Pixel_Piracy/
 { "name": "PixelPiracy.x86_64", "type": "Game" }
+
+# Pixel Starships https://store.steampowered.com/app/378760/Pixel_Starships/
+{ "name": "PixelStarships.x86_64", "type": "Game" }
 
 # Pix the Cat https://store.steampowered.com/app/330180/Pix_the_Cat/
 { "name": "PixtheCat", "type": "Game" }
@@ -78,6 +97,9 @@
 
 # Planet Explorers https://store.steampowered.com/app/237870/Planet_Explorers/
 { "name": "PE_Launcher", "type": "Game" }
+
+# Pluto https://store.steampowered.com/app/3057670/Pluto/
+{ "name": "pluto.x86_64", "type": "Game" }
 
 # Police Stories https://store.steampowered.com/app/539470/Police_Stories/
 { "name": "PoliceStoriesRelease", "type": "Game" }
@@ -123,11 +145,14 @@
 # Proteus https://store.steampowered.com/app/219680/Proteus/
 { "name": "Proteus", "type": "Game" }
 
-# Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
+# Psych Engine https://github.com/ShadowMario/FNF-PsychEngine/
 { "name": "PsychEngine", "type": "Game" }
 
 # Psychonauts https://store.steampowered.com/app/3830/Psychonauts/
 { "name": "Psychonauts", "type": "Game" }
+
+# Psychonauts 2 https://store.steampowered.com/app/607080/Psychonauts_2/
+{ "name": "Psychonauts2-Linux-Shipping", "type": "Game" }
 
 # PULSAR: Lost Colony https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/
 { "name": "PULSAR_LostColony.x86_64", "type": "Game" }

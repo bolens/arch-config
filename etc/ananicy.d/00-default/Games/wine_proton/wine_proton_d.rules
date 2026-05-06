@@ -40,6 +40,9 @@
 { "name": "Tavern.exe", "type": "Game" }
 { "name": "DungeonCrawler.exe", "type": "Game" }
 
+# Dark and Light https://store.steampowered.com/app/529180/Dark_and_Light/
+{ "name": "DNL.exe", "type": "Game" }
+
 # Dark Deception https://store.steampowered.com/app/332950/Dark_Deception/
 { "name": "DDeception.exe", "type": "Game" }
 { "name": "DDeception-Win64-Shipping.exe", "type": "Game" }
@@ -93,6 +96,9 @@
 # DARK SOULS: REMASTERED https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
 { "name": "DarkSoulsRemastered.exe", "type": "Game" }
 
+# DarkSwitch https://store.steampowered.com/app/3132870/DarkSwitch/
+{ "name": "DarkSwitch.exe", "type": "Game" }
+
 # Darkwater https://store.steampowered.com/app/619540/Darkwater/
 { "name": "Darkwater.exe", "type": "Game" }
 
@@ -118,6 +124,9 @@
 # Daylight https://store.steampowered.com/app/230840/Daylight/
 { "name": "DaylightLauncher.exe", "type": "Game" }
 { "name": "Daylight.exe", "type": "Game" }
+
+# Daymare: 1998 https://store.steampowered.com/app/842100/Daymare_1998/
+{ "name": "Daymare_MASTER.exe", "type": "Game" }
 
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod.exe", "type": "Game" }
@@ -330,6 +339,9 @@
 
 # Democracy 3 https://store.steampowered.com/app/245470/Democracy_3/
 { "name": "Democracy3.exe", "type": "Game" }
+
+# Democracy 4 https://store.steampowered.com/app/1410710/Democracy_4/
+{ "name": "Democracy4.exe", "type": "Game" }
 
 # DemonCrawl https://store.steampowered.com/app/1141220/DemonCrawl/
 { "name": "demoncrawl.exe", "type": "Game" }
@@ -683,6 +695,9 @@
 # Dorfromantik https://store.steampowered.com/app/1455840/Dorfromantik/
 { "name": "Dorfromantik.exe", "type": "Game" }
 
+# Dosa Divas https://store.steampowered.com/app/2950710/Dosa_Divas/
+{ "name": "dosa.exe", "type": "Game" }
+
 # Dota 2 http://store.steampowered.com/app/570/Dota_2/
 { "name": "dota2.exe", "type": "Game" }
 
@@ -886,6 +901,9 @@
 { "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
 { "name": "DuneSandbox_BE.exe", "type": "Game" }
 
+# Dune: Imperium https://store.steampowered.com/app/1689500/Dune_Imperium/
+{ "name": "DuneImperium.exe", "type": "Game" }
+
 # Dungeon Alchemist https://store.steampowered.com/app/1588530/Dungeon_Alchemist/
 { "name": "Dungeon Alchemist.exe", "type": "Game" }
 
@@ -913,6 +931,10 @@
 
 # Dungeons 3 https://store.steampowered.com/app/493900/Dungeons_3/
 { "name": "Dungeons3.exe", "type": "Game" }
+
+# Dungeons 4 https://store.steampowered.com/app/1643310/Dungeons_4/
+{ "name": "d4.exe", "type": "Game" }
+{ "name": "Dungeons 4.exe", "type": "Game" }
 
 # Dungeons & Degenerate Gamblers https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/
 { "name": "DnDG_64.exe", "type": "Game" }
@@ -1001,4 +1023,3 @@
 
 # Dystopika https://store.steampowered.com/app/2379910/Dystopika/
 { "name": "Dystopika.exe", "type": "Game" }
-
