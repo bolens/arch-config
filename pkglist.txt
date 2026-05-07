@@ -2325,6 +2325,7 @@ middler
 midori-bin
 mikrotik-npk
 mildew
+millennium
 mimikatz
 mimipenguin
 mindforger
@@ -2824,8 +2825,6 @@ php-vulnerability-hunter
 phpggc
 phpsploit
 phpstan
-phpstorm-eap
-phpstorm-eap-jre
 phpstress
 phrasendrescher
 picard
@@ -3731,7 +3730,6 @@ subterfuge
 subzy
 sucrack
 sudo
-sudo-rs
 suid3num
 sulley
 sumatrapdf
