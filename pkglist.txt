@@ -2614,7 +2614,7 @@ open-supaplex
 openai-codex
 openarena
 opencl-nvidia
-openclaw-git
+openclaw
 opencode
 opencomic-bin
 opencv-cuda
@@ -2758,7 +2758,6 @@ pcapteller
 pcapxray
 pcbox-git
 pcbox-roms-git
-pcem-git
 pcileech
 pcode2code
 pcredz
@@ -3255,7 +3254,7 @@ roadlib
 roadoidc
 roadrecon
 roadtx
-rocketchat-desktop
+rocketchat-client-bin
 rocs
 rog-control-center
 rogue-mysql-server
@@ -3931,6 +3930,7 @@ ttf-daddytime-mono-nerd
 ttf-dejavu
 ttf-dejavu-nerd
 ttf-envycoder-nerd
+ttf-fira-code
 ttf-firacode-nerd
 ttf-go-nerd
 ttf-gohu-nerd
