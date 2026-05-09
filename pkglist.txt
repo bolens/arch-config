@@ -349,6 +349,7 @@ brakeman
 brave-beta-bin
 brave-bin
 brave-nightly-bin
+brave-origin-nightly-bin
 breeze-icons-git
 bridge-utils
 bridgekeeper
