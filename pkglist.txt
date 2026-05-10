@@ -1038,7 +1038,7 @@ fernflower
 fernmelder
 feroxbuster
 fetchcord
-ffdec-git
+ffdec-bin
 ffm
 ffmpeg-cuda-full
 ffmpegthumbnailer
@@ -1102,7 +1102,7 @@ fluent-reader-bin
 fluffychat-bin
 flunym0us
 fluxion
-flycast-git
+flycast
 flyr
 fockcache
 fontbase
@@ -2281,7 +2281,7 @@ mdcrack
 mdk3
 mdns-recon
 meanalyzer
-media-downloader-git
+media-downloader
 mediainfo-gui
 mediamonkey
 meg
@@ -2635,7 +2635,7 @@ openrgb
 openrisk
 openscad
 openscap
-openshot-git
+openshot-bin
 openspades-git
 openssh
 openstego
