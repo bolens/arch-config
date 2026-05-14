@@ -1842,6 +1842,7 @@ kismon
 kitemviews
 kiten
 kiterunner
+kitty
 kitty-framework
 kiwix-desktop
 kiwix-tools
@@ -3172,6 +3173,7 @@ rapidscan
 rasenum
 ratproxy
 rats
+ratty
 raven
 rawr
 rawsec-cli
