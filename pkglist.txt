@@ -2174,6 +2174,7 @@ linux-cachyos-lts-headers
 linux-cachyos-lts-nvidia-open
 linux-cachyos-lts-zfs
 linux-cachyos-nvidia-open
+linux-cachyos-r8125
 linux-cachyos-zfs
 linux-exploit-suggester
 linux-exploit-suggester.sh
@@ -2381,6 +2382,7 @@ mobsf
 modemmanager
 modifycerttemplate
 modlishka
+modprobed-db
 modscan
 mold
 moloch
