@@ -2026,6 +2026,7 @@ lib32-libvdpau
 lib32-mesa
 lib32-nvidia-utils
 lib32-opencl-nvidia
+lib32-pcsclite
 lib32-pipewire-jack
 lib32-v4l-utils
 lib32-vkd3d
