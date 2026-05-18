@@ -3538,6 +3538,7 @@ sleuthql
 slimjet
 slither
 sliver
+slopsmith-desktop-bin
 sloth-fuzzer
 slowloris
 slowloris-py
