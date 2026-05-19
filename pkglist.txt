@@ -4178,7 +4178,7 @@ wascan
 waterfox-bin
 waybackpack
 waybackurls
-waybar
+waybar-cava-git
 waydroid
 wayland-docs
 waymore
