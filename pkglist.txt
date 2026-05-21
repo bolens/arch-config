@@ -1419,6 +1419,7 @@ hellraiser
 helvum
 hemingway
 hercules-payload
+hermes-agent
 hetty
 hex2bin
 hexchat-git
@@ -2639,7 +2640,6 @@ open-supaplex
 openai-codex
 openarena
 opencl-nvidia
-openclaw
 opencode
 opencomic-bin
 opencv-cuda
