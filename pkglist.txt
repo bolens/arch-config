@@ -427,6 +427,7 @@ caido-desktop
 calf
 calligra
 cameradar
+camofox-browser-git
 camover
 campdown
 camscan
@@ -2678,6 +2679,7 @@ opera-beta
 opera-developer
 operative
 ophcrack
+optiimage
 orakelcrackert
 orca-slicer-git
 origami
@@ -2871,6 +2873,7 @@ pip3line
 pipal
 pipeline
 piper
+piper-tts-git
 pipewire-alsa
 pipewire-docs
 pipewire-ffado
@@ -2893,6 +2896,7 @@ pkcrack
 pkgfile
 pkinittools
 pkt2flow
+planify
 plasma-applet-window-buttons
 plasma-disasm
 plasma-foreground-booster
@@ -3776,6 +3780,7 @@ sway
 sweeper
 swfintruder
 swftools
+switcheroo
 sws
 swtpm
 syborg
@@ -4173,6 +4178,7 @@ waldo
 walker
 wallhaven-cli
 wapiti
+warehouse-git
 warp-terminal
 wascan
 waterfox-bin
