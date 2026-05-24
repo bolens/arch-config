@@ -1187,6 +1187,7 @@ gemini-cli
 gene
 genisys
 genlist
+genymotion-beta
 geoedge
 geoipgen
 gerix-wifi-cracker
@@ -4129,6 +4130,8 @@ viper
 vipermonkey
 viproy-voipkit
 virt-manager
+virtualbox
+virtualbox-host-modules-arch
 virustotal
 visql
 visual-studio-code-insiders-bin
