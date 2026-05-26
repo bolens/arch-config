@@ -8,9 +8,22 @@
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.x86_64", "type": "Game" }
 
+# Tails of Iron https://store.steampowered.com/app/1283410/Tails_of_Iron/
+{ "name": "TOI1ArtBook.x86_64", "type": "Game" }
+{ "name": "TOI.x86_64", "type": "Game" }
+
+# Tails of Iron 2: Whiskers of Winter https://store.steampowered.com/app/2473480/Tails_of_Iron_2_Whiskers_of_Winter/
+{ "name": "TOI2.x86_64", "type": "Game" }
+
+# Tainted Grail https://store.steampowered.com/app/1199030/Tainted_Grail_Conquest/
+{ "name": "Tainted_Grail.x86_64", "type": "Game" }
+
 # Tales of Maj'Eyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
 { "name": "t-engine", "type": "Game" }
 { "name": "t-engine64", "type": "Game" }
+
+# Tank Force: Online Shooter Game https://store.steampowered.com/app/604500/Tank_Force_Online_Shooter_Game/
+{ "name": "Tank Force.x86_64", "type": "Game" }
 
 # Tanki Online https://store.steampowered.com/app/562010/Tanki_Online/
 { "name": "tankionline", "type": "Game" }
@@ -21,11 +34,20 @@
 # Tap Ninja - Idle game https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
 { "name": "Tap Ninja.x86_64", "type": "Game" }
 
+# Tap Wizard 2 https://store.steampowered.com/app/1836550/Tap_Wizard_2/
+{ "name": "Tap Wizard 2.x86_64", "type": "Game" }
+
 # Tavern Master https://store.steampowered.com/app/1525700/Tavern_Master/
 { "name": "TavernMaster.x86_64", "type": "Game" }
 
+# TDS - Tower Defense Strategy https://store.steampowered.com/app/2392280/TDS__Tower_Defense_Strategy/
+{ "name": "TDS.x86_64", "type": "Game" }
+
 # Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
+
+# Team Fortress 2 Classified https://store.steampowered.com/app/3545060/Team_Fortress_2_Classified/
+{ "name": "tf2classified_linux64", "type": "Game" }
 
 # Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
 { "name": "TMNT", "type": "Game" }
@@ -37,8 +59,14 @@
 # Teleglitch: Die More Edition https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/
 { "name": "runme", "type": "Game" }
 
+# Terminator 2D: NO FATE https://store.steampowered.com/app/1718460/
+{ "name": "Terminator 2D NO FATE", "type": "Game" }
+
 # Terraformers https://store.steampowered.com/app/1244800/Terraformers/
 { "name": "terraformers.x86_64", "type": "Game" }
+
+# Terra Nil https://store.steampowered.com/app/1593030/Terra_Nil/
+{ "name": "Terra Nil.x86_64", "type": "Game" }
 
 # Terraria https://store.steampowered.com/app/105600/Terraria/
 { "name": "Terraria.bin.x86_64", "type": "Game" }
@@ -52,14 +80,27 @@
 # That's not my Neighbor https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/
 { "name": "That's not my neighbor (Steam).x86_64", "type": "Game" }
 
+# Thea: The Awakening https://store.steampowered.com/app/378720/
+{ "name": "Thea.x86_64", "type": "Game" }
+
 # Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
 { "name": "ThemsFightinHerds.Linux.x64", "type": "Game" }
+
+# TheoTown https://store.steampowered.com/app/1084020/TheoTown/
+{ "name": "TheoTown32", "type": "Game" }
+{ "name": "TheoTown64", "type": "Game" }
 
 # They Bleed Pixels https://store.steampowered.com/app/211260/They_Bleed_Pixels/
 { "name": "TheyBleedPixels", "type": "Game" }
 
 # Thirty Flights of Loving https://store.steampowered.com/app/214700/Thirty_Flights_of_Loving/
 { "name": "tfol", "type": "Game" }
+
+# This Is the Police https://store.steampowered.com/app/443810/This_Is_the_Police/
+{ "name": "Police.x86_64", "type": "Game" }
+
+# This Is the Police 2 https://store.steampowered.com/app/785740/This_Is_the_Police_2/
+{ "name": "Police2.x86_64", "type": "Game" }
 
 # This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
 { "name": "This War of Mine", "type": "Game" }
@@ -74,11 +115,21 @@
 # Ticket to Ride: Classic Edition https://store.steampowered.com/app/108200/Ticket_to_Ride_Classic_Edition/
 { "name": "Ticket to Ride", "type": "Game" }
 
+# Timberman https://store.steampowered.com/app/398710/Timberman/
+{ "name": "Timberman.x86_64", "type": "Game" }
+
+# Time Clickers https://store.steampowered.com/app/385770/Time_Clickers/
+{ "name": "TimeClickers.x86", "type": "Game" }
+{ "name": "TimeClickers.x86_64", "type": "Game" }
+
 # Timespinner https://store.steampowered.com/app/368620/Timespinner/
 { "name": "Timespinner", "type": "Game" }
 
 # Tiny and Big: Grandpa's Leftovers https://store.steampowered.com/app/205910/Tiny_and_Big_Grandpas_Leftovers/
 { "name": "tinyandbig", "type": "Game" }
+
+# Tiny Aquarium https://store.steampowered.com/app/2581950/Tiny_Aquarium_Social_Fishkeeping/
+{ "name": "TinyAquarium.x86_64", "type": "Game" }
 
 # Tiny Bookshop https://store.steampowered.com/app/2133760/Tiny_Bookshop/
 { "name": "Tiny Bookshop.x86_64", "type": "Game" }
@@ -86,8 +137,15 @@
 # Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
 { "name": "tiny-glade", "type": "Game" }
 
+# TIS-100 https://store.steampowered.com/app/370360/TIS100/
+{ "name": "tis100.x86", "type": "Game" }
+{ "name": "tis100.x86_64", "type": "Game" }
+
 # tModLoader https://store.steampowered.com/app/1281930/tModLoader/
 { "name": "tModLoader", "type": "Game" }
+
+# ToeJam & Earl: Back in the Groove https://store.steampowered.com/app/516110/ToeJam__Earl_Back_in_the_Groove/
+{ "name": "backinthegroove.x86_64", "type": "Game" }
 
 # TOEM: A Photo Adventure https://store.steampowered.com/app/1307580/TOEM_A_Photo_Adventure/
 { "name": "TOEM.x86_64", "type": "Game" }
@@ -137,6 +195,9 @@
 # Total War: ROME REMASTERED https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
 { "name": "Rome", "type": "Game" }
 
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
+{ "name": "Shogun2", "type": "Game" }
+
 # Total War: THREE KINGDOMS https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
 { "name": "ThreeKingdoms", "type": "Game" }
 
@@ -163,6 +224,9 @@
 # Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
 { "name": "Tower-Linux-Shipping", "type": "Game" }
 
+# Train Valley 2 https://store.steampowered.com/app/602320/Train_Valley_2/
+{ "name": "TrainValley2.x86_64", "type": "Game" }
+
 # Transformice https://store.steampowered.com/app/335240/Transformice/
 { "name": "Transformice", "type": "Game" }
 
@@ -174,6 +238,9 @@
 
 # Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2", "type": "Game" }
+
+# Trees Hate You Demo https://store.steampowered.com/app/4307190/Trees_Hate_You_Demo/
+{ "name": "TreesHateYou.x86_64", "type": "Game" }
 
 # Tricky Towers https://store.steampowered.com/app/437920/Tricky_Towers/
 { "name": "TrickyTowers.x86", "type": "Game" }
@@ -201,6 +268,12 @@
 
 # Turmoil https://store.steampowered.com/app/361280/Turmoil/
 { "name": "Turmoil.x86_64", "type": "Game" }
+
+# Turnbound https://store.steampowered.com/app/3802470/Turnbound/
+{ "name": "Turnbound.x86_64", "type": "Game" }
+
+# Turnip Boy Commits Tax Evasion https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/
+{ "name": "Turnip Boy Commits Tax Evasion.x86_64", "type": "Game" }
 
 # Turok https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }
@@ -230,3 +303,6 @@
 { "name": "tyr-glqwcl", "type": "Game" }
 { "name": "tyr-quake", "type": "Game" }
 { "name": "tyr-qwcl", "type": "Game" }
+
+# TY the Tasmanian Tiger https://store.steampowered.com/app/411960/TY_the_Tasmanian_Tiger/
+{ "name": "TY", "type": "Game" }

@@ -5,11 +5,17 @@
 
 ### Y ###
 
+# Yacht Dice https://store.steampowered.com/app/1737690/Yacht_Dice/
+{ "name": "YachtDice.exe", "type": "Game" }
+
 # YAIBA: NINJA GAIDEN Z https://store.steampowered.com/app/252230/YAIBA_NINJA_GAIDEN_Z/
 { "name": "NRZGame.exe", "type": "Game" }
 
 # Yakuza 0 https://store.steampowered.com/app/638970/Yakuza_0/
 { "name": "Yakuza0.exe", "type": "Game" }
+
+# Yakuza 0 Director's Cut https://store.steampowered.com/app/2988580/
+{ "name": "yakuza0_dc.exe", "type": "Game" }
 
 # Yakuza 3 Remastered https://store.steampowered.com/app/1088710/Yakuza_3_Remastered/
 { "name": "Yakuza3.exe", "type": "Game" }
@@ -22,6 +28,12 @@
 
 # Yakuza 6: The Song of Life https://store.steampowered.com/app/1388590/Yakuza_6_The_Song_of_Life/
 { "name": "Yakuza6.exe", "type": "Game" }
+
+# Yakuza Kiwami https://store.steampowered.com/app/3717330/
+{ "name": "yakuzakiwami_r.exe", "type": "Game" }
+
+# Yakuza Kiwami 2 https://store.steampowered.com/app/3717340/
+{ "name": "yakuzakiwami2_r.exe", "type": "Game" }
 
 # Yakuza Kiwami 2 (Legacy) https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/
 { "name": "YakuzaKiwami2.exe", "type": "Game" }
@@ -44,9 +56,17 @@
 # YAPYAP https://store.steampowered.com/app/3834090/YAPYAP/
 { "name": "yapyap.exe", "type": "Game" }
 
+# Yargis - Space Melee - Dedicated Server https://store.steampowered.com/app/382030/
+{ "name": "YargisServer.exe", "type": "Game" }
+{ "name": "YargisServerConfig.exe", "type": "Game" }
+{ "name": "YargisFeedback.exe", "type": "Game" }
+
 # Yarimono https://store.steampowered.com/app/2696050/Yarimono/
 { "name": "YARISUTEMESUBUTA.exe", "type": "Game" }
 { "name": "YM.exe", "type": "Game" }
+
+# YEAH! YOU WANT "THOSE GAMES," RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! https://store.steampowered.com/app/2348100/YEAH_YOU_WANT_THOSE_GAMES_RIGHT_SO_HERE_YOU_GO_NOW_LETS_SEE_YOU_CLEAR_THEM/
+{ "name": "THOSE GAMES.exe", "type": "Game" }
 
 # Year Walk https://store.steampowered.com/app/269050/Year_Walk/
 { "name": "yearwalk.exe", "type": "Game" }
@@ -63,11 +83,20 @@
 # Yes, Your Grace 2: Snowfall https://store.steampowered.com/app/1373090/Yes_Your_Grace_2_Snowfall/
 { "name": "Yes Your Grace Snowfall.exe", "type": "Game" }
 
+# Yet Another Zombie Defense HD https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/
+{ "name": "YAZD_HD.exe", "type": "Game" }
+
 # Yet Another Zombie Survivors https://store.steampowered.com/app/2163330/Yet_Another_Zombie_Survivors/
 { "name": "Yet Another Zombie Survivors.exe", "type": "Game" }
 
 # Yi Xian: The Cultivation Card Game https://store.steampowered.com/app/1948800/Yi_Xian_The_Cultivation_Card_Game/
 { "name": "YiXianPai.exe", "type": "Game" }
+
+# Ylands https://store.steampowered.com/app/298610/Ylands/
+{ "name": "Ylands.exe", "type": "Game" }
+
+# Ymir https://store.steampowered.com/app/378360/Ymir/
+{ "name": "Ymir.exe", "type": "Game" }
 
 # Yog-Sothoth’s Yard https://store.steampowered.com/app/2194530/YogSothoths_Yard/
 { "name": "Yog-Sothoth's Yard.exe", "type": "Game" }
@@ -75,12 +104,27 @@
 # Yoku's Island Express https://store.steampowered.com/app/334940/Yokus_Island_Express/
 { "name": "Yoku.exe", "type": "Game" }
 
+# YoloMouse https://store.steampowered.com/app/1283970/YoloMouse__Cursor_Changer/
+{ "name": "YoloMouse.exe", "type": "BG_CPUIO" }
+
+# YoloX https://store.steampowered.com/app/2641350/YoloX__Crosshair_Overlay/
+{ "name": "YoloX.exe", "type": "BG_CPUIO" }
+
+# Yomawari: Night Alone https://store.steampowered.com/app/477870/Yomawari_Night_Alone/
+{ "name": "yomawari-steam.exe", "type": "Game" }
+
 # Yooka-Laylee https://store.steampowered.com/app/360830/YookaLaylee/
 { "name": "YookaLaylee64.exe", "type": "Game" }
 
 # Yooka-Laylee and the Impossible Lair https://store.steampowered.com/app/846870/YookaLaylee_and_the_Impossible_Lair/
 { "name": "BounceWin64.exe", "type": "Game" }
 { "name": "YLILWin64.exe", "type": "Game" }
+
+# Yoru ga Kuru! -Square of the Moon- Remastered https://store.steampowered.com/app/2901150/Yoru_ga_Kuru_Square_of_the_Moon_Remastered/
+{ "name": "NightRemaster.exe", "type": "Game" }
+
+# YOU and ME and HER: A Love Story https://store.steampowered.com/app/1293820/YOU_and_ME_and_HER_A_Love_Story/
+{ "name": "totono_Steam.exe", "type": "Game" }
 
 # YOU DON'T KNOW JACK HEADRUSH https://store.steampowered.com/app/260060/YOU_DONT_KNOW_JACK_HEADRUSH/
 { "name": "YDKJVH.EXE", "type": "Game" }
@@ -115,8 +159,17 @@
 # You Must Build A Boat https://store.steampowered.com/app/290890/You_Must_Build_A_Boat/
 { "name": "YMBAB.exe", "type": "Game" }
 
+# You Need A Budget 4 (YNAB) https://store.steampowered.com/app/227320/
+{ "name": "YNAB 4.exe", "type": "Game" }
+
+# Your Big, Cute Monster Farm https://store.steampowered.com/app/3659410/Your_Big_Cute_Monster_Farm/
+{ "name": "MonsterFarm.exe", "type": "Game" }
+
 # Your Chronicle https://store.steampowered.com/app/1546320/Your_Chronicle/
 { "name": "YourChronicle.exe", "type": "Game" }
+
+# Your Mom https://store.steampowered.com/app/4147820/Your_Mom/
+{ "name": "YourMom.exe", "type": "Game" }
 
 # Your Mother https://store.steampowered.com/app/3399950/Your_Mother/
 { "name": "YourMother.exe", "type": "Game" }
@@ -124,8 +177,24 @@
 # Your Only Move Is HUSTLE https://store.steampowered.com/app/2212330/Your_Only_Move_Is_HUSTLE/
 { "name": "YourOnlyMoveIsHUSTLE.exe", "type": "Game" }
 
+# your sisters https://steamdb.info/app/611150/
+{ "name": "YourSisters.exe", "type": "Game" }
+
+# Youtubers Life https://store.steampowered.com/app/428690/Youtubers_Life/
+{ "name": "YoutubersLife.exe", "type": "Game" }
+
+# Youtubers Life 2 https://store.steampowered.com/app/1493760/Youtubers_Life_2/
+{ "name": "Youtubers Life 2.exe", "type": "Game" }
+
+# Youtubers Life 3 https://store.steampowered.com/app/3487060/Youtubers_Life_3/
+{ "name": "Youtubers Life 3.exe", "type": "Game" }
+
 # Ys I & II Chronicles+ https://store.steampowered.com/app/223810/Ys_I__II_Chronicles/
 { "name": "ys1plus.exe", "type": "Game" }
+
+# Ys IX: Monstrum Nox https://store.steampowered.com/app/1351630/Ys_IX_Monstrum_Nox/
+{ "name": "ys9.exe", "type": "Game" }
+{ "name": "ys9_JP.exe", "type": "Game" }
 
 # Ys: Memories of Celceta https://store.steampowered.com/app/587110/Ys_Memories_of_Celceta/
 { "name": "Ysc_dx11.exe", "type": "Game" }
@@ -157,11 +226,14 @@
 # Yu-Gi-Oh! EARLY DAYS COLLECTION https://store.steampowered.com/app/3013550/YuGiOh_EARLY_DAYS_COLLECTION/
 { "name": "yugioh_early_days_collection.exe", "type": "Game" }
 
-# Yu-Gi-Oh! Legacy of the Duelist : Link Evolution https://store.steampowered.com/app/1150640/YuGiOh_Legacy_of_the_Duelist__Link_Evolution/
-{ "name": "YuGiOh.exe", "type": "Game" }
-
 # Yu-Gi-Oh! Master Duel https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
 { "name": "masterduel.exe", "type": "Game" }
+
+# Yume Nikki https://store.steampowered.com/app/650700/Yume_Nikki/
+{ "name": "RPG_RT.exe", "type": "Game" }
+
+# Yunyun Syndrome!? Rhythm Psychosis https://store.steampowered.com/app/2914150/Yunyun_Syndrome_Rhythm_Psychosis/
+{ "name": "Yunyun_Syndrome.exe", "type": "Game" }
 
 # Yuppie Psycho: Executive Edition https://store.steampowered.com/app/597760/Yuppie_Psycho_Executive_Edition/
 { "name": "yuppiepsycho.exe", "type": "Game" }

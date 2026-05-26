@@ -9,14 +9,10 @@
 { "name": "BackpackBattles.x86_64", "type": "Game" }
 
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
-{ "name": "linux.x86_64", "type": "Game" }
 { "name": "Lunar.x86_64", "type": "Game" }
 
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
-
-# Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
-{ "name": "BALDI.x86_64", "type": "Game" }
 
 # Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3", "type": "Game" }
@@ -24,8 +20,17 @@
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "BaldursGateII", "type": "Game" }
 
+# Ballionaire https://store.steampowered.com/app/2667120/Ballionaire/
+{ "name": "ballionaire-linux.x86_64", "type": "Game" }
+
+# BallisticNG https://store.steampowered.com/app/473770/BallisticNG/
+{ "name": "BallisticNG", "type": "Game" }
+
 # Banana https://store.steampowered.com/app/2923300/Banana/
 { "name": "Banana.x86_64", "type": "Game" }
+
+# Bao Bao's Cozy Laundromat https://store.steampowered.com/app/3194550/Bao_Baos_Cozy_Laundromat/
+{ "name": "BaoBao-Linux-Build.x86_64", "type": "Game" }
 
 # Barony https://store.steampowered.com/app/371970/Barony/
 { "name": "barony.x86_64", "type": "Game" }
@@ -41,11 +46,18 @@
 # Bastion https://store.steampowered.com/app/107100/Bastion/
 { "name": "Bastion", "type": "Game" }
 
+# BatMUD https://store.steampowered.com/app/616920/BatMUD/
+{ "name": "BatMUD", "type": "Game" }
+
 # BattleBlock Theater https://store.steampowered.com/app/238460/BattleBlock_Theater/
 { "name": "BattleBlockTheater", "type": "Game" }
 
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC", "type": "Game" }
+
+# Battle Chef Brigade https://store.steampowered.com/app/452570/Battle_Chef_Brigade_Deluxe/
+{ "name": "BattleChefBrigade.x86", "type": "Game" }
+{ "name": "BattleChefBrigade.x86_64", "type": "Game" }
 
 # Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
 { "name": "wesnoth", "type": "Game" }
@@ -53,6 +65,12 @@
 
 # Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
 { "name": "BattleNations", "type": "Game" }
+
+# Battle Ranch https://store.steampowered.com/app/340070/Battle_Ranch_Pigs_vs_Plants/
+{ "name": "Battle Ranch", "type": "Game" }
+
+# Battle Tanks: World War II https://store.steampowered.com/app/782670/Battle_Tanks_World_War_II/
+{ "name": "Battle Tanks.x86_64", "type": "Game" }
 
 # BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
 { "name": "BattleTech", "type": "Game" }
@@ -75,6 +93,14 @@
 { "name": "Beholder.x86", "type": "Game" }
 { "name": "Beholder.x86_64", "type": "Game" }
 
+# Beholder 2 https://store.steampowered.com/app/761620/Beholder_2/
+{ "name": "Beholder2.x86", "type": "Game" }
+{ "name": "Beholder2.x86_64", "type": "Game" }
+
+# Being a DIK https://store.steampowered.com/app/1126320/
+{ "name": "BeingADIK.exe", "type": "Game" }
+{ "name": "BeingADIK-32.exe", "type": "Game" }
+
 # Bendy and the Ink Machine https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/
 { "name": "BATIM.x86", "type": "Game" }
 { "name": "BATIM.x86_64", "type": "Game" }
@@ -86,6 +112,9 @@
 # BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "bioshock", "type": "Game" }
 { "name": "bioshock.i386", "type": "Game" }
+
+# Bitburner https://store.steampowered.com/app/1812820/Bitburner/
+{ "name": "bitburner", "type": "Game" }
 
 # BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien https://store.steampowered.com/app/218060/BITTRIP_Presents_Runner2_Future_Legend_of_Rhythm_Alien/
 { "name": "runner2", "type": "Game" }
@@ -108,11 +137,17 @@
 # Bleed https://store.steampowered.com/app/239800/Bleed/
 { "name": "Bleed", "type": "Game" }
 
+# Blender https://store.steampowered.com/app/365670/Blender/
+{ "name": "blender-launcher", "type": "BG_CPUIO" }
+
 # Blockstorm https://store.steampowered.com/app/263060/Blockstorm/
 { "name": "Blockstorm", "type": "Game" }
 
 # Blush Blush https://store.steampowered.com/app/777130/Blush_Blush/
 { "name": "BlushBlush.x86_64", "type": "Game" }
+
+# Bombe https://store.steampowered.com/app/2262930/Bombe/
+{ "name": "Bombe", "type": "Game" }
 
 # Bomber Crew https://store.steampowered.com/app/537800/Bomber_Crew/
 { "name": "BomberCrew.x86", "type": "Game" }
@@ -126,6 +161,9 @@
 
 # Borderlands: The Pre-Sequel https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/
 { "name": "BorderlandsPreSequel", "type": "Game" }
+
+# Borderless Gaming https://store.steampowered.com/app/388080/Borderless_Gaming/
+{ "name": "bg-holo", "type": "Game" }
 
 # Bound By Flame https://store.steampowered.com/app/243930/Bound_By_Flame/
 { "name": "BoundByFlame", "type": "Game" }
@@ -141,6 +179,12 @@
 
 # Breach & Clear https://store.steampowered.com/app/266130/Breach__Clear/
 { "name": "bnc_linux.x86", "type": "Game" }
+
+# Breachway https://store.steampowered.com/app/2118810/Breachway/
+{ "name": "Breachway", "type": "Game" }
+
+# Breakout 13 https://store.steampowered.com/app/2095300/Breakout_13/
+{ "name": "Breakout13", "type": "Game" }
 
 # Brick Rigs https://store.steampowered.com/app/552100/Brick_Rigs/
 { "name": "BrickRigsSteam-Linux-Shipping", "type": "Game" }
@@ -171,9 +215,11 @@
 { "name": "bs1dc_i386", "type": "Game" }
 { "name": "bs1dc_x86_64", "type": "Game" }
 
+# Broken Sword - Shadow of the Templars: Reforged https://store.steampowered.com/app/2544110/Broken_Sword__Shadow_of_the_Templars_Reforged/
+{ "name": "BS1R", "type": "Game" }
+
 # Brotato https://store.steampowered.com/app/1942280/Brotato/
 { "name": "Brotato.x86_64", "type": "Game" }
-{ "name": "GodotWorkshopUtility.x86_64", "type": "Game" }
 
 # Brutal Legend https://store.steampowered.com/app/225260/Brutal_Legend/
 { "name": "Buddha.bin.x86", "type": "Game" }
@@ -183,6 +229,9 @@
 
 # Buckshot Roulette https://store.steampowered.com/app/2835570/Buckshot_Roulette/
 { "name": "Buckshot Roulette.x86_64", "type": "Game" }
+
+# Burning Boundaries Part 1 https://store.steampowered.com/app/4006400/
+{ "name": "BurningBoundaries", "type": "Game" }
 
 # BUTCHER https://store.steampowered.com/app/474210/BUTCHER/
 { "name": "Butcher", "type": "Game" }

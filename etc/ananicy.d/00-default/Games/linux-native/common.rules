@@ -4,10 +4,35 @@
 # 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
 { "name": "60Seconds.x86_64", "type": "Game" }
 
+# Substance 3D Designer 2022 https://store.steampowered.com/app/1775400/Substance_3D_Designer_2022/
+# Substance 3D Designer 2023 https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/
+# Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
+{ "name": "Adobe Substance 3D Designer", "type": "Game" }
+
+# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
+# Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
+# Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
+# Substance 3D Painter 2024 https://store.steampowered.com/app/2718190/Substance_3D_Painter_2024/
+# Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
+{ "name": "Adobe Substance 3D Painter", "type": "Game" }
+
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "Airfoil Maker-x86_64", "type": "Game" }
+
+# American Truck Simulator Demo https://store.steampowered.com/app/441960/American_Truck_Simulator/
+# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
+{ "name": "amtrucks", "type": "Game" }
+
+# Vending Machine Co. https://store.steampowered.com/app/3622640/Vending_Machine_Co/
+# Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
+# Lost But Found https://store.steampowered.com/app/3204250/Lost_But_Found/
+{ "name": "app.x86_64", "type": "Game" }
+
+# Baldi's Basics Classic Remastered https://store.steampowered.com/app/1712830/Baldis_Basics_Classic_Remastered/
+# Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
+{ "name": "BALDI.x86_64", "type": "Game" }
 
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
@@ -29,6 +54,7 @@
 # Environmental Station Alpha https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 # Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
 # Astral Ascent https://store.steampowered.com/app/1280930/Astral_Ascent/
+# The Escapists https://store.steampowered.com/app/298630/The_Escapists/
 { "name": "Chowdren", "type": "Game" }
 
 # Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
@@ -43,6 +69,14 @@
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam_x64", "type": "Game" }
 
+# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
+# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
+{ "name": "dosbox_i686", "type": "Game" }
+
+# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
+# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
+{ "name": "dosbox_x86_64", "type": "Game" }
+
 # Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "dowser", "type": "BG_CPUIO" }
@@ -51,11 +85,23 @@
 # Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
 { "name": "DungeonDefenders", "type": "Game" }
 
-# Football Manager Series
+# Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
+# Euro Truck Simulator 2 Demo https://store.steampowered.com/app/231120/Euro_Truck_Simulator_2/
+{ "name": "eurotrucks2", "type": "Game" }
+
+# Factorio Demo https://store.steampowered.com/app/452280/Factorio/
+# Factorio https://store.steampowered.com/app/427520/Factorio/
+{ "name": "factorio", "type": "Game" }
+
+# Football Manager 2014 https://store.steampowered.com/app/231670/
+# Football Manager 2015 https://store.steampowered.com/app/295270/
+# Football Manager 2016 https://store.steampowered.com/app/378120/
+# Football Manager 2018 https://store.steampowered.com/app/624090/
 { "name": "fm", "type": "Game" }
 
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
+# Everafter Falls https://store.steampowered.com/app/1416960/Everafter_Falls/
 { "name": "Game", "type": "Game" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
@@ -80,23 +126,15 @@
 # Empires https://store.steampowered.com/app/17740/Empires_Mod/
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
 # BrainBread 2 https://store.steampowered.com/app/346330/BrainBread_2/
+# Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+# Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 { "name": "hl2_linux64", "type": "Game" }
-
-# Half-Life https://store.steampowered.com/app/70/HalfLife/
-# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
-# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
-# Team Fortress Classic https://store.steampowered.com/app/20/Team_Fortress_Classic/
-# Ricochet https://store.steampowered.com/app/60/Ricochet/
-# Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
-# Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
-# Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
-# Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
-{ "name": "hl_linux", "type": "Game" }
-
 
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
@@ -112,17 +150,50 @@
 
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+# Team Fortress Classic https://store.steampowered.com/app/20/Team_Fortress_Classic/
+# Ricochet https://store.steampowered.com/app/60/Ricochet/
+# Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
+# Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
+# Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
+# Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
+{ "name": "hl_linux", "type": "Game" }
+
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 { "name": "hltv", "type": "Game" }
+
+# Kindergarten https://store.steampowered.com/app/589590/Kindergarten/
+# Kindergarten 2 https://store.steampowered.com/app/1067850/Kindergarten_2/
+{ "name": "Kindergarten.x86_64", "type": "Game" }
+
+# Kingdom: Classic https://store.steampowered.com/app/368230/Kingdom_Classic/
+# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
+{ "name": "Kingdom.x86", "type": "Game" }
 
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 # Danganronpa: Trigger Happy Havoc https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
 { "name": "Launcher", "type": "Game" }
 
+# Gourdlets https://store.steampowered.com/app/2013730/Gourdlets/
+# Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
+{ "name": "linux.x86_64", "type": "Game" }
+
+# Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
+# LOOTPLOT https://store.steampowered.com/app/3057190/LOOTPLOT/
+{ "name": "love", "type": "Game" }
+
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
+
+# Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
+# RPG MO https://store.steampowered.com/app/372800/RPG_MO/
+# Depression Quest https://store.steampowered.com/app/270170/Depression_Quest/
+# Treasure of Nadia https://store.steampowered.com/app/1737100/
+{ "name": "nw", "type": "Game" }
 
 # Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/
 # Out of the Park Baseball 19 https://store.steampowered.com/app/619290/Out_of_the_Park_Baseball_19/
@@ -157,6 +228,7 @@
 # Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
 # X-Blades https://store.steampowered.com/app/7510/XBlades/
 # Enclave https://store.steampowered.com/app/253980/Enclave/
+# Jack Orlando Director's Cut https://store.steampowered.com/app/253960/Jack_Orlando_Directors_Cut/
 { "name": "RunGame", "type": "Game" }
 
 # Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
@@ -175,20 +247,38 @@
 # Spoiler Alert https://store.steampowered.com/app/283230/Spoiler_Alert/
 # Stealth Bastard Deluxe https://store.steampowered.com/app/209190/Stealth_Bastard_Deluxe/
 # Savant - Ascent https://store.steampowered.com/app/259530/Savant__Ascent/
+# UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
 # RONIN https://store.steampowered.com/app/274230/RONIN/
+# UBERMOSH:WRAITH https://store.steampowered.com/app/586350/UBERMOSHWRAITH/
 { "name": "runner", "type": "Game" }
 
-# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
-# Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
-{ "name": "srcds_linux", "type": "Game" }
-
-# Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
-# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
-{ "name": "srcds_linux64", "type": "Game" }
+# shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
+# shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
+{ "name": "shapez 2.x86_64", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame", "type": "Game" }
+
+# Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+{ "name": "songsofsyx", "type": "Game" }
+
+# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+# Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
+# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+# Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
+{ "name": "srcds_linux", "type": "Game" }
+
+# Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
+# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+{ "name": "srcds_linux64", "type": "Game" }
+
+# Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
+# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+{ "name": "srcds_run", "type": "Game" }
 
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
@@ -196,6 +286,14 @@
 # Goodbye Deponia https://store.steampowered.com/app/241910/Goodbye_Deponia/
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "start", "type": "Game" }
+
+# Stoneshard https://store.steampowered.com/app/625960/Stoneshard/
+# Stoneshard: Prologue https://store.steampowered.com/app/869760/Stoneshard_Prologue/
+{ "name": "StoneShard", "type": "Game" }
+
+# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
+# Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
+{ "name": "Substance Painter", "type": "Game" }
 
 # X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
@@ -219,8 +317,25 @@
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "X-Plane-x86_64", "type": "Game" }
 
+### Other (no sorting required) ### 
+
+
+# some sort of godot process/program idk
+{ "name": "GodotWorkshopUtility.x86_64", "type": "BG_CPUIO" }
 
 # Source dedicated server
 { "name": "srcds_i486", "type": "Game" }
-{ "name": "srcds_run", "type": "Game" }
 
+# Crash handlers
+{ "name": "CrashReportClient", "type": "BG_CPUIO" }
+{ "name": "crashwatcher", "type": "BG_CPUIO" }
+{ "name": "ErrorReporter", "type": "BG_CPUIO" }
+{ "name": "createdump", "type": "BG_CPUIO" }
+
+
+
+# The following games are shipped with the DOSBox emulator ("dosbox"), which is declared in emulators.rules
+
+# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
+# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
+# Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/

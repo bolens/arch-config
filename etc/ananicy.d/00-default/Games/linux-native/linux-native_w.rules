@@ -17,6 +17,9 @@
 # Warhammer 40,000: Dawn of War III https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
 { "name": "DawnOfWar3", "type": "Game" }
 
+# Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
+{ "name": "DawnOfWar2Retribution", "type": "Game" }
+
 # Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
 { "name": "Gladius", "type": "BG_CPUIO" }
 
@@ -26,6 +29,10 @@
 # War Selection https://store.steampowered.com/app/1022450/War_Selection/
 { "name": "SteamLauncher", "type": "Game" }
 { "name": "GlyphEngine", "type": "Game" }
+
+# Warspear Online https://store.steampowered.com/app/326360/Warspear_Online/
+{ "name": "warspear_32", "type": "Game" }
+{ "name": "warspear_64", "type": "Game" }
 
 # War Thunder https://store.steampowered.com/app/236390/War_Thunder/
 { "name": "aces", "type": "Game" }
@@ -43,11 +50,17 @@
 # Waveform https://store.steampowered.com/app/204180/Waveform/
 { "name": "Waveform", "type": "Game" }
 
+# Wax Heads https://store.steampowered.com/app/2769240/Wax_Heads/
+{ "name": "wax_heads.x86_64", "type": "Game" }
+
 # Wedding Witch https://store.steampowered.com/app/2529820/Wedding_Witch/
 { "name": "Wedding Witch.x86_64", "type": "Game" }
 
 # We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
 { "name": "GlimpseGame", "type": "Game" }
+
+# We Need To Go Deeper https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/
+{ "name": "WeNeedToGoDeeper", "type": "Game" }
 
 # West of Loathing https://store.steampowered.com/app/597220/West_of_Loathing/
 { "name": "West of Loathing.x86", "type": "Game" }
@@ -64,17 +77,37 @@
 # Wildermyth https://store.steampowered.com/app/763890/Wildermyth/
 { "name": "wildermyth", "type": "Game" }
 
+# Wild West Saga https://store.steampowered.com/app/842150/Wild_West_Saga_Idle_Tycoon_Clicker/
+{ "name": "wildwest.x86", "type": "Game" }
+
+# Windowkill https://store.steampowered.com/app/2726450/Windowkill/
+{ "name": "windowkill-linux.x86_64", "type": "Game" }
+{ "name": "godotworkshoputility.x86_64", "type": "Game" }
+
+# Windward Horizon https://store.steampowered.com/app/2665460/Windward_Horizon/
+{ "name": "Windward Horizon.x86_64", "type": "Game" }
+
 # Wireworks https://store.steampowered.com/app/4206270/Wireworks/
 { "name": "Wireworks.x86_64", "type": "Game" }
 
 # Without Within https://store.steampowered.com/app/345650/Without_Within/
 { "name": "without_within", "type": "Game" }
 
+# Wizard of Legend https://store.steampowered.com/app/445980/Wizard_of_Legend/
+{ "name": "WizardOfLegend.x86", "type": "Game" }
+{ "name": "WizardOfLegend.x86_64", "type": "Game" }
+
+# WizUp! https://store.steampowered.com/app/2864500/WizUp/
+{ "name": "WizUp.x86_64", "type": "Game" }
+
 # WolfQuest: Anniversary Edition https://store.steampowered.com/app/926990/WolfQuest_Anniversary_Edition/
 { "name": "WolfQuestAE.x86_64", "type": "Game" }
 
 # Wonder Boy: The Dragon's Trap https://store.steampowered.com/app/543260/Wonder_Boy_The_Dragons_Trap/
 { "name": "WonderBoy", "type": "Game" }
+
+# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
+{ "name": "wordle.x86", "type": "Game" }
 
 # WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
 { "name": "worldbox", "type": "Game" }
@@ -84,6 +117,12 @@
 
 # World of Guns: Gun Disassembly https://store.steampowered.com/app/262410/World_of_Guns_Gun_Disassembly/
 { "name": "disasm.x86", "type": "Game" }
+
+# Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
+{ "name": "WorldsOfMagic", "type": "Game" }
+
+# World War Legion https://store.steampowered.com/app/3577060/World_War_Legion/
+{ "name": "WorldWarLegion.x86_64", "type": "Game" }
 
 # Worms Clan Wars https://store.steampowered.com/app/233840/Worms_Clan_Wars/
 { "name": "WormsClanWars.bin.x86", "type": "Game" }

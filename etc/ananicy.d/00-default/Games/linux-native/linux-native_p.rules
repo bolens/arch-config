@@ -21,6 +21,9 @@
 # Paleo Pines https://store.steampowered.com/app/1202200/Paleo_Pines/
 { "name": "Paleo Pines.x86_64", "type": "Game" }
 
+# Palworld Dedicated Server https://store.steampowered.com/app/2394010/
+{ "name": "PalServer-Linux-Shipping", "type": "Game" }
+
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.x86", "type": "Game" }
 
@@ -30,14 +33,31 @@
 # Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
 { "name": "PYGame-Linux", "type": "Game" }
 
+# Paragnosia https://store.steampowered.com/app/3017580/Paragnosia/
+{ "name": "Paragnosia.x86_64", "type": "Game" }
+
 # Paranautical Activity: Deluxe Atonement Edition https://store.steampowered.com/app/250580/Paranautical_Activity_Deluxe_Atonement_Edition/
 { "name": "Paranautical Activity.x86", "type": "Game" }
 
 # Parkitect https://store.steampowered.com/app/453090/Parkitect/
 { "name": "Parkitect.x86_64", "type": "Game" }
 
+# Particle Fleet: Emergence https://store.steampowered.com/app/422900/Particle_Fleet_Emergence/
+{ "name": "ParticleFleet.x86", "type": "Game" }
+{ "name": "ParticleFleet.x86_64", "type": "Game" }
+
+# Particul https://store.steampowered.com/app/4273120/Particul/
+{ "name": "particul", "type": "Game" }
+
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
+
+# Passpartout: The Starving Artist https://store.steampowered.com/app/582550/Passpartout_The_Starving_Artist/
+{ "name": "Passpartout.x86", "type": "Game" }
+{ "name": "Passpartout.x86_64", "type": "Game" }
+
+# Patrick's Parabox https://store.steampowered.com/app/1260520/Patricks_Parabox/
+{ "name": "Patrick's Parabox.x86_64", "type": "Game" }
 
 # PA UI : User interface Planetary Annihilation https://github.com/planetary-annihilation/pa-ui/
 { "name": "CoherentUI_Host", "type": "Game" }
@@ -54,8 +74,18 @@
 # Penumbra: Requiem https://store.steampowered.com/app/22140/Penumbra_Requiem/
 { "name": "requiem", "type": "Game" }
 
+# Perfect Golf https://store.steampowered.com/app/288140/Perfect_Golf/
+{ "name": "Perfect Golf.x86", "type": "Game" }
+{ "name": "Perfect Golf.x86_64", "type": "Game" }
+
+# Perfect Heist 2 https://store.steampowered.com/app/1521580/Perfect_Heist_2/
+{ "name": "PerfectHeist2-Linux-Shipping", "type": "Game" }
+
 # Picross Touch https://store.steampowered.com/app/476460/Picross_Touch/
 { "name": "picross.x86", "type": "Game" }
+
+# Pictopix https://store.steampowered.com/app/568320/Pictopix/
+{ "name": "Pictopix.x86_64", "type": "Game" }
 
 # Pier Solar and the Great Architects https://store.steampowered.com/app/286220/Pier_Solar_and_the_Great_Architects/
 { "name": "pshd", "type": "Game" }
@@ -92,6 +122,10 @@
 # Plague Inc: Evolved https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
 { "name": "PlagueIncEvolved.x86_64", "type": "Game" }
 
+# Planar Conquest https://store.steampowered.com/app/449300/Planar_Conquest/
+{ "name": "PlanarConquest.x86", "type": "Game" }
+{ "name": "PlanarConquest.x86_64", "type": "Game" }
+
 # Planescape: Torment: Enhanced Edition https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
 { "name": "Torment", "type": "Game" }
 
@@ -101,6 +135,9 @@
 # Pluto https://store.steampowered.com/app/3057670/Pluto/
 { "name": "pluto.x86_64", "type": "Game" }
 
+# Poker Master https://store.steampowered.com/app/994910/Poker_Master__Texas_Holdem_Roulette_Blackjack_Baccarat_Omaha_Slots_Teen_Patti/
+{ "name": "PokerMaster", "type": "Game" }
+
 # Police Stories https://store.steampowered.com/app/539470/Police_Stories/
 { "name": "PoliceStoriesRelease", "type": "Game" }
 
@@ -108,8 +145,14 @@
 { "name": "polybridge.x86", "type": "Game" }
 { "name": "polybridge.x86_64", "type": "Game" }
 
+# Poly Bridge 2 https://store.steampowered.com/app/1062160/Poly_Bridge_2/
+{ "name": "Poly Bridge 2.x86_64", "type": "Game" }
+
 # Poly Bridge 3 https://store.steampowered.com/app/1850160/Poly_Bridge_3/
 { "name": "Poly Bridge 3.x86_64", "type": "Game" }
+
+# POOLS https://store.steampowered.com/app/2663530/POOLS/
+{ "name": "POOLS.x86_64", "type": "Game" }
 
 # Portal 2 https://store.steampowered.com/app/620/Portal_2/
 { "name": "portal2_linux", "type": "Game" }
@@ -124,11 +167,17 @@
 # POSTAL Redux https://store.steampowered.com/app/401680/POSTAL_Redux/
 { "name": "PostalREDUX-Linux-Shipping", "type": "Game" }
 
+# Preserve https://store.steampowered.com/app/2109270/Preserve/
+{ "name": "Preserve.x86_64", "type": "Game" }
+
 # Primordia https://store.steampowered.com/app/227000/Primordia/
 { "name": "Primordia", "type": "Game" }
 
 # Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
 { "name": "PrisonArchitect", "type": "Game" }
+
+# Prodeus https://store.steampowered.com/app/964800/Prodeus/
+{ "name": "Prodeus.x86_64", "type": "Game" }
 
 # Project: Gorgon https://store.steampowered.com/app/342940/Project_Gorgon/
 { "name": "ProjectGorgon", "type": "Game" }
@@ -139,11 +188,17 @@
 # Project Hospital https://store.steampowered.com/app/868360/Project_Hospital/
 { "name": "ProjectHospital.x86_64", "type": "Game" }
 
+# projectM Music Visualizer https://store.steampowered.com/app/1358800/projectM_Music_Visualizer/
+{ "name": "projectMSDL", "type": "Game" }
+
 # Project Zomboid https://store.steampowered.com/app/108600/Project_Zomboid/
 { "name": "ProjectZomboid64", "type": "Game" }
 
 # Proteus https://store.steampowered.com/app/219680/Proteus/
 { "name": "Proteus", "type": "Game" }
+
+# Pro Wrestling Sim https://store.steampowered.com/app/1157700/Pro_Wrestling_Sim/
+{ "name": "prowrestlingsim", "type": "Game" }
 
 # Psych Engine https://github.com/ShadowMario/FNF-PsychEngine/
 { "name": "PsychEngine", "type": "Game" }
@@ -154,8 +209,14 @@
 # Psychonauts 2 https://store.steampowered.com/app/607080/Psychonauts_2/
 { "name": "Psychonauts2-Linux-Shipping", "type": "Game" }
 
+# Puck https://store.steampowered.com/app/2994020/Puck/
+{ "name": "Puck", "type": "Game" }
+
 # PULSAR: Lost Colony https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/
 { "name": "PULSAR_LostColony.x86_64", "type": "Game" }
 
 # Punch Club https://store.steampowered.com/app/394310/Punch_Club/
 { "name": "Punch Club.x86", "type": "Game" }
+
+# PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
+{ "name": "pyramidlauncher", "type": "Game" }

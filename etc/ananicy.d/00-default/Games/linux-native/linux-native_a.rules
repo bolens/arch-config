@@ -8,6 +8,9 @@
 # AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome https://store.steampowered.com/app/15560/AaaaaAAaaaAAAaaAAAAaAAAAA_for_the_Awesome/
 { "name": "Awesome.x86", "type": "Game" }
 
+# Absolute Drift https://store.steampowered.com/app/320140/Absolute_Drift/
+{ "name": "AbsoluteDrift.x64", "type": "Game" }
+
 # A Building Full of Cats https://store.steampowered.com/app/1969080/A_Building_Full_of_Cats/
 { "name": "Building.x86_64", "type": "Game" }
 
@@ -17,6 +20,9 @@
 # Abyss: The Wraiths of Eden https://store.steampowered.com/app/284710/Abyss_The_Wraiths_of_Eden/
 { "name": "Abyss_TheWraithsOfEden_amd64", "type": "Game" }
 { "name": "Abyss_TheWraithsOfEden_i386", "type": "Game" }
+
+# Academia : School Simulator https://store.steampowered.com/app/672630/Academia__School_Simulator/
+{ "name": "Academia.x86_64", "type": "Game" }
 
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.x86_64", "type": "Game" }
@@ -36,6 +42,13 @@
 
 # Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
 { "name": "Shuggy", "type": "Game" }
+
+# AER Memories of Old https://store.steampowered.com/app/331870/AER_Memories_of_Old/
+{ "name": "AER.x86", "type": "Game" }
+{ "name": "AER.x86_64", "type": "Game" }
+
+# Aerofly FS 4 Flight Simulator https://store.steampowered.com/app/1995890/Aerofly_FS_4_Flight_Simulator/
+{ "name": "aerofly_fs_4_x64", "type": "Game" }
 
 # A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
 { "name": "A Game About Feeding A Black Hole.x86_64", "type": "Game" }
@@ -70,6 +83,9 @@
 { "name": "AIWarLinux.x86", "type": "Game" }
 { "name": "AIWarLinux.x86_64", "type": "Game" }
 
+# Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
+{ "name": "alabaster_dawn", "type": "Game" }
+
 # Albion Online https://store.steampowered.com/app/761890/Albion_Online/
 { "name": "Albion-Online", "type": "Game" }
 
@@ -82,6 +98,9 @@
 # All Quiet in the Trenches https://store.steampowered.com/app/863500/All_Quiet_in_the_Trenches/
 { "name": "All Quiet in the Trenches.x86_64", "type": "Game" }
 
+# Along the Edge https://store.steampowered.com/app/504390/Along_the_Edge/
+{ "name": "Along the Edge", "type": "Game" }
+
 # Altitude https://store.steampowered.com/app/41300/Altitude/
 { "name": "Altitude", "type": "Game" }
 
@@ -91,14 +110,11 @@
 # Amazing Frog? https://store.steampowered.com/app/332570/Amazing_Frog/
 { "name": "AmazingFrog.x86_64", "type": "Game" }
 
-# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
-{ "name": "amtrucks", "type": "Game" }
-
 # Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
 { "name": "AmnesiaAMFP.bin.x86", "type": "Game" }
 { "name": "AmnesiaAMFP.bin.x86_64", "type": "Game" }
-{ "name": "Launcher.bin.x86", "type": "Game" }
-{ "name": "Launcher.bin.x86_64", "type": "Game" }
+{ "name": "Launcher.bin.x86", "type": "BG_CPUIO" }
+{ "name": "Launcher.bin.x86_64", "type": "BG_CPUIO" }
 
 # Amnesia: Rebirth https://store.steampowered.com/app/999220/Amnesia_Rebirth/
 { "name": "Amnesia2.bin.x86_64", "type": "Game" }
@@ -110,11 +126,25 @@
 { "name": "Amnesia_NOSTEAM.bin.x86", "type": "Game" }
 { "name": "Amnesia_NOSTEAM.bin.x86_64", "type": "Game" }
 
+# Among Ripples https://store.steampowered.com/app/341720/Among_Ripples/
+{ "name": "AmongRipples.x86_64", "type": "Game" }
+{ "name": "AmongRipples.x86", "type": "Game" }
+
 # Among the Sleep - Enhanced Edition https://store.steampowered.com/app/250620/Among_the_Sleep__Enhanced_Edition/
 { "name": "Among the Sleep.x86", "type": "Game" }
 
 # A Monster's Expedition https://store.steampowered.com/app/1052990/A_Monsters_Expedition/
 { "name": "a-monsters-expedition", "type": "Game" }
+
+# Amorous https://store.steampowered.com/app/778700/Amorous/
+{ "name": "Amorous.Game.Unix.bin.x86", "type": "Game" }
+{ "name": "Amorous.Game.Unix.bin.x86_64", "type": "Game" }
+
+# An Amazing Wizard https://store.steampowered.com/app/1372660/An_Amazing_Wizard/
+{ "name": "An_Amazing_Wizard.x86_64", "type": "Game" }
+
+# Ancient Warfare 3 https://store.steampowered.com/app/758990/Ancient_Warfare_3/
+{ "name": "AncientWarfare3.x86_64", "type": "Game" }
 
 # And Yet It Moves https://store.steampowered.com/app/18700/And_Yet_It_Moves/
 { "name": "AndYetItMoves", "type": "Game" }
@@ -128,6 +158,9 @@
 # Anomaly 2 https://store.steampowered.com/app/236730/Anomaly_2/
 { "name": "Anomaly2Linux", "type": "Game" }
 
+# Anomaly Agent https://store.steampowered.com/app/2378620/Anomaly_Agent/
+{ "name": "Anomaly Agent.x86_64", "type": "Game" }
+
 # Anomaly: Warzone Earth https://store.steampowered.com/app/91200/Anomaly_Warzone_Earth/
 { "name": "AnomalyWarzoneEarth", "type": "Game" }
 
@@ -136,6 +169,9 @@
 
 # Aperture Desk Job https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob", "type": "Game" }
+
+# APICO https://store.steampowered.com/app/1390190/APICO/
+{ "name": "APICO", "type": "Game" }
 
 # Apotheon https://store.steampowered.com/app/208750/Apotheon/
 { "name": "Apotheon", "type": "Game" }
@@ -157,8 +193,17 @@
 { "name": "armello.x86", "type": "Game" }
 { "name": "armello.x86_64", "type": "Game" }
 
+# Artifact Classic https://store.steampowered.com/app/583950/Artifact/
+{ "name": "dcg", "type": "Game" }
+
 # art of rally https://store.steampowered.com/app/550320/art_of_rally/
 { "name": "artofrally.x64", "type": "Game" }
+
+# Aseprite https://store.steampowered.com/app/431730/Aseprite/
+{ "name": "aseprite", "type": "Game" }
+
+# Ash of Gods: Redemption https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/
+{ "name": "terminus.x86_64", "type": "Game" }
 
 # A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
 { "name": "AShortHike.x86", "type": "Game" }
@@ -177,11 +222,21 @@
 # ATLYSS https://store.steampowered.com/app/2768430/ATLYSS/
 { "name": "ATLYSS_LINUX_E.x86_64", "type": "Game" }
 
+# ATOM RPG https://store.steampowered.com/app/552620/ATOM_RPG_Postapocalyptic_indie_game/
+{ "name": "AtomRPG.x86_64", "type": "Game" }
+
+# ATOM RPG Trudograd https://store.steampowered.com/app/1139940/ATOM_RPG_Trudograd/
+{ "name": "Trudograd.x86_64", "type": "Game" }
+{ "name": "SteamDeck_Trudograd.x86_64", "type": "Game" }
+
 # Atom Zombie Smasher https://store.steampowered.com/app/55040/Atom_Zombie_Smasher/
 { "name": "AtomZombieSmasher", "type": "Game" }
 
 # A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
 { "name": "ThronesOfBritannia", "type": "Game" }
+
+# A Tower Full of Cats https://store.steampowered.com/app/2179170/A_Tower_Full_of_Cats/
+{ "name": "Tower.x86_64", "type": "Game" }
 
 # Audiosurf 2 https://store.steampowered.com/app/235800/Audiosurf_2/
 { "name": "Audiosurf2.x86_64", "type": "Game" }
@@ -189,6 +244,9 @@
 # Avorion https://store.steampowered.com/app/445220/Avorion/
 { "name": "Avorion", "type": "Game" }
 { "name": "AvorionServer", "type": "Game" }
+
+# A Webbing Journey https://store.steampowered.com/app/2073910/A_Webbing_Journey/
+{ "name": "A Webbing Journey.x86_64", "type": "Game" }
 
 # Axiom Verge https://store.steampowered.com/app/332200/Axiom_Verge/
 { "name": "AxiomVerge.bin.x86", "type": "Game" }

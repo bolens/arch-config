@@ -15,6 +15,12 @@
 # .hack//G.U. Last Recode https://store.steampowered.com/app/525480/hackGU_Last_Recode/
 { "name": "hackGU.exe", "type": "Game" }
 
+# Hacknet https://store.steampowered.com/app/365450/Hacknet/
+{ "name": "Hacknet.exe", "type": "Game" }
+
+# Hadean Tactics https://store.steampowered.com/app/1260590/Hadean_Tactics/
+{ "name": "HadeanTactics.exe", "type": "Game" }
+
 # Hades https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
 
@@ -115,8 +121,18 @@
 { "name": "QuidditchChampions.exe", "type": "Game" }
 { "name": "QuidditchChampions-Win64-Shipping.exe", "type": "Game" }
 
+# HARVESTELLA https://store.steampowered.com/app/1816300/HARVESTELLA/
+{ "name": "Harvestella.exe", "type": "Game" }
+{ "name": "Harvestella-Win64-Shipping.exe", "type": "Game" }
+
 # Harvester https://store.steampowered.com/app/287020/Harvester/
 { "name": "HARVEST.EXE", "type": "Game" }
+
+# Harvest Moon: The Winds of Anthos https://store.steampowered.com/app/2140650/Harvest_Moon_The_Winds_of_Anthos/
+{ "name": "Harvest Moon The Winds of Anthos.exe", "type": "Game" }
+
+# Hasbro's BATTLESHIP https://store.steampowered.com/app/893050/Hasbros_BATTLESHIP/
+{ "name": "Battleship.exe", "type": "Game" }
 
 # Haste https://store.steampowered.com/app/1796470/Haste/
 { "name": "Haste.exe", "type": "Game" }
@@ -127,6 +143,10 @@
 
 # Hatsune Miku: Project DIVA Mega Mix+ https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix/
 { "name": "DivaMegaMix.exe", "type": "Game" }
+
+# Haunted House Renovator https://store.steampowered.com/app/1917850/Haunted_House_Renovator/
+{ "name": "Haunted.exe", "type": "Game" }
+{ "name": "Haunted-Win64-Shipping.exe", "type": "Game" }
 
 # Haunt the House: Terrortown https://store.steampowered.com/app/270630/Haunt_the_House_Terrortown/
 { "name": "HauntTheHouseTerrortown.exe", "type": "Game" }
@@ -146,14 +166,28 @@
 # HD Poker: Texas Hold'em https://store.steampowered.com/app/797430/HD_Poker_Texas_Holdem/
 { "name": "HD Poker.exe", "type": "Game" }
 
+# Head Shot https://store.steampowered.com/app/485310/Head_Shot/
+{ "name": "HeadShot.exe", "type": "Game" }
+
+# Heads Will Roll: Reforged https://store.steampowered.com/app/687800/Heads_Will_Roll_Reforged/
+{ "name": "headswillroll_reforged-32.exe", "type": "Game" }
+{ "name": "headswillroll_reforged.exe", "type": "Game" }
+
 # Hearthstone https://hearthstone.blizzard.com/en-us
 { "name": "Hearthstone.exe", "type": "Game" }
+
+# HEART of CROWN Online https://store.steampowered.com/app/1883000/HEART_of_CROWN_Online/
+{ "name": "HEARTofCROWN.exe", "type": "Game" }
 
 # Heart of the Machine https://store.steampowered.com/app/2001070/Heart_of_the_Machine/
 { "name": "HeartOfTheMachine.exe", "type": "Game" }
 
 # Heartopia https://store.steampowered.com/app/4025700/Heartopia/
 { "name": "xdt.exe", "type": "Game" }
+
+# Hearts of Iron II: Complete https://store.steampowered.com/app/22130/Hearts_of_Iron_2_Complete/
+{ "name": "hoi2.exe", "type": "Game" }
+{ "name": "HoI2.exe", "type": "Game" }
 
 # Hearts of Iron III https://store.steampowered.com/app/25890/Hearts_of_Iron_III/
 { "name": "hoi3.exe", "type": "Game" }
@@ -169,15 +203,35 @@
 # Heavenly Bodies https://store.steampowered.com/app/1138850/Heavenly_Bodies/
 { "name": "Heavenly Bodies.exe", "type": "Game" }
 
+# Heaven's Vault https://store.steampowered.com/app/774201/Heavens_Vault/
+{ "name": "Heaven's Vault.exe", "type": "Game" }
+
+# Heavily Armed https://store.steampowered.com/app/554770/Heavily_Armed/
+{ "name": "HA.exe", "type": "Game" }
+{ "name": "HA-Win64-Shipping.exe", "type": "Game" }
+
 # Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
 { "name": "HeavyRain.exe", "type": "Game" }
 
 # He is Coming https://store.steampowered.com/app/2824490/He_is_Coming/
 { "name": "He is coming.exe", "type": "Game" }
 
+# Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
+{ "name": "heliborne.exe", "type": "Game" }
+{ "name": "heliborne-launcher.exe", "type": "Game" }
+{ "name": "Heliborne.exe", "type": "Game" }
+{ "name": "Heliborne-EE.exe", "type": "Game" }
+
 # Hellblade: Senua's Sacrifice https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/
 { "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "HellbladeGame.exe", "type": "Game" }
+
+# Hellblade: Senua's Sacrifice VR Edition https://store.steampowered.com/app/747350/Hellblade_Senuas_Sacrifice_VR_Edition/
+{ "name": "HellbladeGameVR.exe", "type": "Game" }
+{ "name": "HellbladeGameVR-Win64-Shipping.exe", "type": "Game" }
+
+# Hellboy Web of Wyrd https://store.steampowered.com/app/2160480/Hellboy_Web_of_Wyrd/
+{ "name": "Hellboy.exe", "type": "Game" }
 
 # HELLCARD https://store.steampowered.com/app/1201540/HELLCARD/
 { "name": "HELLCARD.exe", "type": "Game" }
@@ -190,6 +244,13 @@
 
 # HELLDIVERS Dive Harder Edition https://store.steampowered.com/app/394510/HELLDIVERS_Dive_Harder_Edition/
 { "name": "helldivers.exe", "type": "Game" }
+
+# HELLGATE: London https://store.steampowered.com/app/939520/HELLGATE_London/
+{ "name": "Hellgate.exe", "type": "Game" }
+{ "name": "Hellgate_sp_x86.exe", "type": "Game" }
+
+# Hellish Quart https://store.steampowered.com/app/1000360/Hellish_Quart/
+{ "name": "Hellish Quart.exe", "type": "Game" }
 
 # Hell is Us https://store.steampowered.com/app/1620730/Hell_is_Us/
 { "name": "HellIsUs.exe", "type": "Game" }
@@ -204,12 +265,6 @@
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
 { "name": "HelloNeighbor.exe", "type": "Game" }
 { "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
-{ "name": "HelloNeighborReborn.exe", "type": "Game" }
-{ "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
-
-# Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
-{ "name": "HelloNeighbor2.exe", "type": "Game" }
-{ "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
 
 # Hello Neighbor Pre-Alpha https://store.steampowered.com/app/1092700/Hello_Neighbor_PreAlpha/
 { "name": "HelloNeighbour.exe", "type": "Game" }
@@ -221,6 +276,9 @@
 # Hellscreen https://store.steampowered.com/app/1410090/Hellscreen/
 { "name": "Hellscreen.exe", "type": "Game" }
 
+# Hellslave https://store.steampowered.com/app/1608450/Hellslave/
+{ "name": "HellSlave.exe", "type": "Game" }
+
 # Helltaker https://store.steampowered.com/app/1289310/Helltaker/
 { "name": "Helltaker.exe", "type": "Game" }
 
@@ -229,6 +287,9 @@
 
 # HENPRI https://store.steampowered.com/app/3094010/HENPRI/
 { "name": "HENPRI.exe", "type": "Game" }
+
+# Hentai Girl https://store.steampowered.com/app/878750/Hentai_Girl/
+{ "name": "HentaiGirl.exe", "type": "Game" }
 
 # Here Comes The Swarm https://store.steampowered.com/app/3052730/Here_Comes_The_Swarm/
 { "name": "Here Comes The Swarm.exe", "type": "Game" }
@@ -254,13 +315,18 @@
 # Heroes of Hammerwatch II https://store.steampowered.com/app/619820/Heroes_of_Hammerwatch_II/
 { "name": "HWR2.exe", "type": "Game" }
 
+# Heroes of Might and Magic: Olden Era https://store.steampowered.com/app/3105440/Heroes_of_Might_and_Magic_Olden_Era/
+{ "name": "HeroesOldenEra.exe", "type": "Game" }
+
 # Heroes of Might & Magic III - HD Edition https://store.steampowered.com/app/297000/Heroes_of_Might__Magic_III__HD_Edition/
 { "name": "HOMM3Launcher.exe", "type": "Game" }
 { "name": "HOMM3 2.0.exe", "type": "Game" }
 { "name": "mapEditor.exe", "type": "Game" }
 
+# Heroes of Science and Fiction https://store.steampowered.com/app/2147380/Heroes_of_Science_and_Fiction/
+{ "name": "Silence of the Siren.exe", "type": "Game" }
+
 # Heroes of the Three Kingdoms 7 https://store.steampowered.com/app/1437880/Heroes_of_the_Three_Kingdoms_7/
-{ "name": "LaunchSango.exe", "type": "Game" }
 { "name": "Sango7.exe", "type": "Game" }
 
 # Heroine's Quest: The Herald of Ragnarok https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
@@ -276,8 +342,14 @@
 { "name": "Hero of the Kingdom III.exe", "type": "Game" }
 { "name": "Hero_of_the_Kingdom_III.exe", "type": "Game" }
 
+# Hero Plus https://store.steampowered.com/app/747920/Hero_Plus/
+{ "name": "Hero.exe", "type": "Game" }
+
 # Hero's Adventure: Road to Passion https://store.steampowered.com/app/1948980/Heros_Adventure_Road_to_Passion/
 { "name": "Wulin.exe", "type": "Game" }
+
+# Hero's Hour https://store.steampowered.com/app/1656780/Heros_Hour/
+{ "name": "Hero's Hour.exe", "type": "Game" }
 
 # Hero Siege https://store.steampowered.com/app/269210/Hero_Siege/
 { "name": "Hero_Siege.exe", "type": "Game" }
@@ -285,8 +357,14 @@
 # Hero's Land https://store.steampowered.com/app/2349820/Heros_Land/
 { "name": "HerosLand.exe", "type": "Game" }
 
+# Hero Tale https://store.steampowered.com/app/2513240/Hero_Tale/
+{ "name": "Hero Tale.exe", "type": "Game" }
+
 # Hero Zero https://store.steampowered.com/app/482920/Hero_Zero__Multiplayer_RPG/
 { "name": "Hero Zero.exe", "type": "Game" }
+
+# Hexarchy https://store.steampowered.com/app/1356810/Hexarchy/
+{ "name": "Hexarchy-Win64.exe", "type": "Game" }
 
 # hexceed https://store.steampowered.com/app/1463920/hexceed/
 { "name": "hexceed.exe", "type": "Game" }
@@ -306,9 +384,16 @@
 # Hexodius https://store.steampowered.com/app/236490/Hexodius/
 { "name": "Hexodius.exe", "type": "Game" }
 
+# Hex of Steel https://store.steampowered.com/app/1240630/Hex_of_Steel/
+{ "name": "Hex of Steel.exe", "type": "Game" }
+
 # H-Hour: World's Elite https://store.steampowered.com/app/293220/HHour_Worlds_Elite/
 { "name": "Launch_H-Hour.exe", "type": "Game" }
 { "name": "HHourGame-Win64-Shipping.exe", "type": "Game" }
+
+# Hidden Deep https://store.steampowered.com/app/976890/Hidden_Deep/
+{ "name": "hdeep.exe", "type": "Game" }
+{ "name": "hdeep_NG.exe", "type": "Game" }
 
 # Hide and Shriek https://store.steampowered.com/app/480430/Hide_and_Shriek/
 { "name": "HideandShriek.exe", "type": "Game" }
@@ -316,6 +401,9 @@
 
 # Hi-Fi RUSH https://store.steampowered.com/app/1817230/HiFi_RUSH/
 { "name": "Hi-Fi-RUSH.exe", "type": "Game" }
+
+# HighFleet https://store.steampowered.com/app/1434950/HighFleet/
+{ "name": "Highfleet.exe", "type": "Game" }
 
 # High On Life https://store.steampowered.com/app/1583230/High_On_Life/
 { "name": "Oregon.exe", "type": "Game" }
@@ -331,6 +419,9 @@
 
 # Higurashi When They Cry Hou - Ch.1 Onikakushi https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou__Ch1_Onikakushi/
 { "name": "HigurashiEp01.exe", "type": "Game" }
+
+# Hired Ops https://store.steampowered.com/app/374280/Hired_Ops/
+{ "name": "hops.exe", "type": "Game" }
 
 # HITMAN https://store.steampowered.com/app/236870/HITMAN/
 { "name": "HITMAN.exe", "type": "Game" }
@@ -356,11 +447,18 @@
 # HITMAN World of Assassination https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
 { "name": "HITMAN3.exe", "type": "Game" }
 
+# Hmmsim Metro https://store.steampowered.com/app/1591420/Hmmsim_Metro/
+{ "name": "HmmsimMetro.exe", "type": "Game" }
+{ "name": "HmmsimMetro-Win64-Shipping.exe", "type": "Game" }
+
 # HOARD https://store.steampowered.com/app/63000/HOARD/
 { "name": "Reuben.exe", "type": "Game" }
 
 # Hobo: Tough Life https://store.steampowered.com/app/632300/Hobo_Tough_Life/
 { "name": "HoboRPG.exe", "type": "Game" }
+
+# Hockey Legacy Manager 25 https://store.steampowered.com/app/3113870/Hockey_Legacy_Manager_25/
+{ "name": "Hockey Legacy Manager 25.exe", "type": "Game" }
 
 # Hogwarts Legacy https://store.steampowered.com/app/990080/Hogwarts_Legacy/
 { "name": "HogwartsLegacy.exe", "type": "Game" }
@@ -372,11 +470,14 @@
 { "name": "HOLE.exe", "type": "Game" }
 { "name": "HOLE-Win64-Shipping.exe", "type": "Game" }
 
+# Hollowbody https://store.steampowered.com/app/2123640/Hollowbody/
+{ "name": "Hollowbody.exe", "type": "Game" }
+
 # Hollow Knight https://store.steampowered.com/app/367520/Hollow_Knight/
 { "name": "hollow_knight.exe", "type": "Game" }
 
 # Hollow Knight: Silksong https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
-{ "name": "Hollow Knight S", "type": "Game" }
+{ "name": "Hollow Knight Silksong.exe", "type": "Game" }
 
 # Hollywood Animal https://store.steampowered.com/app/2680550/Hollywood_Animal/
 { "name": "Holly.exe", "type": "Game" }
@@ -392,6 +493,12 @@
 # HoloParade https://store.steampowered.com/app/2647230/HoloParade/
 { "name": "HoloParade.exe", "type": "Game" }
 
+# holoVillage: Our Cozy Days https://store.steampowered.com/app/3856280/holoVillage_Our_Cozy_Days/
+{ "name": "holovillage.exe", "type": "Game" }
+
+# Holyday City: Reloaded https://store.steampowered.com/app/728730/Holyday_City_Reloaded/
+{ "name": "Holyday City Reloaded.exe", "type": "Game" }
+
 # Home https://store.steampowered.com/app/215670/Home/
 { "name": "home-win-eng.exe", "type": "Game" }
 
@@ -401,6 +508,9 @@
 # Home Behind 2 https://store.steampowered.com/app/1220010/Home_Behind_2/
 { "name": "HomeBehind2.exe", "type": "Game" }
 
+# Home Design 3D https://store.steampowered.com/app/420000/Home_Design_3D/
+{ "name": "HomeDesign3D.exe", "type": "Game" }
+
 # Homefront https://store.steampowered.com/app/55100/Homefront/
 { "name": "HOMEFRONT.exe", "type": "Game" }
 
@@ -409,6 +519,10 @@
 
 # Home Safety Hotline https://store.steampowered.com/app/2357910/Home_Safety_Hotline/
 { "name": "Home Safety Hotline.exe", "type": "Game" }
+
+# Home Sheep Home: Farmageddon Party Edition https://store.steampowered.com/app/259810/Home_Sheep_Home_Farmageddon_Party_Edition/
+{ "name": "Home Sheep Home Farmageddon Party Edition.exe", "type": "Game" }
+{ "name": "HomeSheepHome2.exe", "type": "Game" }
 
 # Homeworld 3 https://store.steampowered.com/app/1840080/Homeworld_3/
 { "name": "Homeworld3.exe", "type": "Game" }
@@ -422,6 +536,9 @@
 # Homeworld Remastered Collection https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/
 { "name": "Homeworld.exe", "type": "Game" }
 { "name": "HomeworldRM.exe", "type": "Game" }
+
+# Homicipher:文字化化 https://store.steampowered.com/app/2302660/Homicipher/
+{ "name": "Homicipher.exe", "type": "Game" }
 
 # Homura Hime https://store.steampowered.com/app/1820000/Homura_Hime/
 { "name": "HomuraHime.exe", "type": "Game" }
@@ -439,6 +556,9 @@
 { "name": "HordesOfHunger.exe", "type": "Game" }
 { "name": "HordesOfHunger-Win64-Shipping.exe", "type": "Game" }
 
+# Horizon Chase Turbo https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/
+{ "name": "HorizonChase.exe", "type": "Game" }
+
 # Horizon Forbidden West Complete Edition https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
@@ -447,6 +567,9 @@
 
 # Horizon Zero Dawn Remastered https://store.steampowered.com/app/2561580/Horizon_Zero_Dawn_Remastered/
 { "name": "HorizonZeroDawnRemastered.exe", "type": "Game" }
+
+# Horny Villa https://store.steampowered.com/app/2903690/
+{ "name": "HornyVilla.exe", "type": "Game" }
 
 # Horripilant https://store.steampowered.com/app/3525970/Horripilant/
 { "name": "Horripilant.exe", "type": "Game" }
@@ -460,6 +583,10 @@
 
 # Hot Dogs, Horseshoes & Hand Grenades https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
 { "name": "h3vr.exe", "type": "Game" }
+
+# Hotel Architect https://store.steampowered.com/app/1602000/Hotel_Architect/
+{ "name": "HotelArchitect.exe", "type": "Game" }
+{ "name": "HotelArchitect-Win64-Shipping.exe", "type": "Game" }
 
 # Hotel Renovator https://store.steampowered.com/app/1214470/Hotel_Renovator/
 { "name": "Hotel_Renovator.exe", "type": "Game" }
@@ -480,6 +607,10 @@
 # HOT WHEELS UNLEASHED 2 - Turbocharged https://store.steampowered.com/app/2051120/HOT_WHEELS_UNLEASHED_2__Turbocharged/
 { "name": "hotwheels2.exe", "type": "Game" }
 { "name": "hotwheels2-Win64-Shipping.exe", "type": "Game" }
+
+# Houdini Indie https://store.steampowered.com/app/502570/Houdini_Indie/
+{ "name": "HARS.exe", "type": "Game" }
+{ "name": "hindie.steam.exe", "type": "Game" }
 
 # House Flipper https://store.steampowered.com/app/613100/House_Flipper/
 { "name": "HouseFlipper.exe", "type": "Game" }
@@ -515,6 +646,11 @@
 # HROT https://store.steampowered.com/app/824600/HROT/
 { "name": "HROT.exe", "type": "Game" }
 
+# HudSight - crosshair overlay https://store.steampowered.com/app/1477830/HudSight__crosshair_overlay/
+{ "name": "HudSightApp64.exe", "type": "BG_CPUIO" }
+{ "name": "SteamInterface.exe", "type": "BG_CPUIO" }
+{ "name": "HudSight.exe", "type": "BG_CPUIO" }
+
 # Hue https://store.steampowered.com/app/383270/Hue/
 { "name": "Hue.exe", "type": "Game" }
 
@@ -527,11 +663,20 @@
 # HUMANKIND https://store.steampowered.com/app/1124300/HUMANKIND/
 { "name": "Humankind.exe", "type": "Game" }
 
+# Human Resource Machine https://store.steampowered.com/app/375820/Human_Resource_Machine/
+{ "name": "Human Resource Machine.exe", "type": "Game" }
+
+# HunieCam Studio https://store.steampowered.com/app/426000/HunieCam_Studio/
+{ "name": "HunieCamStudio.exe", "type": "Game" }
+
 # HuniePop https://store.steampowered.com/app/339800/HuniePop/
 { "name": "HuniePop.exe", "type": "Game" }
 
 # HUNTDOWN https://store.steampowered.com/app/598550/HUNTDOWN/
 { "name": "Huntdown.exe", "type": "Game" }
+
+# Huntdown: Overtime https://store.steampowered.com/app/2473350/HUNTDOWN_OVERTIME/
+{ "name": "Huntdown Overtime.exe", "type": "Game" }
 
 # Hunted: The Demon’s Forge https://store.steampowered.com/app/22450/Hunted_The_Demons_Forge/
 { "name": "hunted.exe", "type": "Game" }
@@ -557,8 +702,19 @@
 # Hydrophobia: Prophecy https://store.steampowered.com/app/92000/Hydrophobia_Prophecy/
 { "name": "HydroPC.exe", "type": "Game" }
 
+# HYPERCHARGE: Unboxed https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/
+{ "name": "Unboxed.exe", "type": "Game" }
+{ "name": "Unboxed-Win64-Shipping.exe", "type": "Game" }
+
+# HYPER DEMON https://store.steampowered.com/app/1743850/HYPER_DEMON/
+{ "name": "hyperdemon.exe", "type": "Game" }
+
 # Hyperdimension Neptunia Re;Birth1 https://store.steampowered.com/app/282900/Hyperdimension_Neptunia_ReBirth1/
 { "name": "NeptuniaReBirth1.exe", "type": "Game" }
+
+# Hyper Light Breaker https://store.steampowered.com/app/1534840/Hyper_Light_Breaker/
+{ "name": "Breaker.exe", "type": "Game" }
+{ "name": "Breaker-Win64-Shipping.exe", "type": "Game" }
 
 # Hyper Light Drifter https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
 { "name": "HyperLightDrifter.exe", "type": "Game" }

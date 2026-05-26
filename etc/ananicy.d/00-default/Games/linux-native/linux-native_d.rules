@@ -23,8 +23,10 @@
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod_linux64", "type": "Game" }
 
-# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
+# DDNet https://store.steampowered.com/app/412220/DDNet/
 { "name": "DDNet", "type": "Game" }
+
+# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay https://ddnet.org/
 { "name": "DDNet-Server", "type": "Service" }
 
 # Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/
@@ -49,12 +51,21 @@
 # Deadly 30 https://store.steampowered.com/app/264730/Deadly_30/
 { "name": "Deadly30", "type": "Game" }
 
+# Deadly Days https://store.steampowered.com/app/740080/Deadly_Days/
+{ "name": "Deadly Days.x86_64", "type": "Game" }
+
+# Dead Maze https://store.steampowered.com/app/667890/Dead_Maze/
+{ "name": "DeadMaze", "type": "Game" }
+
 # Dead Pixels https://store.steampowered.com/app/222980/Dead_Pixels/
 { "name": "Dead Pixels", "type": "Game" }
 
 # Dead Synchronicity: Tomorrow Comes Today https://store.steampowered.com/app/339190/Dead_Synchronicity_Tomorrow_Comes_Today/
 { "name": "Dead Synchronicity.x86", "type": "Game" }
 { "name": "Dead Synchronicity.x86_64", "type": "Game" }
+
+# Death and Taxes https://store.steampowered.com/app/1166290/Death_and_Taxes/
+{ "name": "DeathAndTaxes.x86_64", "type": "Game" }
 
 # Death Road to Canada https://store.steampowered.com/app/252610/Death_Road_to_Canada/
 { "name": "prog-linux", "type": "Game" }
@@ -71,6 +82,9 @@
 # Defense Grid 2 https://store.steampowered.com/app/221540/DG2_Defense_Grid_2/
 { "name": "DefenseGrid2", "type": "Game" }
 
+# Delivery & Beyond https://store.steampowered.com/app/3376480/Delivery__Beyond/
+{ "name": "delivery-beyond.x86_64", "type": "Game" }
+
 # Democracy 3 https://store.steampowered.com/app/245470/Democracy_3/
 { "name": "Democracy3.bin.x86", "type": "Game" }
 { "name": "Democracy3.bin.x86_64", "type": "Game" }
@@ -84,14 +98,20 @@
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 { "name": "deponia_tcj", "type": "Game" }
 
-# Depression Quest https://store.steampowered.com/app/270170/Depression_Quest/
-{ "name": "nw", "type": "Game" }
+# Depraved https://store.steampowered.com/app/762650/Depraved/
+{ "name": "Depraved.x86_64", "type": "Game" }
 
 # Descenders https://store.steampowered.com/app/681280/Descenders/
 { "name": "Descenders.x86_64", "type": "Game" }
 
+# Desert Stalker https://store.steampowered.com/app/2899050/
+{ "name": "DesertStalker", "type": "Game" }
+
 # Desktop Dungeons https://store.steampowered.com/app/226620/Desktop_Dungeons/
 { "name": "DesktopDungeons.x86", "type": "Game" }
+
+# Desperados III https://store.steampowered.com/app/610370/Desperados_III/
+{ "name": "Desperados III.x86_64", "type": "Game" }
 
 # Desperados: Wanted Dead or Alive https://store.steampowered.com/app/260730/Desperados_Wanted_Dead_or_Alive/
 { "name": "desperados32", "type": "Game" }
@@ -108,17 +128,23 @@
 # Deus Ex: Mankind Divided https://store.steampowered.com/app/337000/
 { "name": "DeusExMD", "type": "Game" }
 
+# Devil Daggers https://store.steampowered.com/app/422970/Devil_Daggers/
+{ "name": "devildaggers", "type": "Game" }
+
 # devilutionx https://github.com/diasurgical/devilutionX/
 { "name": "devilutionx", "type": "Game" }
 
 # Dex https://store.steampowered.com/app/269650/Dex/
 { "name": "Dex.x86", "type": "Game" }
 
+# DFHack - Dwarf Fortress Modding Engine https://store.steampowered.com/app/2346660/DFHack__Dwarf_Fortress_Modding_Engine/
+{ "name": "dfhack", "type": "Game" }
+
 # dhewm3 https://dhewm3.org/
 { "name": "dhewm3", "type": "Game" }
 
-# Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
-{ "name": "app.x86_64", "type": "Game" }
+# Dicey Dungeons https://store.steampowered.com/app/861540/Dicey_Dungeons/
+{ "name": "diceydungeons", "type": "Game" }
 
 # Dictators:No Peace Countryballs https://store.steampowered.com/app/1139890/DictatorsNo_Peace_Countryballs/
 { "name": "DictatorsNoPeaceCountryballs.x86_64", "type": "Game" }
@@ -145,12 +171,20 @@
 { "name": "dom4_amd64", "type": "Game" }
 { "name": "dom4_x86", "type": "Game" }
 
+# Dominions 5 https://store.steampowered.com/app/722060/Dominions_5__Warriors_of_the_Faith/
+{ "name": "dom5_amd64", "type": "Game" }
+{ "name": "dom5_arm", "type": "Game" }
+{ "name": "dom5_x86", "type": "Game" }
+
 # Dominions 6 - Rise of the Pantokrator https://store.steampowered.com/app/2511500/Dominions_6__Rise_of_the_Pantokrator/
 { "name": "dom6_amd64", "type": "Game" }
 
 # Do Not Feed the Monkeys https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/
 { "name": "dnftm.x86", "type": "Game" }
 { "name": "dnftm.x86_64", "type": "Game" }
+
+# Doodle God https://store.steampowered.com/app/348360/Doodle_God/
+{ "name": "DoodleGame", "type": "Game" }
 
 # Door Kickers https://store.steampowered.com/app/248610/Door_Kickers/
 { "name": "DoorKickers", "type": "Game" }
@@ -163,6 +197,9 @@
 
 # Dota Underlords https://store.steampowered.com/app/1046930/Dota_Underlords/
 { "name": "underlords", "type": "Game" }
+
+# Down with the Ship https://store.steampowered.com/app/3523750/Down_with_the_Ship/
+{ "name": "down-with-the-ship", "type": "Game" }
 
 # Dragons and Titans https://store.steampowered.com/app/263500/Dragons_and_Titans/
 { "name": "dnt.x86", "type": "Game" }
@@ -178,8 +215,18 @@
 { "name": "dreadout.x86", "type": "Game" }
 { "name": "dreadout.x86_64", "type": "Game" }
 
+# Dream Daddy: A Dad Dating Simulator https://store.steampowered.com/app/654880/Dream_Daddy_A_Dad_Dating_Simulator/
+{ "name": "DDaDDS.x86", "type": "Game" }
+{ "name": "DDaDDS.x86_64", "type": "Game" }
+
 # Dreamfall Chapters https://store.steampowered.com/app/237850/Dreamfall_Chapters/
 { "name": "Dreamfall Chapters", "type": "Game" }
+
+# Dreaming Isles https://store.steampowered.com/app/2258320/Dreaming_Isles/
+{ "name": "Dreaming_Isles", "type": "Game" }
+
+# Drift Legends 2 https://store.steampowered.com/app/3664010/Drift_Legends_2/
+{ "name": "DL2_Linux.x86_64", "type": "Game" }
 
 # Dropsy https://store.steampowered.com/app/274350/Dropsy/
 { "name": "Dropsy.x86", "type": "Game" }
@@ -187,6 +234,12 @@
 
 # Drova - Forsaken Kin https://store.steampowered.com/app/1585180/Drova__Forsaken_Kin/
 { "name": "Drova.x86_64", "type": "Game" }
+
+# Duck Detective: The Ghost of Glamping https://store.steampowered.com/app/2714620/Duck_Detective_The_Ghost_of_Glamping/
+{ "name": "Duck Detective - The Ghost of Glamping", "type": "Game" }
+
+# Duck Detective: The Secret Salami https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/
+{ "name": "Duck Detective - The Secret Salami", "type": "Game" }
 
 # Dummynation https://store.steampowered.com/app/1892030/Dummynation/
 { "name": "Dummynation", "type": "Game" }
@@ -212,6 +265,9 @@
 
 # Dungeons of Dredmor https://store.steampowered.com/app/98800/Dungeons_of_Dredmor/
 { "name": "Dredmor", "type": "Game" }
+
+# Dungeons of Sundaria https://store.steampowered.com/app/587520/Dungeons_of_Sundaria/
+{ "name": "Archon-Linux-Shipping", "type": "Game" }
 
 # Dungreed https://store.steampowered.com/app/753420/Dungreed/
 { "name": "Dungreed.x86_64", "type": "Game" }

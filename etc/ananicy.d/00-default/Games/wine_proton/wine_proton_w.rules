@@ -5,17 +5,46 @@
 
 ### W ###
 
+# Waifu Shop https://store.steampowered.com/app/3457380/
+{ "name": "Waifu Shop.exe", "type": "Game" }
+
 # Waifusitter 🔞 - Furry Collection https://store.steampowered.com/app/3427660/Waifusitter___Furry_Collection/
 { "name": "Waifusitter.exe", "type": "Game" }
-
-# WAKFU https://store.steampowered.com/app/215080/WAKFU/
-{ "name": "Zaapi.exe", "type": "BG_CPUIO" }
 
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "mars-pc.exe", "type": "Game" }
 
 # Walkabout Mini Golf VR https://store.steampowered.com/app/1408230/Walkabout_Mini_Golf_VR/
 { "name": "WalkaboutMiniGolf.exe", "type": "Game" }
+
+# Walking Zombie 2 https://store.steampowered.com/app/965200/Walking_Zombie_2/
+{ "name": "The Walking Zombie 2.exe", "type": "Game" }
+
+# Walk of Life https://store.steampowered.com/app/1910150/Walk_of_Life/
+{ "name": "Walk of Life.exe", "type": "Game" }
+
+# Wallpaper Alive https://store.steampowered.com/app/2003310/
+{ "name": "WallpaperAliveMenu.exe", "type": "BG_CPUIO" }
+{ "name": "WallpaperAlive.exe", "type": "BG_CPUIO" }
+
+# Wallpaper Engine https://store.steampowered.com/app/431960/Wallpaper_Engine/
+{ "name": "wallpaper64.exe", "type": "BG_CPUIO" }
+
+# Wallpaper Play https://store.steampowered.com/app/3413340/Wallpaper_Play/
+{ "name": "webview2runtime.exe", "type": "BG_CPUIO" }
+{ "name": "WallpaperPlay.exe", "type": "BG_CPUIO" }
+
+# Wall Street Raider https://store.steampowered.com/app/3525620/Wall_Street_Raider/
+{ "name": "wsr10.exe", "type": "Game" }
+
+# Wall World https://store.steampowered.com/app/2187290/Wall_World/
+{ "name": "WallWorld.exe", "type": "Game" }
+
+# Wall World 2 https://store.steampowered.com/app/3467710/Wall_World_2/
+{ "name": "WallWorld2.exe", "type": "Game" }
+
+# Wanderburg Demo https://store.steampowered.com/app/4268810/Wanderburg_Demo/
+{ "name": "WanderburgDemo.exe", "type": "Game" }
 
 # Wandering Sword https://store.steampowered.com/app/1876890/Wandering_Sword/
 { "name": "JH.exe", "type": "Game" }
@@ -28,6 +57,18 @@
 # Wanted: Dead https://store.steampowered.com/app/1981610/Wanted_Dead/
 { "name": "WDGame.exe", "type": "Game" }
 { "name": "WDGame-Win64-Shipping.exe", "type": "Game" }
+
+# Wantless https://store.steampowered.com/app/1807090/Wantless__Solace_at_Worlds_End/
+{ "name": "Wantless.exe", "type": "Game" }
+
+# Warborne Above Ashes https://store.steampowered.com/app/3142050/Warborne_Above_Ashes/
+{ "name": "Warborne.exe", "type": "Game" }
+
+# Wardrum https://store.steampowered.com/app/2680670/Wardrum/
+{ "name": "Wardrum.exe", "type": "Game" }
+
+# Warface https://store.steampowered.com/app/3889960/
+{ "name": "WarfaceSteamLauncherInstaller.exe", "type": "Game" }
 
 # Warface: Clutch https://store.steampowered.com/app/291480/Warface_Clutch/
 { "name": "WarfaceClutchSteamLoader.exe", "type": "Game" }
@@ -47,6 +88,10 @@
 
 # Wargame: Red Dragon https://store.steampowered.com/app/251060/Wargame_Red_Dragon/
 { "name": "WarGame3.exe", "type": "Game" }
+
+# Wargroove https://store.steampowered.com/app/607050/Wargroove/
+{ "name": "wargroove32.exe", "type": "Game" }
+{ "name": "wargroove64.exe", "type": "Game" }
 
 # Warhammer 40,000: Battlesector https://store.steampowered.com/app/1295500/Warhammer_40000_Battlesector/
 { "name": "Warhammer 40K Battlesector.exe", "type": "Game" }
@@ -73,11 +118,11 @@
 # Warhammer 40,000: Dawn of War - Definitive Edition https://store.steampowered.com/app/3556750/Warhammer_40000_Dawn_of_War__Definitive_Edition/
 { "name": "W40kME.exe", "type": "Game" }
 
-# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
-{ "name": "DOW2.exe", "type": "Game" }
-
 # Warhammer 40,000: Dawn of War III https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
 { "name": "RelicDoW3.exe", "type": "Game" }
+
+# Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
+{ "name": "DOW2_r.exe", "type": "Game" }
 
 # Warhammer 40,000: Dawn of War - Soulstorm https://store.steampowered.com/app/9450/Warhammer_40000_Dawn_of_War__Soulstorm/
 { "name": "soulstorm.exe", "type": "Game" }
@@ -96,6 +141,9 @@
 
 # Warhammer 40,000: Rogue Trader https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 { "name": "WH40KRT.exe", "type": "Game" }
+
+# Warhammer 40,000: Sanctus Reach (Classic) https://store.steampowered.com/app/502370/Warhammer_40000_Sanctus_Reach_Classic/
+{ "name": "SanctusReach.EXE", "type": "Game" }
 
 # Warhammer 40,000: Shootas, Blood & Teef https://store.steampowered.com/app/1324530/Warhammer_40000_Shootas_Blood__Teef/
 { "name": "ShootasBloodAndTeef.exe", "type": "Game" }
@@ -147,6 +195,9 @@
 # War Hospital https://store.steampowered.com/app/1553000/War_Hospital/
 { "name": "War Hospital.exe", "type": "Game" }
 
+# Warlord: Britannia https://store.steampowered.com/app/1970980/Warlord_Britannia/
+{ "name": "Warlord Britannia.exe", "type": "Game" }
+
 # WARMACHINE: Tactics https://store.steampowered.com/app/253510/WARMACHINE_Tactics/
 { "name": "WarmachineGame-Win32-Shipping.exe", "type": "Game" }
 { "name": "WarmachineGame-Win64-Shipping.exe", "type": "Game" }
@@ -160,6 +211,15 @@
 
 # War on the Sea https://store.steampowered.com/app/1280780/War_on_the_Sea/
 { "name": "WarOnTheSea.exe", "type": "Game" }
+
+# Warpips https://store.steampowered.com/app/1291010/Warpips/
+{ "name": "Warpips.exe", "type": "Game" }
+
+# War Planet Online: Global Conquest https://store.steampowered.com/app/719640/War_Planet_Online_Global_Conquest/
+{ "name": "WarPlanetOnline.exe", "type": "Game" }
+
+# Warrior Maiden Lecia and the Lost Fortress https://store.steampowered.com/app/2752520/Warrior_Maiden_Lecia_and_the_Lost_Fortress/
+{ "name": "GamePro.exe", "type": "Game" }
 
 # WARRIORS: Abyss https://store.steampowered.com/app/3178350/WARRIORS_Abyss/
 { "name": "WARRIORSAbyss.exe", "type": "Game" }
@@ -191,6 +251,9 @@
 { "name": "Warsim.exe", "type": "Game" }
 { "name": "Warsim classic.exe", "type": "Game" }
 
+# Warspear Online https://store.steampowered.com/app/326360/Warspear_Online/
+{ "name": "warspear.exe", "type": "Game" }
+
 # Warstride Challenges https://store.steampowered.com/app/1608470/Warstride_Challenges/
 { "name": "Warstride.exe", "type": "Game" }
 { "name": "Warstride-Win64-Shipping.exe", "type": "Game" }
@@ -198,9 +261,15 @@
 # Wartales https://store.steampowered.com/app/1527950/Wartales/
 { "name": "Wartales.exe", "type": "Game" }
 
+# War Tanks - Military Tank Games https://store.steampowered.com/app/2342030/Military_Tanks/
+{ "name": "War Tanks.exe", "type": "Game" }
+
 # War Thunder https://store.steampowered.com/app/236390/War_Thunder/
 { "name": "aces.exe", "type": "Game" }
 { "name": "aces-min-cpu.exe", "type": "Game" }
+
+# Warudo https://store.steampowered.com/app/2079120/Warudo/
+{ "name": "Warudo.exe", "type": "Game" }
 
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland.exe", "type": "Game" }
@@ -210,6 +279,10 @@
 
 # Wasteland 3 https://store.steampowered.com/app/719040/Wasteland_3/
 { "name": "WL3.exe", "type": "Game" }
+
+# Watch https://store.steampowered.com/app/894060/Watch/
+{ "name": "Watch.exe", "type": "Game" }
+{ "name": "WatchClicker-Win64-Shipping.exe", "type": "Game" }
 
 # Watch_Dogs https://store.steampowered.com/app/243470/Watch_Dogs/
 { "name": "Watch_Dogs.exe", "type": "Game" }
@@ -224,17 +297,23 @@
 # Watchmen: The End is Nigh Part 2 https://store.steampowered.com/app/21030/Watchmen_The_End_is_Nigh_Part_2/
 { "name": "KapowMulti.exe", "type": "Game" }
 
-# Waterpark Simulator https://store.steampowered.com/app/3293260/Waterpark_Simulator/
-{ "name": "WaterparkSimulator.exe", "type": "Game" }
+# Watermelon https://store.steampowered.com/app/3059220/Watermelon/
+{ "name": "Watermelon.exe", "type": "Game" }
 
 # Waveform https://store.steampowered.com/app/204180/Waveform/
 { "name": "Waveform.exe", "type": "Game" }
+
+# Waven https://store.steampowered.com/app/2343650/Waven/
+{ "name": "Waven.exe", "type": "Game" }
 
 # Waves https://store.steampowered.com/app/107600/Waves/
 { "name": "Waves.exe", "type": "Game" }
 
 # Wavetale https://store.steampowered.com/app/1823930/Wavetale/
 { "name": "Wavetale.exe", "type": "Game" }
+
+# Wax Heads https://store.steampowered.com/app/2769240/Wax_Heads/
+{ "name": "wax_heads.exe", "type": "Game" }
 
 # Wayfinder https://store.steampowered.com/app/1171690/Wayfinder/
 { "name": "Wayfinder.exe", "type": "Game" }
@@ -243,18 +322,47 @@
 { "name": "WayOfTheHunter.exe", "type": "Game" }
 { "name": "WayOfTheHunter-Win64-Shipping.exe", "type": "Game" }
 
+# Way of the Hunter 2 https://store.steampowered.com/app/2543830/Way_of_the_Hunter_2/
+{ "name": "WOTH2.exe", "type": "Game" }
+{ "name": "WOTH2-Win64-Shipping.exe", "type": "Game" }
+
+# WE ARE FOOTBALL https://store.steampowered.com/app/1196470/WE_ARE_FOOTBALL/
+{ "name": "fe_nt.exe", "type": "Game" }
+{ "name": "fe.exe", "type": "Game" }
+
+# WE ARE FOOTBALL 2024 https://store.steampowered.com/app/1951410/WE_ARE_FOOTBALL_2024/
+{ "name": "waf2024.exe", "type": "Game" }
+
+# Webbed https://store.steampowered.com/app/1390350/Webbed/
+{ "name": "webbed.exe", "type": "Game" }
+
+# We Become What We Behold https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/
+{ "name": "We-Become-What-We-Behold.exe", "type": "Game" }
+
 # WEBFISHING https://store.steampowered.com/app/3146520/WEBFISHING/
 { "name": "webfishing.exe", "type": "Game" }
 
 # Wedding Witch https://store.steampowered.com/app/2529820/Wedding_Witch/
 { "name": "Wedding Witch.exe", "type": "Game" }
 
+# Wednesdays https://store.steampowered.com/app/2747770/Wednesdays/
+{ "name": "Wednesdays.exe", "type": "Game" }
+
+# Weed Shop 3 https://store.steampowered.com/app/1182110/Weed_Shop_3/
+{ "name": "Weed Shop 3.exe", "type": "Game" }
+
+# Weed Supermarket Simulator https://store.steampowered.com/app/4156580/Weed_Supermarket_Simulator/
+{ "name": "Weed Supermarket Simulator.exe", "type": "Game" }
+
 # We Gotta Go https://store.steampowered.com/app/3967470/We_Gotta_Go/
-{ "name": "Pluto.exe", "type": "Game" }
 { "name": "Pluto-Win64-Shipping.exe", "type": "Game" }
 
 # We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
 { "name": "GlimpseGame.exe", "type": "Game" }
+
+# Weird West: Definitive Edition https://store.steampowered.com/app/1097350/Weird_West_Definitive_Edition/
+{ "name": "WeirdWest.exe", "type": "Game" }
+{ "name": "WeirdWest-Win64-Shipping.exe", "type": "Game" }
 
 # Welcome to Doll Town https://store.steampowered.com/app/3204320/Welcome_to_Doll_Town/
 { "name": "Welcome to Doll Town.exe", "type": "Game" }
@@ -262,18 +370,31 @@
 # Welcome to ParadiZe https://store.steampowered.com/app/1519090/Welcome_to_ParadiZe/
 { "name": "Zombie3.exe", "type": "Game" }
 
+# Welcome to the Game II https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/
+{ "name": "WTTG2.exe", "type": "Game" }
+
 # We Love Katamari REROLL+ Royal Reverie https://store.steampowered.com/app/1730700/We_Love_Katamari_REROLL_Royal_Reverie/
 { "name": "WLKRR.exe", "type": "Game" }
+
+# We Need To Go Deeper https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/
+{ "name": "WeNeedToGoDeeper.exe", "type": "Game" }
 
 # Werewolf: The Apocalypse - Earthblood https://store.steampowered.com/app/679110/Werewolf_The_Apocalypse__Earthblood/
 { "name": "WW.exe", "type": "Game" }
 { "name": "WW-Win64-Shipping.exe", "type": "Game" }
+
+# Werewolf: The Inner Beast https://store.steampowered.com/app/4235230/Werewolf_The_Inner_Beast/
+{ "name": "WTIB.exe", "type": "Game" }
+{ "name": "WTIB-Win64-Shipping.exe", "type": "Game" }
 
 # Westerado: Double Barreled https://store.steampowered.com/app/275200/Westerado_Double_Barreled/
 { "name": "WesteradoDB.exe", "type": "Game" }
 
 # Westland Survival https://store.steampowered.com/app/2730970/Westland_Survival/
 { "name": "Westland Survival.exe", "type": "Game" }
+
+# West of Dead https://store.steampowered.com/app/1016790/West_of_Dead/
+{ "name": "WestOfDead.exe", "type": "Game" }
 
 # West of Loathing https://store.steampowered.com/app/597220/West_of_Loathing/
 { "name": "West of Loathing.exe", "type": "Game" }
@@ -284,6 +405,9 @@
 
 # Wet Passion https://store.steampowered.com/app/3495810/Wet_Passion/
 { "name": "Wet passion.exe", "type": "Game" }
+
+# We Were Here https://store.steampowered.com/app/582500/We_Were_Here/
+{ "name": "We Were Here.exe", "type": "Game" }
 
 # We Were Here Expeditions: The FriendShip https://store.steampowered.com/app/2296990/We_Were_Here_Expeditions_The_FriendShip/
 { "name": "We Were Here Expeditions The FriendShip.exe", "type": "Game" }
@@ -297,11 +421,26 @@
 # We Were Here Too https://store.steampowered.com/app/677160/We_Were_Here_Too/
 { "name": "We Were Here Too.exe", "type": "Game" }
 
+# We Who Are About To Die https://store.steampowered.com/app/973230/We_Who_Are_About_To_Die/
+{ "name": "WWAATD.exe", "type": "Game" }
+{ "name": "WWAATD-Win64-Shipping.exe", "type": "Game" }
+
 # What Remains of Edith Finch https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/
 { "name": "FinchGame.exe", "type": "Game" }
 
+# WheelMates Demo https://store.steampowered.com/app/4428340/WheelMates_Demo/
+{ "name": "LyraGame.exe", "type": "Game" }
+{ "name": "LyraGame-Win64-Shipping.exe", "type": "Game" }
+
 # Where Winds Meet https://store.steampowered.com/app/3564740/Where_Winds_Meet/
 { "name": "wwm.exe", "type": "Game" }
+
+# While We Wait Here https://store.steampowered.com/app/2213120/While_We_Wait_Here/
+{ "name": "While_We_Wait_Here-Win64-Shipping.exe", "type": "Game" }
+{ "name": "While_We_Wait_Here.exe", "type": "Game" }
+
+# Whirlight https://store.steampowered.com/app/2706980/Whirlight__No_Time_To_Trip/
+{ "name": "Whirlight.exe", "type": "Game" }
 
 # Whiskerwood https://store.steampowered.com/app/2489330/Whiskerwood/
 { "name": "Whiskerwood.exe", "type": "Game" }
@@ -310,14 +449,36 @@
 # Whispering Willows https://store.steampowered.com/app/288060/Whispering_Willows/
 { "name": "WhisperingWillows.exe", "type": "Game" }
 
-# White Knuckle https://store.steampowered.com/app/3195790/White_Knuckle/
-{ "name": "White Knuckle.exe", "type": "Game" }
+# Whisper Mountain Outbreak https://store.steampowered.com/app/1953230/Whisper_Mountain_Outbreak/
+{ "name": "Whisper Mountain Outbreak.exe", "type": "Game" }
+
+# Whisper of the House https://store.steampowered.com/app/2589500/Whisper_of_the_House/
+{ "name": "Whisper of the House.exe", "type": "Game" }
+
+# White Day: A Labyrinth Named School https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/
+{ "name": "WhiteDay.exe", "type": "Game" }
 
 # Who's Lila? https://store.steampowered.com/app/1697700/Whos_Lila/
 { "name": "WhosLila.exe", "type": "Game" }
 
+# Who's Next? https://store.steampowered.com/app/2891940/Whos_Next/
+{ "name": "WhosNext.exe", "type": "Game" }
+
 # Who's Your Daddy?! https://store.steampowered.com/app/427730/Whos_Your_Daddy/
 { "name": "WhosYourDaddy.exe", "type": "Game" }
+
+# Wicked Island https://store.steampowered.com/app/1943730/
+{ "name": "WickedIsland.exe", "type": "Game" }
+{ "name": "WickedIsland-Win64-Shipping.exe", "type": "Game" }
+
+# Wicked Seed https://store.steampowered.com/app/2767530/Wicked_Seed/
+{ "name": "Wicked Seed.exe", "type": "Game" }
+
+# Widget Inc. https://store.steampowered.com/app/3184110/Widget_Inc/
+{ "name": "WidgetInc.exe", "type": "Game" }
+
+# Wild Assault https://store.steampowered.com/app/2827230/Wild_Assault/
+{ "name": "WildAssault.exe", "type": "Game" }
 
 # Wildcat Gun Machine https://store.steampowered.com/app/1288610/Wildcat_Gun_Machine/
 { "name": "Wildcat Gun Machine.exe", "type": "Game" }
@@ -328,12 +489,35 @@
 # Wildfrost https://store.steampowered.com/app/1811990/Wildfrost/
 { "name": "Wildfrost.exe", "type": "Game" }
 
+# Wildgate https://store.steampowered.com/app/3504780/Wildgate/
+{ "name": "NebulaLauncher.exe", "type": "Game" }
+{ "name": "NebulaClientSteam-Win64-Shipping.exe", "type": "Game" }
+
 # WILD HEARTS https://store.steampowered.com/app/1938010/WILD_HEARTS/
 { "name": "WILD HEARTS.exe", "type": "Game" }
 { "name": "WILD HEARTS_Trial.exe", "type": "Game" }
 
+# Wildmender https://store.steampowered.com/app/1599330/Wildmender/
+{ "name": "Wildmender_win64.exe", "type": "Game" }
+
+# Wild Terra 2: New Lands https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/
+{ "name": "Wild-Terra-2.exe", "type": "Game" }
+
+# Wild West Saga https://store.steampowered.com/app/842150/Wild_West_Saga_Idle_Tycoon_Clicker/
+{ "name": "wildwest.exe", "type": "Game" }
+
 # Wild Woods https://store.steampowered.com/app/1975580/Wild_Woods/
 { "name": "Wild Woods.exe", "type": "Game" }
+
+# WILL: A Wonderful World https://store.steampowered.com/app/588040/WILL_A_Wonderful_World__WILL/
+{ "name": "WILL.exe", "type": "Game" }
+
+# WILL: Follow the Light https://store.steampowered.com/app/3144860/WILL_Follow_The_Light/
+{ "name": "Will.exe", "type": "Game" }
+{ "name": "WillProject-Win64-Shipping.exe", "type": "Game" }
+
+# Will Glow the Wisp https://store.steampowered.com/app/640890/Will_Glow_the_Wisp/
+{ "name": "Will Glow the Wisp.exe", "type": "Game" }
 
 # Will To Live Online https://store.steampowered.com/app/707010/Will_To_Live_Online/
 { "name": "WTL.exe", "type": "Game" }
@@ -345,11 +529,20 @@
 # Windosill https://store.steampowered.com/app/37600/Windosill/
 { "name": "Windosill.exe", "type": "Game" }
 
+# Windowkill https://store.steampowered.com/app/2726450/Windowkill/
+{ "name": "godotworkshoputility.exe", "type": "Game" }
+{ "name": "windowkill-vulkan.exe", "type": "Game" }
+
 # Windrose https://store.steampowered.com/app/3041230/Windrose/
 { "name": "Windrose-Win64-Shipping.exe", "type": "Game" }
 { "name": "Windrose.exe", "type": "Game" }
-{ "name": "WindroseServer-Win64-Shipping.exe", "type": "BG_CPUIO" }
-{ "name": "WindroseServer.exe", "type": "BG_CPUIO" }
+
+# Winds of Valen https://store.steampowered.com/app/4135880/Winds_of_Valen/
+{ "name": "ProjectSandbox.exe", "type": "Game" }
+{ "name": "ProjectSandbox-Win64-Shipping.exe", "type": "Game" }
+
+# Windward Horizon https://store.steampowered.com/app/2665460/Windward_Horizon/
+{ "name": "Windward Horizon.exe", "type": "Game" }
 
 # Wingspan https://store.steampowered.com/app/1054490/Wingspan/
 { "name": "Wingspan.exe", "type": "Game" }
@@ -357,8 +550,32 @@
 # Winkeltje: The Little Shop https://store.steampowered.com/app/949290/Winkeltje_The_Little_Shop/
 { "name": "Shopkeeper.exe", "type": "Game" }
 
+# Winning Post 10 https://store.steampowered.com/app/2124680/
+{ "name": "WP10_Launcher.exe", "type": "Game" }
+{ "name": "WP10.exe", "type": "Game" }
+
+# Winning Post 10 2024 https://store.steampowered.com/app/2586650/
+{ "name": "WP10_2024_Launcher.exe", "type": "Game" }
+{ "name": "WP10_2024.exe", "type": "Game" }
+
+# Winning Post 10 2025 https://store.steampowered.com/app/3187290/
+{ "name": "WP10_2025_Launcher.exe", "type": "Game" }
+{ "name": "WP10_2025.exe", "type": "Game" }
+{ "name": "WP10_2025_DX11.exe", "type": "Game" }
+
+# Winning Post 10 2026 https://store.steampowered.com/app/3839710/
+{ "name": "WP10_2026_Launcher.exe", "type": "Game" }
+{ "name": "WP10_2026.exe", "type": "Game" }
+
+# Winning Post 9 2022 https://store.steampowered.com/app/1709400/
+{ "name": "WP9_2022_Launcher.exe", "type": "Game" }
+{ "name": "WP9_2022.exe", "type": "Game" }
+
 # Winter Burrow https://store.steampowered.com/app/3008740/Winter_Burrow/
 { "name": "Winter Burrow.exe", "type": "Game" }
+
+# Winter Resort Simulator 2 https://store.steampowered.com/app/1420770/Winter_Resort_Simulator_2/
+{ "name": "WinterResortSimulator_Season2.exe", "type": "Game" }
 
 # Wireworks https://store.steampowered.com/app/4206270/Wireworks/
 { "name": "Wireworks.exe", "type": "Game" }
@@ -378,11 +595,23 @@
 # WITCH ON THE HOLY NIGHT https://store.steampowered.com/app/2052410/WITCH_ON_THE_HOLY_NIGHT/
 { "name": "WoH.exe", "type": "Game" }
 
+# WitchSpring R - The Story of Pieberry https://store.steampowered.com/app/1958220/WitchSpring_R/
+{ "name": "WitchSpringR.exe", "type": "Game" }
+
+# With Me: Aquatic Time https://store.steampowered.com/app/3395760/With_Me_Aquatic_Time/
+{ "name": "AquaticTime.exe", "type": "Game" }
+
 # Without Within https://store.steampowered.com/app/345650/Without_Within/
 { "name": "without_within.exe", "type": "Game" }
 
 # Wizard101 https://store.steampowered.com/app/799960/Wizard101/
 { "name": "Wizard101.exe", "type": "Game" }
+
+# Wizard And Minion Idle https://store.steampowered.com/app/1011510/Wizard_And_Minion_Idle/
+{ "name": "Wizard and Minion Idle.exe", "type": "Game" }
+
+# Wizard of Legend https://store.steampowered.com/app/445980/Wizard_of_Legend/
+{ "name": "WizardOfLegend.exe", "type": "Game" }
 
 # Wizard of Legend 2 https://store.steampowered.com/app/2193540/Wizard_of_Legend_2/
 { "name": "WOL2.exe", "type": "Game" }
@@ -391,24 +620,36 @@
 # Wizardry 8 https://store.steampowered.com/app/245450/Wizardry_8/
 { "name": "Wiz8.exe", "type": "Game" }
 
+# Wizardry: The Five Ordeals https://store.steampowered.com/app/1308700/Wizardry_The_Five_Ordeals/
+{ "name": "WizardryFoV2.exe", "type": "Game" }
+
 # Wizardry Variants Daphne https://store.steampowered.com/app/2379740/Wizardry_Variants_Daphne/
 { "name": "WizardryVariantsDaphne.exe", "type": "Game" }
+
+# Wizard's Wheel 2 https://store.steampowered.com/app/2217550/Wizards_Wheel_2/
+{ "name": "Wizard's Wheel 2.exe", "type": "Game" }
+
+# Wizard with a Gun https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/
+{ "name": "wizardwithagun.exe", "type": "Game" }
 
 # WiZmans World Re;Try https://store.steampowered.com/app/2214620/WiZmans_World_ReTry/
 { "name": "WiZmans World ReTry.exe", "type": "Game" }
 
+# WizUp! https://store.steampowered.com/app/2864500/WizUp/
+{ "name": "WizUp.exe", "type": "Game" }
+
+# Wobbledogs https://store.steampowered.com/app/1424330/Wobbledogs/
+{ "name": "Wobbledogs.exe", "type": "Game" }
+
 # Wobbly Life https://store.steampowered.com/app/1211020/Wobbly_Life/
 { "name": "Wobbly Life.exe", "type": "Game" }
+
+# Wolcen: Lords of Mayhem https://store.steampowered.com/app/424370/Wolcen_Lords_of_Mayhem/
+{ "name": "Wolcen.exe", "type": "Game" }
 
 # Wolfenstein 3D https://store.steampowered.com/app/2270/Wolfenstein_3D/
 { "name": "Spear.exe", "type": "Game" }
 { "name": "wolf3d.exe", "type": "Game" }
-
-# Wolfenstein II: The New Colossus https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/
-{ "name": "NewColossus_x64vk.exe", "type": "Game" }
-
-# Wolfenstein: The New Order https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/
-{ "name": "WolfNewOrder_x64.exe", "type": "Game" }
 
 # Wolfenstein: The Old Blood https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/
 { "name": "WolfOldBlood_x64.exe", "type": "Game" }
@@ -416,11 +657,17 @@
 # Wolfenstein: Youngblood https://store.steampowered.com/app/1056960/Wolfenstein_Youngblood/
 { "name": "Youngblood_x64vk.exe", "type": "Game" }
 
+# Wolfpack https://store.steampowered.com/app/490920/Wolfpack/
+{ "name": "Wolfpack.exe", "type": "Game" }
+
 # WolfQuest: Anniversary Edition https://store.steampowered.com/app/926990/WolfQuest_Anniversary_Edition/
 { "name": "WolfQuestAE.exe", "type": "Game" }
 
 # Wo Long: Fallen Dynasty https://store.steampowered.com/app/1448440/Wo_Long_Fallen_Dynasty/
 { "name": "WoLong.exe", "type": "Game"}
+
+# Wolvesville https://store.steampowered.com/app/2502760/Wolvesville/
+{ "name": "Wolvesville.exe", "type": "Game" }
 
 # Wonder Boy: The Dragon's Trap https://store.steampowered.com/app/543260/Wonder_Boy_The_Dragons_Trap/
 { "name": "wb.exe", "type": "Game" }
@@ -429,9 +676,18 @@
 # WonderKing https://store.steampowered.com/app/3825780/WonderKing/
 { "name": "WonderKing.exe", "type": "Game" }
 
+# Wool at the Gates https://store.steampowered.com/app/2994990/Wool_at_the_Gates/
+{ "name": "Wool at the Gates.exe", "type": "Game" }
+
 # Woolfe - The Red Hood Diaries https://store.steampowered.com/app/281940/Woolfe__The_Red_Hood_Diaries/
 { "name": "WoolfeLauncher.exe", "type": "BG_CPUIO" }
 { "name": "WoolfeGame.exe", "type": "Game" }
+
+# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
+{ "name": "wordle3.exe", "type": "Game" }
+
+# Word Play https://store.steampowered.com/app/3586660/Word_Play/
+{ "name": "Word Play.exe", "type": "Game" }
 
 # Workers & Resources: Soviet Republic https://store.steampowered.com/app/784150/Workers__Resources_Soviet_Republic/
 { "name": "SOVIET.exe", "type": "Game" }
@@ -440,8 +696,15 @@
 # WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
 { "name": "worldbox.exe", "type": "Game" }
 
+# World Crafter TD https://store.steampowered.com/app/3098890/World_Crafter_TD/
+{ "name": "NewKaragon.exe", "type": "Game" }
+
 # WORLD OF FINAL FANTASY https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/
 { "name": "WOFF.exe", "type": "Game" }
+
+# World of Football https://store.steampowered.com/app/946880/World_of_Football/
+{ "name": "WorldOfFootball.exe", "type": "Game" }
+{ "name": "WorldOfFootball-Win64-Shipping.exe", "type": "Game" }
 
 # World of Goo https://store.steampowered.com/app/22000/World_of_Goo/
 { "name": "WorldOfGoo.exe", "type": "Game" }
@@ -453,8 +716,14 @@
 # WORLD OF HORROR https://store.steampowered.com/app/913740/WORLD_OF_HORROR/
 { "name": "worldofhorror.exe", "type": "Game" }
 
+# World of Outlaws: Dirt Racing 24 Gold Edition https://store.steampowered.com/app/3281130/World_of_Outlaws_Dirt_Racing_24_Gold_Edition/
+{ "name": "WorldOfOutlaws24.exe", "type": "Game" }
+
 # World of Sea Battle https://store.steampowered.com/app/2948190/World_of_Sea_Battle/
 { "name": "WorldOfSeaBattleClient.exe", "type": "Game" }
+
+# World of Talesworth: Idle MMO Simulator https://store.steampowered.com/app/1177970/World_of_Talesworth_Idle_MMO_Simulator/
+{ "name": "WorldOfTalesworth.exe", "type": "Game" }
 
 # World of Tanks https://store.steampowered.com/app/1407200/World_of_Tanks/
 { "name": "wgc.exe", "type": "BG_CPUIO" }
@@ -466,16 +735,41 @@
 # World of Warcraft https://worldofwarcraft.blizzard.com/en-us/
 { "name": "Wow.exe", "type": "Game" }
 
+# World of Warplanes https://store.steampowered.com/app/790710/World_of_Warplanes/
+{ "name": "WorldOfWarplanes.exe", "type": "Game" }
+
 # World of Warships https://store.steampowered.com/app/552990/World_of_Warships/
 { "name": "WoWSLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "worldofwarships", "type": "Game" }
+{ "name": "WorldOfWarships64.exe", "type": "Game" }
+{ "name": "WorldOfWarships.exe", "type": "BG_CPUIO" }
+
+# World of Warships: Legends https://store.steampowered.com/app/2964090/World_of_Warships_Legends/
+{ "name": "WorldOfWarshipsLegends.exe", "type": "Game" }
+
+# Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
+{ "name": "WorldsOfMagic.exe", "type": "Game" }
+
+# World War 2: Time of Wrath https://store.steampowered.com/app/305390/World_War_2_Time_of_Wrath/
+{ "name": "ww2.exe", "type": "Game" }
 
 # World War 3 https://store.steampowered.com/app/674020/World_War_3/
 { "name": "WW3_Launcher.exe", "type": "Game" }
 { "name": "WW3_Win64-Shipping.exe", "type": "Game" }
 
+# World War Armies https://store.steampowered.com/app/2438160/World_War_Armies/
+{ "name": "WorldWarArmies.exe", "type": "Game" }
+
+# World War III: Black Gold https://store.steampowered.com/app/254080/World_War_III_Black_Gold/
+{ "name": "WW3.exe", "type": "Game" }
+
+# World War Legion https://store.steampowered.com/app/3577060/World_War_Legion/
+{ "name": "WorldWarLegion.exe", "type": "Game" }
+
 # World War Z https://store.steampowered.com/app/699130/World_War_Z/
 { "name": "wwzRetail.exe", "type": "Game" }
+
+# Worldwide Rush https://store.steampowered.com/app/3325500/Worldwide_Rush/
+{ "name": "Worldwide Rush.exe", "type": "Game" }
 
 # Worms Armageddon https://store.steampowered.com/app/217200/Worms_Armageddon/
 { "name": "WA.exe", "type": "Game" }
@@ -506,6 +800,14 @@
 
 # Worshippers of Cthulhu https://store.steampowered.com/app/2807150/Worshippers_of_Cthulhu/
 { "name": "WorshippersOfCthulhu.exe", "type": "Game" }
+
+# WoT Blitz Reforged Update https://store.steampowered.com/app/3341250/World_of_Tanks_Blitz/
+{ "name": "BlitzSteam.exe", "type": "Game" }
+{ "name": "BlitzSteam-Win64-Shipping.exe", "type": "Game" }
+
+# Wrap House Simulator🌯 https://store.steampowered.com/app/3533100/Wrap_House_Simulator/
+{ "name": "WrapHouseSimulator.exe", "type": "Game" }
+{ "name": "WrapHouseSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # WRATH: Aeon of Ruin https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 { "name": "wrath-sdl.exe", "type": "Game" }
@@ -542,6 +844,10 @@
 # Wreckfest 2 https://store.steampowered.com/app/1203190/Wreckfest_2/
 { "name": "Wreckfest2.exe", "type": "Game" }
 
+# Wrestling Empire https://store.steampowered.com/app/1620340/Wrestling_Empire/
+{ "name": "WrestlingEmpireModLauncher.exe", "type": "Game" }
+{ "name": "Wrestling Empire.exe", "type": "Game" }
+
 # WUCHANG: Fallen Feathers https://store.steampowered.com/app/2277560/WUCHANG_Fallen_Feathers/
 { "name": "Project_Plague.exe", "type": "Game" }
 { "name": "Project_Plague-Deck-Shipping.exe", "type": "Game" }
@@ -557,6 +863,10 @@
 { "name": "KRSDKExternal.exe", "type": "Game" }
 { "name": "Client-Win64-Shipping.exe", "type": "Game" }
 { "name": "Wuthering Waves.exe", "type": "Game" }
+
+# WW2 Rebuilder https://store.steampowered.com/app/1573280/WW2_Rebuilder/
+{ "name": "Rebuilder.exe", "type": "Game" }
+{ "name": "Rebuilder-Win64-Shipping.exe", "type": "Game" }
 
 # WWE 2K16 https://store.steampowered.com/app/385730/WWE_2K16/
 { "name": "WWE2K16_x64.exe", "type": "Game" }
@@ -588,5 +898,15 @@
 # WWE 2K26 https://store.steampowered.com/app/3717070/WWE_2K26/
 { "name": "WWE2K26_x64.exe", "type": "Game" }
 
+# WWE 2K BATTLEGROUNDS https://store.steampowered.com/app/1142100/WWE_2K_BATTLEGROUNDS/
+{ "name": "WWEBattlegrounds.exe", "type": "Game" }
+{ "name": "WWEPlaygrounds-Win64-Shipping.exe", "type": "Game" }
+
 # WWII Online https://store.steampowered.com/app/251950/WWII_Online/
 { "name": "WW2.exe", "type": "Game" }
+
+# Wylde Flowers https://store.steampowered.com/app/1896700/Wylde_Flowers/
+{ "name": "WyldeFlowers.exe", "type": "Game" }
+
+# Wyldheart Beta https://store.steampowered.com/app/3643050/Wyldheart/
+{ "name": "UnrealGameSteam.exe", "type": "Game" }
