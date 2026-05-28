@@ -1,3 +1,3 @@
-# Rust environment setup (modernized)
+# Rust environment setup
+# rustup.fish (env.fish) handles adding ~/.cargo/bin to PATH.
 set -gx RUSTFLAGS "-C target-cpu=native -C opt-level=3"
-fish_add_path -p --path $HOME/.cargo/bin

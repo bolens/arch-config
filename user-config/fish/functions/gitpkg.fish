@@ -1,3 +1,3 @@
-function gitpkg --wraps='pacman -Q | grep -i "\\-git" | wc -l' --description 'alias gitpkg=pacman -Q | grep -i "\\-git" | wc -l'
-    pacman -Q | grep -i "\-git" | wc -l $argv
+function gitpkg --description 'Count installed -git AUR packages'
+    pacman -Q | rg -i -- '-git' | wc -l
 end

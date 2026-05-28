@@ -1,2 +1,4 @@
 # mise initialization
-mise activate fish | source
+if command -q mise
+    mise activate fish | source
+end
