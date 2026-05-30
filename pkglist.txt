@@ -1233,6 +1233,7 @@ gitgraber
 githack
 githound
 github-cli
+github-copilot-cli
 github-desktop
 github-dorks
 github-subdomains
@@ -1421,6 +1422,7 @@ hellraiser
 helvum
 hemingway
 hercules-payload
+herdr-bin
 hermes-agent
 hetty
 hex2bin
