@@ -523,6 +523,7 @@ ciscos
 citadel
 citron
 cjexploiter
+ckb-next
 clair
 clairvoyance
 clamav
@@ -4048,6 +4049,7 @@ uhoh365
 ukui-wallpapers
 ultimate-facebook-scraper
 ultrastardx-git
+ultrastardx-songs
 umap
 umbrello
 umit
