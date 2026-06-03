@@ -855,6 +855,7 @@ dracut-brltty
 dradis-ce
 dragon
 dragon-backdoor
+drawy
 driftnet
 drinkme
 dripcap
