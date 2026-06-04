@@ -33,6 +33,9 @@
 # Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
 { "name": "PYGame-Linux", "type": "Game" }
 
+# Paradise Lust https://store.steampowered.com/app/1427860/
+{ "name": "paradise_lust.x86_64", "type": "Game" }
+
 # Paragnosia https://store.steampowered.com/app/3017580/Paragnosia/
 { "name": "Paragnosia.x86_64", "type": "Game" }
 
@@ -52,9 +55,15 @@
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
 
+# Party Quiz https://store.steampowered.com/app/2024070/Party_Quiz/
+{ "name": "Party Quiz.x86_64", "type": "Game" }
+
 # Passpartout: The Starving Artist https://store.steampowered.com/app/582550/Passpartout_The_Starving_Artist/
 { "name": "Passpartout.x86", "type": "Game" }
 { "name": "Passpartout.x86_64", "type": "Game" }
+
+# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
+{ "name": "pathogenic.x86_64", "type": "Game" }
 
 # Patrick's Parabox https://store.steampowered.com/app/1260520/Patricks_Parabox/
 { "name": "Patrick's Parabox.x86_64", "type": "Game" }
@@ -64,6 +73,9 @@
 
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_release", "type": "Game" }
+
+# Peach https://store.steampowered.com/app/3060080/Peach/
+{ "name": "Peach.x86_64", "type": "Game" }
 
 # Penumbra: Black Plague Gold Edition https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
 { "name": "blackplague", "type": "Game" }
@@ -94,6 +106,9 @@
 { "name": "Pikuniku.x86", "type": "Game" }
 { "name": "Pikuniku.x86_64", "type": "Game" }
 
+# Pilgrims https://store.steampowered.com/app/1049280/Pilgrims/
+{ "name": "Pilgrims.x86", "type": "Game" }
+
 # Pillars of Eternity https://store.steampowered.com/app/291650/Pillars_of_Eternity/
 { "name": "PillarsOfEternity", "type": "Game" }
 
@@ -119,6 +134,9 @@
 # Pix the Cat https://store.steampowered.com/app/330180/Pix_the_Cat/
 { "name": "PixtheCat", "type": "Game" }
 
+# Pizzeria https://store.steampowered.com/app/3062410/Pizzeria/
+{ "name": "Pizzeria", "type": "Game" }
+
 # Plague Inc: Evolved https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
 { "name": "PlagueIncEvolved.x86_64", "type": "Game" }
 
@@ -131,6 +149,9 @@
 
 # Planet Explorers https://store.steampowered.com/app/237870/Planet_Explorers/
 { "name": "PE_Launcher", "type": "Game" }
+
+# Planet S https://store.steampowered.com/app/1948430/Planet_S/
+{ "name": "PlanS", "type": "Game" }
 
 # Pluto https://store.steampowered.com/app/3057670/Pluto/
 { "name": "pluto.x86_64", "type": "Game" }
@@ -154,8 +175,8 @@
 # POOLS https://store.steampowered.com/app/2663530/POOLS/
 { "name": "POOLS.x86_64", "type": "Game" }
 
-# Portal 2 https://store.steampowered.com/app/620/Portal_2/
-{ "name": "portal2_linux", "type": "Game" }
+# POOP https://store.steampowered.com/app/3060300/POOP/
+{ "name": "POOP.x86_64", "type": "Game" }
 
 # POSTAL https://store.steampowered.com/app/232770/POSTAL/
 { "name": "postal1", "type": "Game" }
@@ -172,6 +193,9 @@
 
 # Primordia https://store.steampowered.com/app/227000/Primordia/
 { "name": "Primordia", "type": "Game" }
+
+# Prince of Suburbia - Part 1 https://store.steampowered.com/app/1896170/
+{ "name": "PrinceOfSuburbiaRewrite", "type": "Game" }
 
 # Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
 { "name": "PrisonArchitect", "type": "Game" }

@@ -35,9 +35,15 @@
 # Cat Bait https://store.steampowered.com/app/2929730/Cat_Bait/
 { "name": "CatBait.x86_64", "type": "Game" }
 
+# CATO: Buttered Cat https://store.steampowered.com/app/1999520/CATO_Buttered_Cat/
+{ "name": "CATO.x86_64", "type": "Game" }
+
 # Cattle Country https://store.steampowered.com/app/2818150/Cattle_Country/
 { "name": "CattleCountry", "type": "Game" }
 { "name": "CattleCountry.bin.aarch64", "type": "Game" }
+
+# Caveman World: Mountains of Unga Boonga https://store.steampowered.com/app/462960/Caveman_World_Mountains_of_Unga_Boonga/
+{ "name": "Caveman World.x86", "type": "Game" }
 
 # Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
 { "name": "CoQ.x86_64", "type": "Game" }
@@ -54,6 +60,9 @@
 
 # Champions of Regnum https://store.steampowered.com/app/222520/Champions_of_Regnum/
 { "name": "rolauncher_steam", "type": "Game" }
+
+# CHANGE: A Homeless Survival Experience https://store.steampowered.com/app/926140/CHANGE_A_Homeless_Survival_Experience/
+{ "name": "CHANGE.x86_64", "type": "Game" }
 
 # Chaos on Deponia https://store.steampowered.com/app/220740/Chaos_on_Deponia/
 { "name": "Deponia2", "type": "Game" }
@@ -110,6 +119,9 @@
 # Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
 
+# City Lights Love Bites Season 0 https://store.steampowered.com/app/3011560/
+{ "name": "CityLightsandLoveBites", "type": "Game" }
+
 # CivIdle https://store.steampowered.com/app/2181940/CivIdle/
 { "name": "cividle", "type": "Game" }
 
@@ -145,6 +157,21 @@
 # Coin Pusher Casino https://store.steampowered.com/app/2178590/Coin_Pusher_Casino/
 { "name": "Coin Pusher Casino", "type": "Game" }
 
+# Coins https://store.steampowered.com/app/3083090/Coins/
+{ "name": "Coins.x86_64", "type": "Game" }
+
+# Collectibles! https://store.steampowered.com/app/3071010/Collectibles/
+{ "name": "Collectibles.x86_64", "type": "Game" }
+
+# College Bound https://store.steampowered.com/app/1630080/
+{ "name": "CollegeBound", "type": "Game" }
+
+# College Kings 2 - Episode 1 https://store.steampowered.com/app/1924480/
+{ "name": "CollegeKings2", "type": "Game" }
+
+# College Kings - The Complete Season https://store.steampowered.com/app/1463120/
+{ "name": "CollegeKings", "type": "Game" }
+
 # Colony Survival https://store.steampowered.com/app/366090/Colony_Survival/
 { "name": "colonyclient.x86", "type": "Game" }
 { "name": "colonyclient.x86_64", "type": "Game" }
@@ -167,6 +194,10 @@
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
 
+# Conan Exiles Dedicated Server https://store.steampowered.com/app/443030/
+{ "name": "ConanSandboxServer", "type": "Game" }
+{ "name": "ConanSandboxServer-Linux-Shipping", "type": "Game" }
+
 # Conquest of Elysium 5 https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/
 { "name": "coe5", "type": "Game" }
 
@@ -182,6 +213,12 @@
 
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper", "type": "Game" }
+
+# Corpse Party (2021) https://store.steampowered.com/app/1273260/Corpse_Party_2021/
+{ "name": "CorpseParty.x64", "type": "Game" }
+
+# Corruption of Champions II https://store.steampowered.com/app/1292690/
+{ "name": "coc2electron", "type": "Game" }
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "CortexCommandHaxLoader", "type": "Game" }
@@ -225,6 +262,9 @@
 # Crisis in the Kremlin https://store.steampowered.com/app/599750/Crisis_in_the_Kremlin/
 { "name": "Crisis.x86_64", "type": "Game" }
 
+# Crisis in the Kremlin: The Cold War https://store.steampowered.com/app/1922740/Crisis_in_the_Kremlin_The_Cold_War/
+{ "name": "CitK2.x86_64", "type": "Game" }
+
 # Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos", "type": "Game" }
 { "name": "Cronos-Linux-Shipping", "type": "Game" }
@@ -258,6 +298,9 @@
 
 # Cultist Simulator https://store.steampowered.com/app/718670/Cultist_Simulator/
 { "name": "CS.x86_64", "type": "Game" }
+
+# Curious Expedition https://store.steampowered.com/app/358130/Curious_Expedition/
+{ "name": "The Curious Expedition", "type": "Game" }
 
 # Cyber Knights: Flashpoint https://store.steampowered.com/app/1021210/Cyber_Knights_Flashpoint/
 { "name": "CyberKnights.x86_64", "type": "Game" }

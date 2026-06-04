@@ -47,6 +47,9 @@
 # Yakuza: Like a Dragon https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/
 { "name": "YakuzaLikeADragon.exe", "type": "Game" }
 
+# Yakuza Rogue: Yokohama massage parlor chapter https://store.steampowered.com/app/2857880/
+{ "name": "MassageShop.exe", "type": "Game" }
+
 # Yandere Simulator https://steamdb.info/app/1683460/
 { "name": "YandereSimulator.exe", "type": "Game" }
 
@@ -91,6 +94,9 @@
 
 # Yi Xian: The Cultivation Card Game https://store.steampowered.com/app/1948800/Yi_Xian_The_Cultivation_Card_Game/
 { "name": "YiXianPai.exe", "type": "Game" }
+
+# YKMET: Strade https://store.steampowered.com/app/3515380/
+{ "name": "YKMETStrade.exe", "type": "Game" }
 
 # Ylands https://store.steampowered.com/app/298610/Ylands/
 { "name": "Ylands.exe", "type": "Game" }

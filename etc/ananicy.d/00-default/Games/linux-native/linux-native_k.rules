@@ -40,8 +40,14 @@
 # Kerbal Space Program https://store.steampowered.com/app/220200/Kerbal_Space_Program/
 { "name": "KSP.x86_64", "type": "Game" }
 
+# Killer Chat! - Original Edition https://store.steampowered.com/app/3476730/Killer_Chat__Original_Edition/
+{ "name": "KillerChat_Steam", "type": "Game" }
+
 # Killing Floor https://store.steampowered.com/app/1250/Killing_Floor/
 { "name": "killingfloor-bin", "type": "Game" }
+
+# Kindergarten 3 https://store.steampowered.com/app/2695570/Kindergarten_3/
+{ "name": "Kindergarten3.x86_64", "type": "Game" }
 
 # Kinetic Void https://store.steampowered.com/app/227160/Kinetic_Void/
 { "name": "Kinetic Void.x86", "type": "Game" }
@@ -80,6 +86,9 @@
 # KLETKA https://store.steampowered.com/app/1699480/KLETKA/
 { "name": "KLETKA-Linux-Shipping", "type": "Game" }
 
+# Knightly Passions https://store.steampowered.com/app/1554260/
+{ "name": "Knightly_passions", "type": "Game" }
+
 # Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
 { "name": "RunGameRemake", "type": "Game" }
 
@@ -89,5 +98,11 @@
 # Knock-knock https://store.steampowered.com/app/250380/Knockknock/
 { "name": "knock.x86", "type": "Game" }
 
+# KoboldKare https://store.steampowered.com/app/1102930/
+{ "name": "KoboldKare", "type": "Game" }
+
 # Kona https://store.steampowered.com/app/365160/Kona/
 { "name": "Kona.x86_64", "type": "Game" }
+
+# Kotama and Academy Citadel https://store.steampowered.com/app/3639650/Kotama_and_Academy_Citadel/
+{ "name": "KotamaAcademyCitadel.bin", "type": "Game" }

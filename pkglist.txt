@@ -1257,6 +1257,7 @@ glue
 gmsadumper
 go-exploitdb
 go-windapsearch
+go-yq
 gobd
 gocabrito
 goddi

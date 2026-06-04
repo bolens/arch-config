@@ -36,11 +36,17 @@
 # Idols of Ash https://store.steampowered.com/app/4450800/Idols_of_Ash/
 { "name": "idols_of_ash.x86_64", "type": "Game" }
 
+# IGTAP: an Incremental Game That's Also a Platformer Demo https://store.steampowered.com/app/4421560/IGTAP_an_Incremental_Game_Thats_Also_a_Platformer/
+{ "name": "IGTAP.x86_64", "type": "Game" }
+
 # I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
 { "name": "IHNMAIMS.x86_64", "type": "Game" }
 
 # Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator", "type": "Game" }
+
+# Imperium Galactica II https://store.steampowered.com/app/490370/Imperium_Galactica_II/
+{ "name": "ig2", "type": "Game" }
 
 # Increlution https://store.steampowered.com/app/1593350/Increlution/
 { "name": "Increlution", "type": "Game" }
@@ -54,6 +60,9 @@
 # Indivisible https://store.steampowered.com/app/421170/Indivisible/
 { "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
 
+# Industry Idle https://store.steampowered.com/app/1574000/Industry_Idle/
+{ "name": "IndustryIdle", "type": "Game" }
+
 # Infectonator: Survivors https://store.steampowered.com/app/269310/Infectonator_Survivors/
 { "name": "Survivors", "type": "Game" }
 
@@ -66,6 +75,15 @@
 
 # Influent Language Learning Game https://store.steampowered.com/app/274980/Influent_Language_Learning_Game/
 { "name": "Influent.x86_64", "type": "Game" }
+
+# IN HEAT: Lustful Nights https://store.steampowered.com/app/1962890/
+{ "name": "IN HEAT.x86_64", "type": "Game" }
+
+# Innocence Or Money Season 1 - Episodes 1 to 3 https://store.steampowered.com/app/1958390/
+{ "name": "InnocenceOrMoney", "type": "Game" }
+
+# Innocent Girl https://store.steampowered.com/app/1349030/
+{ "name": "Innocent Girl.x86_64", "type": "Game" }
 
 # Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
 { "name": "fcengine-bin32", "type": "Game" }

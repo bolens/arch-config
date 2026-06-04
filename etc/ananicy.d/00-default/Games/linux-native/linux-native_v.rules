@@ -20,6 +20,9 @@
 # Vampire Therapist https://store.steampowered.com/app/2481020/Vampire_Therapist/
 { "name": "VampireTherapist.x86_64", "type": "Game" }
 
+# Vampy's Big Day Demo https://store.steampowered.com/app/4756360/
+{ "name": "Vampy's Big Day", "type": "Game" }
+
 # Vangers https://store.steampowered.com/app/264080/Vangers/
 { "name": "vangers32", "type": "Game" }
 { "name": "vangers64", "type": "Game" }
@@ -31,11 +34,17 @@
 # VEIN https://store.steampowered.com/app/1857950/VEIN/
 { "name": "Vein", "type": "Game" }
 
+# VEIN Demo https://store.steampowered.com/app/2082470/VEIN/
+{ "name": "VeinDemo-Linux-Test", "type": "Game" }
+
 # Verdun https://store.steampowered.com/app/242860/Verdun/
 { "name": "Verdun", "type": "Game" }
 
 # Victoria 3 https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3", "type": "Game" }
+
+# Vigil: The Longest Night https://store.steampowered.com/app/720560/Vigil_The_Longest_Night/
+{ "name": "vigil.x86_64", "type": "Game" }
 
 # Vintage Story https://www.vintagestory.at/
 { "name": "Vintagestory", "type": "Game" }
@@ -47,6 +56,9 @@
 
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }
+
+# Vital Shell https://store.steampowered.com/app/3741860/Vital_Shell/
+{ "name": "VitalShell_Linux.exe.x86_64", "type": "Game" }
 
 # vkquake https://github.com/Novum/vkQuake/
 { "name": "vkquake", "type": "Game" }
@@ -60,8 +72,14 @@
 # Volgarr the Viking https://store.steampowered.com/app/247240/Volgarr_the_Viking/
 { "name": "Volgarr", "type": "Game" }
 
+# Voxel Tycoon https://store.steampowered.com/app/732050/Voxel_Tycoon/
+{ "name": "VoxelTycoon", "type": "Game" }
+
 # VRCVideoCacher https://store.steampowered.com/app/4296960/VRCVideoCacher/
 { "name": "VRCVideoCacher", "type": "BG_CPUIO" }
+
+# VTOL VR Mod Loader https://store.steampowered.com/app/3018410/VTOL_VR_Mod_Loader/
+{ "name": "Mod Manager", "type": "BG_CPUIO" }
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV", "type": "Game" }

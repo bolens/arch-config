@@ -48,8 +48,15 @@
 # Getting Over It with Bennett Foddy https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
 { "name": "GettingOverIt.x86_64", "type": "Game" }
 
+# Ghost of Tokyo https://store.steampowered.com/app/4620930/
+{ "name": "GhostOfTokyoMain", "type": "Game" }
+
 # GIGANTIC ARMY https://store.steampowered.com/app/278930/GIGANTIC_ARMY/
 { "name": "GiganticArmy.x86", "type": "Game" }
+
+# "Glow Ball" - The billiard puzzle game https://store.steampowered.com/app/388390/Glow_Ball__The_billiard_puzzle_game/
+{ "name": "GlowBall.x86_64", "type": "Game" }
+{ "name": "GlowBall.x86", "type": "Game" }
 
 # GNOG https://store.steampowered.com/app/290510/GNOG/
 { "name": "GNOG.x86", "type": "Game" }
@@ -77,6 +84,9 @@
 
 # Graalonline Era https://store.steampowered.com/app/2358050/GraalOnline_Era/
 { "name": "Era", "type": "Game" }
+
+# Granvir https://store.steampowered.com/app/2743460/Granvir/
+{ "name": "Granvir.x64_86", "type": "Game" }
 
 # Gravel https://store.steampowered.com/app/558260/Gravel/
 { "name": "gravel.x86_64", "type": "Game" }
@@ -117,8 +127,14 @@
 { "name": "GrowHome.x86", "type": "Game" }
 { "name": "GrowHome.x86_64", "type": "Game" }
 
+# Growing Things Up - Season 1 https://store.steampowered.com/app/3910610/
+{ "name": "GrowingThingsUp", "type": "Game" }
+
 # Guacamelee! Gold Edition https://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/
 { "name": "game", "type": "Game" }
+
+# Guardians of Victoria https://store.steampowered.com/app/385080/Guardians_of_Victoria/
+{ "name": "guardiansofvictoria", "type": "Game" }
 
 # Gunpoint https://store.steampowered.com/app/206190/Gunpoint/
 { "name": "GunpointSteam", "type": "Game" }

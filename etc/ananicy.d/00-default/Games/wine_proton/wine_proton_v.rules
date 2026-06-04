@@ -85,6 +85,9 @@
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
 
+# Vampy's Big Day Demo https://store.steampowered.com/app/4756360/
+{ "name": "Vampy's Big Day.exe", "type": "Game" }
+
 # Vangers https://store.steampowered.com/app/264080/Vangers/
 { "name": "vangers.exe", "type": "Game" }
 
@@ -132,6 +135,10 @@
 { "name": "Vein.exe", "type": "Game" }
 { "name": "Vein-Win64-Test.exe", "type": "Game" }
 
+# VEIN Demo https://store.steampowered.com/app/2082470/VEIN/
+{ "name": "VeinDemo.exe", "type": "Game" }
+{ "name": "VeinDemo-Win64-Test.exe", "type": "Game" }
+
 # Vellum https://store.steampowered.com/app/917950/Vellum/
 { "name": "Vellum.exe", "type": "Game" }
 
@@ -150,6 +157,9 @@
 # VERGE:Lost chapter https://store.steampowered.com/app/400740/VERGELost_chapter/
 { "name": "VERGE.exe", "type": "Game" }
 
+# Verho - Curse of Faces https://store.steampowered.com/app/3017330/Verho__Curse_of_Faces/
+{ "name": "Verho.exe", "type": "Game" }
+
 # VGDD2 https://store.steampowered.com/app/2457540/Cardfight_Vanguard_Dear_Days_2/
 { "name": "VGDD2.exe", "type": "Game" }
 
@@ -164,6 +174,9 @@
 
 # Viewfinder https://store.steampowered.com/app/1382070/Viewfinder/
 { "name": "Viewfinder.exe", "type": "Game" }
+
+# Vigil: The Longest Night https://store.steampowered.com/app/720560/Vigil_The_Longest_Night/
+{ "name": "vigil.exe", "type": "Game" }
 
 # Vigor https://store.steampowered.com/app/2818260/Vigor/
 { "name": "Vigor.exe", "type": "Game" }
@@ -227,6 +240,12 @@
 { "name": "VisionsofMana.exe", "type": "Game" }
 { "name": "VisionsofMana-Win64-Shipping.exe", "type": "Game" }
 
+# Visseron Idle https://store.steampowered.com/app/4601670/Visseron_Idle/
+{ "name": "Visseron Idle.exe", "type": "Game" }
+
+# Vital Shell https://store.steampowered.com/app/3741860/Vital_Shell/
+{ "name": "VitalShell.exe", "type": "Game" }
+
 # vivid/stasis https://store.steampowered.com/app/2093940/vividstasis/
 { "name": "VIVIDSTASIS.exe", "type": "Game" }
 
@@ -264,9 +283,13 @@
 
 # Voidtrain https://store.steampowered.com/app/1159690/Voidtrain/
 { "name": "VoidTrain.exe", "type": "Game" }
+{ "name": "VoidTrain-Win64-Shipping.exe", "type": "Game" }
 
 # Void War https://store.steampowered.com/app/2853590/Void_War/
 { "name": "Void War.exe", "type": "Game" }
+
+# Voidwrought https://store.steampowered.com/app/2014550/Voidwrought/
+{ "name": "Voidwrought.exe", "type": "Game" }
 
 # VOIN https://store.steampowered.com/app/2464530/VOIN/
 { "name": "VOIN.exe", "type": "Game" }
@@ -293,6 +316,9 @@
 
 # Voxelgram https://store.steampowered.com/app/1158470/Voxelgram/
 { "name": "Voxelgram.exe", "type": "Game" }
+
+# Voxel Tycoon https://store.steampowered.com/app/732050/Voxel_Tycoon/
+{ "name": "VoxelTycoon.exe", "type": "Game" }
 
 # Vox Machinae https://store.steampowered.com/app/334540/Vox_Machinae/
 { "name": "vm.exe", "type": "Game" }
@@ -334,6 +360,9 @@
 # VRoid Studio https://store.steampowered.com/app/1486350/VRoid_Studio/
 { "name": "VRoidStudio.exe", "type": "BG_CPUIO" }
 
+# VSD Craft https://store.steampowered.com/app/4269970/VSD_Craft/
+{ "name": "VSD Craft.exe", "type": "BG_CPUIO" }
+
 # VS IMPOSTOR https://gamebanana.com/mods/590608
 { "name": "Vs. Impostor.exe", "type": "Game" }
 { "name": "VS Impostor.exe", "type": "Game" }
@@ -343,6 +372,9 @@
 
 # VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
 { "name": "VTOLVR.exe", "type": "Game" }
+
+# VTOL VR Mod Loader https://store.steampowered.com/app/3018410/VTOL_VR_Mod_Loader/
+{ "name": "Mod Manager.exe", "type": "BG_CPUIO" }
 
 # VTube Studio https://store.steampowered.com/app/1325860/VTube_Studio/
 { "name": "VTube Studio.exe", "type": "BG_CPUIO" }

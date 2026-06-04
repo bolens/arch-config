@@ -11,6 +11,9 @@
 # Ultimate Racing 2D 2 https://store.steampowered.com/app/1285230/Ultimate_Racing_2D_2/
 { "name": "Ultimate_Racing_2D_2", "type": "Game" }
 
+# Ultimate Zombie Defense https://store.steampowered.com/app/1035510/Ultimate_Zombie_Defense/
+{ "name": "UltimateZombieDefense", "type": "Game" }
+
 # Umineko When They Cry - Answer Arcs https://store.steampowered.com/app/639490/Umineko_When_They_Cry__Answer_Arcs/
 { "name": "Umineko5to8", "type": "Game" }
 
@@ -58,6 +61,9 @@
 { "name": "ut-bin-amd64", "type": "Game" }
 { "name": "ut-bin", "type": "Game" }
 
+# Unspottable https://store.steampowered.com/app/1243960/Unspottable/
+{ "name": "Unspottable", "type": "Game" }
+
 # Until Then https://store.steampowered.com/app/1574820/Until_Then/
 { "name": "UntilThen.x86_64", "type": "Game" }
 
@@ -76,6 +82,9 @@
 
 # Upload Labs https://store.steampowered.com/app/3606890/Upload_Labs/
 { "name": "Upload Labs.x86_64", "type": "Game" }
+
+# Urban Rivals https://store.steampowered.com/app/715310/Urban_Rivals/
+{ "name": "Urban Rivals.x86_64", "type": "Game" }
 
 # Urban Terror https://www.urbanterror.info/
 { "name": "Quake3-UrT.x86_64", "type": "Game" }

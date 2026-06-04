@@ -5,8 +5,12 @@
 
 ### X ###
 
-# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
-{ "name": "X3TC.exe", "type": "Game" }
+# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
+{ "name": "x3ap.exe", "type": "Game" }
+{ "name": "X3AP.exe", "type": "Game" }
+
+# X3: Farnham's Legacy https://store.steampowered.com/app/483330/X3_Farnhams_Legacy/
+{ "name": "X3FL.exe", "type": "Game" }
 
 # X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4.exe", "type": "Game" }
@@ -51,6 +55,10 @@
 # XSOverlay https://store.steampowered.com/app/1173510/XSOverlay/
 { "name": "XSOverlay Process Manager.exe", "type": "BG_CPUIO" }
 { "name": "XSOverlay.exe", "type": "BG_CPUIO" }
+
+# Xuan-Yuan Sword: Mists Beyond the Mountains https://store.steampowered.com/app/1638230/XuanYuan_Sword_Mists_Beyond_the_Mountains/
+{ "name": "SWD3Works.exe", "type": "Game" }
+{ "name": "swd3.exe", "type": "Game" }
 
 # Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
 { "name": "swd3e.exe", "type": "Game" }

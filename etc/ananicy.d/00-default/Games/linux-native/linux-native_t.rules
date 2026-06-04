@@ -59,8 +59,14 @@
 # Teleglitch: Die More Edition https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/
 { "name": "runme", "type": "Game" }
 
+# Tennis Elbow 2013 https://store.steampowered.com/app/346470/Tennis_Elbow_2013/
+{ "name": "TennisElbow2013", "type": "Game" }
+
 # Terminator 2D: NO FATE https://store.steampowered.com/app/1718460/
 { "name": "Terminator 2D NO FATE", "type": "Game" }
+
+# Terraformental https://store.steampowered.com/app/3762790/Terraformental/
+{ "name": "Terraformental.x86_64", "type": "Game" }
 
 # Terraformers https://store.steampowered.com/app/1244800/Terraformers/
 { "name": "terraformers.x86_64", "type": "Game" }
@@ -133,6 +139,9 @@
 
 # Tiny Bookshop https://store.steampowered.com/app/2133760/Tiny_Bookshop/
 { "name": "Tiny Bookshop.x86_64", "type": "Game" }
+
+# Tiny Dino: Royale https://store.steampowered.com/app/3067650/Tiny_Dino_Royale/
+{ "name": "TinyDinoRoyale.x86_64", "type": "Game" }
 
 # Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
 { "name": "tiny-glade", "type": "Game" }

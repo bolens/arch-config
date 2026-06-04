@@ -14,6 +14,9 @@
 # Jagged Alliance - Back in Action https://store.steampowered.com/app/57740/Jagged_Alliance__Back_in_Action/
 { "name": "JabiaLinux.x86_64", "type": "Game" }
 
+# JASON, Coming of Age https://store.steampowered.com/app/3165830/
+{ "name": "JASON", "type": "Game" }
+
 # Jazzpunk: Director's Cut https://store.steampowered.com/app/250260/Jazzpunk_Directors_Cut/
 { "name": "Jazzpunk.x86", "type": "Game" }
 
@@ -30,6 +33,9 @@
 
 # Juice Galaxy https://store.steampowered.com/app/1708150/Juice_Galaxy/
 { "name": "Juice Galaxy.x86_64", "type": "Game" }
+
+# Just Pizza https://store.steampowered.com/app/3077280/Just_Pizza/
+{ "name": "Just Pizza.x86_64", "type": "Game" }
 
 # Just Shapes & Beats https://store.steampowered.com/app/531510/Just_Shapes__Beats/
 { "name": "JSB.x86_64", "type": "Game" }

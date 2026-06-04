@@ -5,6 +5,9 @@
 
 ### T ###
 
+# Tabletop Game Shop Simulator https://store.steampowered.com/app/3524750/Tabletop_Game_Shop_Simulator/
+{ "name": "Tabletop.exe", "type": "Game" }
+
 # Tabletopia https://store.steampowered.com/app/402560/Tabletopia/
 { "name": "Tabletopia.exe", "type": "Game" }
 
@@ -22,6 +25,12 @@
 
 # Tactics Ogre: Reborn https://store.steampowered.com/app/1451090/Tactics_Ogre_Reborn/
 { "name": "Tactics Ogre Reborn.exe", "type": "Game" }
+
+# Taffy Tales Redux : The Morning After https://store.steampowered.com/app/4040840/
+{ "name": "Taffy Tales Redux The Morning After.exe", "type": "Game" }
+
+# Taffy Tales Redux : The Morning After Demo https://store.steampowered.com/app/4294870/
+{ "name": "Taffy Tales Redux The Morning After Demo.exe", "type": "Game" }
 
 # Taiji https://store.steampowered.com/app/1141580/Taiji/
 { "name": "Taiji.exe", "type": "Game" }
@@ -91,6 +100,10 @@
 # Tales of Maj'Eyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
 { "name": "t-engine.exe", "type": "Game" }
 
+# Tales of Rein Ravine https://store.steampowered.com/app/2299740/Tales_of_Rein_Ravine/
+{ "name": "HorseGame.exe", "type": "Game" }
+{ "name": "HorseGame-Win64-Shipping.exe", "type": "Game" }
+
 # Tales of Seikyu https://store.steampowered.com/app/2340520/Tales_of_Seikyu/
 { "name": "Tales Of Seikyu.exe", "type": "Game" }
 
@@ -120,6 +133,10 @@
 
 # TAMASHIKA https://store.steampowered.com/app/2996080/TAMASHIKA/
 { "name": "TAMASHIKA.exe", "type": "Game" }
+
+# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
+{ "name": "Tamer.exe", "type": "Game" }
+{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
 
 # Tametsi https://store.steampowered.com/app/709920/Tametsi/
 { "name": "tametsi.exe", "type": "Game" }
@@ -154,6 +171,9 @@
 # Tap Ninja - Idle game https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
 { "name": "Tap Ninja.exe", "type": "Game" }
 
+# Tapple https://store.steampowered.com/app/3047030/Tapple__Idle_Clicker/
+{ "name": "Tapple.exe", "type": "Game" }
+
 # TAPSONIC BOLD https://store.steampowered.com/app/938220/TAPSONIC_BOLD/
 { "name": "BOLD.exe", "type": "Game" }
 
@@ -172,6 +192,9 @@
 # Taur https://store.steampowered.com/app/1227780/Taur/
 { "name": "Taur.exe", "type": "Game" }
 
+# Tavern, Inn, and the Halberd https://store.steampowered.com/app/4110360/
+{ "name": "Mira.exe", "type": "Game" }
+
 # Tavern Keeper 🍻 https://store.steampowered.com/app/436780/Tavern_Keeper/
 { "name": "TavernKeeper.exe", "type": "Game" }
 
@@ -187,6 +210,9 @@
 # Taxi Life: A City Driving Simulator https://store.steampowered.com/app/1351240/Taxi_Life_A_City_Driving_Simulator/
 { "name": "TaxiLife.exe", "type": "Game" }
 { "name": "TaxiLife-Win64-Shipping.exe", "type": "Game" }
+
+# TBH: Task Bar Hero https://store.steampowered.com/app/3678970/TBH_Task_Bar_Hero/
+{ "name": "TaskBarHero.exe", "type": "Game" }
 
 # TCG Card Shop Simulator https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
 { "name": "Card Shop Simulator.exe", "type": "Game" }
@@ -206,6 +232,9 @@
 
 # Team Fortress 2 Classified https://store.steampowered.com/app/3545060/Team_Fortress_2_Classified/
 { "name": "tf2classified_win64.exe", "type": "Game" }
+
+# Team Fortress 2: Gold Rush https://store.steampowered.com/app/3826520/Team_Fortress_2_Gold_Rush/
+{ "name": "tf_goldrush_win64.exe", "type": "Game" }
 
 # Team Sonic Racing https://store.steampowered.com/app/785260/Team_Sonic_Racing/
 { "name": "GameApp_PcDx11_x64Final.exe", "type": "Game" }
@@ -248,15 +277,17 @@
 # Tell Me Why https://store.steampowered.com/app/1180660/Tell_Me_Why/
 { "name": "TME-Win64-Shipping.exe", "type": "Game" }
 
-# Tempest Rising https://store.steampowered.com/app/1486920/Tempest_Rising/
-{ "name": "Tempest.exe", "type": "Game" }
-{ "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
+# Temple Maker 64 Demo https://store.steampowered.com/app/4705140/
+{ "name": "Temple Maker 64.exe", "type": "Game" }
 
 # Temtem https://store.steampowered.com/app/745920/Temtem/
 { "name": "Temtem.exe", "type": "Game" }
 
 # Temtem: Swarm https://store.steampowered.com/app/2510960/Temtem_Swarm/
 { "name": "TemtemSwarm.exe", "type": "Game" }
+
+# Tennis Elbow 2013 https://store.steampowered.com/app/346470/Tennis_Elbow_2013/
+{ "name": "TennisElbow.exe", "type": "Game" }
 
 # Tennis Elbow 4 https://store.steampowered.com/app/760640/Tennis_Elbow_4/
 { "name": "Tennis Elbow 4.exe", "type": "Game" }
@@ -298,6 +329,9 @@
 # Terminus: Zombie Survivors https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/
 { "name": "Terminus.exe", "type": "Game" }
 
+# Terraformental https://store.steampowered.com/app/3762790/Terraformental/
+{ "name": "Terraformental.exe", "type": "Game" }
+
 # Terraformers https://store.steampowered.com/app/1244800/Terraformers/
 { "name": "Terraformers.exe", "type": "Game" }
 
@@ -323,6 +357,10 @@
 # TerraTech Legion https://store.steampowered.com/app/3596700/TerraTech_Legion/
 { "name": "TerraTech_LegionEOS.exe", "type": "Game" }
 { "name": "TerraTech_LegionEOS-Win64-Shipping.exe", "type": "Game" }
+
+# TerraTech Legion Demo https://store.steampowered.com/app/3729960/TerraTech_Legion_Demo/
+{ "name": "TerraTech_Legion_Demo.exe", "type": "Game" }
+{ "name": "TerraTech_Legion_Demo-Win64-Shipping.exe", "type": "Game" }
 
 # TerraTech Worlds https://store.steampowered.com/app/2313330/TerraTech_Worlds/
 { "name": "TT2EOS.exe", "type": "Game" }
@@ -404,6 +442,10 @@
 
 # They Bleed Pixels https://store.steampowered.com/app/211260/They_Bleed_Pixels/
 { "name": "They Bleed Pixels PC.exe", "type": "Game" }
+
+# Thick As Thieves https://store.steampowered.com/app/3341000/Thick_As_Thieves/
+{ "name": "TAT.exe", "type": "Game" }
+{ "name": "TAT-Win64-Shipping.exe", "type": "Game" }
 
 # Thief https://store.steampowered.com/app/239160/Thief/
 { "name": "Shipping-ThiefGame.exe", "type": "Game" }
@@ -494,6 +536,12 @@
 # Thronefall https://store.steampowered.com/app/2239150/Thronefall/
 { "name": "Thronefall.exe", "type": "Game" }
 
+# Through Abandoned: The Forest https://store.steampowered.com/app/513340/Through_Abandoned_The_Forest/
+{ "name": "2 Through Abandoned - The Forest.exe", "type": "Game" }
+
+# Through Abandoned: The Underground City https://store.steampowered.com/app/389270/Through_Abandoned_The_Underground_City/
+{ "name": "1 Through Abandoned - The Underground City.exe", "type": "Game" }
+
 # Through the Ages https://store.steampowered.com/app/758370/Through_the_Ages/
 { "name": "ThroughTheAges_steam.exe", "type": "Game" }
 
@@ -582,6 +630,9 @@
 { "name": "TinyBunny-32.exe", "type": "Game" }
 { "name": "TinyBunny.exe", "type": "Game" }
 
+# Tiny Dino: Royale https://store.steampowered.com/app/3067650/Tiny_Dino_Royale/
+{ "name": "Tiny Dino Royale.exe", "type": "Game" }
+
 # Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
 { "name": "tiny-glade.exe", "type": "Game" }
 
@@ -591,8 +642,15 @@
 # Tiny Rogues https://store.steampowered.com/app/2088570/Tiny_Rogues/
 { "name": "Tiny Rogues.exe", "type": "Game" }
 
+# Tiny Shop Playtest https://store.steampowered.com/app/3771140/
+{ "name": "Tiny_shop_demo.exe", "type": "Game" }
+{ "name": "Tiny_shop_demo-Win64-Shipping.exe", "type": "Game" }
+
 # Tiny Terraces https://store.steampowered.com/app/3136330/Tiny_Terraces/
 { "name": "Tiny Terraces.exe", "type": "Game" }
+
+# Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure https://store.steampowered.com/app/1712840/Tiny_Tinas_Assault_on_Dragon_Keep_A_Wonderlands_Oneshot_Adventure/
+{ "name": "TinyTina.exe", "type": "Game" }
 
 # Tiny Tina's Wonderlands https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/
 { "name": "Wonderlands.exe", "type": "Game" }
@@ -648,6 +706,9 @@
 # TOEM: A Photo Adventure https://store.steampowered.com/app/1307580/TOEM_A_Photo_Adventure/
 { "name": "TOEM.exe", "type": "Game" }
 
+# Togainu no Chi ~Lost Blood~ https://store.steampowered.com/app/1174400/Togainu_no_Chi_Lost_Blood/
+{ "name": "togainunochi.exe", "type": "Game" }
+
 # TOGETHER BnB https://store.steampowered.com/app/1239020/TOGETHER_BnB/
 { "name": "TogetherBNB.exe", "type": "Game" }
 
@@ -666,6 +727,9 @@
 
 # TOKYO GHOUL:re [CALL to EXIST] https://store.steampowered.com/app/756530/TOKYO_GHOULre_CALL_to_EXIST/
 { "name": "CALL to EXIST.exe", "type": "Game" }
+
+# Tokyo Xanadu eX+ https://store.steampowered.com/app/587260/Tokyo_Xanadu_eX/
+{ "name": "TokyoXanadu.exe", "type": "Game" }
 
 # Tokyo Xtreme Racer https://store.steampowered.com/app/2634950/Tokyo_Xtreme_Racer/
 { "name": "TokyoXtremeRacer-Win64-Shipping.exe", "type": "Game" }
@@ -803,6 +867,9 @@
 # Torchlight III https://store.steampowered.com/app/1030210/Torchlight_III/
 { "name": "Frontiers-Win64-Shipping.exe", "type": "Game" }
 
+# Torebia: The Island Odyssey Playtest https://store.steampowered.com/app/3768900/
+{ "name": "Torebia Online.exe", "type": "Game" }
+
 # Toribash https://store.steampowered.com/app/248570/Toribash/
 { "name": "Toribash.exe", "type": "Game" }
 { "name": "toribashSP.exe", "type": "Game" }
@@ -812,6 +879,7 @@
 
 # Tormented Souls 2 https://store.steampowered.com/app/2464280/Tormented_Souls_2/
 { "name": "TormentedSouls2.exe", "type": "Game" }
+{ "name": "TormentedSouls2-Win64-Shipping.exe", "type": "Game" }
 
 # Torment: Tides of Numenera https://store.steampowered.com/app/272270/Torment_Tides_of_Numenera/
 { "name": "TidesOfNumenera.exe", "type": "Game" }
@@ -901,6 +969,9 @@
 
 # Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
 { "name": "th10.exe", "type": "Game" }
+
+# Touhou Genso Wanderer -Reloaded- / 不可思议的幻想乡TOD -RELOADED- / 不思議の幻想郷TOD -RELOADED- https://store.steampowered.com/app/931500/Touhou_Genso_Wanderer_Reloaded/
+{ "name": "LotusLandVReloaded.exe", "type": "Game" }
 
 # Touhou Hero of Ice Fairy https://store.steampowered.com/app/1955830/Touhou_Hero_of_Ice_Fairy/
 { "name": "Touhou Hero of Ice Fairy.exe", "type": "Game" }
@@ -993,6 +1064,9 @@
 # Toybox Turbos https://store.steampowered.com/app/287260/Toybox_Turbos/
 { "name": "ToyboxTurbos.exe", "type": "Game" }
 
+# Toy Smash Kaboom! https://store.steampowered.com/app/3573070/Toy_Smash_Kaboom/
+{ "name": "BackpackGame.exe", "type": "Game" }
+
 # Toy Story 3 https://store.steampowered.com/app/300820/DisneyoPixar_Toy_Story_3_The_Video_Game/
 { "name": "Game-TS3.exe", "type": "Game" }
 
@@ -1019,6 +1093,9 @@
 { "name": "TrailOut-Win64-Shipping.exe", "type": "Game" }
 { "name": "TrailOut.exe", "type": "Game" }
 
+# Trainatic https://store.steampowered.com/app/3208560/Trainatic/
+{ "name": "trainatic.exe", "type": "Game" }
+
 # TRAIN CREW https://store.steampowered.com/app/1618290/TRAIN_CREW/
 { "name": "TrainCrew.exe", "type": "Game" }
 
@@ -1033,6 +1110,9 @@
 { "name": "RailWorksDX12_64.exe", "type": "Game" }
 { "name": "Railworks.exe", "type": "Game" }
 
+# Train Station Renovation https://store.steampowered.com/app/914010/Train_Station_Renovation/
+{ "name": "TSR_STEAM.exe", "type": "Game" }
+
 # Train Valley 2 https://store.steampowered.com/app/602320/Train_Valley_2/
 { "name": "TrainValley2.exe", "type": "Game" }
 
@@ -1044,6 +1124,10 @@
 
 # Trainz Simulator 12 https://store.steampowered.com/app/24670/Trainz_Simulator_12/
 { "name": "trainz.exe", "type": "Game" }
+
+# Trakonius https://store.steampowered.com/app/2418490/Trakonius/
+{ "name": "Trakonius.exe", "type": "Game" }
+{ "name": "Trakonius-Win64-Shipping.exe", "type": "Game" }
 
 # Transformice https://store.steampowered.com/app/335240/Transformice/
 { "name": "Transformice.exe", "type": "Game" }
@@ -1066,6 +1150,9 @@
 # Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2.exe", "type": "Game" }
 
+# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
+{ "name": "Trans-Siberian Railway Simulator.exe", "type": "Game" }
+
 # Trash Goblin https://store.steampowered.com/app/2407830/Trash_Goblin/
 { "name": "TrashGoblin.exe", "type": "Game" }
 
@@ -1083,6 +1170,7 @@
 
 # Trepang2 https://store.steampowered.com/app/1164940/Trepang2/
 { "name": "CPPFPS.exe", "type": "Game" }
+{ "name": "CPPFPS-Win64-Shipping.exe", "type": "Game" }
 
 # Trials Evolution: Gold Edition https://store.steampowered.com/app/220160/Trials_Evolution_Gold_Edition/
 { "name": "trialsFMX.exe", "type": "Game" }
@@ -1099,6 +1187,10 @@
 # TRIANGLE STRATEGY https://store.steampowered.com/app/1850510/TRIANGLE_STRATEGY/
 { "name": "TRIANGLE_STRATEGY.exe", "type": "Game" }
 { "name": "TRIANGLE_STRATEGY-Win64-Shipping.exe", "type": "Game" }
+
+# Triarchy Playtest https://store.steampowered.com/app/4147970/
+{ "name": "PW.exe", "type": "Game" }
+{ "name": "PW-Win64-Shipping.exe", "type": "Game" }
 
 # Tribal Wars https://store.steampowered.com/app/675690/Tribal_Wars/
 { "name": "tribalwars.exe", "type": "Game" }
@@ -1147,6 +1239,9 @@
 { "name": "trine1_game.exe", "type": "Game" }
 { "name": "trine.exe", "type": "Game" }
 
+# Trip to Vinelands https://store.steampowered.com/app/546090/Trip_to_Vinelands/
+{ "name": "Trip to Vinelands.exe", "type": "Game" }
+
 # Trizon https://store.steampowered.com/app/3064290/Trizon/
 { "name": "Trizon.exe", "type": "Game" }
 
@@ -1155,6 +1250,9 @@
 
 # Trophy Fishing 2 https://store.steampowered.com/app/645260/Trophy_Fishing_2/
 { "name": "Trophy Fishing 2.exe", "type": "Game" }
+
+# Tropical Resort Simulator (Paradise Beach Simulator) https://store.steampowered.com/app/2936190/Tropical_Resort_Simulator/
+{ "name": "PBS.exe", "type": "Game" }
 
 # Tropico 3 https://store.steampowered.com/app/23490/Tropico_3/
 { "name": "tropico3.exe", "type": "Game" }
@@ -1210,8 +1308,14 @@
 # TT Isle Of Man: Ride on the Edge 3 https://store.steampowered.com/app/1924170/TT_Isle_Of_Man_Ride_on_the_Edge_3/
 { "name": "TT3.exe", "type": "Game" }
 
+# TTV2 https://store.steampowered.com/app/701470/TTV2/
+{ "name": "TTV2.exe", "type": "Game" }
+
 # Tumblestone https://store.steampowered.com/app/269710/Tumblestone/
 { "name": "Tumblestone.exe", "type": "Game" }
+
+# Tunguska: The Visitation - Final Cut https://store.steampowered.com/app/1601970/Tunguska_The_Visitation__Final_Cut/
+{ "name": "Tunguska.exe", "type": "Game" }
 
 # TUNIC https://store.steampowered.com/app/553420/TUNIC/
 { "name": "Tunic.exe", "type": "Game" }
@@ -1233,6 +1337,11 @@
 
 # Turing Complete https://store.steampowered.com/app/1444480/Turing_Complete/
 { "name": "Turing Complete.exe", "type": "Game" }
+
+# Turlock Holmes https://store.steampowered.com/app/2142160/Turlock_Holmes/
+{ "name": "Turtlesoup_PC.exe", "type": "Game" }
+{ "name": "Turtlesoup_PC_Launcher.exe", "type": "Game" }
+{ "name": "TurtleSoupLauncher.exe", "type": "Game" }
 
 # Turmoil https://store.steampowered.com/app/361280/Turmoil/
 { "name": "Turmoil.exe", "type": "Game" }

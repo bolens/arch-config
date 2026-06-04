@@ -25,6 +25,9 @@
 { "name": "ZDLauncher.exe", "type": "Game" }
 { "name": "ZDSimulator.exe", "type": "Game" }
 
+# ZED ZONE https://store.steampowered.com/app/1211600/ZED_ZONE/
+{ "name": "ZEDZONE.exe", "type": "Game" }
+
 # Zengeon https://store.steampowered.com/app/1000080/Zengeon/
 { "name": "Zengeon.exe", "type": "Game" }
 
@@ -67,8 +70,15 @@
 # Zero-K https://store.steampowered.com/app/334920/ZeroK/
 { "name": "Zero-K.exe", "type": "Game" }
 
+# ZERO PARADES: For Dead Spies https://store.steampowered.com/app/2863680/ZERO_PARADES_For_Dead_Spies/
+{ "name": "ZeroParades.exe", "type": "Game" }
+
 # ZERO Sievert https://store.steampowered.com/app/1782120/ZERO_Sievert/
 { "name": "ZERO Sievert.exe", "type": "Game" }
+
+# ZeroSpace Demo https://store.steampowered.com/app/1606060/
+{ "name": "RTS.exe", "type": "Game" }
+{ "name": "RTS-Win64-Shipping.exe", "type": "Game" }
 
 # Zero Stress King: Idle Defense https://store.steampowered.com/app/4271160/Zero_Stress_King_Idle_Defense/
 { "name": "ZeroStressKing.exe", "type": "Game" }
@@ -127,6 +137,9 @@
 
 # Zomborg https://store.steampowered.com/app/729720/Zomborg/
 { "name": "Zomborg.exe", "type": "Game" }
+
+# Zomcats Invasion https://store.steampowered.com/app/2699240/Zomcats_Invasion/
+{ "name": "Zomcats Invasion.exe", "type": "Game" }
 
 # Zompiercer https://store.steampowered.com/app/1262460/Zompiercer/
 { "name": "Zompiercer.exe", "type": "Game" }

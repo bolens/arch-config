@@ -9,9 +9,6 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39stepslinux.x86", "type": "Game" }
 
-# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.x86_64", "type": "Game" }
-
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
 
@@ -53,6 +50,9 @@
 # The Dark Eye: Chains of Satinav https://store.steampowered.com/app/203830/The_Dark_Eye_Chains_of_Satinav/
 { "name": "satinav", "type": "Game" }
 
+# The Dark Queen of Mortholme https://store.steampowered.com/app/3587610/The_Dark_Queen_of_Mortholme/
+{ "name": "The Dark Queen of Mortholme.x86_64", "type": "Game" }
+
 # The Deer https://store.steampowered.com/app/400240/The_Deer/
 { "name": "TheDeer.x86", "type": "Game" }
 { "name": "TheDeer.x86_64", "type": "Game" }
@@ -76,6 +76,9 @@
 # The Eternal Castle [REMASTERED] https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
 { "name": "TheEternalCastle", "type": "Game" }
 
+# The Executive - Movie Industry Tycoon https://store.steampowered.com/app/2315430/The_Executive__Movie_Industry_Tycoon/
+{ "name": "The Executive.x86_64", "type": "Game" }
+
 # The Fall https://store.steampowered.com/app/290770/The_Fall/
 { "name": "TheFall.x86", "type": "Game" }
 
@@ -86,8 +89,14 @@
 { "name": "tfs.x86", "type": "Game" }
 { "name": "tfs.x86_64", "type": "Game" }
 
+# The Grey Dream https://store.steampowered.com/app/2497930/
+{ "name": "TheGreyDream", "type": "Game" }
+
 # The Hex https://store.steampowered.com/app/510420/The_Hex/
 { "name": "TheHex.x86", "type": "Game" }
+
+# The House of Tesla: Definitive Edition https://store.steampowered.com/app/2738230/The_House_of_Tesla_Definitive_Edition/
+{ "name": "The House of Tesla.x86_64", "type": "Game" }
 
 # The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
 { "name": "ImpossibleGame", "type": "Game" }
@@ -172,6 +181,9 @@
 # The Mean Greens - Plastic Warfare https://store.steampowered.com/app/360940/The_Mean_Greens__Plastic_Warfare/
 { "name": "TheMeanGreens-Linux-Shipping", "type": "Game" }
 
+# The Meter is Running https://store.steampowered.com/app/4333460/The_Meter_is_Running/
+{ "name": "TMiR", "type": "Game" }
+
 # The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
 { "name": "Mooseman.x86", "type": "Game" }
 
@@ -211,6 +223,9 @@
 
 # The Sapling https://store.steampowered.com/app/997380/The_Sapling/
 { "name": "the_sapling.x86_64", "type": "Game" }
+
+# The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
+{ "name": "TheSpellBrigade.x86_64", "type": "Game" }
 
 # The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
 { "name": "stanley", "type": "Game" }
