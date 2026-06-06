@@ -3342,7 +3342,7 @@ rust-bindgen
 rust-src
 rustbuster
 rustcat
-rustdesk
+rustdesk-bin
 rusthound-ce
 rustpad
 rustup-provides
