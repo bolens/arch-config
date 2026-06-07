@@ -421,6 +421,7 @@ cachyos-wallpapers
 cachyos-zsh-config
 caddy
 cafebabe
+cage
 cai
 caido-cli
 caido-desktop
@@ -3104,6 +3105,7 @@ python-pyclipper
 python-pyfuse3
 python-pyproject-metadata
 python-pyqt5
+python-pyreadstat
 python-pytest-xdist
 python-pytorch-opt-cuda
 python-reportlab
@@ -3629,6 +3631,7 @@ soot
 sooty
 sophia
 soundcloud-dl-git
+soundfont-fluid
 soundscrape-git
 sourcegit
 sourcemapper
