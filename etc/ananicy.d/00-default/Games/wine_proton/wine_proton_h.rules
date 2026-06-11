@@ -27,6 +27,10 @@
 # .hack//G.U. Last Recode https://store.steampowered.com/app/525480/hackGU_Last_Recode/
 { "name": "hackGU.exe", "type": "Game" }
 
+# HackHub - Ultimate Hacker Simulator https://store.steampowered.com/app/2980270/HackHub__Ultimate_Hacker_Simulator/
+{ "name": "Hackhub.exe", "type": "Game" }
+{ "name": "hh-launcher.exe", "type": "Game" }
+
 # Hacknet https://store.steampowered.com/app/365450/Hacknet/
 { "name": "Hacknet.exe", "type": "Game" }
 
@@ -41,6 +45,12 @@
 
 # Hades' Star https://store.steampowered.com/app/755800/Hades_Star/
 { "name": "hadesstar.exe", "type": "Game" }
+
+# Hail to the Rainbow https://store.steampowered.com/app/1699230/Hail_to_the_Rainbow/
+{ "name": "Hail to the Rainbow.exe", "type": "Game" }
+
+# Hakuoki: Edo Blossoms https://store.steampowered.com/app/733340/Hakuoki_Edo_Blossoms/
+{ "name": "HakuokiFlower.exe", "type": "Game" }
 
 # Hakuoki: Kyoto Winds https://store.steampowered.com/app/589530/Hakuoki_Kyoto_Winds/
 { "name": "HakuokiWin.exe", "type": "Game" }
@@ -128,6 +138,9 @@
 # Handyman Fantasy https://store.steampowered.com/app/2690010/
 { "name": "HandymanFantasy.exe", "type": "Game" }
 
+# Handyman Legend https://store.steampowered.com/app/2127010/
+{ "name": "Handyman Legend.exe", "type": "Game" }
+
 # Happy Island Fantasy https://store.steampowered.com/app/3668560/
 { "name": "Happy Island Fantasy.exe", "type": "Game" }
 
@@ -139,6 +152,10 @@
 
 # Hardspace: Shipbreaker https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/
 { "name": "Shipbreaker.exe", "type": "Game" }
+
+# Hard Time III https://store.steampowered.com/app/3009850/Hard_Time_III/
+{ "name": "HardTimeModLauncher.exe", "type": "Game" }
+{ "name": "Hard Time III.exe", "type": "Game" }
 
 # Hard Truck Apocalypse / Ex Machina https://store.steampowered.com/app/285500/Hard_Truck_Apocalypse__Ex_Machina/
 { "name": "hta.exe", "type": "Game" }
@@ -208,6 +225,9 @@
 # HD Poker: Texas Hold'em https://store.steampowered.com/app/797430/HD_Poker_Texas_Holdem/
 { "name": "HD Poker.exe", "type": "Game" }
 
+# Headquarters: World War II https://store.steampowered.com/app/1840800/Headquarters_World_War_II/
+{ "name": "UEBA-Win64-Shipping.exe", "type": "Game" }
+
 # Head Shot https://store.steampowered.com/app/485310/Head_Shot/
 { "name": "HeadShot.exe", "type": "Game" }
 
@@ -263,6 +283,9 @@
 # Heavily Armed https://store.steampowered.com/app/554770/Heavily_Armed/
 { "name": "HA.exe", "type": "Game" }
 { "name": "HA-Win64-Shipping.exe", "type": "Game" }
+
+# Heavy Metal Babes https://store.steampowered.com/app/1386950/
+{ "name": "Heavy Metal Babes.exe", "type": "Game" }
 
 # Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
 { "name": "HeavyRain.exe", "type": "Game" }
@@ -324,8 +347,14 @@
 { "name": "Launch_HLL.exe", "type": "Game" }
 { "name": "Launch_HLL_Test.exe", "type": "Game" }
 
+# Hello Charlotte https://store.steampowered.com/app/557630/Hello_Charlotte_EP2_Requiem_Aeternam_Deo/
+{ "name": "Game_original.exe", "type": "Game" }
+
 # Hello Kitty Island Adventure https://store.steampowered.com/app/2495100/Hello_Kitty_Island_Adventure/
 { "name": "Hello Kitty.exe", "type": "Game" }
+
+# Hello Love: 18 Again https://store.steampowered.com/app/3167180/Hello_Love_18_Again/
+{ "name": "你好！我们还有场恋爱没谈.exe", "type": "Game" }
 
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
 { "name": "HelloNeighbor.exe", "type": "Game" }
@@ -515,6 +544,9 @@
 # Higurashi When They Cry Hou - Ch.2 Watanagashi https://store.steampowered.com/app/410890/Higurashi_When_They_Cry_Hou__Ch2_Watanagashi/
 { "name": "HigurashiEp02.exe", "type": "Game" }
 
+# Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi https://store.steampowered.com/app/668350/Higurashi_When_They_Cry_Hou__Ch6_Tsumihoroboshi/
+{ "name": "HigurashiEp06.exe", "type": "Game" }
+
 # Hired Ops https://store.steampowered.com/app/374280/Hired_Ops/
 { "name": "hops.exe", "type": "Game" }
 
@@ -646,6 +678,9 @@
 
 # Honey Peach Clicker https://store.steampowered.com/app/3056370/Honey_Peach_Clicker/
 { "name": "HoneyPeachClicker.exe", "type": "Game" }
+
+# HoneySelect2Libido DX https://store.steampowered.com/app/1631080/
+{ "name": "HoneySelect2.exe", "type": "Game" }
 
 # Honkai: Star Rail https://hsr.hoyoverse.com/
 { "name": "StarRail.exe", "type": "Game" }
@@ -806,6 +841,9 @@
 # HuniePop 2: Double Date https://store.steampowered.com/app/930210/
 { "name": "HuniePop 2 - Double Date.exe", "type": "Game" }
 
+# Hunt and Snare https://store.steampowered.com/app/944330/
+{ "name": "ruffleneck.exe", "type": "Game" }
+
 # HUNTDOWN https://store.steampowered.com/app/598550/HUNTDOWN/
 { "name": "Huntdown.exe", "type": "Game" }
 
@@ -844,6 +882,9 @@
 
 # Hyperdimension Neptunia Re;Birth1 https://store.steampowered.com/app/282900/Hyperdimension_Neptunia_ReBirth1/
 { "name": "NeptuniaReBirth1.exe", "type": "Game" }
+
+# Hyperdimension Neptunia Re;Birth3 V Generation https://store.steampowered.com/app/353270/Hyperdimension_Neptunia_ReBirth3_V_Generation/
+{ "name": "NeptuniaReBirth3.exe", "type": "Game" }
 
 # Hyper Light Breaker https://store.steampowered.com/app/1534840/Hyper_Light_Breaker/
 { "name": "Breaker.exe", "type": "Game" }

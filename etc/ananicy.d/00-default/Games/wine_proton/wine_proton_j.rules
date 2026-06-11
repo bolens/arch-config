@@ -114,6 +114,9 @@
 { "name": "JudgeSim.exe", "type": "Game" }
 { "name": "JudgeSim-Win64-Shipping.exe", "type": "Game" }
 
+# Judgment: Apocalypse Survival Simulation https://store.steampowered.com/app/455980/Judgment_Apocalypse_Survival_Simulation/
+{ "name": "judgment.exe", "type": "Game" }
+
 # Juice Galaxy https://store.steampowered.com/app/1708150/Juice_Galaxy/
 { "name": "Juice Galaxy.exe", "type": "Game" }
 
@@ -167,6 +170,10 @@
 
 # Just Act Natural https://store.steampowered.com/app/1485080/Just_Act_Natural/
 { "name": "JustActNatural.exe", "type": "Game" }
+
+# Just Another Night Shift https://store.steampowered.com/app/2331130/Just_Another_Night_Shift/
+{ "name": "JustAnotherNightShift.exe", "type": "Game" }
+{ "name": "JustAnotherNightShift-Win64-Shipping.exe", "type": "Game" }
 
 # Just Cause https://store.steampowered.com/app/6880/Just_Cause/
 { "name": "JCSetup.exe", "type": "Game" }
