@@ -4451,6 +4451,7 @@ zeus
 zeus-scanner
 zgrab
 zgrab2
+zig-waybar-contrib
 zipdump
 zipexec
 zirikatu
