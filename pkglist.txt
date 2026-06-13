@@ -232,6 +232,7 @@ bashfuscator
 bashscan
 batman-adv
 batman-alfred
+bats
 bbdown-git
 bbot
 bbqsql
