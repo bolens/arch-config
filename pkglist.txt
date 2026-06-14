@@ -92,7 +92,6 @@ angr-py2
 angrop
 anime4kcpp-git
 anontwi
-ansible-language-server
 ant
 anti-xss
 antigravity
@@ -651,7 +650,6 @@ cups-pdf
 cura-bin
 curlie
 cursor-bin
-cutefish-wallpapers
 cutensor
 cutycapt
 cve-api
@@ -1502,7 +1500,6 @@ hubbit-sniffer
 hugo
 hulk
 hungry-interceptor
-hunter
 hurl
 hurl-encoder
 hwdetect
@@ -1628,7 +1625,6 @@ ipaudit
 ipba2
 ipcountry
 ipdecap
-ipfs-desktop-bin
 iphoneanalyzer
 ipmipwn
 ipobfuscator
@@ -1931,13 +1927,11 @@ kotlin-language-server
 kpackage
 kparts
 kpat
-kproperty
 kraken
 krbjack
 krbrelayx
 krdc
 krecorder
-kreport
 kretro
 kreversi
 krfb
@@ -4132,6 +4126,7 @@ verinice
 vesktop
 vfeed
 vhostscan
+vhs
 viddy-git
 videosnarf
 villain
