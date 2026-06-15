@@ -240,7 +240,6 @@ bdfproxy
 bdlogparser
 bed
 beebug
-beef
 beeswarm
 beets
 beholder
@@ -1140,7 +1139,6 @@ frida-ios-dump
 fridump
 frisbeelite
 fs-exploit
-fs-nyarl
 fs-uae
 fs-uae-launcher
 fsarchiver
