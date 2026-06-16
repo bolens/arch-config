@@ -122,6 +122,10 @@
 # Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
 
+# City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
+{ "name": "CityGameStudio32", "type": "Game" }
+{ "name": "CityGameStudio64", "type": "Game" }
+
 # City Lights Love Bites Season 0 https://store.steampowered.com/app/3011560/
 { "name": "CityLightsandLoveBites", "type": "Game" }
 
@@ -140,6 +144,9 @@
 
 # Class of '09: The Re-Up https://store.steampowered.com/app/2318310/Class_of_09_The_ReUp/
 { "name": "C09RU", "type": "Game" }
+
+# Cleaning Up! https://store.steampowered.com/app/3835650/Cleaning_Up/
+{ "name": "Cleaning Up.x86_64", "type": "Game" }
 
 # Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
 { "name": "ClearedHot", "type": "Game" }
@@ -217,6 +224,9 @@
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper", "type": "Game" }
 
+# Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
+{ "name": "CoreKeeperServer", "type": "Game" }
+
 # Corpse Party (2021) https://store.steampowered.com/app/1273260/Corpse_Party_2021/
 { "name": "CorpseParty.x64", "type": "Game" }
 
@@ -250,6 +260,10 @@
 
 # Crashlands https://store.steampowered.com/app/391730/Crashlands/
 { "name": "Crashlands", "type": "Game" }
+
+# Crawl https://store.steampowered.com/app/293780/Crawl/
+{ "name": "Crawl.x86_64", "type": "Game" }
+{ "name": "Crawl.x86", "type": "Game" }
 
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }

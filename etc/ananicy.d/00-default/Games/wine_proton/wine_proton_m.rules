@@ -168,6 +168,10 @@
 # Maize https://store.steampowered.com/app/284240/Maize/
 { "name": "Maize.exe", "type": "Game" }
 
+# Majesty Gold HD https://store.steampowered.com/app/73230/
+{ "name": "MajestyHD.exe", "type": "Game" }
+{ "name": "MajestyHD - Old.exe", "type": "Game" }
+
 # Make it indie! https://store.steampowered.com/app/357900/Make_it_indie/
 { "name": "MII.exe", "type": "Game" }
 
@@ -417,6 +421,10 @@
 # Maximum Action https://store.steampowered.com/app/853770/Maximum_Action/
 { "name": "Maximum Action.exe", "type": "Game" }
 
+# Maximum Football https://store.steampowered.com/app/1691280/Maximum_Football/
+{ "name": "MaximumFootball.exe", "type": "Game" }
+{ "name": "MaximumFootball-Win64-Shipping.exe", "type": "Game" }
+
 # Max Payne https://store.steampowered.com/app/12140/Max_Payne/
 { "name": "maxpayne.exe", "type": "Game" }
 
@@ -455,14 +463,15 @@
 # Meadow https://store.steampowered.com/app/486310/Meadow__A_Shelter_Game/
 { "name": "Meadow.exe", "type": "Game" }
 
+# MECCHA CHAMELEON https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/
+{ "name": "PenguinHotel.exe", "type": "Game" }
+{ "name": "PenguinHotel-Win64-Shipping.exe", "type": "Game" }
+
 # Mechabellum https://store.steampowered.com/app/669330/Mechabellum/
 { "name": "Mechabellum.exe", "type": "Game" }
 
 # Mecha BREAK https://store.steampowered.com/app/2452280/Mecha_BREAK/
 { "name": "MechaBREAK.exe", "type": "Game" }
-
-# Mecharashi https://store.steampowered.com/app/3446920/Mecharashi/
-{ "name": "Mecharashi.exe", "type": "Game" }
 
 # Mech Havoc https://store.steampowered.com/app/3237920/Mech_Havoc/
 { "name": "MechHavoc.exe", "type": "Game" }
@@ -623,6 +632,9 @@
 # Merge Donut https://store.steampowered.com/app/3114470/Merge_Donut/
 { "name": "Merge Donut.exe", "type": "Game" }
 
+# Merge Nymphs https://store.steampowered.com/app/1460200/
+{ "name": "Merge Nymphs.exe", "type": "Game" }
+
 # Mesen N******* multi-emulator via wine for SDL2 mouse keys https://www.mesen.ca/
 { "name": "Mesen.exe", "type": "Game" }
 
@@ -766,6 +778,9 @@
 { "name": "MidnightGhostHunt.exe", "type": "Game" }
 { "name": "LaunchMidnightGhostHunt.exe", "type": "BG_CPUIO" }
 { "name": "MidnightGhostHunt-Win64-Shipping.exe", "type": "Game" }
+
+# Midnight Heist https://store.steampowered.com/app/2204350/Midnight_Heist/
+{ "name": "Midnight Heist.exe", "type": "Game" }
 
 # Midnight Paradise https://store.steampowered.com/app/2485270/
 { "name": "MidnightParadise.exe", "type": "Game" }
@@ -948,6 +963,9 @@
 # Miracle Snack Shop https://store.steampowered.com/app/995460/Miracle_Snack_Shop/
 { "name": "miraclevn.exe", "type": "Game" }
 
+# Mirklurk: Every Step Matters https://store.steampowered.com/app/3972980/Mirklurk_Every_Step_Matters/
+{ "name": "Mirklurk.exe", "type": "Game" }
+
 # Mirror Maker https://store.steampowered.com/app/1007350/Mirror_Maker/
 { "name": "Mirror Maker.exe", "type": "Game" }
 
@@ -1046,6 +1064,9 @@
 
 # Modern Naval Warfare https://store.steampowered.com/app/1816640/Modern_Naval_Warfare/
 { "name": "mnw.exe", "type": "Game" }
+
+# Modern Warships https://store.steampowered.com/app/3144230/Modern_Warships/
+{ "name": "Modern Warships.exe", "type": "Game" }
 
 # Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
 { "name": "Modulus.exe", "type": "Game" }
@@ -1148,8 +1169,20 @@
 # Monster Girl https://store.steampowered.com/app/1967450/_Monster_Girl/
 { "name": "MonsterGirl.exe", "type": "Game" }
 
+# Monster Girls and the Mysterious Adventure https://store.steampowered.com/app/1229260/Monster_Girls_and_the_Mysterious_Adventure/
+{ "name": "MonsterGirlsDungeon.exe", "type": "Game" }
+
+# Monster Girls and the Mysterious Adventure 2 https://store.steampowered.com/app/1895860/Monster_Girls_and_the_Mysterious_Adventure_2/
+{ "name": "MGMA2.exe", "type": "Game" }
+
+# Monster Girls and the Mysterious Adventure Remastered Edition https://store.steampowered.com/app/3491230/Monster_Girls_and_the_Mysterious_Adventure_Remastered_Edition/
+{ "name": "MGMA_RE.exe", "type": "Game" }
+
 # MONSTER HUNTER RISE https://store.steampowered.com/app/1446780/MONSTER_HUNTER_RISE/
 { "name": "MonsterHunterRise.exe", "type": "Game" }
+
+# Monster Hunter Rise: Sunbreak Demo https://store.steampowered.com/app/1836450/Monster_Hunter_Rise_Sunbreak_Demo/
+{ "name": "MHRiseSunbreakDemo.exe", "type": "Game" }
 
 # Monster Hunter Stories https://store.steampowered.com/app/2356560/Monster_Hunter_Stories/
 { "name": "MHST.exe", "type": "Game" }
@@ -1236,6 +1269,9 @@
 # Moonlighter 2: The Endless Vault https://store.steampowered.com/app/2350790/Moonlighter_2_The_Endless_Vault/
 { "name": "Moonlighter 2 The Endless Vault.exe", "type": "Game" }
 
+# Moonlight Peaks Demo https://store.steampowered.com/app/2584240/
+{ "name": "Moonlight Peaks.exe", "type": "Game" }
+
 # Moonrise Fall https://store.steampowered.com/app/1035110/Moonrise_Fall/
 { "name": "Moonrise Fall 1v02 Win.exe", "type": "Game" }
 { "name": "Moonrise Fall 1v021 Full.exe", "type": "Game" }
@@ -1244,6 +1280,9 @@
 
 # Moonscars https://store.steampowered.com/app/1374970/Moonscars/
 { "name": "Moonscars.exe", "type": "Game" }
+
+# Moonsigil Atlas https://store.steampowered.com/app/3284290/Moonsigil_Atlas/
+{ "name": "Moonsigil Atlas.exe", "type": "Game" }
 
 # Moonstone Island https://store.steampowered.com/app/1658150/Moonstone_Island/
 { "name": "Moonstone Island.exe", "type": "Game" }
@@ -1533,6 +1572,9 @@
 # Mushi https://store.steampowered.com/app/4192770/Mushi/
 { "name": "mushi.exe", "type": "Game" }
 
+# Mushroom Nook https://store.steampowered.com/app/4211860/Mushroom_Nook/
+{ "name": "Mushroom Nook.exe", "type": "Game" }
+
 # MUSYNX https://store.steampowered.com/app/952040/MUSYNX/
 { "name": "musynx.exe", "type": "Game" }
 { "name": "MUSYNX.exe", "type": "Game" }
@@ -1546,6 +1588,12 @@
 
 # Muv-Luv Alternative https://store.steampowered.com/app/802890/MuvLuv_Alternative/
 { "name": "Muv-Luv_Alternative16.exe", "type": "Game" }
+
+# Muv-Luv photonflowers* https://store.steampowered.com/app/889700/MuvLuv_photonflowers/
+{ "name": "Muv-Luv_PF.exe", "type": "Game" }
+
+# Muv-Luv photonmelodies♮ https://store.steampowered.com/app/889710/MuvLuv_photonmelodies/
+{ "name": "Muv-Luv_PM.exe", "type": "Game" }
 
 # MX Bikes https://store.steampowered.com/app/655500/MX_Bikes/
 { "name": "MxGame2021.exe", "type": "Game" }
@@ -1595,6 +1643,9 @@
 # My Card Is Better Than Your Card! https://store.steampowered.com/app/3617620/My_Card_Is_Better_Than_Your_Card/
 { "name": "MyCardIsBetterThanYourCard.exe", "type": "Game" }
 
+# My Car My Life https://store.steampowered.com/app/3933710/My_Car_My_Life/
+{ "name": "My Car My Life.exe", "type": "Game" }
+
 # My Child Lebensborn Remastered https://store.steampowered.com/app/2430730/My_Child_Lebensborn_Remastered/
 { "name": "MyChildLebensborn.exe", "type": "Game" }
 
@@ -1638,6 +1689,9 @@
 # My Lands: Black Gem Hunting https://store.steampowered.com/app/290730/My_Lands_Black_Gem_Hunting/
 { "name": "MyLands.exe", "type": "Game" }
 
+# My Little Cafe Nightmare https://store.steampowered.com/app/3726250/My_Little_Cafe_Nightmare/
+{ "name": "MyLittleCoffeeNightmare.exe", "type": "Game" }
+
 # My Little Farmies https://store.steampowered.com/app/789100/My_Little_Farmies/
 { "name": "MyLittleFarmies.exe", "type": "Game" }
 
@@ -1652,6 +1706,9 @@
 
 # My Neighbor's Lonely Wife 2 https://store.steampowered.com/app/2274980/
 { "name": "Neighbor_Madam2.exe", "type": "Game" }
+
+# My Recycling Center https://store.steampowered.com/app/2613060/My_Recycling_Center/
+{ "name": "Recy.exe", "type": "Game" }
 
 # My Sexy Neighbor 🔞 https://store.steampowered.com/app/2657120/
 { "name": "My Sexy Neighbor.exe", "type": "Game" }

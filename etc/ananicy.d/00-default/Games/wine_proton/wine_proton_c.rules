@@ -186,6 +186,9 @@
 # Camper Van: Make it Home https://store.steampowered.com/app/2843190/Camper_Van_Make_it_Home/
 { "name": "CamperVanMakeItHome.exe", "type": "Game" }
 
+# Campsite Hustle! - Management Simulator https://store.steampowered.com/app/3708070/Campsite_Hustle__Management_Simulator/
+{ "name": "Campsite Hustle.exe", "type": "Game" }
+
 # Campus Legends College Basketball https://store.steampowered.com/app/3126980/Campus_Legends_College_Basketball/
 { "name": "CLCB.exe", "type": "Game" }
 
@@ -218,6 +221,10 @@
 
 # Captain Tsubasa: Rise of New Champions https://store.steampowered.com/app/1163550/Captain_Tsubasa_Rise_of_New_Champions/
 { "name": "CAPTAIN TSUBASA RISE OF NEW CHAMPIONS.exe", "type": "Game"}
+
+# Captain Wayne - Vacation Desperation https://store.steampowered.com/app/2319790/Captain_Wayne__Vacation_Desperation/
+{ "name": "CaptainWayne.exe", "type": "Game" }
+{ "name": "wad_runner.exe", "type": "Game" }
 
 # Capybara: The story of Sisyphus https://store.steampowered.com/app/2732980/Capybara_The_story_of_Sisyphus/
 { "name": "CapybaraStorySishyphus.exe", "type": "Game" }
@@ -262,6 +269,9 @@
 
 # Card Rogue https://store.steampowered.com/app/3107620/Card_Rogue/
 { "name": "CardRogue.exe", "type": "Game" }
+
+# Card Shark https://store.steampowered.com/app/1371720/Card_Shark/
+{ "name": "Card_shark.exe", "type": "Game" }
 
 # Card Shop Simulator Multiplayer https://store.steampowered.com/app/3569500/Card_Shop_Simulator_Multiplayer/
 { "name": "Peak.exe", "type": "Game"}
@@ -378,6 +388,9 @@
 
 # Castle Crashers https://store.steampowered.com/app/204360/Castle_Crashers/
 { "name": "castle.exe", "type": "Game"}
+
+# castle idler https://store.steampowered.com/app/4082900/castle_idler/
+{ "name": "castle idler.exe", "type": "Game" }
 
 # Castle In The Darkness https://store.steampowered.com/app/262960/Castle_In_The_Darkness/
 { "name": "CastleInTheDarkness.exe", "type": "Game" }
@@ -524,6 +537,9 @@
 # Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained Echoes.exe", "type": "Game" }
 
+# Chained in the Backrooms https://store.steampowered.com/app/3060170/Chained_in_the_Backrooms/
+{ "name": "Chained in the Backrooms.exe", "type": "Game" }
+
 # Chained Together https://store.steampowered.com/app/2567870/Chained_Together/
 { "name": "ChainedTogether.exe", "type": "Game"}
 { "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
@@ -606,6 +622,9 @@
 
 # Chess Evolved Online https://store.steampowered.com/app/1064340/Chess_Evolved_Online/
 { "name": "CEO.exe", "type": "Game" }
+
+# Chess for idiots https://store.steampowered.com/app/2121150/Chess_for_idiots/
+{ "name": "Chess for idiots.exe", "type": "Game" }
 
 # Chess Ultra https://store.steampowered.com/app/518060/Chess_Ultra/
 { "name": "Chess2-Win64-Shipping.exe", "type": "Game" }
@@ -771,6 +790,10 @@
 # City Bus Manager https://store.steampowered.com/app/1364210/City_Bus_Manager/
 { "name": "CBM.exe", "type": "Game" }
 
+# City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
+{ "name": "CityGameStudio64.exe", "type": "Game" }
+{ "name": "CityGameStudio32.exe", "type": "Game" }
+
 # City Life 2008 https://store.steampowered.com/app/4460/City_Life_2008/
 { "name": "cld.exe", "type": "Game"}
 
@@ -828,6 +851,9 @@
 # Class of '09: The Re-Up https://store.steampowered.com/app/2318310/Class_of_09_The_ReUp/
 { "name": "C09RU.exe", "type": "Game" }
 
+# Cleaning Up! https://store.steampowered.com/app/3835650/Cleaning_Up/
+{ "name": "Cleaning Up.exe", "type": "Game" }
+
 # Clean Up Earth https://store.steampowered.com/app/3402720/Clean_Up_Earth/
 { "name": "Clean Up Earth.exe", "type": "Game" }
 
@@ -857,6 +883,9 @@
 
 # click to ten https://store.steampowered.com/app/1910580/click_to_ten/
 { "name": "click to ten.exe", "type": "Game" }
+
+# Cliff Empire https://store.steampowered.com/app/809140/Cliff_Empire/
+{ "name": "Cliff Empire.exe", "type": "Game" }
 
 # Climber Animals: Together https://store.steampowered.com/app/2744880/Climber_Animals_Together/
 { "name": "Climber Animals Together.exe", "type": "Game"}
@@ -893,6 +922,10 @@
 # Cloudheim https://store.steampowered.com/app/2070270/Cloudheim/
 { "name": "CloudheimSteam.exe", "type": "Game"}
 { "name": "CloudheimSteam-Win64-Shipping.exe", "type": "Game"}
+
+# Cloudheim Demo https://store.steampowered.com/app/4017410/Cloudheim_Demo/
+{ "name": "CloudheimSteamDemo.exe", "type": "Game" }
+{ "name": "CloudheimSteamDemo-Win64-Shipping.exe", "type": "Game" }
 
 # Cloud Meadow https://store.steampowered.com/app/1223750/
 { "name": "Cloud Meadow.exe", "type": "Game" }
@@ -932,6 +965,9 @@
 # Coconut Simulator 2 https://store.steampowered.com/app/3880190/Coconut_Simulator_2/
 { "name": "CoconutSimulator2.exe", "type": "Game" }
 { "name": "CoconutSimulator2-Win64-Shipping.exe", "type": "Game" }
+
+# COCOON https://store.steampowered.com/app/1497440/COCOON/
+{ "name": "universe.exe", "type": "Game" }
 
 # Codename CURE http://store.steampowered.com/app/355180/Codename_CURE/
 { "name": "cure.exe", "type": "Game" }
@@ -1275,6 +1311,10 @@
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper.exe", "type": "Game" }
 
+# Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
+{ "name": "Core Keeper Patcher.exe", "type": "Game" }
+{ "name": "CoreKeeperServer.exe", "type": "Game" }
+
 # Corner Kitchen Fast Food Simulator https://store.steampowered.com/app/3357250/Corner_Kitchen_Fast_Food_Simulator/
 { "name": "Street Food Simulator.exe", "type": "Game" }
 
@@ -1397,8 +1437,14 @@
 # Crash Time 2 https://store.steampowered.com/app/11390/Crash_Time_2/
 { "name": "BurningWheels.exe", "type": "Game" }
 
+# Crawl https://store.steampowered.com/app/293780/Crawl/
+{ "name": "Crawl.exe", "type": "Game" }
+
 # Crazy Corn https://store.steampowered.com/app/3064950/Crazy_Corn/
 { "name": "Crazy Corn.exe", "type": "Game" }
+
+# Crazy Machines 3 https://store.steampowered.com/app/351920/Crazy_Machines_3/
+{ "name": "cm3.exe", "type": "Game" }
 
 # Crazy Oddballs: Idle RPG https://store.steampowered.com/app/4507620/Crazy_Oddballs_Idle_RPG/
 { "name": "lycq_eng.exe", "type": "Game" }
@@ -1560,6 +1606,9 @@
 # Crush Crush https://store.steampowered.com/app/459820/Crush_Crush/
 { "name": "CrushCrush.exe", "type": "Game" }
 
+# Crushed In Time https://store.steampowered.com/app/3858650/Crushed_In_Time/
+{ "name": "CrushedInTime.exe", "type": "Game" }
+
 # Crying Suns https://store.steampowered.com/app/873940/
 { "name": "cs.exe", "type": "Game" }
 
@@ -1657,6 +1706,9 @@
 # Cultist Simulator https://store.steampowered.com/app/718670/Cultist_Simulator/
 { "name": "cultistsimulator.exe", "type": "Game" }
 
+# Cultivation Magic World https://store.steampowered.com/app/3642180/Cultivation_Magic_World/
+{ "name": "CultivationMagicWorld.exe", "type": "Game" }
+
 # Cultivation Story: Reincarnation https://store.steampowered.com/app/1866880/Cultivation_Story_Reincarnation/
 { "name": "CultivationStoryReincarnation.exe", "type": "Game" }
 
@@ -1691,6 +1743,9 @@
 # CUSTOM ORDER MAID 3D2 It's a Night Magic https://store.steampowered.com/app/1097580/CUSTOM_ORDER_MAID_3D2_Its_a_Night_Magic/
 { "name": "COM3D2x64.exe", "type": "Game" }
 { "name": "COM3D2.exe", "type": "Game" }
+
+# Cute Cute Cuties https://store.steampowered.com/app/1127390/
+{ "name": "Cute Cute Cuties.exe", "type": "Game" }
 
 # Cute Dogs https://store.steampowered.com/app/1814710/Cute_Dogs/
 { "name": "CuteDogs.exe", "type": "Game" }

@@ -156,6 +156,10 @@
 # League of Angels-Heaven's Fury https://store.steampowered.com/app/1379130/League_of_AngelsHeavens_Fury/
 { "name": "loa-hf-steam.exe", "type": "Game" }
 
+# Leap of Faith https://store.steampowered.com/app/1768640/
+{ "name": "LeapofFaith.exe", "type": "Game" }
+{ "name": "LeapofFaith-32.exe", "type": "Game" }
+
 # Learn to Fly 3 https://store.steampowered.com/app/589870/Learn_to_Fly_3/
 { "name": "Learn to Fly 3.exe", "type": "Game" }
 
@@ -171,9 +175,6 @@
 # Left to Survive https://store.steampowered.com/app/1702140/
 { "name": "LeftToSurviveSteamLoader.exe", "type": "Game" }
 { "name": "LeftToSurvive.exe", "type": "Game" }
-
-# Legacy of Defense - Prologue https://store.steampowered.com/app/3096620/Legacy_of_Defense__Prologue/
-{ "name": "Legacy of Defense.exe", "type": "Game" }
 
 # Legacy of Kain: Ascendance https://store.steampowered.com/app/4233530/Legacy_of_Kain_Ascendance/
 { "name": "Legacy of Kain Ascendance.exe", "type": "Game" }
@@ -370,6 +371,11 @@
 # LET IT DIE https://store.steampowered.com/app/794600/LET_IT_DIE/
 { "name": "BrgGame-Steam.exe", "type": "Game" }
 
+# LET IT DIE: INFERNO https://store.steampowered.com/app/2576150/LET_IT_DIE_INFERNO/
+{ "name": "LETITDIE_INFERNO.exe", "type": "Game" }
+{ "name": "FLCGame.exe", "type": "Game" }
+{ "name": "FLCGame-Win64-Shipping.exe", "type": "Game" }
+
 # Let's Build a Zoo https://store.steampowered.com/app/1547890/Lets_Build_a_Zoo/
 { "name": "LetsBuildAZoo.exe", "type": "Game" }
 
@@ -378,6 +384,9 @@
 
 # Lets Get Loot https://store.steampowered.com/app/3454530/Lets_Get_Loot/
 { "name": "LetsGetLoot.exe", "type": "Game" }
+
+# Letter Lost https://store.steampowered.com/app/3624790/Letter_Lost/
+{ "name": "LetterLost.exe", "type": "Game" }
 
 # Letters https://store.steampowered.com/app/3064270/Letters/
 { "name": "Letters.exe", "type": "Game" }
@@ -484,6 +493,9 @@
 # Lil Gator Game https://store.steampowered.com/app/1586800/Lil_Gator_Game/
 { "name": "Lil Gator Game.exe", "type": "Game" }
 
+# Lil' Guardsman https://store.steampowered.com/app/1924360/Lil_Guardsman/
+{ "name": "LilGuardsman.exe", "type": "Game" }
+
 # Lilly and Sasha: Guardian Angels https://store.steampowered.com/app/383520/Lilly_and_Sasha_Guardian_Angels/
 { "name": "GuardianAngels.exe", "type": "Game" }
 
@@ -515,6 +527,9 @@
 
 # LISC https://store.steampowered.com/app/3063520/
 { "name": "LISC.exe", "type": "Game" }
+
+# Literally Just Pixels On A Screen https://store.steampowered.com/app/3072000/Literally_Just_Pixels_On_A_Screen/
+{ "name": "Literally_Just_Pixels_On_A_Screen.exe", "type": "Game" }
 
 # Little Big Workshop https://store.steampowered.com/app/574720/Little_Big_Workshop/
 { "name": "LittleBigWorkshop.exe", "type": "Game" }
@@ -838,6 +853,13 @@
 
 # Lunacid https://store.steampowered.com/app/1745510/Lunacid/
 { "name": "LUNACID.exe", "type": "Game" }
+
+# Lunar Eclipse https://store.steampowered.com/app/2953480/Lunar_Eclipse/
+{ "name": "LunarEclipse.exe", "type": "Game" }
+{ "name": "LunarEclipse-Win64-Shipping.exe", "type": "Game" }
+
+# Lunar Mirror:The Pavilion of Desire https://store.steampowered.com/app/2157680/Lunar_MirrorThe_Pavilion_of_Desire/
+{ "name": "Lunar MirrorThe Pavilion of Desire.exe", "type": "Game" }
 
 # LUNAR Remastered Collection https://store.steampowered.com/app/3255380/LUNAR_Remastered_Collection/
 { "name": "lunar_launcher.exe", "type": "BG_CPUIO" }

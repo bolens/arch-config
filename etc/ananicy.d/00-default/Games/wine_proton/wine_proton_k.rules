@@ -28,6 +28,12 @@
 # Kairo https://store.steampowered.com/app/233230/Kairo/
 { "name": "kairo.exe", "type": "Game" }
 
+# Kaiserpunk https://store.steampowered.com/app/2012190/KAISERPUNK/
+{ "name": "Kaiserpunk.exe", "type": "Game" }
+
+# Kaizen: A Factory Story https://store.steampowered.com/app/2275490/Kaizen_A_Factory_Story/
+{ "name": "Kaizen.exe", "type": "Game" }
+
 # Kakele Online - MMORPG https://store.steampowered.com/app/1541020/Kakele_Online__MMORPG/
 { "name": "kakele.exe", "type": "Game" }
 
@@ -136,6 +142,9 @@
 # KeeperRL https://store.steampowered.com/app/329970/KeeperRL/
 { "name": "keeper.exe", "type": "Game" }
 
+# Keeper's Toll https://store.steampowered.com/app/2002220/Keepers_Toll/
+{ "name": "Keeper's Toll.exe", "type": "Game" }
+
 # KEEP GAMBLING https://store.steampowered.com/app/3720460/KEEP_GAMBLING/
 { "name": "Kaching.exe", "type": "Game" }
 { "name": "Kaching-Win64-Shipping.exe", "type": "Game" }
@@ -193,6 +202,9 @@
 
 # killer7 https://store.steampowered.com/app/868520/killer7/
 { "name": "Killer7Win.exe", "type": "Game" }
+
+# Killer Bean https://store.steampowered.com/app/1597080/Killer_Bean/
+{ "name": "Killer Bean.exe", "type": "Game" }
 
 # Killer Chat! - Original Edition https://store.steampowered.com/app/3476730/Killer_Chat__Original_Edition/
 { "name": "KillerChat_Steam.exe", "type": "Game" }
@@ -358,6 +370,9 @@
 
 # Kink.Inc https://store.steampowered.com/app/2190210/
 { "name": "Kink Inc Steam.exe", "type": "Game" }
+
+# Kinkoi https://store.steampowered.com/app/1277940/Kinkoi_Golden_Loveriche/
+{ "name": "Kinkoi.exe", "type": "Game" }
 
 # Kinky Cats https://store.steampowered.com/app/3339200/
 { "name": "Kinky Cats.exe", "type": "Game" }

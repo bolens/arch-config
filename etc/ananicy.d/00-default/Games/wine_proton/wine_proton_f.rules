@@ -176,6 +176,10 @@
 # FANTASIAN Neo Dimension https://store.steampowered.com/app/2844850/FANTASIAN_Neo_Dimension/
 { "name": "FantasianND.exe", "type": "Game" }
 
+# Fantasia Sango Mysteria https://store.steampowered.com/app/1597460/Fantasia_Sango_Mysteria/
+{ "name": "FSM.exe", "type": "Game" }
+{ "name": "FSM-Win64-Shipping.exe", "type": "Game" }
+
 # Fantasy Aquarium https://store.steampowered.com/app/3183350/Fantasy_Aquarium/
 { "name": "Fantasy Aquarium.exe", "type": "Game" }
 
@@ -262,6 +266,9 @@
 # FarmD https://store.steampowered.com/app/1814630/
 { "name": "FarmD.exe", "type": "Game" }
 
+# Farm Empire https://store.steampowered.com/app/2320130/Farm_Empire/
+{ "name": "FarmEmpire.exe", "type": "Game" }
+
 # Farmer Against Potatoes Idle https://store.steampowered.com/app/1535560/Farmer_Against_Potatoes_Idle/
 { "name": "Farmer Against Potatoes Idle.exe", "type": "Game" }
 
@@ -331,6 +338,9 @@
 
 # Farm Manager World https://store.steampowered.com/app/2206350/Farm_Manager_World/
 { "name": "FarmManagerWorld.exe", "type": "Game" }
+
+# Farm RPG https://store.steampowered.com/app/2287550/Farm_RPG/
+{ "name": "Farm RPG.exe", "type": "Game" }
 
 # Farm Together https://store.steampowered.com/app/673950/Farm_Together/
 { "name": "FarmTogether.exe", "type": "Game" }
@@ -418,6 +428,9 @@
 # Fears to Fathom - Norwood Hitchhike https://store.steampowered.com/app/1763050/Fears_to_Fathom__Norwood_Hitchhike/
 { "name": "Fears To Fathom - Norwood Hitchhike.exe", "type": "Game" }
 
+# Fears to Fathom - Scratch Creek https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/
+{ "name": "Fears to Fathom - Scratch Creek.exe", "type": "Game" }
+
 # Fears to Fathom - Woodbury Getaway https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/
 { "name": "Fears to Fathom - Woodbury Getaway.exe", "type": "Game" }
 
@@ -452,6 +465,9 @@
 # FEMBOY FUTA HOUSE https://store.steampowered.com/app/3602290/
 { "name": "FEMBOY FUTA HOUSE.exe", "type": "Game" }
 { "name": "Femboy Futa House.exe", "type": "Game" }
+
+# Femtazio https://store.steampowered.com/app/3647400/
+{ "name": "Femtazio.exe", "type": "Game" }
 
 # Fernbus Simulator https://store.steampowered.com/app/427100/Fernbus_Simulator/
 { "name": "Fernbus-Win64-Shipping.exe", "type": "Game" }
@@ -605,6 +621,10 @@
 
 # FINAL FANTASY XVI https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/
 { "name": "ffxvi.exe", "type": "Game" }
+
+# FINAL FANTASY XVI DEMO https://store.steampowered.com/app/2738000/
+{ "name": "ffxvi_demo.exe", "type": "Game" }
+{ "name": "ffxvi_demo_original.exe", "type": "Game" }
 
 # FINAL FANTASY XV WINDOWS EDITION https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
 { "name": "ffxv_s.exe", "type": "Game" }
@@ -784,6 +804,13 @@
 # Fling to the Finish https://store.steampowered.com/app/1054430/Fling_to_the_Finish/
 { "name": "Fling to the Finish.exe", "type": "Game" }
 
+# Flintlock: The Siege of Dawn https://store.steampowered.com/app/1832040/Flintlock_The_Siege_of_Dawn/
+{ "name": "Saltpeter.exe", "type": "Game" }
+{ "name": "Saltpeter-Win64-Shipping.exe", "type": "Game" }
+
+# Flippant https://store.steampowered.com/app/4323290/Flippant/
+{ "name": "Flippant.exe", "type": "Game" }
+
 # FlipWitch - Forbidden Sex Hex https://store.steampowered.com/app/1748620/
 { "name": "FlipWitch.exe", "type": "Game" }
 
@@ -833,6 +860,9 @@
 # Food Processing Simulator https://store.steampowered.com/app/3928990/Food_Processing_Simulator/
 { "name": "Food Processing Simulator.exe", "type": "Game" }
 
+# Football Academy Manager https://store.steampowered.com/app/3852060/Football_Academy_Manager/
+{ "name": "fam.exe", "type": "Game" }
+
 # Football Coach: College Dynasty https://store.steampowered.com/app/2151290/Football_Coach_College_Dynasty/
 { "name": "FootballCoach.exe", "type": "Game" }
 
@@ -853,6 +883,9 @@
 # Forage Wizard https://store.steampowered.com/app/3868320/Forage_Wizard/
 { "name": "Forage Wizard.exe", "type": "Game" }
 
+# Forbidden Fantasy https://store.steampowered.com/app/2638560/
+{ "name": "Forbidden-Fantasy.exe", "type": "Game" }
+
 # Forbidden Solitaire https://store.steampowered.com/app/3414580/Forbidden_Solitaire/
 { "name": "ForbiddenSolitaire.exe", "type": "Game" }
 
@@ -867,6 +900,9 @@
 
 # Forefront https://store.steampowered.com/app/2981220/Forefront/
 { "name": "Forefront_Internal.exe", "type": "Game" }
+
+# Forestrike https://store.steampowered.com/app/2325920/Forestrike/
+{ "name": "Forestrike.exe", "type": "Game" }
 
 # Foretales https://store.steampowered.com/app/1170080/Foretales/
 { "name": "Foretales.exe", "type": "Game" }
@@ -975,6 +1011,9 @@
 # FragPunk https://store.steampowered.com/app/2943650/FragPunk/
 { "name": "FragPunk.exe", "type": "Game" }
 { "name": "FragNeacClient.exe", "type": "Game" }
+
+# Fragsurf https://store.steampowered.com/app/1033410/Fragsurf/
+{ "name": "Fragsurf.exe", "type": "Game" }
 
 # Fran Bow https://store.steampowered.com/app/362680/Fran_Bow/
 { "name": "Fran Bow.exe", "type": "Game" }
@@ -1086,6 +1125,9 @@
 # FRONT MISSION 1st: Remake https://store.steampowered.com/app/2399730/FRONT_MISSION_1st_Remake/
 { "name": "FRONT MISSION 1st Remake.exe", "type": "Game" }
 
+# FRONT MISSION 3: Remake https://store.steampowered.com/app/3795900/FRONT_MISSION_3_Remake/
+{ "name": "Front Mission 3 Remake.exe", "type": "Game" }
+
 # Front Mission Evolved https://store.steampowered.com/app/43000/Front_Mission_Evolved/
 { "name": "FrontMissionEvolved.exe", "type": "Game" }
 
@@ -1117,6 +1159,9 @@
 # Fruitbus https://store.steampowered.com/app/2484130/Fruitbus/
 { "name": "Fruitbus.exe", "type": "Game" }
 
+# Fruit Mountain https://store.steampowered.com/app/2753620/Fruit_Mountain/
+{ "name": "FruitMountain.exe", "type": "Game" }
+
 # Fruits https://store.steampowered.com/app/1587070/Fruits/
 { "name": "Fruits.exe", "type": "Game" }
 
@@ -1125,6 +1170,10 @@
 
 # FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
 { "name": "FTLGame.exe", "type": "Game" }
+
+# FUCK PUTIN https://store.steampowered.com/app/1926680/FUCK_PUTIN/
+{ "name": "FP.exe", "type": "Game" }
+{ "name": "FP-Win64-Shipping.exe", "type": "Game" }
 
 # Fueled Up Demo https://store.steampowered.com/app/1985480/Fueled_Up/
 { "name": "FueledUp.exe", "type": "Game" }
@@ -1135,7 +1184,6 @@
 
 # Fuga: Melodies of Steel 3 https://store.steampowered.com/app/3081320/Fuga_Melodies_of_Steel_3/
 { "name": "TANK.exe", "type": "Game" }
-{ "name": "TANK-Win64-Shipping.exe", "type": "Game" }
 
 # Full Ace Tennis Simulator https://store.steampowered.com/app/779430/Full_Ace_Tennis_Simulator/
 { "name": "FullAce.exe", "type": "Game" }

@@ -128,6 +128,10 @@
 { "name": "PD2.exe", "type": "Game" }
 { "name": "PD2-Win64-Shipping.exe", "type": "Game" }
 
+# Paper Dolls Original https://store.steampowered.com/app/1051310/Paper_Dolls_Original/
+{ "name": "PaperDollsOriginal.exe", "type": "Game" }
+{ "name": "PDS-Win64-Shipping.exe", "type": "Game" }
+
 # PAPERHEAD EP0 https://store.steampowered.com/app/3008200/PAPERHEAD_EP0/
 { "name": "PLAY PAPERHEAD.exe", "type": "Game" }
 
@@ -194,6 +198,9 @@
 
 # Parkasaurus https://store.steampowered.com/app/591460/Parkasaurus/
 { "name": "Parkasaurus.exe", "type": "Game" }
+
+# Parking Garage Rally Circuit https://store.steampowered.com/app/2737300/Parking_Garage_Rally_Circuit/
+{ "name": "garagerally.exe", "type": "Game" }
 
 # Parkitect https://store.steampowered.com/app/453090/Parkitect/
 { "name": "Parkitect.exe", "type": "Game" }
@@ -509,6 +516,9 @@
 # Pilgrims https://store.steampowered.com/app/1049280/Pilgrims/
 { "name": "Pilgrims.exe", "type": "Game" }
 
+# Pillar https://store.steampowered.com/app/371900/Pillar/
+{ "name": "Pillar.exe", "type": "Game" }
+
 # Pillars of Eternity https://store.steampowered.com/app/291650/Pillars_of_Eternity/
 { "name": "PillarsOfEternity.exe", "type": "Game" }
 
@@ -557,6 +567,9 @@
 # Pistol Whip https://store.steampowered.com/app/1079800/Pistol_Whip/
 { "name": "Pistol Whip.exe", "type": "Game" }
 
+# Pit of Goblin https://store.steampowered.com/app/3253530/PIT_OF_GOBLIN/
+{ "name": "Pit of Goblin.exe", "type": "Game" }
+
 # Pit People https://store.steampowered.com/app/291860/Pit_People/
 { "name": "pitpeople.exe", "type": "Game" }
 
@@ -568,6 +581,9 @@
 
 # Pixel Collector https://store.steampowered.com/app/3076350/Pixel_Collector/
 { "name": "PixelCollector.exe", "type": "Game" }
+
+# Pixel Cup Soccer - Ultimate Edition https://store.steampowered.com/app/1620540/Pixel_Cup_Soccer__Ultimate_Edition/
+{ "name": "Pixel Cup Soccer Ultimate Edition.exe", "type": "Game" }
 
 # Pixel Game Maker MV https://store.steampowered.com/app/837510/Pixel_Game_Maker_MV/
 { "name": "PGMMV.exe", "type": "Game" }
@@ -697,6 +713,9 @@
 # Plants vs. Zombies: Replanted https://store.steampowered.com/app/3654560/Plants_vs_Zombies_Replanted/
 { "name": "Replanted.exe", "type": "Game" }
 
+# Plasma https://store.steampowered.com/app/1409160/Plasma/
+{ "name": "Plasma.exe", "type": "Game" }
+
 # PlateUp! https://store.steampowered.com/app/1599600/PlateUp/
 { "name": "PlateUp.exe", "type": "Game" }
 
@@ -731,6 +750,9 @@
 
 # Plebby Quest: The Crusades https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/
 { "name": "PQTC.exe", "type": "Game" }
+
+# Plutocracy https://store.steampowered.com/app/754500/Plutocracy/
+{ "name": "plutocracy.exe", "type": "Game" }
 
 # PngTuber Maker https://store.steampowered.com/app/2266940/PngTuber_Maker/
 { "name": "PngTuber Maker.exe", "type": "Game" }
@@ -807,11 +829,11 @@
 # PomoFarm https://store.steampowered.com/app/2060480/PomoFarm/
 { "name": "PomoFarm.exe", "type": "Game" }
 
+# Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
+{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
+
 # Pool Live Tour Max https://store.steampowered.com/app/4061130/Pool_Live_Tour_Max/
 { "name": "PoolLiveTourMax.exe", "type": "Game" }
-
-# Pool Nation https://store.steampowered.com/app/254440/Pool_Nation/
-{ "name": "Pool.exe", "type": "Game" }
 
 # Pool Nation FX https://store.steampowered.com/app/314000/Pool_Nation_FX_Lite/
 { "name": "PoolNationFX.exe", "type": "Game" }
@@ -871,6 +893,10 @@
 # Port Royale 4 https://store.steampowered.com/app/1024650/Port_Royale_4/
 { "name": "PortRoyale4.exe", "type": "Game" }
 
+# Possessor(s) https://store.steampowered.com/app/2132890/Possessors/
+{ "name": "Pose.exe", "type": "Game" }
+{ "name": "Pose-Win64-Shipping.exe", "type": "Game" }
+
 # POSTAL https://store.steampowered.com/app/232770/POSTAL/
 { "name": "Postal Plus.exe", "type": "Game" }
 
@@ -916,9 +942,6 @@
 
 # Power Rangers: Battle for the Grid https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/
 { "name": "BattleForTheGrid.exe", "type": "Game" }
-
-# PowerWash Simulator https://store.steampowered.com/app/1290000/PowerWash_Simulator/
-{ "name": "PowerWashSimulator.exe", "type": "Game" }
 
 # PowerWash Simulator 2 https://store.steampowered.com/app/2968420/PowerWash_Simulator_2/
 { "name": "PowerWash Simulator 2.exe", "type": "Game" }
@@ -989,6 +1012,9 @@
 
 # Prime World: Nova Playtest https://store.steampowered.com/app/4646880/Prime_World_Nova/
 { "name": "PW Nova Launcher.exe", "type": "Game" }
+
+# Primitive Society Simulator https://store.steampowered.com/app/1876880/Primitive_Society_Simulator/
+{ "name": "PrimitiveSocietySimulator.exe", "type": "Game" }
 
 # Primordia https://store.steampowered.com/app/227000/Primordia/
 { "name": "Primordia.exe", "type": "Game" }
@@ -1113,6 +1139,10 @@
 # Project Motor Racing https://store.steampowered.com/app/299970/Project_Motor_Racing/
 { "name": "ProjectMotorRacing.exe", "type": "Game" }
 
+# Project N.E.K.O. https://store.steampowered.com/app/4099310/Project_NEKO/
+{ "name": "N.E.K.O.exe", "type": "Game" }
+{ "name": "projectneko_server.exe", "type": "Game" }
+
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 { "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }
 
@@ -1163,6 +1193,9 @@
 # Promise Mascot Agency https://store.steampowered.com/app/2585830/Promise_Mascot_Agency/
 { "name": "MM-Win64-Shipping.exe", "type": "Game" }
 
+# Pronoun Palace https://store.steampowered.com/app/3618850/Pronoun_Palace/
+{ "name": "pronoun_palace.exe", "type": "Game" }
+
 # Propagation VR https://store.steampowered.com/app/1363430/Propagation_VR/
 { "name": "PropagationVR.exe", "type": "Game" }
 
@@ -1199,6 +1232,7 @@
 
 # Pseudoregalia https://store.steampowered.com/app/2365810/Pseudoregalia/
 { "name": "pseudoregalia.exe", "type": "Game" }
+{ "name": "pseudoregalia-Win64-Shipping.exe", "type": "Game" }
 
 # Psych Engine https://github.com/ShadowMario/FNF-PsychEngine/
 { "name": "PsychEngine.exe", "type": "Game" }

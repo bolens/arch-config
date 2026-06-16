@@ -9,6 +9,10 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
 
+# The 7th Guest Remake https://store.steampowered.com/app/4491360/The_7th_Guest_Remake/
+{ "name": "The7thGuestVR.exe", "type": "Game" }
+{ "name": "The7thGuestVR-Win64-Shipping.exe", "type": "Game" }
+
 # The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
 { "name": "Elliot.exe", "type": "Game" }
 { "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
@@ -118,6 +122,9 @@
 
 # The Break-In https://store.steampowered.com/app/1397390/The_BreakIn/
 { "name": "The Break In.exe", "type": "Game" }
+
+# The Brewline https://store.steampowered.com/app/3916860/The_Brewline/
+{ "name": "The Brewline.exe", "type": "Game" }
 
 # The Bridge https://store.steampowered.com/app/204240/The_Bridge/
 { "name": "The Bridge.exe", "type": "Game" }
@@ -459,6 +466,9 @@
 { "name": "Dust.exe", "type": "Game" }
 { "name": "Dust-Win64-Shipping.exe", "type": "Game" }
 
+# The Happyhills Homicide https://store.steampowered.com/app/3278760/The_Happyhills_Homicide/
+{ "name": "TheHappyHillsHomicide.exe", "type": "Game" }
+
 # The Hat Man: Shadow Ward https://store.steampowered.com/app/291010/The_Hat_Man_Shadow_Ward/
 { "name": "The Hat Man.exe", "type": "Game" }
 
@@ -608,6 +618,9 @@
 # The Lab https://store.steampowered.com/app/450390/The_Lab/
 { "name": "TheLab.exe", "type": "Game" }
 
+# The Lamplighters League https://store.steampowered.com/app/1167750/
+{ "name": "LamplightersLeague.exe", "type": "Game" }
+
 # THE LAST BLADE https://store.steampowered.com/app/465840/THE_LAST_BLADE/
 { "name": "LastBlade.exe", "type": "Game" }
 
@@ -657,6 +670,9 @@
 
 # The Last Starship https://store.steampowered.com/app/1857080/The_Last_Starship/
 { "name": "LastStarship64.exe", "type": "Game" }
+
+# The Last Tinker: City of Colors https://store.steampowered.com/app/260160/The_Last_Tinker_City_of_Colors/
+{ "name": "the last tinker.exe", "type": "Game" }
 
 # The Legend of Heroes: Ao no Kiseki KAI https://store.steampowered.com/app/1461920/The_Legend_of_Heroes_Ao_no_Kiseki_KAI/
 { "name": "Launcher_ED72.exe", "type": "BG_CPUIO" }
@@ -739,6 +755,9 @@
 # The Life and Suffering of Sir Brante https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/
 { "name": "The Life and Suffering of Sir Brante.exe", "type": "Game" }
 { "name": "brante-101xp-micro-launcher.exe", "type": "BG_CPUIO" }
+
+# The Lift Playtest https://store.steampowered.com/app/3916290/
+{ "name": "Handyman.exe", "type": "Game" }
 
 # The Long Dark https://store.steampowered.com/app/305620/The_Long_Dark/
 { "name": "tld.exe", "type": "Game" }
@@ -932,8 +951,14 @@
 { "name": "TheRanchOfRivershine.exe", "type": "Game" }
 { "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
 
+# The Red Lantern https://store.steampowered.com/app/1053710/The_Red_Lantern/
+{ "name": "TheRedLantern_sw.exe", "type": "Game" }
+
 # The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
 { "name": "The Red Pearls of Borneo.exe", "type": "Game" }
+
+# The Red Strings Club https://store.steampowered.com/app/589780/The_Red_Strings_Club/
+{ "name": "TRSC2017.exe", "type": "Game" }
 
 # The Remake of the End of the Greatest RPG of All Time https://store.steampowered.com/app/2809660/The_Remake_of_the_End_of_the_Greatest_RPG_of_All_Time/
 { "name": "The Remake the End of the Greatest RPG of All Time.exe", "type": "Game" }
@@ -968,6 +993,9 @@
 # The Sapling https://store.steampowered.com/app/997380/The_Sapling/
 { "name": "the_sapling.exe", "type": "Game" }
 
+# The Scourge | Tai Ương https://store.steampowered.com/app/2456350/The_Scourge__Tai_ng/
+{ "name": "TheScourge.exe", "type": "Game" }
+
 # The Scouring https://store.steampowered.com/app/3338950/The_Scouring/
 { "name": "TheScouring.exe", "type": "Game" }
 
@@ -996,6 +1024,10 @@
 # The Seven Deadly Sins: Origin https://store.steampowered.com/app/3679080/The_Seven_Deadly_Sins_Origin/
 { "name": "SevenDeadlySins_Origin-Win64-Shipping.exe", "type": "Game" }
 { "name": "SevenDeadlySins_Origin.exe", "type": "Game" }
+
+# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
+{ "name": "TheSevenRealms-32.exe", "type": "Game" }
+{ "name": "TheSevenRealms.exe", "type": "Game" }
 
 # The Shattering https://store.steampowered.com/app/596000/The_Shattering/
 { "name": "Shattering.exe", "type": "Game" }
@@ -1179,6 +1211,9 @@
 
 # The Wife Next Door https://store.steampowered.com/app/2710480/
 { "name": "TheWifeNextDoor.exe", "type": "Game" }
+
+# The wild darkness https://store.steampowered.com/app/4123780/The_wild_darkness/
+{ "name": "twd.exe", "type": "Game" }
 
 # The Wild Eight https://store.steampowered.com/app/526160/The_Wild_Eight/
 { "name": "wildeight.exe", "type": "Game" }

@@ -449,6 +449,9 @@
 { "name": "GoldFever.exe", "type": "Game" }
 { "name": "GoldFever-Win64-Shipping.exe", "type": "Game" }
 
+# Gold Rush! Classic https://store.steampowered.com/app/308000/Gold_Rush_Classic/
+{ "name": "Gold Rush!.exe", "type": "Game" }
+
 # Golf Gang https://store.steampowered.com/app/1151050/Golf_Gang/
 { "name": "Golf Gang.exe", "type": "Game" }
 
@@ -529,10 +532,6 @@
 # Gothic 1 https://store.steampowered.com/app/65540/Gothic_1/
 { "name": "GOTHIC.EXE", "type": "Game" }
 { "name": "GothicMod.exe", "type": "Game" }
-
-# Gothic 1 Remake - Demo (Nyras Prologue) https://store.steampowered.com/app/3448280/Gothic_1_Remake__Demo_Nyras_Prologue/
-{ "name": "G1R-Win64-Shipping.exe", "type": "Game" }
-{ "name": "G1R.exe", "type": "Game" }
 
 # Gothic 3 https://store.steampowered.com/app/39500/Gothic_3/
 { "name": "Gothic3.exe", "type": "Game" }
@@ -633,9 +632,6 @@
 # Grand Theft Auto V Legacy https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/
 { "name": "GTA5.exe", "type": "Game" }
 
-# Granny https://store.steampowered.com/app/962400/Granny/
-{ "name": "Granny.exe", "type": "Game" }
-
 # Granny 3 https://store.steampowered.com/app/1707550/Granny_3/
 { "name": "Granny 3.exe", "type": "Game" }
 
@@ -645,6 +641,12 @@
 # Granny: Escape Together https://store.steampowered.com/app/3070520/Granny_Escape_Together/
 { "name": "GrannyEscapeTogether-Win64-Shipping.exe", "type": "Game" }
 { "name": "GrannyEscapeTogether.exe", "type": "Game" }
+
+# Granny Remake https://store.steampowered.com/app/2110820/Granny_Remake/
+{ "name": "Granny-Win64-Shipping.exe", "type": "Game" }
+
+# Granny Simulator https://store.steampowered.com/app/1053680/Granny_Simulator/
+{ "name": "Granny Simulator.exe", "type": "Game" }
 
 # Granvir https://store.steampowered.com/app/2743460/Granvir/
 { "name": "Granvir.exe", "type": "Game" }
@@ -681,6 +683,9 @@
 # Greedland https://store.steampowered.com/app/2218400/Greedland/
 { "name": "NewGreedland.exe", "type": "Game" }
 { "name": "NewGreedland-Win64-Shipping.exe", "type": "Game" }
+
+# Green Project https://store.steampowered.com/app/1274490/Green_Project/
+{ "name": "Green Project.exe", "type": "Game" }
 
 # Gremlins, Inc. https://store.steampowered.com/app/369990/Gremlins_Inc/
 { "name": "Gremlins_Inc.exe", "type": "Game" }
@@ -794,6 +799,9 @@
 
 # Growtopia https://store.steampowered.com/app/866020/Growtopia/
 { "name": "Growtopia.exe", "type": "Game" }
+
+# Grunn https://store.steampowered.com/app/2720950/Grunn/
+{ "name": "Grunn.exe", "type": "Game" }
 
 # G String https://store.steampowered.com/app/1224600/G_String/
 { "name": "gstring.exe", "type": "Game" }

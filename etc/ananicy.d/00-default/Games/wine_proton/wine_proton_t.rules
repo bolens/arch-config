@@ -14,9 +14,6 @@
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.exe", "type": "Game" }
 
-# Tabletop Tavern Demo https://store.steampowered.com/app/3410010/Tabletop_Tavern_Demo/
-{ "name": "TabletopTavern.exe", "type": "Game" }
-
 # Tactical Assault VR https://store.steampowered.com/app/2314160/Tactical_Assault_VR/
 { "name": "Tactical Assault VR.exe", "type": "Game" }
 
@@ -152,6 +149,9 @@
 # Tank Mechanic Simulator https://store.steampowered.com/app/407130/Tank_Mechanic_Simulator/
 { "name": "TankMechanicSimulator.exe", "type": "Game" }
 
+# Tank Squad https://store.steampowered.com/app/1498130/Tank_Squad/
+{ "name": "TankSquad.exe", "type": "Game" }
+
 # Tannenberg https://store.steampowered.com/app/633460/Tannenberg/
 { "name": "Tannenberg.exe", "type": "Game" }
 
@@ -202,6 +202,9 @@
 
 # Tavern Talk - A Cozy Visual Novel https://store.steampowered.com/app/2076140/Tavern_Talk__A_Cozy_Visual_Novel/
 { "name": "Tavern Talk.exe", "type": "Game" }
+
+# Tavern Talk Stories: Dreamwalker https://store.steampowered.com/app/3500880/Tavern_Talk_Stories_Dreamwalker/
+{ "name": "Dreamwalker.exe", "type": "Game" }
 
 # Taxi Life: A City Driving Simulator https://store.steampowered.com/app/1351240/Taxi_Life_A_City_Driving_Simulator/
 { "name": "TaxiLife.exe", "type": "Game" }
@@ -372,6 +375,9 @@
 { "name": "TT2EOS.exe", "type": "Game" }
 { "name": "TT2EOS-Win64-Shipping.exe", "type": "Game" }
 
+# Terrinoth: Heroes of Descent https://store.steampowered.com/app/3929630/Terrinoth_Heroes_of_Descent/
+{ "name": "Terrinoth Heroes of Descent.exe", "type": "Game" }
+
 # Territory: Farming and Warfare https://store.steampowered.com/app/1455910/Territory_Farming_and_Warfare/
 { "name": "Territory.exe", "type": "Game" }
 
@@ -404,6 +410,10 @@
 
 # Thank Goodness You're Here! https://store.steampowered.com/app/2366980/Thank_Goodness_Youre_Here/
 { "name": "Thank Goodness You're Here!.exe", "type": "Game" }
+
+# That One Otter Game https://store.steampowered.com/app/3823460/That_One_Otter_Game/
+{ "name": "Otter.exe", "type": "Game" }
+{ "name": "Otter-Win64-Shipping.exe", "type": "Game" }
 
 # That's not my Neighbor https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/
 { "name": "That's not my neighbor (Steam).exe", "type": "Game" }
@@ -600,6 +610,9 @@
 # Time Clickers https://store.steampowered.com/app/385770/Time_Clickers/
 { "name": "TimeClickers.exe", "type": "Game" }
 
+# Timeflow https://store.steampowered.com/app/1005930/Timeflow__Life_Sim/
+{ "name": "Timeflow.exe", "type": "Game" }
+
 # TimeShift https://store.steampowered.com/app/10130/TimeShift/
 { "name": "TimeShift.Exe", "type": "Game" }
 
@@ -644,6 +657,9 @@
 
 # Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
 { "name": "tiny-glade.exe", "type": "Game" }
+
+# Tinykin https://store.steampowered.com/app/1599020/Tinykin/
+{ "name": "Tinykin.exe", "type": "Game" }
 
 # Tiny Pasture https://store.steampowered.com/app/3167550/Tiny_Pasture/
 { "name": "TinyPasture.exe", "type": "Game" }
@@ -783,6 +799,11 @@
 # Tombwater https://store.steampowered.com/app/3308200/Tombwater/
 { "name": "tombwater.exe", "type": "Game" }
 
+# Tom Clancy's EndWar https://store.steampowered.com/app/21800/Tom_Clancys_EndWar/
+{ "name": "endwar.exe", "type": "Game" }
+{ "name": "Tom Clancy's EndWar Launcher.exe", "type": "Game" }
+{ "name": "EndWar.exe", "type": "Game" }
+
 # Tom Clancy's Ghost Recon Advanced Warfighter https://steamdb.info/app/13640/
 { "name": "GRAW.exe", "type": "Game" }
 { "name": "GRAW-standalone.exe", "type": "Game" }
@@ -911,6 +932,9 @@
 { "name": "TotalConflictResistance.exe", "type": "Game" }
 { "name": "TotalConflictResistance-Win64-Shipping.exe", "type": "Game" }
 
+# Total Football Online https://store.steampowered.com/app/4517460/Total_Football_Online/
+{ "name": "TotalFootball.exe", "type": "Game" }
+
 # Totally Accurate Battlegrounds https://store.steampowered.com/app/823130/Totally_Accurate_Battlegrounds/
 { "name": "TotallyAccurateBattlegrounds.exe", "type": "Game" }
 
@@ -973,17 +997,20 @@
 { "name": "AA-Launcher.exe", "type": "Game" }
 { "name": "DankaguPL.exe", "type": "Game" }
 
-# Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
-{ "name": "th10.exe", "type": "Game" }
-
 # Touhou Genso Wanderer -Reloaded- / 不可思议的幻想乡TOD -RELOADED- / 不思議の幻想郷TOD -RELOADED- https://store.steampowered.com/app/931500/Touhou_Genso_Wanderer_Reloaded/
 { "name": "LotusLandVReloaded.exe", "type": "Game" }
 
 # Touhou Hero of Ice Fairy https://store.steampowered.com/app/1955830/Touhou_Hero_of_Ice_Fairy/
 { "name": "Touhou Hero of Ice Fairy.exe", "type": "Game" }
 
+# Touhou Kouzougi　～ Flickerframe Shutter Festival https://store.steampowered.com/app/3829880/Touhou_Kouzougi__Flickerframe_Shutter_Festival/
+{ "name": "thFSF.exe", "type": "Game" }
+
 # Touhou Luna Nights https://store.steampowered.com/app/851100/Touhou_Luna_Nights/
 { "name": "touhou_luna_nights.exe", "type": "Game" }
+
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part III https://store.steampowered.com/app/2877170/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_III/
+{ "name": "THMHJhp.exe", "type": "Game" }
 
 # Touhou Mystia's Izakaya https://store.steampowered.com/app/1584090/Touhou_Mystias_Izakaya/
 { "name": "Touhou Mystia Izakaya.exe", "type": "Game" }
@@ -1080,6 +1107,9 @@
 { "name": "ToyTinkerSimulator.exe", "type": "Game" }
 { "name": "ToyTinkerSimulator-Win64-Shipping.exe", "type": "Game" }
 
+# TR-49 https://store.steampowered.com/app/3838370/TR49/
+{ "name": "TR-49.exe", "type": "Game" }
+
 # TrackDayR https://store.steampowered.com/app/1511630/TrackDayR/
 { "name": "Track Day R.exe", "type": "Game" }
 
@@ -1135,6 +1165,14 @@
 { "name": "Trakonius.exe", "type": "Game" }
 { "name": "Trakonius-Win64-Shipping.exe", "type": "Game" }
 
+# TramSim Vienna https://store.steampowered.com/app/1314140/TramSim_Vienna__The_Tram_Simulator/
+{ "name": "TramSimVienna.exe", "type": "Game" }
+{ "name": "TramSimBootstrap.exe", "type": "Game" }
+{ "name": "TramSimVienna-Win64-Shipping.exe", "type": "Game" }
+
+# Transcendence https://store.steampowered.com/app/364510/Transcendence/
+{ "name": "Transcendence.exe", "type": "Game" }
+
 # Transformice https://store.steampowered.com/app/335240/Transformice/
 { "name": "Transformice.exe", "type": "Game" }
 
@@ -1158,6 +1196,15 @@
 
 # Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
 { "name": "Trans-Siberian Railway Simulator.exe", "type": "Game" }
+
+# Trap Genesis https://store.steampowered.com/app/1585700/Trap_Genesis
+{ "name": "Jyosou_Souseiki.exe", "type": "Game" }
+
+# Trap Legend https://store.steampowered.com/app/1226530/Trap_Legend
+{ "name": "jyosou_shinwa.exe", "type": "Game" }
+
+# Trap Shrine https://store.steampowered.com/app/951000/Trap_Shrine/
+{ "name": "josou_jinjya.exe", "type": "Game" }
 
 # Trash Goblin https://store.steampowered.com/app/2407830/Trash_Goblin/
 { "name": "TrashGoblin.exe", "type": "Game" }
@@ -1189,6 +1236,9 @@
 
 # Trials Rising https://store.steampowered.com/app/641080/Trials_Rising/
 { "name": "trialsrising.exe", "type": "Game" }
+
+# Trials Survivors https://store.steampowered.com/app/3762660/Trials_Survivors/
+{ "name": "Trials Survivors.exe", "type": "Game" }
 
 # TRIANGLE STRATEGY https://store.steampowered.com/app/1850510/TRIANGLE_STRATEGY/
 { "name": "TRIANGLE_STRATEGY.exe", "type": "Game" }
@@ -1433,3 +1483,8 @@
 
 # TY the Tasmanian Tiger https://store.steampowered.com/app/411960/TY_the_Tasmanian_Tiger/
 { "name": "TY.exe", "type": "Game" }
+
+# Tzar: The Burden of the Crown https://store.steampowered.com/app/825730/Tzar_The_Burden_of_the_Crown/
+{ "name": "Tzar.exe", "type": "Game" }
+{ "name": "Tzar_.exe", "type": "Game" }
+{ "name": "TzarCampaign.exe", "type": "Game" }
