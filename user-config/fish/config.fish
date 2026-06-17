@@ -28,3 +28,7 @@ set -gx LANG "en_US.UTF-8"
 # Use micro for tools that honor EDITOR/VISUAL (e.g. sudoedit).
 set -gx EDITOR "micro"
 set -gx VISUAL "code-insiders --wait"
+
+
+# Added by Antigravity CLI installer
+set -gx PATH "/home/panda/.local/bin" $PATH

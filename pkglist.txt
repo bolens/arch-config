@@ -1638,6 +1638,7 @@ ipxgw-git
 ircsnapshot
 ironwail
 irpas
+irqbalance
 isf
 isip
 isme
