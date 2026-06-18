@@ -1,0 +1,10 @@
+[Unit]
+Description=Trigger Daily chkrootkit Scan
+
+[Timer]
+# Run every day at 1:00 AM
+OnCalendar=daily
+Persistent=true
+
+[Install]
+WantedBy=timers.target

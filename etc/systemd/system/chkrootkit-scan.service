@@ -1,0 +1,13 @@
+[Unit]
+Description=Daily chkrootkit Rootkit Scan
+Documentation=man:chkrootkit(1)
+After=local-fs.target
+
+[Service]
+Type=simple
+# Run from the directory containing the helper binaries so chkrootkit can execute them
+WorkingDirectory=/usr/lib/chkrootkit
+ExecStart=/usr/bin/chkrootkit -q
+Nice=19
+CPUSchedulingPolicy=idle
+IOSchedulingClass=idle

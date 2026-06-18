@@ -1972,6 +1972,7 @@ kwayland-integration
 kweather
 kwetza
 kwidgetsaddons
+kwin-karousel
 kwindowsystem
 kwordquiz
 kxmlgui
