@@ -2285,6 +2285,7 @@ mari0
 markdown-oxide
 markdownpart
 marknote
+marksman
 marshalsec
 maryam
 maskprocessor
@@ -4343,6 +4344,7 @@ x8
 xboxdrv
 xcat
 xcavator
+xclip
 xcname
 xdcc-git
 xdg-desktop-portal-hyprland
