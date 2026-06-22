@@ -1,4 +1,63 @@
+# Logs, history, sessions, and cookies
+*.log
 *history*
 *Session*
 *Cookies*
-*.log
+*cookie*
+*.out
+*.err
+
+# Databases and temporary files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Credentials, keys, and certificates
+*.key
+*.pem
+*.crt
+*.pfx
+*.p12
+*id_rsa*
+*id_ecdsa*
+*id_ed25519*
+*.env
+*.passwd
+*.shadow
+*secret*
+*credential*
+*token*
+*passwords*
+*.gpg
+*.asc
+
+# Python and compilation artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js and dependencies
+node_modules/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Shell variables and local state
+fish_variables*
+fish_plugins*
+
+# Locks and sockets
+*.lock
+*.sock
+*.socket
+*.pid
