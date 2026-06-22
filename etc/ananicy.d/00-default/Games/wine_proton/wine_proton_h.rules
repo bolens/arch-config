@@ -115,6 +115,9 @@
 # Hamsteria Demo https://store.steampowered.com/app/4440600/Hamsteria_Demo/
 { "name": "HamsteriaDemo.exe", "type": "Game" }
 
+# Hamster Playground https://store.steampowered.com/app/1442670/Hamster_Playground/
+{ "name": "Hamster Playground.exe", "type": "Game" }
+
 # Hamster Talk https://store.steampowered.com/app/3985130/Hamster_Talk/
 { "name": "Hamster Talk.exe", "type": "Game" }
 
@@ -298,6 +301,10 @@
 # Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
 { "name": "HeavyRain.exe", "type": "Game" }
 
+# Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
+{ "name": "hedgewars.exe", "type": "Game"}
+{ "name": "hedgewars-server.exe", "type": "Service"}
+
 # He is Coming https://store.steampowered.com/app/2824490/He_is_Coming/
 { "name": "He is coming.exe", "type": "Game" }
 
@@ -402,6 +409,9 @@
 # Hell Yeah! Wrath of the Dead Rabbit https://store.steampowered.com/app/205230/Hell_Yeah_Wrath_of_the_Dead_Rabbit/
 { "name": "HELLYEAH.exe", "type": "Game" }
 
+# Helping the Hotties https://store.steampowered.com/app/1590730/
+{ "name": "HelpingTheHotties.exe", "type": "Game" }
+
 # HENPRI https://store.steampowered.com/app/3094010/HENPRI/
 { "name": "HENPRI.exe", "type": "Game" }
 
@@ -410,6 +420,9 @@
 
 # Hentai Girl https://store.steampowered.com/app/878750/Hentai_Girl/
 { "name": "HentaiGirl.exe", "type": "Game" }
+
+# Hentai Killer https://store.steampowered.com/app/1157340/
+{ "name": "Hentai Killer.exe", "type": "Game" }
 
 # Hentai Police https://store.steampowered.com/app/1198730/
 { "name": "OMON Girl Bottle Royal.exe", "type": "Game" }
@@ -452,6 +465,9 @@
 
 # Heroes of Science and Fiction https://store.steampowered.com/app/2147380/Heroes_of_Science_and_Fiction/
 { "name": "Silence of the Siren.exe", "type": "Game" }
+
+# Heroes Of The Dark https://store.steampowered.com/app/1851330/Heroes_Of_The_Dark/
+{ "name": "HotD.exe", "type": "Game" }
 
 # Heroes of the Three Kingdoms 7 https://store.steampowered.com/app/1437880/Heroes_of_the_Three_Kingdoms_7/
 { "name": "Sango7.exe", "type": "Game" }
@@ -645,6 +661,9 @@
 # Holdfast: Nations At War https://store.steampowered.com/app/589290/Holdfast_Nations_At_War/
 { "name": "Holdfast NaW.exe", "type": "Game" }
 
+# Holding Pattern https://store.steampowered.com/app/4309180/Holding_Pattern/
+{ "name": "index.exe", "type": "Game" }
+
 # HOLE https://store.steampowered.com/app/2971610/HOLE/
 { "name": "HOLE.exe", "type": "Game" }
 { "name": "HOLE-Win64-Shipping.exe", "type": "Game" }
@@ -677,6 +696,9 @@
 
 # holoVillage: Our Cozy Days https://store.steampowered.com/app/3856280/holoVillage_Our_Cozy_Days/
 { "name": "holovillage.exe", "type": "Game" }
+
+# Holo vs Robo https://store.steampowered.com/app/4053520/Holo_vs_Robo/
+{ "name": "Holo vs Robo.exe", "type": "Game" }
 
 # Holyday City: Reloaded https://store.steampowered.com/app/728730/Holyday_City_Reloaded/
 { "name": "Holyday City Reloaded.exe", "type": "Game" }
@@ -739,6 +761,9 @@
 
 # Hook https://store.steampowered.com/app/367580/Hook/
 { "name": "Hook.exe", "type": "Game" }
+
+# Hooked on You: A Dead by Daylight Dating Sim™ https://store.steampowered.com/app/1866180/Hooked_on_You_A_Dead_by_Daylight_Dating_Sim/
+{ "name": "Hooked on You.exe", "type": "Game" }
 
 # Hoop Land https://store.steampowered.com/app/2453660/Hoop_Land/
 { "name": "Hoop Land.exe", "type": "Game" }
@@ -920,6 +945,9 @@
 { "name": "hurtworld.exe", "type": "Game" }
 { "name": "HurtworldClient.exe", "type": "Game" }
 
+# Hush Hush - Only Your Love Can Save Them https://store.steampowered.com/app/782250/Hush_Hush__Only_Your_Love_Can_Save_Them/
+{ "name": "HushHush.exe", "type": "Game" }
+
 # Hydroneer https://store.steampowered.com/app/1106840/Hydroneer/
 { "name": "Mining-Win64-Shipping.exe", "type": "Game" }
 
@@ -948,6 +976,9 @@
 
 # Hypermarket Simulator https://store.steampowered.com/app/3614460/Hypermarket_Simulator/
 { "name": "HyperMarket Simulator.exe", "type": "Game" }
+
+# HyperRogue https://store.steampowered.com/app/342610/HyperRogue/
+{ "name": "hyper.exe", "type": "Game" }
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS.exe", "type": "Game" }

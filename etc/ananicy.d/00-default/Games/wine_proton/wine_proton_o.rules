@@ -50,6 +50,9 @@
 # ODDCORE https://store.steampowered.com/app/2896260/ODDCORE/
 { "name": "ODDCORE.exe", "type": "Game" }
 
+# Odd Realm https://store.steampowered.com/app/688060/Odd_Realm/
+{ "name": "OddRealm.exe", "type": "Game" }
+
 # Oddsparks: An Automation Adventure https://store.steampowered.com/app/1817800/Oddsparks_An_Automation_Adventure/
 { "name": "Oddsparks.exe", "type": "Game" }
 { "name": "Loc-Win64-Shipping.exe", "type": "Game" }
@@ -248,6 +251,9 @@
 { "name": "ocbt.exe", "type": "Game" }
 { "name": "onlyclimbtogether-Win64-Shipping.exe", "type": "Game" }
 
+# Only Furry 18+ https://store.steampowered.com/app/1968820/
+{ "name": "Only Furry.exe", "type": "Game" }
+
 # Only Up! https://store.steampowered.com/app/2381590/not_available/
 { "name": "OnlyUP.exe", "type": "Game" }
 
@@ -421,6 +427,10 @@
 # OUTBRK https://store.steampowered.com/app/1107320/OUTBRK/
 { "name": "Outbrk.exe", "type": "Game" }
 
+# Outcast - A New Beginning https://store.steampowered.com/app/1013140/Outcast__A_New_Beginning/
+{ "name": "O2.exe", "type": "Game" }
+{ "name": "O2-Win64-Shipping.exe", "type": "Game" }
+
 # Outcast - Second Contact https://store.steampowered.com/app/618970/Outcast__Second_Contact/
 { "name": "outcast.exe", "type": "Game" }
 
@@ -432,6 +442,9 @@
 
 # Outhold https://store.steampowered.com/app/3767740/Outhold/
 { "name": "outhold_windows.exe", "type": "Game" }
+
+# Outhold Demo https://store.steampowered.com/app/3781820/Outhold_Demo/
+{ "name": "outhold_windows_demo.exe", "type": "Game" }
 
 # Outlanders https://store.steampowered.com/app/1766720/Outlanders/
 { "name": "Outlanders.exe", "type": "Game" }
@@ -446,6 +459,10 @@
 
 # Outlive 25 https://store.steampowered.com/app/2948680/Outlive_25/
 { "name": "Outlive2025.exe", "type": "Game" }
+
+# Out of Action https://store.steampowered.com/app/1670780/Out_of_Action/
+{ "name": "OutOfAction.exe", "type": "Game" }
+{ "name": "OutOfAction-Win64-Shipping.exe", "type": "Game" }
 
 # Out of Orbit https://store.steampowered.com/app/1859990/Out_of_Orbit/
 { "name": "OutOfOrbit.exe", "type": "Game" }

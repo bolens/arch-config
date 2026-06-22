@@ -75,9 +75,9 @@
 { "name": "Palworld.exe", "type": "Game" }
 
 # Palworld Dedicated Server https://store.steampowered.com/app/2394010/
-{ "name": "PalServer.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PalServer.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping.exe", "type": "Service" }
 
 # Pandora's Toybox https://store.steampowered.com/app/3030190/Pandoras_Toybox/
 { "name": "Pandora's Toybox.exe", "type": "Game" }
@@ -121,6 +121,9 @@
 # Papa's Freezeria Deluxe https://store.steampowered.com/app/2291760/Papas_Freezeria_Deluxe/
 { "name": "Papa's Freezeria Deluxe.exe", "type": "Game" }
 
+# Papa's Mocharia Deluxe https://store.steampowered.com/app/4656700/Papas_Mocharia_Deluxe/
+{ "name": "Papa's Mocharia Deluxe.exe", "type": "Game" }
+
 # Papa's Pizzeria Deluxe https://store.steampowered.com/app/3259470/Papas_Pizzeria_Deluxe/
 { "name": "Papa's Pizzeria Deluxe.exe", "type": "Game" }
 
@@ -146,6 +149,9 @@
 
 # Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
 { "name": "PYGame-Win32-Shipping.exe", "type": "Game" }
+
+# Pâquerette Down the Bunburrows https://store.steampowered.com/app/1628610/Paquerette_Down_the_Bunburrows/
+{ "name": "Paquerette Down the Bunburrows.exe", "type": "Game" }
 
 # Paradiddle https://store.steampowered.com/app/685240/Paradiddle/
 { "name": "Paradiddle-Win64-Shipping.exe", "type": "Game" }
@@ -236,6 +242,9 @@
 # Passion Industry https://store.steampowered.com/app/3738950/
 { "name": "PassionIndustry.exe", "type": "Game" }
 
+# Passion Rift https://store.steampowered.com/app/3578240/
+{ "name": "PassionRift.exe", "type": "Game" }
+
 # Passpartout 2: The Lost Artist https://store.steampowered.com/app/1571100/Passpartout_2_The_Lost_Artist/
 { "name": "Passpartout2.exe", "type": "Game" }
 
@@ -290,6 +299,9 @@
 # Patron https://store.steampowered.com/app/1538570/Patron/
 { "name": "Patron.exe", "type": "Game" }
 
+# Pat the Cat Demo https://store.steampowered.com/app/4154660/
+{ "name": "Pat The Cat.exe", "type": "Game" }
+
 # Pavlov https://store.steampowered.com/app/555160/Pavlov/
 { "name": "Pavlov.exe", "type": "Game" }
 { "name": "Pavlov-Win64-Shipping.exe", "type": "Game" }
@@ -320,6 +332,10 @@
 
 # PAYDAY The Heist https://store.steampowered.com/app/24240/PAYDAY_The_Heist/
 { "name": "payday_win32_release.exe", "type": "Game" }
+
+# PBA Pro Bowling 2026 https://store.steampowered.com/app/3127230/PBA_Pro_Bowling_2026/
+{ "name": "PBABowling4.exe", "type": "Game" }
+{ "name": "PBABowling4-Win64-Shipping.exe", "type": "Game" }
 
 # PCBox, Emulator of PC-based machines based on 86Box via wine for SDL2 mouse keys https://pcbox-emu.xyz/
 { "name": "PCBox.exe", "type": "Game" }
@@ -410,6 +426,9 @@
 { "name": "PerfectHeist2.exe", "type": "Game" }
 { "name": "PerfectHeist2-Win64-Shipping.exe", "type": "Game" }
 
+# Perfume Atelier https://store.steampowered.com/app/3962270/Perfume_Atelier/
+{ "name": "Perfume Atelier.exe", "type": "Game" }
+
 # Peripeteia https://store.steampowered.com/app/1437760/Peripeteia/
 { "name": "Peripeteia.exe", "type": "Game" }
 
@@ -430,9 +449,6 @@
 
 # Persona 5 Tactica https://store.steampowered.com/app/2254740/Persona_5_Tactica/
 { "name": "Persona 5 Tactica.exe", "type": "Game" }
-
-# Persona5: The Phantom X https://store.steampowered.com/app/3061570/Persona5_The_Phantom_X/
-{ "name": "P5X.exe", "type": "Game" }
 
 # Pet Lands https://store.steampowered.com/app/3144950/Pet_Lands/
 { "name": "PetLands.exe", "type": "Game" }
@@ -503,6 +519,9 @@
 
 # Pid https://store.steampowered.com/app/218740/Pid/
 { "name": "Pid.exe", "type": "Game" }
+
+# Pieceful Gallery https://store.steampowered.com/app/3794810/Pieceful_Gallery/
+{ "name": "Pieceful Gallery.exe", "type": "Game" }
 
 # Pier Solar and the Great Architects https://store.steampowered.com/app/286220/Pier_Solar_and_the_Great_Architects/
 { "name": "pshd.exe", "type": "Game" }
@@ -655,6 +674,9 @@
 # Planescape: Torment: Enhanced Edition https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
 { "name": "Torment.exe", "type": "Game" }
 
+# Planet Alcatraz https://store.steampowered.com/app/289420/Planet_Alcatraz/
+{ "name": "Erasers.exe", "type": "Game" }
+
 # PLANET ALPHA https://store.steampowered.com/app/485030/PLANET_ALPHA/
 { "name": "PlanetAlpha.exe", "type": "Game" }
 
@@ -700,6 +722,9 @@
 # Planet Zoo https://store.steampowered.com/app/703080/Planet_Zoo/
 { "name": "PlanetZoo.exe", "type": "Game" }
 
+# Plant Nursery Simulator https://store.steampowered.com/app/3474700/Plant_Nursery_Simulator/
+{ "name": "PlantNurserySimulator.exe", "type": "Game" }
+
 # Plants vs. Zombies: Battle for Neighborville https://store.steampowered.com/app/1262240/Plants_vs_Zombies_Battle_for_Neighborville/
 { "name": "PVZBattleforNeighborville_Trial.exe", "type": "Game" }
 { "name": "PVZBattleforNeighborville.exe", "type": "Game" }
@@ -738,6 +763,9 @@
 # PlayClaw 7 https://store.steampowered.com/app/1141530/PlayClaw_7__Game_Overlays_Recording_and_Streaming/
 { "name": "PlayClawApp64.exe", "type": "Game" }
 
+# Playing History - The Plague https://store.steampowered.com/app/395920/Playing_History__The_Plague/
+{ "name": "PH1Plague.exe", "type": "Game" }
+
 # PlayStation VR2 App https://store.steampowered.com/app/2580190/PlayStationVR2_App/
 { "name": "PlayStationVR2App.exe", "type": "Game" }
 { "name": "PlayAreaSetup-Win64-Shipping.exe", "type": "Game" }
@@ -768,6 +796,9 @@
 
 # Poco https://store.steampowered.com/app/3454610/Poco/
 { "name": "Poco.exe", "type": "Game" }
+
+# Poetry of Blood: Eclipse https://store.steampowered.com/app/2372330/Poetry_of_Blood_Eclipse/
+{ "name": "POB.exe", "type": "Game" }
 
 # Pogostuck: Rage With Your Friends https://store.steampowered.com/app/688130/Pogostuck_Rage_With_Your_Friends/
 { "name": "Pogostuck.exe", "type": "Game" }
@@ -829,8 +860,11 @@
 # PomoFarm https://store.steampowered.com/app/2060480/PomoFarm/
 { "name": "PomoFarm.exe", "type": "Game" }
 
-# Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
-{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
+# Pompeii: The Legacy https://store.steampowered.com/app/2632240/Pompeii_The_Legacy/
+{ "name": "Pompeii.exe", "type": "Game" }
+
+# Pony Island https://store.steampowered.com/app/405640/Pony_Island/
+{ "name": "PonyIsland.exe", "type": "Game" }
 
 # Pool Live Tour Max https://store.steampowered.com/app/4061130/Pool_Live_Tour_Max/
 { "name": "PoolLiveTourMax.exe", "type": "Game" }
@@ -871,6 +905,12 @@
 
 # POPUCOM https://store.steampowered.com/app/2543180/POPUCOM/
 { "name": "Popucom.exe", "type": "Game" }
+
+# Pornographer https://store.steampowered.com/app/4734170/
+{ "name": "Pornographer.exe", "type": "Game" }
+
+# Porradaria Upgrade https://store.steampowered.com/app/399000/Porradaria_Upgrade/
+{ "name": "poup.exe", "type": "Game" }
 
 # Portal 2: Community Edition https://store.steampowered.com/app/440000/Portal_2_Community_Edition/
 { "name": "p2ce.exe", "type": "Game" }
@@ -940,6 +980,9 @@
 # Powernaut VANGARDT https://store.steampowered.com/app/602880/Powernaut_VANGARDT/
 { "name": "vangardt.exe", "type": "Game" }
 
+# Powerplay Demo https://store.steampowered.com/app/3439460/
+{ "name": "powerplay.exe", "type": "Game" }
+
 # Power Rangers: Battle for the Grid https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/
 { "name": "BattleForTheGrid.exe", "type": "Game" }
 
@@ -951,9 +994,6 @@
 
 # Pox Nora https://store.steampowered.com/app/201210/Pox_Nora/
 { "name": "PoxNora.exe", "type": "Game" }
-
-# Pâquerette Down the Bunburrows https://store.steampowered.com/app/1628610/Paquerette_Down_the_Bunburrows/
-{ "name": "Paquerette Down the Bunburrows.exe", "type": "Game" }
 
 # Praetorians - HD Remaster https://store.steampowered.com/app/1100420/Praetorians__HD_Remaster/
 { "name": "Praetorians.exe", "type": "Game" }
@@ -995,6 +1035,9 @@
 # Prey https://store.steampowered.com/app/480490/Prey/
 { "name": "Prey.exe", "type": "Game" }
 
+# Priestess Lust https://store.steampowered.com/app/2073030/
+{ "name": "Priestess Lust.exe", "type": "Game" }
+
 # Prime Monster https://store.steampowered.com/app/3214480/Prime_Monster/
 { "name": "PrimeMonster.exe", "type": "Game" }
 
@@ -1019,8 +1062,9 @@
 # Primordia https://store.steampowered.com/app/227000/Primordia/
 { "name": "Primordia.exe", "type": "Game" }
 
-# Primordialis https://store.steampowered.com/app/3011360/Primordialis/
-{ "name": "primordialis.exe", "type": "Game" }
+# Primordialis Demo https://store.steampowered.com/app/3267910/
+{ "name": "primordialis_avx.exe", "type": "Game" }
+{ "name": "primordialis_sse3.exe", "type": "Game" }
 
 # Prince of Persia https://store.steampowered.com/app/19980/Prince_of_Persia/
 { "name": "PrinceOfPersia_Launcher.exe", "type": "Game" }
@@ -1054,6 +1098,9 @@
 # Prison Escape Simulator: Dig Out https://store.steampowered.com/app/3672720/Prison_Escape_Simulator_Dig_Out/
 { "name": "Prison Escape Simulator.exe", "type": "Game" }
 
+# Prison Life https://store.steampowered.com/app/1904820/Prison_Life/
+{ "name": "Prison Life.exe", "type": "Game" }
+
 # Prison Simulator https://store.steampowered.com/app/842180/Prison_Simulator/
 { "name": "Prison Simulator.exe", "type": "Game" }
 
@@ -1063,11 +1110,21 @@
 # Pro Basketball Manager 2025 https://store.steampowered.com/app/2935400/Pro_Basketball_Manager_2025/
 { "name": "PBM2025.exe", "type": "Game" }
 
+# Pro Basketball Manager 2026 https://store.steampowered.com/app/3585230/Pro_Basketball_Manager_2026/
+{ "name": "PBM2026.exe", "type": "Game" }
+
 # Pro Cycling Manager 2020 https://store.steampowered.com/app/1178400/Pro_Cycling_Manager_2020/
 { "name": "PCM64Beta_protect.exe", "type": "Game" }
 
 # Prodeus https://store.steampowered.com/app/964800/Prodeus/
 { "name": "Prodeus.exe", "type": "Game" }
+
+# Production Line https://store.steampowered.com/app/591370/Production_Line__Car_factory_simulation/
+{ "name": "ProductionLine.exe", "type": "Game" }
+{ "name": "ProductionLine32.exe", "type": "Game" }
+
+# Pro Eleven https://store.steampowered.com/app/3818350/Pro_Eleven/
+{ "name": "Pro Eleven.exe", "type": "Game" }
 
 # Pro Evolution Soccer 2013 https://steamdb.info/app/221430/
 { "name": "pes2013.exe", "type": "Game" }
@@ -1141,7 +1198,7 @@
 
 # Project N.E.K.O. https://store.steampowered.com/app/4099310/Project_NEKO/
 { "name": "N.E.K.O.exe", "type": "Game" }
-{ "name": "projectneko_server.exe", "type": "Game" }
+{ "name": "projectneko_server.exe", "type": "Service" }
 
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 { "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }
@@ -1185,6 +1242,10 @@
 # Project Zomboid https://store.steampowered.com/app/108600/Project_Zomboid/
 { "name": "ProjectZomboid32.exe", "type": "Game" }
 { "name": "ProjectZomboid64.exe", "type": "Game" }
+
+# Prologue: Go Wayback! https://store.steampowered.com/app/2943740/Prologue_Go_Wayback/
+{ "name": "PrologueSteam.exe", "type": "Game" }
+{ "name": "PrologueSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Prominence Poker https://store.steampowered.com/app/384180/Prominence_Poker/
 { "name": "Prominence-Win64-Shipping.exe", "type": "Game" }
@@ -1296,6 +1357,9 @@
 # Pupa https://store.steampowered.com/app/3077780/Pupa/
 { "name": "PUPA.exe", "type": "Game" }
 
+# Pure Badminton https://store.steampowered.com/app/2591310/Pure_Badminton/
+{ "name": "Pure Badminton.exe", "type": "Game" }
+
 # Pure Farming 2018 https://store.steampowered.com/app/534370/Pure_Farming_2018/
 { "name": "PureFarming.exe", "type": "Game" }
 
@@ -1334,6 +1398,9 @@
 
 # PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
 { "name": "PyramidValley.exe", "type": "Game" }
+
+# Pyromaniac https://store.steampowered.com/app/4303040/Pyromaniac/
+{ "name": "Pyromaniac.exe", "type": "Game" }
 
 # Pyroworks https://store.steampowered.com/app/2507640/Pyroworks/
 { "name": "Pyroworks V1.0.0.exe", "type": "Game" }

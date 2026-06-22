@@ -25,6 +25,9 @@
 # Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3", "type": "Game" }
 
+# Baldur's Gate: Dark Alliance II https://store.steampowered.com/app/1889930/Baldurs_Gate_Dark_Alliance_II/
+{ "name": "Baldur's Gate - Dark Alliance II", "type": "Game" }
+
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "BaldursGateII", "type": "Game" }
 
@@ -137,6 +140,9 @@
 
 # Big Pharma https://store.steampowered.com/app/344850/Big_Pharma/
 { "name": "Big Pharma.x86", "type": "Game" }
+
+# Bingle Bingle https://store.steampowered.com/app/2789810/Bingle_Bingle/
+{ "name": "bb_linux.x86_64", "type": "Game" }
 
 # Bioprototype https://store.steampowered.com/app/3689520/Bioprototype/
 { "name": "Bioprototype.x86_64", "type": "Game" }

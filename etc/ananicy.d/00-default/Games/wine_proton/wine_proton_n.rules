@@ -82,7 +82,7 @@
 { "name": "ns2.exe", "type": "Game" }
 
 # Natural Selection 2 Dedicated Server https://store.steampowered.com/app/4940/
-{ "name": "Server.exe", "type": "Game" }
+{ "name": "Server.exe", "type": "Service" }
 
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 { "name": "NavalActionCrashSender.exe", "type": "Game" }
@@ -186,7 +186,7 @@
 # Need for Speed Most Wanted https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/
 { "name": "NFS13.exe", "type": "Game" }
 
-# Need for Speed Most Wanted (2005)
+# Need for Speed Most Wanted (2005) https://en.wikipedia.org/wiki/Need_for_Speed:_Most_Wanted_(2005_video_game)
 { "name": "speed.exe", "type": "Game" }
 
 # Need for Speed Payback https://store.steampowered.com/app/1262580/Need_for_Speed_Payback/
@@ -206,10 +206,10 @@
 # Need for Speed Undercover https://store.steampowered.com/app/17430/Need_for_Speed_Undercover/
 { "name": "nfs.exe", "type": "Game" }
 
-# Need for Speed Underground
+# Need for Speed Underground https://en.wikipedia.org/wiki/Need_for_Speed:_Underground
 { "name": "Speed.exe", "type": "Game" }
 
-# Need for Speed Underground 2
+# Need for Speed Underground 2 https://en.wikipedia.org/wiki/Need_for_Speed:_Underground_2
 { "name": "speed2.exe", "type": "Game" }
 
 # NEEDY STREAMER OVERLOAD https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
@@ -245,6 +245,12 @@
 
 # Nelke & the Legendary Alchemists ~Ateliers of the New World~ https://store.steampowered.com/app/886820/Nelke__the_Legendary_Alchemists_Ateliers_of_the_New_World/
 { "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
+
+# Nemesis: Lockdown https://store.steampowered.com/app/1915550/Nemesis_Lockdown/
+{ "name": "NemesisLD.exe", "type": "Game" }
+{ "name": "NemesisLDServer-Win64-Shipping.exe", "type": "Service" }
+{ "name": "NemesisLDServer.exe", "type": "Service" }
+{ "name": "NemesisLD-Win64-Shipping.exe", "type": "Game" }
 
 # Neon Abyss https://store.steampowered.com/app/788100/Neon_Abyss/
 { "name": "NeonAbyss.exe", "type": "Game"}
@@ -286,6 +292,7 @@
 { "name": "NTEGlobalGame.exe", "type": "Game" }
 { "name": "NTEGlobalBrowser.exe", "type": "Game" }
 { "name": "NTEGlobalWebBooster.exe", "type": "Game" }
+{ "name": "HTGame.exe", "type": "Game" }
 
 # Never Second in Rome https://store.steampowered.com/app/3169580/Never_Second_in_Rome/
 { "name": "Never Second in Rome.exe", "type": "Game" }
@@ -316,6 +323,9 @@
 
 # New Star GP https://store.steampowered.com/app/2217580/New_Star_GP/
 { "name": "NSGP.exe", "type": "Game" }
+
+# New Star Manager https://store.steampowered.com/app/883130/New_Star_Manager/
+{ "name": "Manager.exe", "type": "Game" }
 
 # New Star Soccer 5 https://store.steampowered.com/app/212780/New_Star_Soccer_5/
 { "name": "NSS5.exe", "type": "Game" }
@@ -573,6 +583,9 @@
 # Nocturnal Quest: An Idle RPG Adventure https://store.steampowered.com/app/2330930/Nocturnal_Quest_An_Idle_RPG_Adventure/
 { "name": "NocturnalQuest.exe", "type": "Game" }
 
+# Nocturne Demo https://store.steampowered.com/app/3087450/Nocturne_Demo/
+{ "name": "Nocturne.exe", "type": "Game" }
+
 # Nodebuster https://store.steampowered.com/app/3107330/Nodebuster/
 { "name": "Nodebuster.exe", "type": "Game" }
 
@@ -599,6 +612,9 @@
 
 # No More Heroes https://store.steampowered.com/app/1420290/No_More_Heroes/
 { "name": "nmh.exe", "type": "Game" }
+
+# No More Money https://store.steampowered.com/app/2246300/
+{ "name": "NoMoreMoney.exe", "type": "Game" }
 
 # No More Room in Hell https://store.steampowered.com/app/224260/No_More_Room_in_Hell/
 { "name": "nmrih.exe", "type": "Game" }

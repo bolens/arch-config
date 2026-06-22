@@ -53,8 +53,8 @@
 { "name": "FactoryGameSteam", "type": "Game" }
 
 # Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
-{ "name": "FactoryServer-Linux-Shipping", "type": "Game" }
-{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Game" }
+{ "name": "FactoryServer-Linux-Shipping", "type": "Service" }
+{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
 
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
@@ -72,8 +72,8 @@
 { "name": "ScourgeBringer", "type": "Game" }
 
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
-{ "name": "SCPSL.x86_64", "type": "Game" }
-{ "name": "LocalAdmin", "type": "Game" }
+{ "name": "SCPSL.x86_64", "type": "Service" }
+{ "name": "LocalAdmin", "type": "Service" }
 
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 { "name": "screeps_server", "type": "Service" }
@@ -268,6 +268,9 @@
 # Sir, You Are Being Hunted https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/
 { "name": "sir", "type": "Game" }
 
+# Sisters in Sin 🔞 https://store.steampowered.com/app/4414250/
+{ "name": "SistersInSin.x86_64", "type": "Game" }
+
 # Skeleseller https://store.steampowered.com/app/3226210/Skeleseller/
 { "name": "skeleseller", "type": "Game" }
 
@@ -322,6 +325,9 @@
 
 # Slots & Diapers https://store.steampowered.com/app/4409870/Slots__Diapers/
 { "name": "Slots_Diapers.x86_64", "type": "Game" }
+
+# Smack Talk https://store.steampowered.com/app/4020490/Smack_Talk/
+{ "name": "Linux Build.x86_64", "type": "Game" }
 
 # Small World https://store.steampowered.com/app/235620/Small_World/
 { "name": "Small World 2", "type": "Game" }
@@ -476,6 +482,10 @@
 # STAR WARS Knights of the Old Republic II - The Sith Lords https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/
 { "name": "KOTOR2", "type": "Game" }
 
+# Stash https://store.steampowered.com/app/466660/Stash/
+{ "name": "Stash.x86", "type": "Game" }
+{ "name": "Stash.x86_64", "type": "Game" }
+
 # Staxel https://store.steampowered.com/app/405710/Staxel/
 { "name": "StaxelCE", "type": "Game" }
 
@@ -541,6 +551,9 @@
 # Stronghold 3 Gold https://store.steampowered.com/app/47400/Stronghold_3_Gold/
 { "name": "stronghold3", "type": "Game" }
 
+# STUNTBOOST Demo https://store.steampowered.com/app/3765570/STUNTBOOST_Demo/
+{ "name": "STUNTBOOST", "type": "Game" }
+
 # Stygian: Reign of the Old Ones https://store.steampowered.com/app/779290/Stygian_Reign_of_the_Old_Ones/
 { "name": "STYGIAN.x86_64", "type": "Game" }
 
@@ -565,6 +578,9 @@
 
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }
+
+# Summer's Gone - Season 1 https://store.steampowered.com/app/2240150/
+{ "name": "SummersGone_Season1_Steam", "type": "Game" }
 
 # Sunless Sea https://store.steampowered.com/app/304650/SUNLESS_SEA/
 { "name": "Sunless Sea.x86", "type": "Game" }
@@ -597,6 +613,9 @@
 
 # Super Meat Boy https://store.steampowered.com/app/40800/Super_Meat_Boy/
 { "name": "SuperMeatBoy", "type": "Game" }
+
+# SuperTux https://store.steampowered.com/app/1572920/SuperTux/
+{ "name": "SuperTux.AppImage", "type": "Game" }
 
 # SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play https://supertuxkart.net/
 { "name": "supertuxkart", "type": "Game" }

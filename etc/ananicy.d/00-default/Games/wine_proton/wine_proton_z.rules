@@ -5,9 +5,6 @@
 
 ### Z ###
 
-# Život Není Krásný: Poslední Exekuce https://store.steampowered.com/app/3900120/ivot_Nen_Krsn_Posledn_Exekuce/
-{ "name": "ZNK Poslední exekuce.exe", "type": "Game" }
-
 # Z https://store.steampowered.com/app/275530/Z/
 { "name": "Z.exe", "type": "Game" }
 
@@ -38,8 +35,8 @@
 { "name": "ZenkcraftRemastered.exe", "type": "Game" }
 { "name": "ZenkCraft.exe", "type": "Game" }
 
-# Zenless Zone Zero https://zenless.hoyoverse.com/
-{ "name": "ZenlessZoneZero.exe", "type": "Game" }
+# Zenless Zone Zero https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
+{ "name": "HYP.exe", "type": "BG_CPUIO" }
 
 # Zeno Clash https://store.steampowered.com/app/22200/Zeno_Clash/
 { "name": "zenoclash.exe", "type": "Game" }
@@ -76,6 +73,9 @@
 # ZERO PARADES: For Dead Spies https://store.steampowered.com/app/2863680/ZERO_PARADES_For_Dead_Spies/
 { "name": "ZeroParades.exe", "type": "Game" }
 
+# ZeroRanger https://store.steampowered.com/app/809020/ZeroRanger/
+{ "name": "ZeroRanger.exe", "type": "Game" }
+
 # ZERO Sievert https://store.steampowered.com/app/1782120/ZERO_Sievert/
 { "name": "ZERO Sievert.exe", "type": "Game" }
 
@@ -86,6 +86,9 @@
 # Zero Stress King: Idle Defense https://store.steampowered.com/app/4271160/Zero_Stress_King_Idle_Defense/
 { "name": "ZeroStressKing.exe", "type": "Game" }
 
+# Zerowake GATES https://store.steampowered.com/app/3709790/Zerowake_GATES/
+{ "name": "ZerowakeGATES.exe", "type": "Game" }
+
 # Zet Zillions https://store.steampowered.com/app/2229560/Zet_Zillions/
 { "name": "Zet Zillions.exe", "type": "Game" }
 
@@ -94,6 +97,9 @@
 
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2.exe", "type": "Game" }
+
+# Život Není Krásný: Poslední Exekuce https://store.steampowered.com/app/3900120/ivot_Nen_Krsn_Posledn_Exekuce/
+{ "name": "ZNK Poslední exekuce.exe", "type": "Game" }
 
 # ZM Desktop Elf https://store.steampowered.com/app/3003300/ZM_Desktop_Elf/
 { "name": "ZMDesktopElfLauncher.exe", "type": "BG_CPUIO" }
@@ -160,6 +166,10 @@
 # Zoombinis https://store.steampowered.com/app/397430/Zoombinis/
 { "name": "Zoombinis.exe", "type": "Game" }
 
+# Zoonomaly https://store.steampowered.com/app/2101890/Zoonomaly/
+{ "name": "Zoonomaly.exe", "type": "Game" }
+{ "name": "Zoonomaly-Win64-Shipping.exe", "type": "Game" }
+
 # Zoo Tycoon: Ultimate Animal Collection https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
 { "name": "ZooTycoon.exe", "type": "Game" }
 
@@ -168,6 +178,9 @@
 
 # Zort https://store.steampowered.com/app/3121110/Zort/
 { "name": "Zort.exe", "type": "Game" }
+
+# Z Steel Soldiers https://store.steampowered.com/app/275510/Z_Steel_Soldiers/
+{ "name": "Z2.exe", "type": "Game" }
 
 # Zula Türkiye https://store.steampowered.com/app/714210/
 { "name": "zula_BE.exe", "type": "Game" }

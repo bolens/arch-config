@@ -109,6 +109,10 @@
 # E-Commerce Simulator 2025 https://store.steampowered.com/app/3291290/ECommerce_Simulator_2025/
 { "name": "E-commerce Simulator.exe", "type": "Game" }
 
+# eden* https://store.steampowered.com/app/315810/eden/
+{ "name": "eden_en.exe", "type": "Game" }
+{ "name": "eden_pm_en.exe", "type": "Game" }
+
 # EDEN STAR https://store.steampowered.com/app/259570/EDEN_STAR/
 { "name": "EdenGame.exe", "type": "Game" }
 
@@ -127,6 +131,9 @@
 
 # Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
 { "name": "Edna.exe", "type": "Game" }
+
+# Eets https://store.steampowered.com/app/6100/Eets/
+{ "name": "Eets.exe", "type": "Game" }
 
 # eFootball https://store.steampowered.com/app/1665460/eFootball/
 { "name" : "eFootball.exe", "type": "Game" }
@@ -183,6 +190,9 @@
 # Elemental: Reforged https://store.steampowered.com/app/3796960/Elemental_Reforged/
 { "name": "Elemental.exe", "type": "Game" }
 
+# Elements: Soul of Fire https://store.steampowered.com/app/340650/Elements_Soul_of_Fire/
+{ "name": "E1.exe", "type": "Game" }
+
 # Element TD 2 https://store.steampowered.com/app/1018830/Element_TD_2__Tower_Defense/
 { "name": "Element TD 2.exe", "type": "Game" }
 
@@ -211,13 +221,18 @@
 
 # Elsword https://store.steampowered.com/app/237310/Elsword/
 { "name": "ESSTEAM.exe", "type": "Game" }
-{ "name": "elsword.exe", "type": "Game" }
 
 # Elsword Free-to-Play https://store.steampowered.com/app/558230/
 { "name": "steam_launcher.exe", "type": "Game" }
 
+# ELSWORD JAPAN https://store.steampowered.com/app/1011810/
+{ "name": "elsword_start.exe", "type": "BG_CPUIO" }
+
 # Elven Assassin https://store.steampowered.com/app/503770/Elven_Assassin/
 { "name": "Elven Assassin.exe", "type": "Game" }
+
+# Ember and Blade Demo https://store.steampowered.com/app/3758770/Ember_and_Blade_Demo/
+{ "name": "EmberAndBlade.exe", "type": "Game" }
 
 # Emberbane https://store.steampowered.com/app/2085310/Emberbane/
 { "name": "Emberbane.exe", "type": "Game" }
@@ -411,7 +426,7 @@
 { "name": "enshrouded.exe", "type": "Game" }
 
 # Enshrouded Dedicated Server https://store.steampowered.com/app/2278520/Enshrouded_Dedicated_Server/
-{ "name": "enshrouded_server.exe", "type": "Game" }
+{ "name": "enshrouded_server.exe", "type": "Service" }
 
 # ENSLAVED: Odyssey to the West Premium Edition https://store.steampowered.com/app/245280/ENSLAVED_Odyssey_to_the_West_Premium_Edition/
 { "name": "Enslaved.exe", "type": "Game" }
@@ -434,6 +449,9 @@
 
 # Epic Auto Towers https://store.steampowered.com/app/2116060/Epic_Auto_Towers/
 { "name": "eat_beta.exe", "type": "Game" }
+
+# Epic Battle Fantasy 3 https://store.steampowered.com/app/521200/Epic_Battle_Fantasy_3/
+{ "name": "Epic Battle Fantasy 3.exe", "type": "Game" }
 
 # Epic Battle Fantasy 4 https://store.steampowered.com/app/265610/Epic_Battle_Fantasy_4/
 { "name": "EBF4.exe", "type": "Game" }
@@ -478,6 +496,13 @@
 
 # Escape Dead Island https://store.steampowered.com/app/226560/Escape_Dead_Island/
 { "name": "EscapeDeadIsland.exe", "type": "Game" }
+
+# Escape Dungeon 2 https://store.steampowered.com/app/1309000/
+{ "name": "EscapeDungeon2.exe", "type": "Game" }
+
+# ESCAPE FROM BOYKISSER https://store.steampowered.com/app/2708280/ESCAPE_FROM_BOYKISSER/
+{ "name": "EscapeFromBoykisser.exe", "type": "Game" }
+{ "name": "EscapeFromBoykisser-Win64-Shipping.exe", "type": "Game" }
 
 # Escape From Duckov https://store.steampowered.com/app/3167020/Escape_From_Duckov/
 { "name": "Duckov.exe", "type": "Game" }
@@ -564,6 +589,9 @@
 # Etrian Odyssey HD https://store.steampowered.com/app/1868180/Etrian_Odyssey_HD/
 { "name": "Etrian Odyssey.exe", "type": "Game" }
 
+# Etrian Odyssey II HD https://store.steampowered.com/app/1868170/Etrian_Odyssey_II_HD/
+{ "name": "Etrian Odyssey 2.exe", "type": "Game" }
+
 # Etrian Odyssey III HD https://store.steampowered.com/app/1810820/Etrian_Odyssey_III_HD/
 { "name": "Etrian Odyssey 3.exe", "type": "Game" }
 
@@ -587,6 +615,9 @@
 
 # Everdell https://store.steampowered.com/app/1722840/Everdell/
 { "name": "Everdell.exe", "type": "Game" }
+
+# Everdream Valley https://store.steampowered.com/app/1403650/Everdream_Valley/
+{ "name": "Everdream Valley.exe", "type": "Game" }
 
 # Everholm https://store.steampowered.com/app/2312520/Everholm/
 { "name": "Everholm.exe", "type": "Game" }
@@ -692,6 +723,9 @@
 # Exotica 2: Pet Shop Simulator https://store.steampowered.com/app/2824380/Exotica_2_Pet_Shop_Simulator/
 { "name": "Exotica2.exe", "type": "Game" }
 { "name": "Exotica2-Win64-Shipping.exe", "type": "Game" }
+
+# Expedition: Into Darkness Playtest https://store.steampowered.com/app/3616590/
+{ "name": "Expedition Into Darkness.exe", "type": "Game" }
 
 # Expeditions: A MudRunner Game https://store.steampowered.com/app/2477340/Expeditions_A_MudRunner_Game/
 { "name": "Expeditions.exe", "type": "Game" }

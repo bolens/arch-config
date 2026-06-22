@@ -1,0 +1,13 @@
+[Unit]
+Description=UPS Suspend Control Daemon
+After=upower.service dbus.service
+Requires=upower.service dbus.service
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /etc/systemd/system/ups-suspend-control.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

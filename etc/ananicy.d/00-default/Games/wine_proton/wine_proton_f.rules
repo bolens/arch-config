@@ -64,6 +64,11 @@
 # Fabledom https://store.steampowered.com/app/1651560/Fabledom/
 { "name": "Fabledom.exe", "type": "Game" }
 
+# Fable III https://store.steampowered.com/app/105400/
+{ "name": "FableLauncher.exe", "type": "Game" }
+{ "name": "Fable3.exe", "type": "Game" }
+{ "name": "F3Secu.exe", "type": "Game" }
+
 # Fable - The Lost Chapters https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters/
 { "name": "Fable.exe", "type": "Game" }
 
@@ -110,6 +115,9 @@
 
 # FAIRY TAIL 2 https://store.steampowered.com/app/3002850/FAIRY_TAIL_2/
 { "name": "FAIRY_TAIL_2.exe", "type": "Game" }
+
+# FAIRY TAIL: DUNGEONS https://store.steampowered.com/app/2305500/FAIRY_TAIL_DUNGEONS/
+{ "name": "FAIRY TAIL DUNGEONS.exe", "type": "Game" }
 
 # FAITH: The Unholy Trinity https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/
 { "name": "FAITH.exe", "type": "Game" }
@@ -192,6 +200,9 @@
 # Fantasy Idle Dungeon https://store.steampowered.com/app/3424610/Fantasy_Idle_Dungeon/
 { "name": "Fantasy Idle Dungeon.exe", "type": "Game" }
 
+# Fantasy Kingdom Simulator https://store.steampowered.com/app/482890/Fantasy_Kingdom_Simulator/
+{ "name": "fantasysim.exe", "type": "Game" }
+
 # FANTASY LIFE i: The Girl Who Steals Time https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/
 { "name": "NFL1.exe", "type": "Game" }
 { "name": "NFL1-Win64-Shipping.exe", "type": "Game" }
@@ -255,6 +266,9 @@
 
 # Farlands https://store.steampowered.com/app/2252680/Farlands/
 { "name": "Farlands.exe", "type": "Game" }
+
+# Farlands: Tiny Harvest https://store.steampowered.com/app/3896460/Farlands_Tiny_Harvest/
+{ "name": "FarlandsTinyHarvest.exe", "type": "Game" }
 
 # Farlight 84 https://store.steampowered.com/app/1928420/Farlight_84/
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
@@ -456,6 +470,9 @@
 # Feign https://store.steampowered.com/app/1436990/Feign/
 { "name": "Feign.exe", "type": "Game" }
 
+# Felix Jumpman https://store.steampowered.com/app/575920/Felix_Jumpman/
+{ "name": "FelixJumpman.exe", "type": "Game" }
+
 # Fellowship Playtest https://store.steampowered.com/app/3165720/
 { "name": "fellowship.exe", "type": "Game" }
 
@@ -465,6 +482,9 @@
 # FEMBOY FUTA HOUSE https://store.steampowered.com/app/3602290/
 { "name": "FEMBOY FUTA HOUSE.exe", "type": "Game" }
 { "name": "Femboy Futa House.exe", "type": "Game" }
+
+# Femboy Futa Mania 🌶️ https://store.steampowered.com/app/4280140/
+{ "name": "Femboy Futa Mania.exe", "type": "Game" }
 
 # Femtazio https://store.steampowered.com/app/3647400/
 { "name": "Femtazio.exe", "type": "Game" }
@@ -477,6 +497,9 @@
 
 # Fetish Locator: S&M Studio https://store.steampowered.com/app/3763690/
 { "name": "SM.exe", "type": "Game" }
+
+# Fetish Locator Week Three https://store.steampowered.com/app/2231010/
+{ "name": "FetishLocatorWeek3.exe", "type": "Game" }
 
 # Fever Meme https://store.steampowered.com/app/3110070/Fever_Meme/
 { "name": "TheTrollGame.exe", "type": "Game" }
@@ -672,6 +695,9 @@
 { "name": "FG.exe", "type": "Game" }
 { "name": "FG-Win64-Shipping.exe", "type": "Game" }
 
+# Firehawk FPV https://store.steampowered.com/app/3365170/Firehawk_FPV_Drone_Fighter/
+{ "name": "Firehawk.exe", "type": "Game" }
+
 # Fire Pro Wrestling World https://store.steampowered.com/app/564230/Fire_Pro_Wrestling_World/
 { "name": "FireProWrestlingW.exe", "type": "Game" }
 
@@ -699,6 +725,10 @@
 
 # Fishbowl https://store.steampowered.com/app/1638070/Fishbowl/
 { "name": "fishbowl.exe", "type": "Game" }
+
+# Fishermurs https://store.steampowered.com/app/564210/Fishermurs/
+{ "name": "Fishermurs.exe", "type": "Game" }
+{ "name": "BattleBoats-Win32-Shipping.exe", "type": "Game" }
 
 # Fisher Online https://store.steampowered.com/app/1094780/Fisher_Online/
 { "name": "theFisher.exe", "type": "Game" }
@@ -854,11 +884,17 @@
 # Focus Grove Demo https://store.steampowered.com/app/4124020/Focus_Grove_Demo/
 { "name": "Focus Grove.exe", "type": "Game" }
 
+# Folie Fatale https://store.steampowered.com/app/2734450/Folie_Fatale/
+{ "name": "FolieFatale.exe", "type": "Game" }
+
 # Folk Tale https://store.steampowered.com/app/224440/Folk_Tale/
 { "name": "Folk Tale.exe", "type": "Game" }
 
 # Food Processing Simulator https://store.steampowered.com/app/3928990/Food_Processing_Simulator/
 { "name": "Food Processing Simulator.exe", "type": "Game" }
+
+# Foolish Mortals https://store.steampowered.com/app/1848440/Foolish_Mortals/
+{ "name": "FoolishMortals.exe", "type": "Game" }
 
 # Football Academy Manager https://store.steampowered.com/app/3852060/Football_Academy_Manager/
 { "name": "fam.exe", "type": "Game" }
@@ -870,7 +906,6 @@
 { "name": "Football Life Simulator.exe", "type": "Game" }
 
 # Football, Tactics & Glory https://store.steampowered.com/app/375530/Football_Tactics__Glory/
-{ "name": "game32.exe", "type": "Game" }
 { "name": "game64.exe", "type": "Game" }
 
 # FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
@@ -1098,9 +1133,6 @@
 # Frogs https://store.steampowered.com/app/3061650/Frogs/
 { "name": "Frogs.exe", "type": "Game" }
 
-# Frog Sqwad Demo 🐸 https://store.steampowered.com/app/4359330/Frog_Sqwad_Demo/
-{ "name": "Frog Sqwad.exe", "type": "Game" }
-
 # From Dust https://store.steampowered.com/app/33460/From_Dust/
 { "name": "From_Dust.exe", "type": "Game" }
 
@@ -1118,6 +1150,9 @@
 
 # Frontline 1942 https://store.steampowered.com/app/2564660/Frontline_1942_Battles_of_the_World_War_2/
 { "name": "Frontline 1942.exe", "type": "Game" }
+
+# Frontline Logistics: Isarian Warfare Demo https://store.steampowered.com/app/3949050/Frontline_Logistics_Isarian_Warfare_Demo/
+{ "name": "FrontlineLogistics.exe", "type": "Game" }
 
 # Frontlines: Fuel of War https://store.steampowered.com/app/9460/Frontlines_Fuel_of_War/
 { "name": "ffow.exe", "type": "Game" }
@@ -1194,9 +1229,6 @@
 # Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
 { "name": "Throttle.exe", "type": "Game" }
 
-# FUMES https://store.steampowered.com/app/1920430/FUMES/
-{ "name": "FUMES.exe", "type": "Game" }
-
 # Funguys Swarm https://store.steampowered.com/app/3371770/Funguys_Swarm/
 { "name": "Funguys.exe", "type": "Game" }
 { "name": "Funguys-Win64-Shipping.exe", "type": "Game" }
@@ -1219,6 +1251,9 @@
 
 # Furry Love https://store.steampowered.com/app/1334590/
 { "name": "Furry Love.exe", "type": "Game" }
+
+# Furry Love 2 https://store.steampowered.com/app/1349040/
+{ "name": "Furry Love 2.exe", "type": "Game" }
 
 # Fury of Dracula: Digital Edition https://store.steampowered.com/app/958530/Fury_of_Dracula_Digital_Edition/
 { "name": "Fury of Dracula.exe", "type": "Game" }

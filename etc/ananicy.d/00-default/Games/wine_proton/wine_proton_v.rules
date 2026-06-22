@@ -34,7 +34,7 @@
 { "name": "Valheim.exe", "type": "Game" }
 
 # Valheim Dedicated Server https://store.steampowered.com/app/896660/
-{ "name": "valheim_server.exe", "type": "Game" }
+{ "name": "valheim_server.exe", "type": "Service" }
 
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
@@ -134,6 +134,10 @@
 # VEGAS Pro 18 Edit Steam Edition https://store.steampowered.com/app/1325400/VEGAS_Pro_18_Edit_Steam_Edition/
 { "name": "vegas180_x64.exe", "type": "BG_CPUIO" }
 
+# VEGAS Pro 23 Steam Edition https://store.steampowered.com/app/4006040/VEGAS_Pro_23_Steam_Edition/
+{ "name": "launch_vegas230.exe", "type": "Game" }
+{ "name": "VEGAS_Pro_23_steam_setup.exe", "type": "Game" }
+
 # VEGAS Pro Edit 21 Steam Edition https://store.steampowered.com/app/2520980/VEGAS_Pro_Edit_21_Steam_Edition/
 { "name": "launch_vegas210.exe", "type": "BG_CPUIO" }
 
@@ -168,6 +172,9 @@
 
 # VGDD2 https://store.steampowered.com/app/2457540/Cardfight_Vanguard_Dear_Days_2/
 { "name": "VGDD2.exe", "type": "Game" }
+
+# VHS https://store.steampowered.com/app/3074340/VHS/
+{ "name": "VHS.exe", "type": "Game" }
 
 # Victoria 3 https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3.exe", "type": "Game" }
@@ -337,7 +344,7 @@
 
 # Voyagers of Nera https://store.steampowered.com/app/2686630/Voyagers_of_Nera/
 { "name": "BoatGame.exe", "type": "Game" }
-{ "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Service" }
 
 # VPet / VPet-Simulator https://store.steampowered.com/app/1920960/VPetSimulator/
 { "name": "VPet-Simulator.Windows.exe", "type": "Game" }
@@ -390,6 +397,9 @@
 
 # VTOL VR Mod Loader https://store.steampowered.com/app/3018410/VTOL_VR_Mod_Loader/
 { "name": "Mod Manager.exe", "type": "BG_CPUIO" }
+
+# VTuber Maker https://store.steampowered.com/app/1368950/VTuber_Maker/
+{ "name": "VTuber Maker.exe", "type": "Game" }
 
 # VTube Studio https://store.steampowered.com/app/1325860/VTube_Studio/
 { "name": "VTube Studio.exe", "type": "BG_CPUIO" }

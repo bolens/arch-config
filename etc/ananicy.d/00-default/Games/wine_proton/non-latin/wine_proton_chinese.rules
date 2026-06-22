@@ -1,0 +1,613 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### Chinese ###
+
+# Amatsuki mājan 天月麻雀 https://store.steampowered.com/app/3132860/_Amatsuki_Mahjong/
+{ "name": "mahjongP.exe", "type": "Game" }
+
+# Ànyǐng dìláo Demo 暗影地牢 Demo https://store.steampowered.com/app/4563350/Shadow_Dungeon/
+{ "name": "Shadow Dungeon.exe", "type": "Game" }
+
+# Bào dàn zhàn chē 爆弹战车 https://store.steampowered.com/app/3376850/Bomb_Vehicle_Idle_Clicker/
+{ "name": "The Last Light.exe", "type": "Game" }
+
+# Bèibāo chuǎngjiānghú 背包闯江湖 https://store.steampowered.com/app/3972650/Backpack_Jianghu/
+{ "name": "BackpackJianghu.exe", "type": "Game" }
+
+# Bēng jìng huíshōu zhàn 嘣境回收战 https://store.steampowered.com/app/2411910/miniBONG/
+{ "name": "miniBONG.exe", "type": "Game" }
+
+# Bīngdiǎn zhī xià 冰点之下 https://store.steampowered.com/app/3711170/SubZero/
+{ "name": "Subzero.exe", "type": "Game" }
+
+# Bù sīyì mígōng 不思议迷宫 https://store.steampowered.com/app/3112010/Gumballs__Dungeons/
+{ "name": "slime.exe", "type": "Game" }
+
+# Chéngxù yuán de kèbǎn yìnxiàng Playtest 程序员的刻板印象 Playtest https://store.steampowered.com/app/4143470/_/
+{ "name": "coder.exe", "type": "Game" }
+
+# Chénmò de xīshuài 沉默的蟋蟀 https://store.steampowered.com/app/2216130/_/
+{ "name": "Cricket.exe", "type": "Game" }
+
+# Cuòguò de shǔjià kěyǐ fàng dì èr cì ma? 错过的暑假可以放第二次吗？ https://store.steampowered.com/app/4309030/_/
+{ "name": "A_Second_Chance_to_Relive_Summer.exe", "type": "Game" }
+
+# Dàiduò de guàishòu gōngzhǔ bùxiǎng gōngzuò 怠惰的怪獸公主不想工作 https://store.steampowered.com/app/1732180/
+{ "name": "KaijuPrincess.exe", "type": "Game" }
+
+# Dài wǒ qù dìxià chéng ba!! 帶我去地下城吧！！ https://store.steampowered.com/app/1793250/
+{ "name": "Take Me To The Dungeon!!.exe", "type": "Game" }
+
+# Dà jiānghú zhī cānglóng yǔ bái niǎo 大江湖之苍龙与白鸟 https://store.steampowered.com/app/1407450/The_World_of_Kungfu_Dragon_and_Eagle/
+{ "name": "TheWorldOfKongFu.exe", "type": "Game" }
+
+# Dié: Jīngzhé 谍：惊蛰 https://store.steampowered.com/app/2374000/Insects_Awaken/
+{ "name": "Awaken.exe", "type": "Game" }
+
+# Dìguó huànxiǎng xiāng ~TOHOTOPIA 帝国幻想乡~TOHOTOPIA https://store.steampowered.com/app/3774440/TOHOTOPIA/
+{ "name": "TOHOTOPIA.exe", "type": "Game" }
+
+# Dìxià chéng jìngjì chǎng Demo 地下城竞技场 Demo https://store.steampowered.com/app/4279730/Dungeon_Brawls_Demo/
+{ "name": "DungeonBrawl.exe", "type": "Game" }
+
+# Dì xīn guītú Return From Core 地心归途 Return From Core https://store.steampowered.com/app/2171630/Return_from_Core/
+{ "name": "Return From Core.exe", "type": "Game" }
+
+# Dōngfāng guāngyào yè ~ Lost Branch of Legend 东方光耀夜 ~ Lost Branch of Legend https://store.steampowered.com/app/1140150/Touhou_Lost_Branch_of_Legend/
+{ "name": "ModTheLBoL.Desktop.exe", "type": "Game" }
+{ "name": "LBoL.exe", "type": "Game" }
+
+# Dōngfāng huá xīn chuán - Touhou Blooming Soul 东方华心传 - Touhou Blooming Soul https://store.steampowered.com/app/1970030/Touhou_Blooming_Soul/
+{ "name": "Touhou Blooming Soul.exe", "type": "Game" }
+
+# Dōngfāng: Píngyě gū hóng 东方：平野孤鸿 https://store.steampowered.com/app/2656540/Ballads_of_Hongye_REBORN/
+{ "name": "BalladsOfHongye.exe", "type": "Game" }
+
+# Dōngfāng yìyù jiànwén ~ Touhou Dystopian 东方异域见闻 ~ Touhou Dystopian https://store.steampowered.com/app/3265060/Touhou_Dystopian/
+{ "name": "Touhou Dystopian.exe", "type": "Game" }
+
+# Duìbùqǐ, wǒ shì jǐngchá 对不起，我是警察 https://store.steampowered.com/app/4104120/Undercover/
+{ "name": "JC.exe", "type": "Game" }
+
+# Èmó pái 恶魔牌 https://store.steampowered.com/app/3481020/Apokerlypse/
+{ "name": "RollQ.exe", "type": "Game" }
+{ "name": "RollQ-Win64-Shipping.exe", "type": "Game" }
+
+# Fāngcùn wénmíng 方寸文明 https://store.steampowered.com/app/2230280/Tiny_Civilization/
+{ "name": "TinyCivilization.exe", "type": "Game" }
+
+# Fēihóng biān niánshǐ ~ Chronicle of Scarlet ~ 绯红编年史 ~ Chronicle of Scarlet ~ https://store.steampowered.com/app/3117660/__Chronicle_of_Scarlet/
+{ "name": "ChronicleOfScarlet.exe", "type": "Game" }
+
+# Fēngbào pà sǐ duì Demo 风暴怕死队 Demo https://store.steampowered.com/app/4232140/Pass_the_Fear/
+{ "name": "PassTheFear.exe", "type": "Game" }
+
+# fēng líng dàng àn 封灵档案 https://store.steampowered.com/app/1520470/Soul_Dossier/
+{ "name": "NotesOfSoulServer-Win64-Shipping.exe", "type": "Service" }
+
+# Fēng xìn lóu 风信楼 https://store.steampowered.com/app/1126310/_/
+{ "name": "fxl.exe", "type": "Game" }
+{ "name": "fxl-32.exe", "type": "Game" }
+
+# Fù jiǎ tiānxià 3 富甲天下3 https://store.steampowered.com/app/2258590/3/
+{ "name": "M3K3.exe", "type": "Game" }
+
+# Fù jiǎ tiānxià 4 富甲天下4 https://store.steampowered.com/app/2400280/4/
+{ "name": "M3K4.exe", "type": "Game" }
+
+# Fù jiǎ tiānxià 5 富甲天下5 https://store.steampowered.com/app/2490910/5/
+{ "name": "M3K5.exe", "type": "Game" }
+
+# Gǎnxiè nǐ de tóudì Demo 感谢你的投递 Demo https://store.steampowered.com/app/3640210/Thank_You_For_Your_Application_Demo/
+{ "name": "ThankYouForYourApplicationDemo.exe", "type": "Game" }
+
+# Guà jī èmó/IdleDevils 挂姬恶魔/IdleDevils https://store.steampowered.com/app/2226700/_IDLE_DEVILS/
+{ "name": "IdleDevils.exe", "type": "Game" }
+
+# Guàjī pòhuài shén IdleDiablo Demo 挂机破坏神 IdleDiablo Demo https://store.steampowered.com/app/4579600/_IdleDiablo_Demo/
+{ "name": "IdleDiablo.exe", "type": "Game" }
+
+# Guàjī shénhuà 挂机神话 https://store.steampowered.com/app/1863750/_/
+{ "name": "GuaJiShenHua.exe", "type": "Game" }
+
+# Guàjī shǒu yóu mónǐ qì 挂机手游模拟器 https://store.steampowered.com/app/3861280/_/
+{ "name": "MoNiShouYou.exe", "type": "Game" }
+
+# Guàjī xiūxiān 挂机修仙 https://store.steampowered.com/app/4343400/_/
+{ "name": "guajixiuxian.exe", "type": "Game" }
+
+# Guàjī yītiáo jiē 挂机一条街 https://store.steampowered.com/app/1476360/Hang_up_Street/
+{ "name": "mini_guaji.exe", "type": "Game" }
+
+# guǐ gǔ bā huāng 鬼谷八荒 Tale of Immortal https://store.steampowered.com/app/1468810/_Tale_of_Immortal/
+{ "name": "guigubahuang.exe", "type": "Game" }
+
+# Gǔ jiàn qí tán èr 古剑奇谭二(GuJian2) https://store.steampowered.com/app/570770/GuJian2/
+{ "name": "GuJian2.exe", "type": "Game" }
+
+# Gǔ jiàn qí tán 古剑奇谭(GuJian) https://store.steampowered.com/app/570780/GuJian/
+{ "name": "GuJian.exe", "type": "Game" }
+{ "name": "GuJianConfigTool.exe", "type": "Game" }
+
+# Gǔlóng fēngyún lù 古龙风云录 https://store.steampowered.com/app/2340650/_/
+{ "name": "GuLong.exe", "type": "Game" }
+
+# Gǔshǒu yúmìng shí rì tán 鼓手余命十日谭 https://store.steampowered.com/app/3269960/Shiina_Takis_Decameron/
+{ "name": "鼓手余命十日谭.exe", "type": "Game" }
+
+# Hǎi shā fēngyún Far Away 海沙风云 Far Away https://store.steampowered.com/app/1250760/Far_Away/
+{ "name": "海沙风云.exe", "type": "Game" }
+
+# Hàn chén: Fǔ cǎo wéi yíng 汉尘：腐草为萤 https://store.steampowered.com/app/2078910/_/
+{ "name": "HanChen.exe", "type": "Game" }
+
+# Hé luò qún xiá chuán (Ho Tu Lo Shu: The Books of Dragon) 河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon) https://store.steampowered.com/app/952860/_Ho_Tu_Lo_Shu__The_Books_of_Dragon/
+{ "name": "J2.exe", "type": "Game" }
+
+# Huáng máo piāoliú jì 黄毛漂流记 https://store.steampowered.com/app/2535770/_/
+{ "name": "UninhabitedIsland.exe", "type": "Game" }
+
+# Huāng yù qí tán (Legends of Wasteland) 荒域奇谭(Legends of Wasteland) https://store.steampowered.com/app/4007300/Legends_of_Wasteland/
+{ "name": "TalesofWasteLand.exe", "type": "Game" }
+
+# Huànxiǎng shényù - yuán shén qǐdòng 幻想神域 - 源神啟動 https://store.steampowered.com/app/3473500/Aura_Kingdom__Impact/
+{ "name": "xldr_aurakingdom_gl_loader_x64.exe", "type": "Game" }
+
+# Huáxià shǐshī: Zhànguó 华夏史诗：战国 https://store.steampowered.com/app/2389170/Huaxia_Warring_States/
+{ "name": "hxss.exe", "type": "Game" }
+
+# Jiāngchéng chuàngyè jì 江城创业记 River Town Factory https://store.steampowered.com/app/2281410/River_Town_Factory/
+{ "name": "jcGame.exe", "type": "Game" }
+
+# Jiānghú kèzhàn-wújìn lúnhuí 江湖客栈-无尽轮回 https://store.steampowered.com/app/1881610/The_Jianghu/
+{ "name": "jianghukezhan.exe", "type": "Game" }
+
+# Jiāngshān běi wàng 江山北望 https://store.steampowered.com/app/3831120/Mandate_Of_Heaven/
+{ "name": "project-beifa-client-full.exe", "type": "Game" }
+
+# Jiàng yāo sǎnjì 降妖散记 https://store.steampowered.com/app/1915510/YaoGuai_Hunter/
+{ "name": "降妖散记.exe", "type": "Game" }
+
+# Jiàn jiàn jiàn Arrow a Row 箭箭剑 Arrow a Row https://store.steampowered.com/app/2495980/Arrow_a_Row/
+{ "name": "Arrow a Row.exe", "type": "Game" }
+
+# Jiàn qì jié 剑气劫 https://store.steampowered.com/app/2739600/Kalpa_of_Sword/
+{ "name": "KalpaOfSword.exe", "type": "Game" }
+
+# Jiànxí sǐshén Demo 见习死神 Demo https://store.steampowered.com/app/3850420/
+{ "name": "DeathIntern.exe", "type": "Game" }
+
+# Jīn gǔ qún xiá chuán 今古群侠传 https://store.steampowered.com/app/3313720/Psychic_Kung_Fu_Master/
+{ "name": "JinGu.exe", "type": "Game" }
+
+# Jǐngzhuī bìng Stiff Neck 颈椎病 Stiff Neck https://store.steampowered.com/app/4000090/Stiff_Neck/
+{ "name": "Stiff Neck.exe", "type": "Game" }
+
+# Jípǐn cǎihuā láng 極品采花郎 https://store.steampowered.com/app/2897760/
+{ "name": "RE.exe", "type": "Game" }
+
+# Juézhàn zǐ jìn huáijiù fú 决战紫禁怀旧服 https://store.steampowered.com/app/2148830/_/
+{ "name": "决战紫禁怀旧服.exe", "type": "Game" }
+
+# Jūnlín chuánqí 君临传奇 https://store.steampowered.com/app/3892760/Reign_of_Legends/
+{ "name": "game_original.exe", "type": "Game" }
+
+# Kāijú yī bǎ jiàn 开局一把剑 https://store.steampowered.com/app/1355440/_/
+{ "name": "开局一把剑.exe", "type": "Game" }
+
+# Kǒnglóng dǎo 恐龙岛 https://store.steampowered.com/app/3139890/
+{ "name": "DinoIsland.exe", "type": "Game" }
+
+# Lǎn rén xiūxiān chuán 懒人修仙传 https://store.steampowered.com/app/892420/_/
+{ "name": "懒人修仙传.exe", "type": "Game" }
+
+# Lǎn rén xiūxiān chuán 2 懒人修仙传2 https://store.steampowered.com/app/1266630/2/
+{ "name": "LanRen2.exe", "type": "Game" }
+
+# Líng shòu jiānghú 灵兽江湖 https://store.steampowered.com/app/2232880/Beast_Saga/
+{ "name": "BeastSaga.exe", "type": "Game" }
+
+# Lìshǐ mónǐ qì: Chóngzhēn 历史模拟器：崇祯 https://store.steampowered.com/app/4304230/
+{ "name": "ChongZhenSimulator.exe", "type": "Game" }
+
+# lóng yìn lì zhì chuán 龙胤立志传 https://store.steampowered.com/app/3202030/_/
+{ "name": "LongYinLiZhiZhuan.exe", "type": "Game" }
+
+# Lúnhuí xiūxiān chuán 轮回修仙传 https://store.steampowered.com/app/3458620/_/
+{ "name": "Re-xiuxian Legend.exe", "type": "Game" }
+
+# Lúnhuí xiūxiān lù 轮回修仙路 https://store.steampowered.com/app/1993150/_/
+{ "name": "轮回修仙路.exe", "type": "Game" }
+
+# Luò xīng 落星 https://store.steampowered.com/app/3324610/MeteoriteFall/
+{ "name": "METEORITEFALL.exe", "type": "Game" }
+
+# Māo chuánzhǎng yǔ huánqiú yúchǎng 猫船长与环球渔场 https://store.steampowered.com/app/4249770/Captain_Whiskers_Incremental_Seas/
+{ "name": "CatCaptains.exe", "type": "Game" }
+
+# Mèi jū wùyǔ Demo 妹居物语 Demo https://store.steampowered.com/app/4027870/_Demo/
+{ "name": "妹居物语.exe", "type": "Game" }
+
+# Měinǚ, qǐng bié yǐngxiǎng wǒ chéng xiān 美女，请别影响我成仙 https://store.steampowered.com/app/3545990/_/
+{ "name": "LSP2Game.exe", "type": "Game" }
+{ "name": "LSP2Launcher.exe", "type": "Game" }
+
+# Měinǚ, qǐng bié yǐngxiǎng wǒ xuéxí 美女，请别影响我学习 https://store.steampowered.com/app/2786680/Knowledge_or_know_Lady/
+{ "name": "LSPGame.exe", "type": "Game" }
+
+# mì cháng shēng 觅长生 https://store.steampowered.com/app/1189490/_/
+{ "name": "觅长生.exe", "type": "Game" }
+
+# Míngjiàng shā 名将杀 https://store.steampowered.com/app/4190600/
+{ "name": "mjs.exe", "type": "Game" }
+
+# Míngjìng jiānghú xíng: Shuòfēng qǐ 明镜江湖行：朔风起 https://store.steampowered.com/app/3834880/Tales_of_Justice_Academy_Winds_Arise/
+{ "name": "MingJing.exe", "type": "Game" }
+
+# Mínglì yóuxì 名利游戏 https://store.steampowered.com/app/2758000/Vanity_Fair_The_Pursuit/
+{ "name": "FameAndWealth.exe", "type": "Game" }
+
+# Mó lǐshā! Hái shū!Marisa!ReturnTheBook! 魔理沙！还书！Marisa!ReturnTheBook! https://store.steampowered.com/app/3737620/MarisaReturnTheBook/
+{ "name": "MarisaReturnTheBook.exe", "type": "Game" }
+
+# Mónǐ dìguó 模拟帝国 https://store.steampowered.com/app/1041710/Sim_Empire/
+{ "name": "Sim Empire.exe", "type": "Game" }
+
+# Mòrì zhàn jī: Mìngyùn jiāofēng 末日战姬：命运交锋 https://store.steampowered.com/app/4107260/_/
+{ "name": "末日战姬.exe", "type": "Game" }
+
+# Mò xiān lù 墨仙箓 https://store.steampowered.com/app/4250510/_/
+{ "name": "墨仙箓.exe", "type": "Game" }
+
+# Mukyū Sen to/ EndlessJourney 無休仙途/EndlessJourney https://store.steampowered.com/app/2654540/_/
+{ "name": "WuXiuXianTu.exe", "type": "Game" }
+
+# Nǐ de lǎopó 你的老婆 https://store.steampowered.com/app/3339420/your_wife/
+{ "name": "YourWife.exe", "type": "Game" }
+
+# Nǐ líkāi zhīhòu Demo 你离开之后 Demo https://store.steampowered.com/app/4475680/
+{ "name": "AfterYouLeft_Demo.exe", "type": "Game" }
+
+# Nìshuǐ hán 逆水寒 https://store.steampowered.com/app/2782500/SWORD_OF_JUSTICE/
+{ "name": "nshm.exe", "type": "Game" }
+
+# nuǎn xuě 暖雪 Warm Snow https://store.steampowered.com/app/1296830/_Warm_Snow/
+{ "name": "WarmSnow.exe", "type": "Game" }
+
+# Nǚshén yì wén lù: Yèmù mèiyǐng 女神异闻录：夜幕魅影 https://store.steampowered.com/app/3604320/
+{ "name": "P5XGame.exe", "type": "Game" }
+{ "name": "P5XLauncher.exe", "type": "Game" }
+
+# Piāoliú huànjìng 飄流幻境 https://store.steampowered.com/app/1481340/M/
+{ "name": "WLM.exe", "type": "Game" }
+
+# Pòxiǎo zhī xū Playtest 破晓之墟 Playtest https://store.steampowered.com/app/4577420/Ruins_of_Dawn/
+{ "name": "RuinsOfDawn.exe", "type": "Game" }
+{ "name": "RuinsOfDawn-Win64-Shipping.exe", "type": "Game" }
+
+# Qínggǎn fǎn zhà mónǐ qì 情感反诈模拟器 https://store.steampowered.com/app/3350200/Revenge_on_gold_diggers/
+{ "name": "RevengeOnGoldDiggers.exe", "type": "Game" }
+
+# Qǐng jūn rùliàn Demo 请君入殓 Demo https://store.steampowered.com/app/3218650/Reap_and_Rush_Demo/
+{ "name": "REST IN PEACE.exe", "type": "Game" }
+
+# Qín shāng 秦殇 https://store.steampowered.com/app/970500/_Prince_of_Qin/
+{ "name": "POQ.exe", "type": "Game" }
+{ "name": "Poq.exe", "type": "Game" }
+
+# Qún xiá chuán, qǐdòng! 群侠传，启动！ https://store.steampowered.com/app/2098790/_/
+{ "name": "wuxia_launch.exe", "type": "Game" }
+
+# Rén mèi 人魅 https://store.steampowered.com/app/2128940/THE_4_SINS/
+{ "name": "game_rm.exe", "type": "Game" }
+{ "name": "game_rm-Win64-Shipping.exe", "type": "Game" }
+
+# Sānguó qúnyīng chuán 三国群英传 https://store.steampowered.com/app/1437820/Heroes_of_the_Three_Kingdoms/
+{ "name": "Sango.exe", "type": "Game" }
+
+# Sānguó qúnyīng chuán 三国群英传2 https://store.steampowered.com/app/1437830/Heroes_of_the_Three_Kingdoms_2/
+{ "name": "Sango2.exe", "type": "Game" }
+
+# Sānguó qúnyīng chuán 3 三国群英传3 https://store.steampowered.com/app/1437840/Heroes_of_the_Three_Kingdoms_3/
+{ "name": "Sango3.exe", "type": "Game" }
+
+# Sānguó qúnyīng chuán 5 三国群英传5 https://store.steampowered.com/app/1437860/Heroes_of_the_Three_Kingdoms_5/
+{ "name": "Sango5.exe", "type": "Game" }
+
+# Sānguó qúnyīng chuán 6 三国群英传6 https://store.steampowered.com/app/1437870/Heroes_of_the_Three_Kingdoms_6/
+{ "name": "Sango6.exe", "type": "Game" }
+
+# Sānguó qúnyīng chuán 三国群英传8 Kingdom Heroes 8 https://store.steampowered.com/app/875210/Kingdom_Heroes_8/
+{ "name": "SG8.exe", "type": "Game" }
+
+# Sānguó qúnyīng chuán M 三國群英傳M https://store.steampowered.com/app/2321430/Kingdom_Heroes_M/
+{ "name": "SGC.exe", "type": "Game" }
+
+# Sānguóshā 三国杀 https://store.steampowered.com/app/1180320/_War_of_the_Three_Kingdoms/
+{ "name": "Sgsc10th.exe", "type": "Game" }
+
+# Shānmén yǔ huànjìng (The Lost Village) 山门与幻境（The Lost Village） https://store.steampowered.com/app/1963040/The_Lost_Village/
+{ "name": "TheLostVillage.exe", "type": "Game" }
+{ "name": "TheLostVillage-Win64-Shipping.exe", "type": "Game" }
+
+# Shàonǚ de yídòng chéngbǎo 少女的移动城堡 https://store.steampowered.com/app/2850220/The_Girls_Moving_Castle/
+{ "name": "少女的移动城堡.exe", "type": "Game" }
+
+# Shàonǚ qiánxiàn 少女前线 https://store.steampowered.com/app/3347970/
+{ "name": "GrilsFrontLine.exe", "type": "Game" }
+
+# Shàonǚ yǔ chéngzhǔ 少女与城主 https://store.steampowered.com/app/3473160/
+{ "name": "Maiden And Lord.exe", "type": "Game" }
+
+# Shén dōu bùliáng tàn 神都不良探 Underdog Detective https://store.steampowered.com/app/1681970/_Underdog_Detective/
+{ "name": "Luoyang.exe", "type": "Game" }
+
+# Shēngsǐ jūjī 2 生死狙击2 https://store.steampowered.com/app/1969870/
+{ "name": "hallclient.exe", "type": "Game" }
+{ "name": "ACE-Launcher64.exe", "type": "Game" }
+
+# Shén qì zhī dì 神弃之地 https://store.steampowered.com/app/3419290/GOD_FORSAKEN/
+{ "name": "GodForsaken.exe", "type": "Game" }
+
+# Shén yǔn zhī dì Shattered Divinities 神陨之地 Shattered Divinities https://store.steampowered.com/app/3418990/Shattered_Divinities/
+{ "name": "Shattered Divinities.exe", "type": "Game" }
+
+# Shíguāng cāntīng Playtest 时光餐厅 Playtest https://store.steampowered.com/app/4600390/
+{ "name": "TimeRestaurant.exe", "type": "Game" }
+
+# Shíguāng chāoshì 时光超市 https://store.steampowered.com/app/3687810/_/
+{ "name": "TimeSupermarket.exe", "type": "Game" }
+
+# Shī jī zhī mèng 尸姬之梦 https://store.steampowered.com/app/2842800/Dream_of_Corpse_Lady/
+{ "name": "DreamOfLadyZombie.exe", "type": "Game" }
+
+# Shīliàn wánjiā 失恋玩家 https://store.steampowered.com/app/4005300/Dating_4_Girls/
+{ "name": "Dating4Girls.exe", "type": "Game" }
+
+# Shì xiě yìn 嗜血印 Bloody Spell https://store.steampowered.com/app/992300/_Bloody_Spell/
+{ "name": "BloodySpell.exe", "type": "Game" }
+
+# Shīyèle, wǒ huòdéle yì wàn yóuxì cáichǎn! 失业了，我获得了亿万游戏财产！ https://store.steampowered.com/app/2875140/_/
+{ "name": "ilostmyjob.exe", "type": "Game" }
+
+# Shǒu bàn màoxiǎn tuán 手办冒险团 https://steamdb.info/app/2996570/
+{ "name": "GNSBT.exe", "type": "Game" }
+
+# “Shǔshān: Chū zhāng” mǎi duàn bǎn《蜀山：初章》买断版 https://store.steampowered.com/app/1461810/_/
+{ "name": "ShuShan.exe", "type": "Game" }
+{ "name": "ShuShan-Win64-Shipping.exe", "type": "Game" }
+
+# Shǔ xiān chuán·guà zhì fēishēng 蜀仙传·挂至飞升 https://store.steampowered.com/app/2469970/_/
+{ "name": "蜀仙传.exe", "type": "Game" }
+
+# Sǐjì (DeathlyStillness) 死寂（DeathlyStillness） https://store.steampowered.com/app/1727650/Deathly_Stillness/
+{ "name": "AncientVersion.exe", "type": "Game" }
+{ "name": "DeathlyStillnessGame.exe", "type": "Game" }
+{ "name": "AncientVersion-Win64-Shipping.exe", "type": "Game" }
+
+# Tenmei ki o feito shīkā 天命奇御 Fate Seeker https://store.steampowered.com/app/882790/Fate_Seeker/
+{ "name": "Fate Seeker Journey.exe", "type": "Game" }
+{ "name": "FateSeeker.exe", "type": "Game" }
+
+# Tenmei ki o ni feito shīkā II 天命奇御二 Fate Seeker II https://store.steampowered.com/app/1559390/Fate_Seeker_II/
+{ "name": "FateSeekerII.exe", "type": "Game" }
+
+# Tiānwài wǔlín (Traveler of Wuxia) 天外武林 (Traveler of Wuxia) https://store.steampowered.com/app/2088160/_Traveler_of_Wuxia/
+{ "name": "J2Card.exe", "type": "Game" }
+
+# Tiānwài: Yīngxióng Online 天外 : 英雄 Online https://store.steampowered.com/app/3750430/Mystina__Remaster_Online/
+{ "name": "mystina_heroes.exe", "type": "Game" }
+
+# Tiānxià bà tú 天下霸圖 https://store.steampowered.com/app/2304030/_/
+{ "name": "MKSteam.exe", "type": "Game" }
+
+# Tiěqí shàonǚ (Cavalry Girls) 铁骑少女（Cavalry Girls） https://store.steampowered.com/app/2055050/
+{ "name": "CavalryGirls.exe", "type": "Game" }
+
+# Tōng shén bǎng Noobs Want to Live 通神榜 Noobs Want to Live https://store.steampowered.com/app/1737340/Noobs_Want_to_Live/
+{ "name": "Noobs Want To Live.exe", "type": "Game" }
+
+# Tuī bì yǒngzhě 推币勇者 https://store.steampowered.com/app/3036010/Coin_Push_RPG/
+{ "name": "CoinPushRPG.exe", "type": "Game" }
+{ "name": "CoinPushRPG-Win64-Shipping.exe", "type": "Game" }
+
+# Tūnshí tiāndì 2: Dànshēng 吞食天地2：誕生 https://store.steampowered.com/app/2396910/2Reborn/
+{ "name": "aLogin.exe", "type": "Game" }
+
+# Wàn cí pò - dāncí nǚyǒu 万词破 - 单词女友 https://store.steampowered.com/app/1981560/_/
+{ "name": "wcp.exe", "type": "Game" }
+
+# Wándàn! Wǒ bèi měinǚ bāowéile! 2 完蛋！我被美女包围了！ 2 https://store.steampowered.com/app/3282390/Love_is_All_Around_2/
+{ "name": "WDHD6.exe", "type": "Game" }
+
+# Wàngquè qiányè 忘却前夜 https://store.steampowered.com/app/4226130/
+{ "name": "hpatchz.exe", "type": "Game" }
+
+# Wànxiàng qún xiá chuán 万象群侠传 https://store.steampowered.com/app/3039500/_/
+{ "name": "WXQXZ.exe", "type": "Game" }
+
+# Wēnyì qīng líng jìhuà Project Zero 瘟疫清零计划 Project Zero https://store.steampowered.com/app/2088250/_Project_Zero/
+{ "name": "UE4Game.exe", "type": "Game" }
+
+# Wǒ de liàn'ài táoshēng gōnglüè Love to Live 我的恋爱逃生攻略 Love to Live https://store.steampowered.com/app/3389200/_Love_to_Live/
+{ "name": "Love to Live.exe", "type": "Game" }
+
+# Wǒ de wénzì xiūxiān shìjiè 我的文字修仙世界 https://store.steampowered.com/app/4226370/_/
+{ "name": "App.exe", "type": "Game" }
+
+# Wǒ láizì jiānghú 我来自江湖 https://store.steampowered.com/app/1058770/_From_Jianghu/
+{ "name": "FromJianghu.exe", "type": "Game" }
+
+# Wǒ yǔ nǐ gòngdù de qī rì 我与你共度的七日 https://store.steampowered.com/app/3946810/The_seven_days_i_spent_with_you/
+{ "name": "SevenDaysLauncher.exe", "type": "Game" }
+{ "name": "The seven days i spent with you.exe", "type": "Game" }
+
+# Wǒ zài dìfǔ dǎ májiàng 我在地府打麻将 https://store.steampowered.com/app/3444020/Demonic_Mahjong/
+{ "name": "Demonic Mahjong.exe", "type": "Game" }
+
+# Wǒ zì chéng dào 我自成道 https://store.steampowered.com/app/4264340/I_AM_THE_DAO/
+{ "name": "IAmTheDao.exe", "type": "Game" }
+
+# Wūhézhīzhòng 乌合之众 Demo https://store.steampowered.com/app/3227590/_Demo/
+{ "name": "MIDA.exe", "type": "Game" }
+
+# Wú huáng wànsuì 吾皇万岁 https://store.steampowered.com/app/3634340/_/
+{ "name": "Long Live The Emperor.exe", "type": "Game" }
+
+# Wú zuì zhī tíng/Trials of Innocence 无罪之庭/Trials of Innocence https://store.steampowered.com/app/2983140/Trials_of_Innocence/
+{ "name": "Trials of Innocence.exe", "type": "Game" }
+
+# Xiákè fēngyún chuán qiánchuán (Tale of Wuxia:The Pre-Sequel) 侠客风云传前传(Tale of Wuxia:The Pre-Sequel) https://store.steampowered.com/app/650760/Tale_of_WuxiaThe_PreSequel/
+{ "name": "YoungHero.exe", "type": "Game" }
+
+# Xiákè fēngyún chuán (Tale of Wuxia) 侠客风云传(Tale of Wuxia) https://store.steampowered.com/app/377530/Tale_of_Wuxia/
+{ "name": "wuxia.exe", "type": "Game" }
+
+# Xián yú de guàjī yóuxì 咸鱼的挂机游戏 https://store.steampowered.com/app/1815370/_/
+{ "name": "咸鱼的挂机游戏快餐版.exe", "type": "Game" }
+{ "name": "咸鱼的挂机游戏.exe", "type": "Game" }
+{ "name": "咸鱼的挂机游戏(English).exe", "type": "Game" }
+
+# Xián yú diànxià 咸鱼殿下 https://store.steampowered.com/app/3433810/__My_journey/
+{ "name": "MyJourneyStory.exe", "type": "Game" }
+
+# Xiǎo hēi hé jiāsùqì 小黑盒加速器 https://store.steampowered.com/app/1447430/_/
+{ "name": "heyboxacc.exe", "type": "Game" }
+
+# Xiāoshī de hángbān, hái yǒu tā tā tā!Lost in the secret! 消失的航班，还有她她她！Lost in the secret! https://store.steampowered.com/app/3418690/Lost_in_the_secret/
+{ "name": "LostInTheSecret_GameMake_Import.exe", "type": "Game" }
+
+# Xiǎo xiǎo de shēnyǐng, chóngdié de nèixīn 小小的身影，重叠的内心 https://store.steampowered.com/app/3865150/Tiny_Shadows_Interwoven_Hearts/
+{ "name": "TinyShadowsInterwovenHearts.exe", "type": "Game" }
+
+# Xiǎo xiǎo xiákè mónǐ qì 小小侠客模拟器 https://store.steampowered.com/app/3395140/_/
+{ "name": "MiniMartialWorld.exe", "type": "Game" }
+
+# xià yī zhàn jiāng hú Ⅱ 下一站江湖Ⅱ https://store.steampowered.com/app/1606180/II/
+{ "name": "下一站江湖Ⅱ.exe", "type": "Game" }
+
+# Xiá zhī dào (PathOfWuxia) 俠之道(PathOfWuxia) https://store.steampowered.com/app/1189630/Path_Of_Wuxia/
+{ "name": "PathOfWuxia.exe", "type": "Game" }
+
+# Xí fēng gǔ zhànlüè 息风谷战略 https://store.steampowered.com/app/2646320/WindStop_Strategy/
+{ "name": "WindstopStrategy.exe", "type": "Game" }
+
+# Xīngkōng lièchē yǔ bái de lǚxíng 星空列车与白的旅行 https://store.steampowered.com/app/1567800/_/
+{ "name": "星空列车与白的旅行.exe", "type": "Game" }
+
+# Xīng mèng guǐjì Star Dream Journey 星梦轨迹 Star Dream Journey https://store.steampowered.com/app/3373900/Star_Dream_Journey/
+{ "name": "xmgj.exe", "type": "Game" }
+
+# Xīng yuán yí jìng 星源遗境 https://store.steampowered.com/app/2877480/StarArc_Echo/
+{ "name": "StarArc_Echo.exe", "type": "Game" }
+{ "name": "StarArc_Echo-Win64-Shipping.exe", "type": "Game" }
+
+# Xìngyùn cǎo de yuēdìng 幸运草的约定 https://store.steampowered.com/app/2430690/Clover_Days_Plus/
+{ "name": "Clover Days Plus.exe", "type": "Game" }
+
+# “Xīng zhàn qiányè: Chénxī”(EVE Online) 《星战前夜：晨曦》(EVE Online) https://store.steampowered.com/app/3818810/
+{ "name": "evelauncher.exe", "type": "Game" }
+{ "name": "LogLite.exe", "type": "Game" }
+
+# Xīngzhī yì (Starward) 星之翼（Starward） https://store.steampowered.com/app/2764370/Starward/
+{ "name": "XZYPlay.exe", "type": "Game" }
+
+# Xiūliàn chéng xiān 修炼成仙 https://store.steampowered.com/app/2547120/_/
+{ "name": "xlcx.exe", "type": "Game" }
+
+# Xiūxiān: Dàn xìtǒng ràng wǒ zhòngtián 修仙：但系统让我种田 https://store.steampowered.com/app/3060630/Immortal_Farmer_Systems_Mandate/
+{ "name": "Immortal.exe", "type": "Game" }
+
+# Xiūxiān xiǎowū 修仙小屋 https://store.steampowered.com/app/2892880/_/
+{ "name": "xiuxianWPF.exe", "type": "Game" }
+
+# Yè xuè W: Gē hóu zhī láng Demo 夜血W：割喉之狼 Demo https://store.steampowered.com/app/3078710/Night_Blood_W__Cutthroat_Wolf_Demo/
+{ "name": "Night Blood W Demo.exe", "type": "Game" }
+
+# Yì jiàn jiānghú 奕剑江湖 https://store.steampowered.com/app/2701510/_/
+{ "name": "JungleGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "JungleGame.exe", "type": "Game" }
+
+# Yīnghún zhī rèn 英魂之刃 https://store.steampowered.com/app/1591600/
+{ "name": "CosClient.exe", "type": "Game" }
+
+# Yīngxióng dào 英雄道 https://store.steampowered.com/app/1730910/Hero_Road_Online/
+{ "name": "patch.exe", "type": "Game" }
+{ "name": "steam_patch.exe", "type": "Game" }
+
+# Yīngxióng huánghūn 英雄黄昏 https://store.steampowered.com/app/1754720/_/
+{ "name": "英雄黄昏.exe", "type": "Game" }
+
+# Yǐnxíng shǒuhù zhě The Invisible Guardian 隐形守护者 The Invisible Guardian https://store.steampowered.com/app/998940/
+{ "name": "TheInvisibleGuardian.exe", "type": "Game" }
+
+# Yǒnggǎn de hā kè (HAAK) 勇敢的哈克（HAAK） https://store.steampowered.com/app/1352930/HAAK/
+{ "name": "haak.exe", "type": "Game" }
+
+# Yōujiǔ zhī shù 悠久之树 https://store.steampowered.com/app/3222960/_/
+{ "name": "eternaltree.exe", "type": "Game" }
+
+# Yuè huá huīyìng zhī kè 月华辉映之刻 https://store.steampowered.com/app/2750780/_/
+{ "name": "月华辉映之刻.exe", "type": "Game" }
+
+# yuè yuán zhī yè 月圆之夜 (Night of Full Moon) https://store.steampowered.com/app/769560/_Night_of_Full_Moon/
+{ "name": "Night of the Full Moon.exe", "type": "Game" }
+
+# Zàijiàn duàn dāo 再见断刀 https://store.steampowered.com/app/2663950/_/
+{ "name": "ZJDD.exe", "type": "Game" }
+
+# Zāinàn gōngguān 災難公關+ https://store.steampowered.com/app/2976890/_/
+{ "name": "DisasterPRPlus.exe", "type": "Game" }
+
+# Zàng huā·ànhēi táohuāyuán 葬花·暗黑桃花源 https://store.steampowered.com/app/1506980/Lay_a_Beauty_to_Rest_The_Darkness_Peach_Blossom_Spring/
+{ "name": "葬花.exe", "type": "Game" }
+
+# Zào mèng xīyóu: Wúshuāng 造梦西游：无双 https://store.steampowered.com/app/3867950/_/
+{ "name": "造梦西游：无双.exe", "type": "Game" }
+
+# Zhàn jī jūntuán 战姬军团 https://store.steampowered.com/app/2389120/
+{ "name": "Legion of Valkyrie.exe", "type": "Game" }
+
+# Zhǎn yāo xíng 斩妖行 Eastern Exorcist https://store.steampowered.com/app/1120810/Eastern_Exorcist/
+{ "name": "Exorcist.exe", "type": "Game" }
+
+# Zhāolù: Jìngjiè lǚchéng 朝露：境界旅程 https://store.steampowered.com/app/2678640/Journey_of_RealmDawn_Dew/
+{ "name": "Journey of Realm Dawn Dew.exe", "type": "Game" }
+
+# Zhèndì zhī wáng: Wèi guó zhànzhēng Trench Lord: Eastern Front 阵地之王：卫国战争 Trench Lord: Eastern Front https://store.steampowered.com/app/1647310/Trench_Lord_Eastern_Front/
+{ "name": "PatrioticWar.exe", "type": "Game" }
+
+# zhèn xié  镇邪 https://store.steampowered.com/app/1939560/_/
+{ "name": "ZX.exe", "type": "Game" }
+
+# Zhè shì xiéyīn gěng 这是谐音梗 https://store.steampowered.com/app/4164310/_/
+{ "name": "BadPunPC.exe", "type": "Game" }
+
+# Zhǐ fángzǐ Sweet Home 纸房子 Sweet Home https://store.steampowered.com/app/3528450/Sweet_Home/
+{ "name": "SweetHome.exe", "type": "Game" }
+
+# Zhōnghuá sānguózhì 中华三国志 https://store.steampowered.com/app/1029500/_the_Three_Kingdoms_of_China/
+{ "name": "WorldOfTheThreeKingdoms.exe", "type": "Game" }
+{ "name": "WorldOfTheThreeKingdomsNoNvGuan.exe", "type": "Game" }
+
+# Zhōnghuá yī shāng: Chuánchéng 中华一商：传承 https://store.steampowered.com/app/3261010/East_Trade_Tycoon_Inheritance/
+{ "name": "EastTradeTycoon.exe", "type": "Game" }
+
+# Zhùchéng yǔ tànxiǎn 筑城与探险 https://store.steampowered.com/app/3382170/Revival_and_Exploration/
+{ "name": "zcytx.exe", "type": "Game" }
+
+# Zhúlù 逐鹿 https://store.steampowered.com/app/1984720/_/
+{ "name": "逐鹿.exe", "type": "Game" }
+
+# zhuō miàn Ko Nekomusume 桌面小猫娘 https://store.steampowered.com/app/3449850/Desktop_Kitten_Girl/
+{ "name": "Desktop Kitten Girl.exe", "type": "Game" }
+
+# Zōng mén qǐyuán 宗门起源 https://store.steampowered.com/app/3446240/Eastern_Era/
+{ "name": "EasternEra.exe", "type": "Game" }
+{ "name": "EasternEra-Win64-Shipping.exe", "type": "Game" }
+
+# Zuìhòu de xiūxiān zhě 最后的修仙者 https://store.steampowered.com/app/3486240/_/
+{ "name": "the last immortals.exe", "type": "Game" }

@@ -79,6 +79,9 @@
 # Mage Arena https://store.steampowered.com/app/3716600/Mage_Arena/
 { "name": "MageArena.exe", "type": "Game" }
 
+# MageQuit https://store.steampowered.com/app/572220/MageQuit/
+{ "name": "MageQuit.exe", "type": "Game" }
+
 # Magic 2014 — Duels of the Planeswalkers https://store.steampowered.com/app/213850/Magic_2014__Duels_of_the_Planeswalkers/
 { "name": "DotP_D14.exe", "type": "Game" }
 
@@ -136,6 +139,10 @@
 # Magin: The Rat Project Stories https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/
 { "name": "Magin The Rat Project Stories.exe", "type": "Game" }
 
+# Magi Scapes Demo https://store.steampowered.com/app/3204640/
+{ "name": "GenerativeGame.exe", "type": "Game" }
+{ "name": "GenerativeGame-Win64-Shipping.exe", "type": "Game" }
+
 # Magnavis Demo https://store.steampowered.com/app/3641260/Magnavis_Demo/
 { "name": "Magnavis.exe", "type": "Game" }
 
@@ -152,6 +159,9 @@
 
 # Mail Time https://store.steampowered.com/app/1607240/Mail_Time/
 { "name": "MailTime.exe", "type": "Game" }
+
+# Mainframe Defenders https://store.steampowered.com/app/1184810/Mainframe_Defenders/
+{ "name": "Mainframe.exe", "type": "Game" }
 
 # Mainichi Kiss Shite Lolita https://www.mobygames.com/game/246927/lolita-kiss-me-everyday/
 { "name": "lol7.exe", "type": "Game" }
@@ -223,6 +233,9 @@
 
 # Maniac https://store.steampowered.com/app/1482380/Maniac/
 { "name": "maniac.exe", "type": "Game" }
+
+# Manifold Garden https://store.steampowered.com/app/473950/Manifold_Garden/
+{ "name": "ManifoldGarden.exe", "type": "Game" }
 
 # Man of the House https://store.steampowered.com/app/1148150/
 { "name": "Man of the house.exe", "type": "Game" }
@@ -540,6 +553,9 @@
 # Megastore Simulator https://store.steampowered.com/app/3819640/Megastore_Simulator/
 { "name": "Megastore Simulator.exe", "type": "Game" }
 
+# Megastore Simulator: Prologue https://store.steampowered.com/app/4148730/Megastore_Simulator_Prologue/
+{ "name": "Megastore Simulator Prologue.exe", "type": "Game" }
+
 # Meh https://store.steampowered.com/app/3065090/203_MEH/
 { "name": "Meh.exe", "type": "Game" }
 { "name": "Meh-Win64-Shipping.exe", "type": "Game" }
@@ -606,6 +622,9 @@
 # Men of War II https://store.steampowered.com/app/1128860/Men_of_War_II/
 { "name": "mow2.exe", "type": "Game" }
 { "name": "mow2_editor.exe", "type": "Game" }
+
+# Men of War: Red Tide https://store.steampowered.com/app/3130/Men_of_War_Red_Tide/
+{ "name": "RedTide.exe", "type": "Game" }
 
 # Men of War: Vietnam https://store.steampowered.com/app/63940/Men_of_War_Vietnam/
 { "name": "Vietnam Editor.exe", "type": "Game" }
@@ -897,9 +916,6 @@
 # Mini Airways https://store.steampowered.com/app/2289650/Mini_Airways__ATC_simulator/
 { "name": "MiniAirways.exe", "type": "Game" }
 
-# Mini Cozy Room: Lo-Fi https://store.steampowered.com/app/3511030/Mini_Cozy_Room_LoFi/
-{ "name": "MiniCozyRoom.exe", "type": "Game" }
-
 # Minimalism https://store.steampowered.com/app/585690/Minimalism/
 { "name": "Minimalism.exe", "type": "Game" }
 
@@ -1007,6 +1023,9 @@
 # Miss Neko https://store.steampowered.com/app/1101450/Miss_Neko/
 { "name": "Miss Neko.exe", "type": "Game" }
 
+# Mister Furry https://store.steampowered.com/app/1861970/
+{ "name": "Mister Furry.exe", "type": "Game" }
+
 # Mister Furry: Hot Muscles https://store.steampowered.com/app/1578220/Mister_Furry_Hot_Muscles/
 { "name": "Mister Furry Hot Muscles.exe", "type": "Game" }
 
@@ -1071,6 +1090,10 @@
 # Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
 { "name": "Modulus.exe", "type": "Game" }
 
+# MOLE https://store.steampowered.com/app/4064510/MOLE/
+{ "name": "MOLE.exe", "type": "Game" }
+{ "name": "Captain-Win64-Shipping.exe", "type": "Game" }
+
 # Molili AI Friends: Your AI Desk Pal https://store.steampowered.com/app/4141770/Molili_AI_Friends_Your_AI_Desk_Pal/
 { "name": "Molili.exe", "type": "BG_CPUIO" }
 
@@ -1100,7 +1123,7 @@
 { "name": "mnc.exe", "type": "Game" }
 
 # Monday Night Combat Dedicated Server https://store.steampowered.com/app/63220/
-{ "name": "MNCDS.exe", "type": "BG_CPUIO" }
+{ "name": "MNCDS.exe", "type": "Service" }
 
 # Money Simulator: Brokeville https://store.steampowered.com/app/3555430/Money_Simulator_Brokeville_Free_Prologue/
 { "name": "Money Simulator - Brokeville.exe", "type": "Game" }
@@ -1168,6 +1191,9 @@
 
 # Monster Girl https://store.steampowered.com/app/1967450/_Monster_Girl/
 { "name": "MonsterGirl.exe", "type": "Game" }
+
+# Monster Girl Island: Prologue https://store.steampowered.com/app/943700/
+{ "name": "MGI.exe", "type": "Game" }
 
 # Monster Girls and the Mysterious Adventure https://store.steampowered.com/app/1229260/Monster_Girls_and_the_Mysterious_Adventure/
 { "name": "MonsterGirlsDungeon.exe", "type": "Game" }
@@ -1272,6 +1298,9 @@
 # Moonlight Peaks Demo https://store.steampowered.com/app/2584240/
 { "name": "Moonlight Peaks.exe", "type": "Game" }
 
+# Moonring https://store.steampowered.com/app/2373630/Moonring/
+{ "name": "moonring.exe", "type": "Game" }
+
 # Moonrise Fall https://store.steampowered.com/app/1035110/Moonrise_Fall/
 { "name": "Moonrise Fall 1v02 Win.exe", "type": "Game" }
 { "name": "Moonrise Fall 1v021 Full.exe", "type": "Game" }
@@ -1355,6 +1384,9 @@
 # Motel Manager Simulator https://store.steampowered.com/app/2594540/Motel_Manager_Simulator/
 { "name": "MotelSim.exe", "type": "Game" }
 { "name": "MotelSim-Win64-Shipping.exe", "type": "Game" }
+
+# MoteMancer https://store.steampowered.com/app/3320980/MoteMancer/
+{ "name": "MoteMancer.exe", "type": "Game" }
 
 # MOTHERGUNSHIP https://store.steampowered.com/app/574090/MOTHERGUNSHIP/
 { "name": "TowerOfGuns2.exe", "type": "Game" }
@@ -1459,6 +1491,11 @@
 
 # Movavi Screen Recorder 2023 https://store.steampowered.com/app/1497120/Movavi_Screen_Recorder/
 { "name": "ScreenRecorder.exe", "type": "BG_CPUIO" }
+
+# Movavi Video Editor 2026 https://store.steampowered.com/app/4036790/Movavi_Video_Editor_2026/
+{ "name": "VideoCapture.exe", "type": "Game" }
+{ "name": "FastTrack.exe", "type": "Game" }
+{ "name": "CoreChecker.exe", "type": "Game" }
 
 # Movavi Video Suite 2020 Steam Edition https://store.steampowered.com/app/1182930/Movavi_Video_Suite_2020_Steam_Edition___Video_Making_Software__Edit_Convert_Capture_Screen_and_more/
 { "name": "Suite.exe", "type": "Game" }
@@ -1574,6 +1611,10 @@
 
 # Mushroom Nook https://store.steampowered.com/app/4211860/Mushroom_Nook/
 { "name": "Mushroom Nook.exe", "type": "Game" }
+
+# MustScream https://store.steampowered.com/app/3568460/MustScream/
+{ "name": "MustScreamA.exe", "type": "Game" }
+{ "name": "MustScreamA-Win64-Shipping.exe", "type": "Game" }
 
 # MUSYNX https://store.steampowered.com/app/952040/MUSYNX/
 { "name": "musynx.exe", "type": "Game" }

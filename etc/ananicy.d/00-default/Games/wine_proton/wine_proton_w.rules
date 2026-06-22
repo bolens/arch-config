@@ -52,6 +52,10 @@
 # Wall World 2 https://store.steampowered.com/app/3467710/Wall_World_2/
 { "name": "WallWorld2.exe", "type": "Game" }
 
+# Waltz of the Wizard https://store.steampowered.com/app/1094390/Waltz_of_the_Wizard/
+{ "name": "Waltz of the Wizard Witchcraft.exe", "type": "Game" }
+{ "name": "Waltz of the Wizard Extended Edition.exe", "type": "Game" }
+
 # Wanba Warriors https://store.steampowered.com/app/1021770/_Wanba_Warriors/
 { "name": "Wanba Warriors.exe", "type": "Game" }
 
@@ -87,6 +91,9 @@
 
 # Warface: Clutch https://store.steampowered.com/app/291480/Warface_Clutch/
 { "name": "WarfaceClutchSteamLoader.exe", "type": "Game" }
+
+# Warfork https://store.steampowered.com/app/671610/Warfork/
+{ "name": "warfork_x64.exe", "type": "Game" }
 
 # War for the Overworld https://store.steampowered.com/app/230190/War_for_the_Overworld/
 { "name": "WFTO.exe", "type": "Game" }
@@ -260,6 +267,9 @@
 # Warrior Maiden Lecia and the Lost Fortress https://store.steampowered.com/app/2752520/Warrior_Maiden_Lecia_and_the_Lost_Fortress/
 { "name": "GamePro.exe", "type": "Game" }
 
+# Warrior of Lust https://store.steampowered.com/app/4032770/
+{ "name": "WoL.exe", "type": "Game" }
+
 # WARRIORS: Abyss https://store.steampowered.com/app/3178350/WARRIORS_Abyss/
 { "name": "WARRIORSAbyss.exe", "type": "Game" }
 
@@ -314,7 +324,6 @@
 { "name": "War Tanks.exe", "type": "Game" }
 
 # War Thunder https://store.steampowered.com/app/236390/War_Thunder/
-{ "name": "aces.exe", "type": "Game" }
 { "name": "aces-min-cpu.exe", "type": "Game" }
 
 # Warudo https://store.steampowered.com/app/2079120/Warudo/
@@ -486,6 +495,9 @@
 # Wet Passion https://store.steampowered.com/app/3495810/Wet_Passion/
 { "name": "Wet passion.exe", "type": "Game" }
 
+# Wet Wealth https://store.steampowered.com/app/4293850/
+{ "name": "Wet Wealth.exe", "type": "Game" }
+
 # We Were Here https://store.steampowered.com/app/582500/We_Were_Here/
 { "name": "We Were Here.exe", "type": "Game" }
 
@@ -504,6 +516,9 @@
 # We Who Are About To Die https://store.steampowered.com/app/973230/We_Who_Are_About_To_Die/
 { "name": "WWAATD.exe", "type": "Game" }
 { "name": "WWAATD-Win64-Shipping.exe", "type": "Game" }
+
+# What in HELL is bad? https://store.steampowered.com/app/3294660/
+{ "name": "What in HELL is Bad.exe", "type": "Game" }
 
 # What Remains of Edith Finch https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/
 { "name": "FinchGame.exe", "type": "Game" }
@@ -524,6 +539,9 @@
 # While We Wait Here https://store.steampowered.com/app/2213120/While_We_Wait_Here/
 { "name": "While_We_Wait_Here-Win64-Shipping.exe", "type": "Game" }
 { "name": "While_We_Wait_Here.exe", "type": "Game" }
+
+# Whimsy Bake＆Craft https://store.steampowered.com/app/3713000/Whimsy_BakeCraft/
+{ "name": "Whimsy Bake and Craft.exe", "type": "Game" }
 
 # Whirlight https://store.steampowered.com/app/2706980/Whirlight__No_Time_To_Trip/
 { "name": "Whirlight.exe", "type": "Game" }
@@ -554,6 +572,9 @@
 # Who's Next? https://store.steampowered.com/app/2891940/Whos_Next/
 { "name": "WhosNext.exe", "type": "Game" }
 
+# WHO'S WHO 2.0 https://store.steampowered.com/app/3391260/WHOS_WHO_20/
+{ "name": "WHO'S WHO 2.0.exe", "type": "Game" }
+
 # Who's Your Daddy?! https://store.steampowered.com/app/427730/Whos_Your_Daddy/
 { "name": "WhosYourDaddy.exe", "type": "Game" }
 
@@ -563,6 +584,9 @@
 
 # Wicked Seed https://store.steampowered.com/app/2767530/Wicked_Seed/
 { "name": "Wicked Seed.exe", "type": "Game" }
+
+# Wicked Ways https://store.steampowered.com/app/4216930/
+{ "name": "WickedWays.exe", "type": "Game" }
 
 # Widget Inc. https://store.steampowered.com/app/3184110/Widget_Inc/
 { "name": "WidgetInc.exe", "type": "Game" }
@@ -949,10 +973,6 @@
 # WoT Blitz Reforged Update https://store.steampowered.com/app/3341250/World_of_Tanks_Blitz/
 { "name": "BlitzSteam.exe", "type": "Game" }
 { "name": "BlitzSteam-Win64-Shipping.exe", "type": "Game" }
-
-# Wrap House Simulator🌯 https://store.steampowered.com/app/3533100/Wrap_House_Simulator/
-{ "name": "WrapHouseSimulator.exe", "type": "Game" }
-{ "name": "WrapHouseSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # WRATH: Aeon of Ruin https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 { "name": "wrath-sdl.exe", "type": "Game" }

@@ -8,6 +8,9 @@
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
 { "name": "MadMax", "type": "Game" }
 
+# MageQuit https://store.steampowered.com/app/572220/MageQuit/
+{ "name": "MageQuit.x86_64", "type": "Game" }
+
 # Magical Diary: Horse Hall https://store.steampowered.com/app/211340/Magical_Diary_Horse_Hall/
 { "name": "MagicalDiary", "type": "Game" }
 
@@ -23,6 +26,9 @@
 
 # Maia https://store.steampowered.com/app/252250/Maia/
 { "name": "RunMaia", "type": "Game" }
+
+# Mainframe Defenders https://store.steampowered.com/app/1184810/Mainframe_Defenders/
+{ "name": "Mainframe.x86_64", "type": "Game" }
 
 # Make it indie! https://store.steampowered.com/app/357900/Make_it_indie/
 { "name": "MII.x86", "type": "Game" }
@@ -167,6 +173,9 @@
 
 # Miss Furry https://store.steampowered.com/app/1566060/
 { "name": "MissFurry.x86_64", "type": "Game" }
+
+# Mister Furry https://store.steampowered.com/app/1861970/
+{ "name": "Mister Furry.x86_64", "type": "Game" }
 
 # Mister Furry: Hot Muscles https://store.steampowered.com/app/1578220/Mister_Furry_Hot_Muscles/
 { "name": "MisterFurryHotMusclesLinux.x86_64", "type": "Game" }

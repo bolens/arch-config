@@ -142,6 +142,9 @@
 { "name": "TheBus.exe", "type": "Game" }
 { "name": "Fernbus.exe", "type": "Game" }
 
+# THE BUTTON https://store.steampowered.com/app/1999740/THE_BUTTON_by_Elendow/
+{ "name": "THE BUTTON.exe", "type": "Game" }
+
 # The Cabin Factory https://store.steampowered.com/app/3311740/The_Cabin_Factory/
 { "name": "TheCabinFactory.exe", "type": "Game" }
 
@@ -196,6 +199,9 @@
 # The Classrooms https://store.steampowered.com/app/2099110/The_Classrooms/
 { "name": "The Classrooms.exe", "type": "Game" }
 
+# The Closing Shift | 閉店事件 https://store.steampowered.com/app/1843090/Chillas_Art_The_Closing_Shift/
+{ "name": "TheClosingShift.exe", "type": "Game" }
+
 # The Coin Game https://store.steampowered.com/app/598980/The_Coin_Game/
 { "name": "TheCoinGame.exe", "type": "Game" }
 
@@ -203,7 +209,7 @@
 { "name": "TheColonists.exe", "type": "Game" }
 
 # The Complex: Expedition https://store.steampowered.com/app/2172260/The_Complex_Expedition/
-{ "name": "TheComplexExpedition", "type": "Game" }
+{ "name": "TheComplexExpedition.exe", "type": "Game" }
 { "name": "TheComplexExpedition-Win64-Shipping.exe", "type": "Game" }
 
 # The Complex: Found Footage https://store.steampowered.com/app/1942120/The_Complex_Found_Footage/
@@ -415,7 +421,7 @@
 
 # The Front https://store.steampowered.com/app/2285150/The_Front/
 { "name": "StartTheFront.exe", "type": "Game" }
-{ "name": "TheFrontServer.exe", "type": "Game" }
+{ "name": "TheFrontServer.exe", "type": "Service" }
 { "name": "TheFront.exe", "type": "Game" }
 
 # The Gallery - Episode 1: Call of the Starseed https://store.steampowered.com/app/270130/The_Gallery__Episode_1_Call_of_the_Starseed/
@@ -440,8 +446,8 @@
 # The Great Ace Attorney Chronicles https://store.steampowered.com/app/1158850/The_Great_Ace_Attorney_Chronicles/
 { "name": "TGAAC.exe", "type": "Game" }
 
-# The Great War: Western Front https://store.steampowered.com/app/2109370/The_Great_War_Western_Front/
-{ "name": "ClientG64.exe", "type": "Game" }
+# The Great Villainess: Strategy of Lily https://store.steampowered.com/app/2454960/The_Great_Villainess_Strategy_of_Lily/
+{ "name": "GreatVillainess.exe", "type": "Game" }
 
 # The Greenening https://store.steampowered.com/app/3441280/The_Greenening/
 { "name": "TheGreenening.exe", "type": "Game" }
@@ -662,6 +668,9 @@
 # The Last Remnant https://store.steampowered.com/app/23310/The_Last_Remnant/
 { "name": "TLR.exe", "type": "Game" }
 
+# The Last Salvage Squad https://store.steampowered.com/app/3551190/The_Last_Salvage_Squad/
+{ "name": "tlsSQUAD.exe", "type": "Game" }
+
 # The Last Spell https://store.steampowered.com/app/1105670/The_Last_Spell/
 { "name": "The Last Spell.exe", "type": "Game" }
 
@@ -810,7 +819,7 @@
 { "name": "TheMeanGreens.exe", "type": "Game" }
 { "name": "TheMeanGreens-Win32-Shipping.exe", "type": "Game" }
 { "name": "TheMeanGreens-Win64-Shipping.exe", "type": "Game" }
-{ "name": "TheMeanGreensServer.exe", "type": "Game" }
+{ "name": "TheMeanGreensServer.exe", "type": "Service" }
 
 # The Medium https://store.steampowered.com/app/1293160/The_Medium/
 { "name": "Medium.exe", "type": "Game" }
@@ -987,9 +996,6 @@
 # The Saboteur https://store.steampowered.com/app/24880/The_Saboteur/
 { "name": "Saboteur.exe", "type": "Game" }
 
-# The Séance of Blake Manor https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/
-{ "name": "The Seance of Blake Manor.exe", "type": "Game" }
-
 # The Sapling https://store.steampowered.com/app/997380/The_Sapling/
 { "name": "the_sapling.exe", "type": "Game" }
 
@@ -1001,6 +1007,9 @@
 
 # The Scroll Of Taiwu https://store.steampowered.com/app/838350/The_Scroll_Of_Taiwu/
 { "name": "The Scroll of Taiwu.exe", "type": "Game" }
+
+# The Séance of Blake Manor https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/
+{ "name": "The Seance of Blake Manor.exe", "type": "Game" }
 
 # The Secret of Monkey Island: Special Edition https://store.steampowered.com/app/32360/The_Secret_of_Monkey_Island_Special_Edition/
 { "name": "MISE.exe", "type": "Game" }
@@ -1177,10 +1186,6 @@
 
 # The Walking Dead: No Man's Land https://store.steampowered.com/app/2936310/The_Walking_Dead_No_Mans_Land/
 { "name": "The Walking Dead No Man's Land.exe", "type": "Game" }
-
-# The Walking Dead: Saints & Sinners https://store.steampowered.com/app/916840/The_Walking_Dead_Saints__Sinners/
-{ "name": "TWD.exe", "type": "Game" }
-{ "name": "TWD-Win64-Shipping.exe", "type": "Game" }
 
 # The Walking Dead: Season Two https://store.steampowered.com/app/261030/The_Walking_Dead_Season_Two/
 { "name": "TheWalkingDead2.exe", "type": "Game" }

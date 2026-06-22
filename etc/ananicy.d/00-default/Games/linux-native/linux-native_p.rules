@@ -22,7 +22,7 @@
 { "name": "Paleo Pines.x86_64", "type": "Game" }
 
 # Palworld Dedicated Server https://store.steampowered.com/app/2394010/
-{ "name": "PalServer-Linux-Shipping", "type": "Game" }
+{ "name": "PalServer-Linux-Shipping", "type": "Service" }
 
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.x86", "type": "Game" }
@@ -181,6 +181,9 @@
 # Poly Bridge 3 https://store.steampowered.com/app/1850160/Poly_Bridge_3/
 { "name": "Poly Bridge 3.x86_64", "type": "Game" }
 
+# Pony Island https://store.steampowered.com/app/405640/Pony_Island/
+{ "name": "PonyIsland.x86", "type": "Game" }
+
 # POOLS https://store.steampowered.com/app/2663530/POOLS/
 { "name": "POOLS.x86_64", "type": "Game" }
 
@@ -257,6 +260,9 @@
 
 # Punch Club https://store.steampowered.com/app/394310/Punch_Club/
 { "name": "Punch Club.x86", "type": "Game" }
+
+# Pure Badminton https://store.steampowered.com/app/2591310/Pure_Badminton/
+{ "name": "Pure Badminton.x86_64", "type": "Game" }
 
 # PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
 { "name": "pyramidlauncher", "type": "Game" }

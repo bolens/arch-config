@@ -1,0 +1,18 @@
+# Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+### Chinese ###
+
+# Cuòguò de shǔjià kěyǐ fàng dì èr cì ma? 错过的暑假可以放第二次吗？ https://store.steampowered.com/app/4309030/_/
+{ "name": "A_Second_Chance_to_Relive_Summer", "type": "Game" }
+
+# Jiāngshān běi wàng 江山北望 https://store.steampowered.com/app/3831120/Mandate_Of_Heaven/
+{ "name": "project-beifa-client-full", "type": "Game" }
+
+# Jǐngzhuī bìng Stiff Neck 颈椎病 Stiff Neck https://store.steampowered.com/app/4000090/Stiff_Neck/
+{ "name": "Stiff Neck.x86_64", "type": "Game" }
+
+# Wǒ de liàn'ài táoshēng gōnglüè Love to Live 我的恋爱逃生攻略 Love to Live https://store.steampowered.com/app/3389200/_Love_to_Live/
+{ "name": "Love to Live.x86_64", "type": "Game" }

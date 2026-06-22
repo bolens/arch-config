@@ -31,6 +31,9 @@
 # Tanki Online https://store.steampowered.com/app/562010/Tanki_Online/
 { "name": "tankionline", "type": "Game" }
 
+# Tank Team https://store.steampowered.com/app/2587450/Tank_Team/
+{ "name": "Tank-Team", "type": "Game" }
+
 # Tannenberg https://store.steampowered.com/app/633460/Tannenberg/
 { "name": "Tannenberg", "type": "Game" }
 
@@ -45,6 +48,9 @@
 
 # TDS - Tower Defense Strategy https://store.steampowered.com/app/2392280/TDS__Tower_Defense_Strategy/
 { "name": "TDS.x86_64", "type": "Game" }
+
+# Teamfight Manager 2 https://store.steampowered.com/app/3009300/Teamfight_Manager_2/
+{ "name": "TeamfightManager2", "type": "Game" }
 
 # Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
@@ -133,6 +139,14 @@
 
 # Timeflow https://store.steampowered.com/app/1005930/Timeflow__Life_Sim/
 { "name": "Timeflow.x86_64", "type": "Game" }
+
+# Time Mysteries 2: The Ancient Spectres https://store.steampowered.com/app/313650/Time_Mysteries_2_The_Ancient_Spectres/
+{ "name": "TimeMysteries_TheAncientSpectres_amd64", "type": "Game" }
+{ "name": "TimeMysteries_TheAncientSpectres_i386", "type": "Game" }
+
+# Time Mysteries 3: The Final Enigma https://store.steampowered.com/app/319320/Time_Mysteries_3_The_Final_Enigma/
+{ "name": "TimeMysteries_TheFinalEnigma_amd64", "type": "Game" }
+{ "name": "TimeMysteries_TheFinalEnigma_i386", "type": "Game" }
 
 # Timespinner https://store.steampowered.com/app/368620/Timespinner/
 { "name": "Timespinner", "type": "Game" }
@@ -238,6 +252,10 @@
 
 # Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
 { "name": "Tower-Linux-Shipping", "type": "Game" }
+
+# Train Valley https://store.steampowered.com/app/353640/Train_Valley/
+{ "name": "train-valley.x86", "type": "Game" }
+{ "name": "train-valley.x86_64", "type": "Game" }
 
 # Train Valley 2 https://store.steampowered.com/app/602320/Train_Valley_2/
 { "name": "TrainValley2.x86_64", "type": "Game" }

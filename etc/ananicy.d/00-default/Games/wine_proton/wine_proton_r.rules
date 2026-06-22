@@ -24,14 +24,14 @@
 { "name": "RaceOfLife.exe", "type": "Game" }
 
 # RACE On - Demo: Dedicated Server https://store.steampowered.com/app/8770/
-{ "name": "RaceOn_Demo_Dedicated_Steam.exe", "type": "BG_CPUIO" }
-{ "name": "RaceOn_Demo_Steam.exe", "type": "Game" }
+{ "name": "RaceOn_Demo_Dedicated_Steam.exe", "type": "Service" }
+{ "name": "RaceOn_Demo_Steam.exe", "type": "Service" }
 
 # Racer 8 https://store.steampowered.com/app/292380/Racer_8/
 { "name": "Racer8.exe", "type": "Game" }
 
 # RaceRoom Dedicated Server https://store.steampowered.com/app/354060/
-{ "name": "RRRE_dedicated.exe", "type": "BG_CPUIO" }
+{ "name": "RRRE_dedicated.exe", "type": "Service" }
 
 # RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
@@ -123,6 +123,9 @@
 # Railway Empire 2 https://store.steampowered.com/app/1644320/Railway_Empire_2/
 { "name": "RailwayEmpire2.exe", "type": "Game" }
 
+# Railway Islands - Puzzle https://store.steampowered.com/app/1807930/Railway_Islands__Puzzle/
+{ "name": "Railway Islands.exe", "type": "Game" }
+
 # Rain World https://store.steampowered.com/app/312520/Rain_World/
 { "name": "RainWorld.exe", "type": "Game" }
 
@@ -139,6 +142,9 @@
 
 # Rampage Knights https://store.steampowered.com/app/314410/Rampage_Knights/
 { "name": "rampage_knights.exe", "type": "Game" }
+
+# Ramshackle Playtest https://store.steampowered.com/app/3822890/
+{ "name": "REMProject.exe", "type": "Game" }
 
 # Rana Card https://store.steampowered.com/app/3177890/Rana_Card/
 { "name": "RanaCard.exe", "type": "Game" }
@@ -269,6 +275,9 @@
 
 # Recettear: An Item Shop's Tale https://store.steampowered.com/app/70400/Recettear_An_Item_Shops_Tale/
 { "name": "recettear.exe", "type": "Game" }
+
+# Record of Lodoss War-Deedlit in Wonder Labyrinth- https://store.steampowered.com/app/1203630/Record_of_Lodoss_WarDeedlit_in_Wonder_Labyrinth/
+{ "name": "Deedlit in Wonder Labyrinth.exe", "type": "Game" }
 
 # ReCore: Definitive Edition https://store.steampowered.com/app/537450/ReCore_Definitive_Edition/
 { "name": "ReCore.exe", "type": "Game" }
@@ -459,9 +468,6 @@
 # Resident Evil 6 https://store.steampowered.com/app/221040/Resident_Evil_6/
 { "name": "BH6.exe", "type": "Game" }
 
-# Resident Evil 7 Biohazard https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/
-{ "name": "re7.exe", "type": "Game" }
-
 # Resident Evil 7 Teaser: Beginning Hour https://store.steampowered.com/app/530620/Resident_Evil_7_Teaser_Beginning_Hour/
 { "name": "re7trial.exe", "type": "Game" }
 
@@ -485,9 +491,6 @@
 
 # Resident Evil Re:Verse https://store.steampowered.com/app/1236300/Resident_Evil_ReVerse/
 { "name": "Reverse.exe", "type": "Game" }
-
-# Resident Evil Village https://store.steampowered.com/app/1196590/Resident_Evil_Village/
-{ "name": "re8.exe", "type": "Game" }
 
 # Resolutiion https://store.steampowered.com/app/975150/Resolutiion/
 { "name": "Resolutiion.exe", "type": "Game" }
@@ -533,6 +536,10 @@
 # Retro City Rampage DX https://store.steampowered.com/app/204630/Retro_City_Rampage_DX/
 { "name": "retrocityrampage.exe", "type": "Game" }
 
+# Retrocycles https://store.steampowered.com/app/1306180/Retrocycles/
+{ "name": "Retrocycles.exe", "type": "Game" }
+{ "name": "Retrocycles_Dedicated.exe", "type": "Service" }
+
 # Retrowave https://store.steampowered.com/app/1239690/Retrowave/
 { "name": "Retrowave.exe", "type": "Game" }
 
@@ -565,6 +572,9 @@
 # Reus 2 https://store.steampowered.com/app/1875060/Reus_2/
 { "name": "Reus 2.exe", "type": "Game" }
 
+# Réussir : Code de la Route https://store.steampowered.com/app/1109840/Russir__Code_de_la_Route__Nouvelle_dition_French_Highway_Code/
+{ "name": "Reussir  Code de la route.exe", "type": "Game" }
+
 # Revenge of the Titans https://store.steampowered.com/app/93200/Revenge_of_the_Titans/
 { "name": "RevengeOfTheTitans.exe", "type": "Game" }
 
@@ -579,6 +589,9 @@
 
 # Reversion - The Escape (1st Chapter) https://store.steampowered.com/app/270570/Reversion__The_Escape_1st_Chapter/
 { "name": "Reversion.exe", "type": "Game" }
+
+# Revita https://store.steampowered.com/app/1175460/Revita/
+{ "name": "Revita.exe", "type": "Game" }
 
 # Re-Volt https://store.steampowered.com/app/287310/ReVolt/
 { "name": "revolt.exe", "type": "Game" }
@@ -730,7 +743,7 @@
 
 # Rise of the Triad https://store.steampowered.com/app/217140/Rise_of_the_Triad/
 { "name": "ROTT.exe", "type": "Game" }
-{ "name": "LDKDedicatedServer.exe", "type": "Game" }
+{ "name": "LDKDedicatedServer.exe", "type": "Service" }
 { "name": "ROTTLauncher.exe", "type": "Game" }
 
 # Rise Of The White Sun https://store.steampowered.com/app/1189100/Rise_Of_The_White_Sun/
@@ -1140,6 +1153,9 @@
 
 # Runaway, The Dream of The Turtle https://store.steampowered.com/app/7220/Runaway_The_Dream_of_The_Turtle/
 { "name": "RunawayTDOTT.exe", "type": "Game" }
+
+# Runeborn https://store.steampowered.com/app/3073990/Runeborn/
+{ "name": "Runeborn.exe", "type": "Game" }
 
 # Rune Classic https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }

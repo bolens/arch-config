@@ -34,6 +34,9 @@
 # ibb & obb https://store.steampowered.com/app/95400/ibb__obb/
 { "name": "ibbobb.exe", "type": "Game" }
 
+# Icaria https://store.steampowered.com/app/2613890/Icaria/
+{ "name": "Icaria.exe", "type": "Game" }
+
 # ICARUS https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
 { "name": "Icarus.exe", "type": "Game" }
@@ -149,6 +152,9 @@
 # Idle Tower Defense https://store.steampowered.com/app/3054090/Idle_Tower_Defense/
 { "name": "Idle Tower Defense.exe", "type": "Game" }
 
+# Idle Waters https://store.steampowered.com/app/2963540/Idle_Waters/
+{ "name": "Idle Waters.exe", "type": "Game" }
+
 # Idle Weaponshop https://store.steampowered.com/app/2497110/Idle_Weaponshop/
 { "name": "Idle Weaponshop.exe", "type": "Game" }
 
@@ -232,6 +238,9 @@
 # Immortals of Aveum https://store.steampowered.com/app/2009100/Immortals_of_Aveum/
 { "name": "ImmortalsOfAveum.exe", "type": "Game" }
 { "name": "ImmortalsOfAveum-Win64-Shipping.exe", "type": "Game" }
+
+# I'm on Observation Duty https://store.steampowered.com/app/1046820/Im_on_Observation_Duty/
+{ "name": "I'm on Observation Duty.exe", "type": "Game" }
 
 # Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator.exe", "type": "Game" }
@@ -350,11 +359,22 @@
 # Inferna https://store.steampowered.com/app/1191330/Inferna/
 { "name": "Inferna.exe", "type": "Game" }
 
+# Infernax https://store.steampowered.com/app/374190/Infernax/
+{ "name": "Infernax.exe", "type": "Game" }
+
 # Infested Planet https://store.steampowered.com/app/204530/Infested_Planet/
 { "name": "InfestedPlanet.exe", "type": "Game" }
 
 # Infinifactory https://store.steampowered.com/app/300570/Infinifactory/
 { "name": "infinifactory.exe", "type": "Game" }
+
+# Infinite Borders: Three Kingdoms Demo https://store.steampowered.com/app/3697960/Infinite_Borders_Three_Kingdoms_Demo/
+{ "name": "InfiniteBorders_Launcher.exe", "type": "Game" }
+{ "name": "InfiniteBorders3Kingdoms.exe", "type": "Game" }
+
+# Infinite Tournament Paintball https://store.steampowered.com/app/1341160/Infinite_Tournament_Paintball/
+{ "name": "ITP.exe", "type": "Game" }
+{ "name": "ITP8-Win64-Shipping.exe", "type": "Game" }
 
 # Infinitode 2 - Infinite Tower Defense https://store.steampowered.com/app/937310/Infinitode_2__Infinite_Tower_Defense/
 { "name": "infinitode-2.exe", "type": "Game" }
@@ -414,6 +434,9 @@
 
 # Innocent Girl https://store.steampowered.com/app/1349030/
 { "name": "Innocent Girl.exe", "type": "Game" }
+
+# Inotia 4 https://store.steampowered.com/app/3956320/Inotia_4/
+{ "name": "Inotia4.exe", "type": "Game" }
 
 # Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
 { "name": "fcengine.exe", "type": "Game" }
@@ -501,6 +524,9 @@
 { "name": "Project_Flames.exe", "type": "Game" }
 { "name": "Project_Flames-Win64-Shipping.exe", "type": "Game" }
 
+# Into the Necrovale https://store.steampowered.com/app/1717090/Into_the_Necrovale/
+{ "name": "Necrovale.exe", "type": "Game" }
+
 # Into the Radius 2 https://store.steampowered.com/app/2307350/Into_the_Radius_2/
 { "name": "IntoTheRadius2.exe", "type": "Game" }
 { "name": "IntoTheRadius2-Win64-Shipping.exe", "type": "Game" }
@@ -555,13 +581,16 @@
 # iRacing https://store.steampowered.com/app/266410/iRacing/
 { "name": "iRacingSim64DX11.exe", "type": "Game" }
 { "name": "iRacingUI.exe", "type": "Game" }
-{ "name": "iRacingLocalServer64.exe", "type": "BG_CPUIO" }
+{ "name": "iRacingLocalServer64.exe", "type": "Service" }
 
 # iRacing Arcade https://store.steampowered.com/app/3226450/iRacing_Arcade/
 { "name": "iracing-arcade.exe", "type": "Game" }
 
 # Iratus: Lord of the Dead https://store.steampowered.com/app/807120/Iratus_Lord_of_the_Dead/
 { "name": "Iratus.exe", "type": "Game" }
+
+# IRMÃO Grande & Brasileiro 2 https://store.steampowered.com/app/1569520/IRMO_Grande__Brasileiro_2/
+{ "name": "igeb2.exe", "type": "Game" }
 
 # Iron Brigade https://store.steampowered.com/app/115120/Iron_Brigade/
 { "name": "IronBrigade.exe", "type": "Game" }
@@ -634,6 +663,9 @@
 
 # Is This Seat Taken? https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/
 { "name": "Is This Seat Taken.exe", "type": "Game" }
+
+# Item Tower https://store.steampowered.com/app/2989720/Item_Tower/
+{ "name": "Item Tower.exe", "type": "Game" }
 
 # ITER-8 https://store.steampowered.com/app/2832310/ITER8/
 { "name": "ITER-8.exe", "type": "Game" }
