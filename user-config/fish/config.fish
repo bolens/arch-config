@@ -29,6 +29,18 @@ set -gx LANG "en_US.UTF-8"
 set -gx EDITOR "micro"
 set -gx VISUAL "code-insiders --wait"
 
+# Configure ripgrep configuration file path
+set -gx RIPGREP_CONFIG_PATH "$HOME/.ripgreprc"
 
 # Added by Antigravity CLI installer
 set -gx PATH "/home/panda/.local/bin" $PATH
+
+# Helpful aliases for newly configured dotfiles
+alias hx="helix"
+alias lg="lazygit"
+alias ld="lazydocker"
+alias y="yazi"
+alias ytdl="yt-dlp"
+
+# NVIDIA Prime Render Offload helper for hybrid GPU setup
+alias nvrun="env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only"
