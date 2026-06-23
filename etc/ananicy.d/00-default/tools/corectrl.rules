@@ -1,3 +1,0 @@
-# Controls CPU/GPU Profiles, has a helper and a normal GUI app - https://gitlab.com/corectrl/corectrl
-{ "name": "corectrl", "type": "BG_CPUIO" }
-{ "name": "corectrl_helper", "type": "LowLatency_RT", "ionice": 1 }

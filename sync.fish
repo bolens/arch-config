@@ -3,7 +3,7 @@
 # 1. Configuration
 set DEST "/home/rsync-backup/gh-configs"
 set TARGET_HOME "/home/panda"
-set RSYNC_FLAGS -aL --quiet
+set RSYNC_FLAGS -aL --delete --quiet
 
 # 2. Universal SSH Agent Start
 # This starts an agent and adds your key silently

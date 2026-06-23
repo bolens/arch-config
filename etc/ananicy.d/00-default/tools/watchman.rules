@@ -1,2 +1,0 @@
-# Watchman - A file watching service: https://facebook.github.io/watchman/
-{ "name": "watchman", "type": "IN_DIFF" }

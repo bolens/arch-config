@@ -1,2 +1,0 @@
-# DNS (https://wiki.archlinux.org/title/BIND)
-{ "name": "named", "type": "BG_CPUIO" }

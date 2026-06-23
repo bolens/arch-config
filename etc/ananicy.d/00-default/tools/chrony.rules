@@ -1,2 +1,0 @@
-# https://chrony-project.org/
-{ "name": "chronyd", "type": "BG_CPUIO" }

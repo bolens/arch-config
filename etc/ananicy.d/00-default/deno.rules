@@ -1,3 +1,0 @@
-# Deno is a JavaScript runtime written in Rust and powered by Rusty V8 (Rust bindings for Chrome's V8)
-# https://deno.com
-{ "name": "deno", "type": "BG_CPUIO" }

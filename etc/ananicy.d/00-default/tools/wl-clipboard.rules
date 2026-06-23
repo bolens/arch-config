@@ -1,3 +1,0 @@
-# https://github.com/bugaevc/wl-clipboard
-{ "name": "wl-copy", "type": "Service" }
-{ "name": "wl-paste", "type": "Service" }
