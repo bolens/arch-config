@@ -2988,12 +2988,11 @@ prometheus-firewall
 promiscdetect
 promptfoo
 protobuf-language-server
-proton-cachyos
+proton-cachyos-native
 proton-ge-custom-bin
 proton-mail-bin
 proton-pass-bin
 protonplus
-protonup-qt
 protos-sip
 protosint
 prowler
@@ -4457,6 +4456,7 @@ zizzania
 zopfli
 zotero
 zoxide
+zscroll-git
 zsnes
 zsteg
 zsync
