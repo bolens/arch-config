@@ -3769,6 +3769,7 @@ suid3num
 sulley
 sumatrapdf
 sunshine
+superlu
 superscan
 supertuxkart
 suricata
