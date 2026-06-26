@@ -3087,6 +3087,7 @@ python-ivre
 python-keylogger
 python-kivy
 python-lief
+python-markdownify
 python-mmbot
 python-mutatormath
 python-oletools
@@ -3284,6 +3285,7 @@ riwifshell
 rlogin-scanner
 rmiscout
 rng-tools
+rnnoise
 roadlib
 roadoidc
 roadrecon
@@ -4153,6 +4155,7 @@ vlan-hopping
 vlany
 vlc-plugins-all
 vmap
+vmtouch
 vnak
 vnc-bypauth
 vncrack
