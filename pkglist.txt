@@ -61,7 +61,6 @@ akregator
 albatar
 alligator
 allthevhosts
-alpaca.cpp-git
 alsa-firmware
 alsa-plugins
 alsa-utils
@@ -70,7 +69,6 @@ amap
 amass
 amber
 amd-ucode
-amoco
 an-anime-game-launcher-bin
 analyzemft
 analyzepesig
@@ -94,7 +92,6 @@ anime4kcpp-git
 anontwi
 ant
 anti-xss
-antigravity
 antiransom
 anubis-netsec
 anyrun
@@ -122,7 +119,6 @@ aranea
 arcane
 archivebox
 archlinux-wallpaper
-archlinuxcn-keyring
 ardour
 arduino-language-server
 ares
@@ -208,7 +204,6 @@ backhack
 backoori
 backorifice
 bad-pdf
-badkarma
 badministration
 badsecrets
 bagbak
@@ -326,7 +321,6 @@ bmc-tools
 bmon
 bob-the-butcher
 bof-detector
-bolt-launcher-bin
 bomber
 bonesi
 boofuzz
@@ -480,7 +474,6 @@ chaotic-keyring
 chaotic-mirrorlist
 chapcrack
 chatbox
-chatgpt-desktop-bin
 chatwise
 cheat-sh
 check-weak-dh-ssh
@@ -521,7 +514,6 @@ cisco5crack
 cisco7crack
 ciscos
 citadel
-citron
 cjexploiter
 ckb-next
 clair
@@ -589,8 +581,6 @@ cottontail
 country-ip-blocks
 cowpatty
 cpfinder
-cpp-httplib
-cpp-jwt
 cpp2il
 cpptest
 cpu-x
@@ -704,7 +694,6 @@ deblaze
 decodify
 deemix-git
 deen
-deepce
 deepin-wallpapers
 deezer-downloader
 delldrac
@@ -757,7 +746,6 @@ dirstalk
 discord
 discord-rpc
 disitool
-disk-benchmark
 diskonaut
 dislocker
 dissector
@@ -859,7 +847,6 @@ driftnet
 drinkme
 dripcap
 dripper
-drl
 droopescan
 drozer
 drupal-module-enum
@@ -877,7 +864,6 @@ dsxs
 dtp-spoof
 dua-cli
 dublin-traceroute
-duckstation-preview-latest-bin
 ducktoolkit
 duf
 dumb0
@@ -907,7 +893,6 @@ easyfuzzer
 eazy
 ecfs
 edb
-eden-git
 efibootmgr
 efitools
 eget-bin
@@ -951,7 +936,6 @@ enumiax
 enyelkm
 eos
 epicwebhoneypot
-equicord-hook
 equicord-installer-bin
 erase-registrations
 eraser
@@ -1010,7 +994,6 @@ facebot
 facebrok
 facebrute
 factordb-pycli
-factory-cli-bin
 fail2ban
 fakeap
 fakedns
@@ -1039,10 +1022,9 @@ fern-wifi-cracker
 fernflower
 fernmelder
 feroxbuster
-fetchcord
 ffdec-bin
 ffm
-ffmpeg-cuda-full
+ffmpeg
 ffmpegthumbnailer
 ffmpegthumbs
 ffuf
@@ -1100,14 +1082,12 @@ flite
 flood-git
 floorp-bin
 flowinspect
-fluent-reader-bin
 fluffychat-bin
 flunym0us
 fluxion
 flycast
 flyr
 fockcache
-fontbase
 fontforge
 foomatic-db
 foomatic-db-engine
@@ -1187,7 +1167,7 @@ gemini-cli
 gene
 genisys
 genlist
-genymotion-beta
+genymotion
 geoedge
 geoipgen
 gerix-wifi-cracker
@@ -1374,7 +1354,6 @@ hamster
 handbrake
 handbrake-cli
 handle
-handshake-cracker
 harmonoid-bin
 harness
 harpoon
@@ -1518,7 +1497,6 @@ hyprland
 hyprland-protocols
 hyprland-workspaces
 hyprlauncher
-hyprlax
 hyprlight
 hyprlock
 hyprmode
@@ -1911,7 +1889,6 @@ kolourpaint
 komikku
 kommit
 komodo
-komorebi
 kompare
 kompose
 konan
@@ -2024,7 +2001,6 @@ lfimap
 lfisuite
 lfle
 lft
-lgogdownloader-qt5-git
 lhf
 lib32-gtk2
 lib32-libvdpau
@@ -2052,10 +2028,7 @@ libparistraceroute
 libpfm
 libredefender
 libreoffice-fresh
-libretro-2048-git
 libretro-3dengine-git
-libretro-81-git
-libretro-atari800-git
 libretro-azahar
 libretro-beetle-cygne-git
 libretro-beetle-lynx-git
@@ -2072,11 +2045,9 @@ libretro-blastem
 libretro-bluemsx-git
 libretro-bsnes
 libretro-bsnes-hd
-libretro-bsnes2014
 libretro-cap32-git
 libretro-catsfc-git
 libretro-citra-git
-libretro-craft-git
 libretro-desmume
 libretro-dice-git
 libretro-dinothawr-git
@@ -2088,7 +2059,6 @@ libretro-fceumm-git
 libretro-ffmpeg-git
 libretro-flycast
 libretro-fmsx-git
-libretro-freechaf-git
 libretro-freeintv-git
 libretro-freej2me-plus-git
 libretro-gambatte
@@ -2101,15 +2071,11 @@ libretro-jumpnbump-git
 libretro-kronos
 libretro-lutro-git
 libretro-mame
-libretro-mame2003-git
 libretro-mame2003-plus-git
-libretro-mame2010-git
-libretro-mame2016
 libretro-melonds
 libretro-mesen
 libretro-mesen-s
 libretro-mesen-sx-git
-libretro-meta
 libretro-mgba
 libretro-minivmac-git
 libretro-mupen64plus-next
@@ -2121,7 +2087,6 @@ libretro-overlays
 libretro-parallel-n64
 libretro-picodrive
 libretro-play
-libretro-pocketcdg-git
 libretro-pokemini-git
 libretro-ppsspp
 libretro-prboom-git
@@ -2134,7 +2099,6 @@ libretro-skyemu-git
 libretro-snes9x
 libretro-stella-git
 libretro-uae-git
-libretro-vecx-git
 libretro-vice-x128-git
 libretro-vice-x64-git
 libretro-vice-x64dtv-git
@@ -2185,6 +2149,8 @@ linux-cachyos-zfs
 linux-exploit-suggester
 linux-exploit-suggester.sh
 linux-firmware
+linux-firmware-marvell
+linux-firmware-mellanox
 linux-inject
 linux-smart-enumeration
 liri-wallpapers-git
@@ -2235,7 +2201,6 @@ lycheeslicer
 lyricpass
 lzdoom
 m3-gen
-m64py-git
 mac-robber
 macchina
 machinae
@@ -2352,7 +2317,6 @@ microsoft-edge-dev-bin
 microsoft-edge-stable-bin
 microsploit
 middler
-midori-bin
 mikrotik-npk
 mildew
 millennium
@@ -2393,11 +2357,9 @@ modprobed-db
 modscan
 mold
 moloch
-moltbot
 mongoaudit
 monocle
 monsoon
-moodle-dl-git
 moonlight-qt
 moonshine-git
 moonwalk
@@ -2433,7 +2395,6 @@ msfenum
 msmailprobe
 mssqlrelay
 mssqlscan
-msty-bin
 msvpwn
 mtools
 mtpaint
@@ -2553,7 +2514,6 @@ nmon
 nodejs-cross-env
 nohidy
 nomorexor
-nordic-wallpapers
 noriben
 nosqlattack
 nosqli
@@ -2652,7 +2612,6 @@ opendoor
 openimagedenoise
 openimageio
 openlinkhub
-openloco
 openmsx
 openmw
 openoffice-bin
@@ -2679,13 +2638,12 @@ openvas
 openwebrx
 openxcom-extended-git
 opera
-opera-beta
 opera-developer
 operative
 ophcrack
 optiimage
 orakelcrackert
-orca-slicer-git
+orca-slicer-bin
 origami
 orjail
 os-prober
@@ -2724,7 +2682,6 @@ owasp-zsc
 owtf
 oxfmt
 oxlint
-oz
 pack
 packagekit
 packagekit-qt6
@@ -2744,7 +2701,6 @@ pagodo
 pakeplus-bin
 paketto
 palapeli
-palemoon-bin
 panhunt
 panoptic
 papirus-icon-theme
@@ -2787,7 +2743,6 @@ pcapfix
 pcapsipdump
 pcapteller
 pcapxray
-pcbox-git
 pcbox-roms-git
 pcileech
 pcode2code
@@ -2817,7 +2772,6 @@ pemcracker
 penbox
 pencode
 pentbox
-pentestgpt
 pentestly
 pentmenu
 pepe
@@ -2861,7 +2815,6 @@ picard
 picmi
 pidense
 pigz
-pillager
 pim-data-exporter
 pim-sieve-editor
 pin
@@ -2989,7 +2942,6 @@ promiscdetect
 promptfoo
 protobuf-language-server
 proton-cachyos-native
-proton-ge-custom-bin
 proton-mail-bin
 proton-pass-bin
 protonplus
@@ -3007,7 +2959,6 @@ pscan
 pshitt
 pspy
 pstoreview
-psxact-git
 ptf
 pth-toolkit
 pulledpork
@@ -3178,7 +3129,6 @@ radiography
 rainbowcrack
 rainbowpath
 rancher-cli-bin
-rancher-desktop
 ranger-scanner
 rapid-photo-downloader
 rapidscan
@@ -3211,7 +3161,6 @@ reapack
 reaper
 rebind
 rebuild-detector
-recaf
 recentfilecache-parser
 recomposer
 recon-ng
@@ -3259,7 +3208,6 @@ retroarch-assets-ozone
 retroarch-assets-xmb
 reverseip
 revipd
-revolt
 revsh
 rex
 rext
@@ -3305,7 +3253,6 @@ routerhunter
 rp
 rpak
 rpcemu
-rpcs3-bin
 rpcsniffer
 rpctools
 rpdscan
@@ -3339,18 +3286,15 @@ rulesfinder
 runme
 rupture
 rust-bindgen
-rust-src
 rustbuster
 rustcat
 rustdesk-bin
 rusthound-ce
 rustpad
-rustup-provides
 rustywind-bin
 rutorrent-git
 rvi-capture
 rww-attack
-rye
 ryujinx
 rz-ghidra
 s-nail
@@ -3504,7 +3448,6 @@ simple-ducky
 simple-lan-scan
 simple-lan-scan3
 simpleemailspoofer
-simplex-desktop-bin
 simplify
 simplyemail
 simtrace2
@@ -3540,12 +3483,10 @@ slack-desktop-wayland
 slacka
 slackdump-bin
 slackpirate
-slacktui-git
 slade
 sleek-bin
 sleepy-launcher-bin
 sleuthql
-slimjet
 slither
 sliver
 slopsmith-desktop-bin
@@ -3658,7 +3599,6 @@ spiga
 spike-fuzzer
 spike-proxy
 spipscan
-splix
 sploitctl
 sploitego
 spoofcheck
@@ -3666,7 +3606,6 @@ spooftooph
 spoofy
 spookflare
 spotbugs
-spotdl
 spotify
 spotify-tui-bin
 spray365
@@ -3686,8 +3625,6 @@ sqlping
 sqlpowerinjector
 sqlsus
 sr-71
-srb2kart
-src-cli-bin
 ssdp-scanner
 ssh-honeypot
 ssh-mitm
@@ -3723,7 +3660,6 @@ starttls-mitm
 statsprocessor
 steamcmd
 steamguard-cli
-steascree
 stegcracker
 stegdetect
 steghide
@@ -3804,7 +3740,6 @@ syringe
 sysfsutils
 sysinternals-suite
 system-config-printer
-systemd-language-server
 t50
 tabi
 tabletop-club-bin
@@ -3937,7 +3872,6 @@ traefik
 trape
 traxss
 treasure
-trenchbroom-bin
 trevorproxy
 trevorspray
 trid
@@ -4050,7 +3984,6 @@ ufonet
 ufw
 ufw-extras
 uhoh365
-ukui-wallpapers
 ultimate-facebook-scraper
 ultrastardx-git
 ultrastardx-songs
@@ -4120,10 +4053,8 @@ vbrute
 vbscan
 vbsmin
 vcsmap
-vega
 veil
 veles
-vendor-reset-dkms-git
 venom
 verinice
 vesktop
@@ -4278,13 +4209,11 @@ windows-exploit-suggester
 windows-prefetch-parser
 windows-privesc-check
 windowsspyblocker
-windsurf
 wine-mono
 wine-staging
 winexe
 winfo
 winhex
-winmacs-wallpapers
 winpwn
 winregfs
 winrelay
@@ -4354,7 +4283,6 @@ xdg-desktop-portal-hyprland
 xdg-user-dirs
 xdman
 xemu-bin
-xenia-canary-bin
 xenia-edge-bin
 xerosploit
 xf86-video-amdgpu
@@ -4437,7 +4365,6 @@ zathura
 zathura-cb
 zdns
 zed
-zedis-bin
 zeek
 zeek-aux
 zelos
