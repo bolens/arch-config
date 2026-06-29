@@ -718,6 +718,7 @@ detectem
 devaudit
 device-mapper
 device-pharmer
+devil
 dex2jar
 dexpatcher
 dff-scanner
