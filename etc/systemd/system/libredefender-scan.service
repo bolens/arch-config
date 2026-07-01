@@ -4,9 +4,7 @@ After=clamav-freshclam.service
 
 [Service]
 Type=oneshot
-# -i only shows infected files
-# --recursive ensures all subfolders are hit
-ExecStart=/usr/bin/libredefender scan / --recursive -i
+ExecStart=/usr/bin/libredefender scan /
 
 # CPU/IO Optimization for 7900X3D
 # Low priority so it doesn't slow down your workstation
