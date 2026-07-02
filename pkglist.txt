@@ -2847,7 +2847,7 @@ pirana
 pivotsuite
 pix
 pixd
-pixelorama-git
+pixelorama-bin
 pixiv-dl
 pixload
 pkcrack
@@ -3467,7 +3467,7 @@ sipvicious
 sireprat
 sitadel
 sitediff
-siyuan-git
+siyuan-bin
 sj
 sjet
 skanlite
