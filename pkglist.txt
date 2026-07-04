@@ -844,7 +844,6 @@ dradis-ce
 dragon
 dragon-backdoor
 drawy
-driftnet
 drinkme
 dripcap
 dripper
@@ -903,7 +902,6 @@ eigrp-tools
 eindeutig
 ekphos-git
 electric-fence
-electricsheep
 element-desktop
 elementary-wallpapers
 elephant-all
@@ -1059,7 +1057,6 @@ firecat
 firefox
 firefox-decrypt
 firefox-developer-edition
-firefox-nightly-bin
 firefox-security-toolkit
 fireprox
 firewalk
@@ -1593,7 +1590,6 @@ invoke-cradlecrafter
 invoke-dosfuscation
 invoke-obfuscation
 inzider
-ioquake3-git
 iosforensic
 ip-https-tools
 ip-tracer
@@ -2030,7 +2026,6 @@ libpfm
 libredefender
 libreoffice-fresh
 libretro-3dengine-git
-libretro-azahar
 libretro-beetle-cygne-git
 libretro-beetle-lynx-git
 libretro-beetle-ngp-git
@@ -2366,7 +2361,6 @@ moonlight-qt
 moonshine-git
 moonwalk
 mooscan
-morpheus
 morxbook
 morxbrute
 morxbtcrack
@@ -3638,7 +3632,6 @@ sshprank
 sshscan
 sshtrix
 ssl-hostname-resolver
-ssl-phuck3r
 sslcaudit
 ssldump
 ssllabs-scan
@@ -3725,7 +3718,6 @@ swarm
 sway
 sweeper
 swfintruder
-swftools
 switcheroo
 sws
 swtpm
@@ -4044,7 +4036,6 @@ uw-zone
 uwsm
 v3n0m
 vagrant
-vais
 vala-language-server
 valhalla-api
 vane
@@ -4119,7 +4110,6 @@ wafp
 wafpass
 wafw00f
 waidps
-waifu2x-ncnn-vulkan-git
 waldo
 walker
 wallhaven-cli
@@ -4188,7 +4178,6 @@ whichcdn
 whispers
 whitewidow
 whoxyrm
-wi-feye
 wifi-autopwner
 wifi-honey
 wifi-monitor
@@ -4371,7 +4360,6 @@ zeek
 zeek-aux
 zelos
 zen-browser-bin
-zen-twilight-bin
 zenith
 zeratool
 zeronet-git
