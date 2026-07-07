@@ -2138,7 +2138,6 @@ linux-cachyos-headers
 linux-cachyos-lts
 linux-cachyos-lts-headers
 linux-cachyos-lts-nvidia-open
-linux-cachyos-lts-zfs
 linux-cachyos-nvidia-open
 linux-cachyos-r8125
 linux-cachyos-zfs
