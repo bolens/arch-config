@@ -3559,7 +3559,6 @@ solaar
 solid
 sonar-scanner
 sonic-pi-git
-sonicradio
 sonnet
 soot
 sooty
@@ -3659,7 +3658,6 @@ stegdetect
 steghide
 stegolego
 stegosip
-stegoveritas
 stegseek
 stegsolve
 stellarium
