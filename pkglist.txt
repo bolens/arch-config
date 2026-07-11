@@ -2138,6 +2138,8 @@ linux-cachyos-headers
 linux-cachyos-lts
 linux-cachyos-lts-headers
 linux-cachyos-lts-nvidia-open
+linux-cachyos-lts-r8125
+linux-cachyos-lts-zfs
 linux-cachyos-nvidia-open
 linux-cachyos-r8125
 linux-cachyos-zfs
@@ -3266,9 +3268,6 @@ rsync
 rtfm
 rtl-433
 rtl-wmbus
-rtl8812au-aircrack-dkms
-rtl8812au-aircrack-ng-dkms-git
-rtl8814au-dkms-git
 rtlamr
 rtlizer
 rtlsdr-scanner
@@ -4061,7 +4060,7 @@ vipermonkey
 viproy-voipkit
 virt-manager
 virtualbox
-virtualbox-host-modules-arch
+virtualbox-host-dkms
 virustotal
 visql
 visual-studio-code-insiders-bin
@@ -4279,6 +4278,8 @@ xfsprogs
 xl2tpd
 xmap-git
 xmlrpc-bruteforcer
+xone-dkms
+xone-dongle-firmware
 xonsh
 xorbruteforcer
 xorg-util-macros
