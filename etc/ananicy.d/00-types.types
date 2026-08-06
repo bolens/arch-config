@@ -1,7 +1,7 @@
 # Type: Game
 # Use more CPU time if possible
 # Games do not always need more IO, but in most cases can be hungry for CPU
-{ "type": "Game", "nice": -5, "ioclass": "best-effort" }
+{ "type": "Game", "nice": -5, "ioclass": "best-effort", "sched": "normal" }
 
 # Type: Player Audio/Video
 # Try to add more CPU power to decrease latency/lags
@@ -22,7 +22,11 @@
 { "type": "BG_CPUIO", "nice": 16, "ioclass": "idle", "sched": "idle" }
 
 # Type: Background CPU but demands more I/O, One example: File Synchronization
-{ "type": "BG_CPU", "nice": 14, "ioclass": "best-effort" }
+{ "type": "BG_CPU", "nice": 14, "ioclass": "best-effort", "sched": "idle" }
+
+# Type: Background Launcher
+# Runs quietly but may spawn foreground or latency-sensitive workloads
+{ "type": "Launcher", "nice": 16, "ioclass": "idle", "sched": "normal" }
 
 # Type: Heavy CPU Load
 # It must work fast enough but must not create so much noise

@@ -11,11 +11,22 @@
 # Oasis Driver for Windows Mixed Reality https://store.steampowered.com/app/3824490/Oasis_Driver_for_Windows_Mixed_Reality/
 { "name": "unlock_wmr.exe", "type": "Game" }
 
+# Obduction https://store.steampowered.com/app/306760/Obduction/
+{ "name": "Obduction.exe", "type": "BG_CPUIO" }
+{ "name": "Obduction-Win64-Shipping.exe", "type": "Game" }
+
 # Obenseuer https://store.steampowered.com/app/951240/Obenseuer/
 { "name": "Obenseuer.exe", "type": "Game" }
 
+# Obey the Voice https://store.steampowered.com/app/3919190/Obey_the_Voice/
+{ "name": "ObeytheVoice.exe", "type": "BG_CPUIO" }
+{ "name": "ObeytheVoice-Win64-Shipping.exe", "type": "Game" }
+
 # Obliteracers https://store.steampowered.com/app/368740/Obliteracers/
 { "name": "Obliteracers.exe", "type": "Game" }
+
+# Oblivion Override https://store.steampowered.com/app/1952370/Oblivion_Override/
+{ "name": "Oblivion Override.exe", "type": "Game" }
 
 # Oblivity https://store.steampowered.com/app/1389990/Oblivity__Find_your_perfect_Sensitivity/
 { "name": "Oblivity.exe", "type": "Game" }
@@ -29,6 +40,9 @@
 # Occupy Mars: The Game https://store.steampowered.com/app/758690/Occupy_Mars_The_Game/
 { "name": "OccupyMars.exe", "type": "Game" }
 
+# Oceaneers https://store.steampowered.com/app/3052510/Oceaneers/
+{ "name": "Oceaneers.exe", "type": "Game" }
+
 # Octodad: Dadliest Catch https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch/
 { "name": "OctodadDadliestCatch.exe", "type": "Game" }
 { "name": "OctodadEditor.exe", "type": "Game" }
@@ -38,11 +52,7 @@
 
 # OCTOPATH TRAVELER https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
 { "name": "Octopath_Traveler-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Octopath_Traveler.exe", "type": "Game" }
-
-# OCTOPATH TRAVELER 0 https://store.steampowered.com/app/3014320/OCTOPATH_TRAVELER_0/
-{ "name": "Octopath_Traveler0.exe", "type": "Game" }
-{ "name": "Octopath_Traveler0-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Octopath_Traveler.exe", "type": "BG_CPUIO" }
 
 # OCTOPATH TRAVELER II https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/
 { "name": "Octopath_Traveler2-Win64-Shipping.exe", "type": "Game" }
@@ -54,7 +64,7 @@
 { "name": "OddRealm.exe", "type": "Game" }
 
 # Oddsparks: An Automation Adventure https://store.steampowered.com/app/1817800/Oddsparks_An_Automation_Adventure/
-{ "name": "Oddsparks.exe", "type": "Game" }
+{ "name": "Oddsparks.exe", "type": "BG_CPUIO" }
 { "name": "Loc-Win64-Shipping.exe", "type": "Game" }
 
 # Oddworld: Abe's Exoddus https://store.steampowered.com/app/15710/Oddworld_Abes_Exoddus/
@@ -66,6 +76,9 @@
 # Oddworld: Munch's Oddysee https://store.steampowered.com/app/15740/Oddworld_Munchs_Oddysee/
 { "name": "Munch.exe", "type": "Game" }
 
+# Oddworld: New 'n' Tasty https://store.steampowered.com/app/314660/Oddworld_New_n_Tasty/
+{ "name": "NNT.exe", "type": "Game" }
+
 # Oddworld: Stranger's Wrath HD https://store.steampowered.com/app/15750/Oddworld_Strangers_Wrath_HD/
 { "name": "stranger.exe", "type": "Game" }
 
@@ -73,7 +86,7 @@
 { "name": "Odysseus_S1E1_standalone.exe", "type": "Game" }
 
 # Of Ash and Steel https://store.steampowered.com/app/2893820/Of_Ash_and_Steel/
-{ "name": "ofAshAndSteelGame.exe", "type": "Game" }
+{ "name": "ofAshAndSteelGame.exe", "type": "BG_CPUIO" }
 { "name": "ofAshAndSteelGame-Win64-Shipping.exe", "type": "Game" }
 
 # OFF https://store.steampowered.com/app/3339880/OFF/
@@ -171,6 +184,9 @@
 # One-armed robber https://store.steampowered.com/app/2551020/Onearmed_robber/
 { "name": "OAR.exe", "type": "Game" }
 
+# One Billion Ducks Demo https://store.steampowered.com/app/4642580/One_Billion_Ducks_Demo/
+{ "name": "one_billion_ducks.exe", "type": "Game" }
+
 # One Day For Ched https://store.steampowered.com/app/321030/ONE_DAY_for_Ched/
 { "name": "ONE DAY for Ched.exe", "type": "Game" }
 
@@ -185,6 +201,9 @@
 
 # One Hour One Life https://store.steampowered.com/app/595690/One_Hour_One_Life/
 { "name": "OneLife.exe", "type": "Game" }
+
+# One Last Hand Demo https://store.steampowered.com/app/4655450/One_Last_Hand_Demo/
+{ "name": "OneLastHand.exe", "type": "Game" }
 
 # One Military Camp https://store.steampowered.com/app/1743830/One_Military_Camp/
 { "name": "One Military Camp.exe", "type": "Game" }
@@ -213,6 +232,9 @@
 # ONE PIECE World Seeker https://store.steampowered.com/app/755500/ONE_PIECE_World_Seeker/
 { "name": "OPWS.exe", "type": "Game" }
 
+# One Potion Please https://store.steampowered.com/app/3932130/
+{ "name": "OnePotionPlease.exe", "type": "Game" }
+
 # ONE PUNCH MAN: A HERO NOBODY KNOWS https://store.steampowered.com/app/991560/ONE_PUNCH_MAN_A_HERO_NOBODY_KNOWS/
 { "name": "ONE PUNCH MAN A HERO NOBODY KNOWS.exe", "type": "Game" }
 { "name": "OPM.exe", "type": "Game" }
@@ -235,6 +257,9 @@
 # Onigiri https://store.steampowered.com/app/290470/
 { "name": "onigiri.exe", "type": "Game" }
 
+# Onigiri Shop Simulator https://store.steampowered.com/app/3915140/Onigiri_Shop_Simulator/
+{ "name": "OnigiriShopSimulator.exe", "type": "Game" }
+
 # Onii Kiss https://nekonyansoft.com/blog/saving-the-sisters-announcing-onikiss-re-release
 { "name": "OniiKiss.exe", "type": "Game" }
 
@@ -247,15 +272,40 @@
 # Onirism https://store.steampowered.com/app/1057640/Onirism/
 { "name": "Onirism.exe", "type": "Game" }
 
+# Online: 404 Demo https://store.steampowered.com/app/4744250/
+{ "name": "Online404.exe", "type": "BG_CPUIO" }
+{ "name": "Online404-Win64-Shipping.exe", "type": "Game" }
+
 # Only Climb: Better Together https://store.steampowered.com/app/2500750/Only_Climb_Better_Together/
-{ "name": "ocbt.exe", "type": "Game" }
+{ "name": "ocbt.exe", "type": "BG_CPUIO" }
 { "name": "onlyclimbtogether-Win64-Shipping.exe", "type": "Game" }
+
+# OnlyFap: Fitness Baby 🔞💦 https://store.steampowered.com/app/2194800/
+{ "name": "Only fap Fitness Baby.exe", "type": "Game" }
+
+# OnlyFap Simulator 💦 https://store.steampowered.com/app/1886630/
+{ "name": "OnlyFap.exe", "type": "Game" }
+
+# OnlyFap Simulator 2 💦 https://store.steampowered.com/app/2082170/
+{ "name": "Only fap simulator 2.exe", "type": "Game" }
+
+# OnlyFap Simulator 3 💦 https://store.steampowered.com/app/2179630/
+{ "name": "OF-Simulator.exe", "type": "Game" }
+
+# OnlyFap Simulator  4 💦 https://store.steampowered.com/app/2196420/
+{ "name": "Onlyfap simulator 4.exe", "type": "Game" }
+
+# OnlyFap Simulator  6 💦 https://store.steampowered.com/app/2293010/
+{ "name": "Onlyfap 6.exe", "type": "Game" }
 
 # Only Furry 18+ https://store.steampowered.com/app/1968820/
 { "name": "Only Furry.exe", "type": "Game" }
 
 # Only Up! https://store.steampowered.com/app/2381590/not_available/
 { "name": "OnlyUP.exe", "type": "Game" }
+
+# Only Whores Survive 🔞 https://store.steampowered.com/app/3748790/
+{ "name": "Only Whores Survive.exe", "type": "Game" }
 
 # Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
 { "name": "onmyoji.exe", "type": "Game" }
@@ -269,6 +319,9 @@
 # Onward https://store.steampowered.com/app/496240/Onward/
 { "name": "Onward.exe", "type": "Game" }
 
+# Ooblets https://store.steampowered.com/app/593150/Ooblets/
+{ "name": "ooblets.exe", "type": "Game" }
+
 # Öoo https://store.steampowered.com/app/2721890/oo/
 { "name": "Ooo.exe", "type": "Game" }
 
@@ -280,6 +333,9 @@
 
 # OpenTTD https://store.steampowered.com/app/1536610/OpenTTD/
 { "name": "openttd.exe", "type": "Game" }
+
+# Operation Darkside DX https://store.steampowered.com/app/2962400/
+{ "name": "Seikaku.exe", "type": "Game" }
 
 # Operation Flashpoint: Dragon Rising https://store.steampowered.com/app/12830/Operation_Flashpoint_Dragon_Rising/
 { "name": "OFDR.exe", "type": "Game" }
@@ -301,8 +357,17 @@
 # Operation: New Earth https://store.steampowered.com/app/528740/Operation_New_Earth/
 { "name": "OpNewEarth.exe", "type": "Game" }
 
+# OPPAI Ero App Academy Bigger, Better, Electric Boobaloo! https://store.steampowered.com/app/2313140/
+{ "name": "heapps.exe", "type": "Game" }
+
+# OPPAI Succubus Academy Sucky and Busty, Demonic and Lusty! https://store.steampowered.com/app/2854170/
+{ "name": "hsuc.exe", "type": "Game" }
+
 # Oppidum https://store.steampowered.com/app/2115760/Oppidum/
 { "name": "Oppidum.exe", "type": "Game" }
+
+# OPUS: Echo of Starsong - Full Bloom Edition https://store.steampowered.com/app/1504500/OPUS_Echo_of_Starsong__Full_Bloom_Edition/
+{ "name": "OPUS Echo of Starsong.exe", "type": "Game" }
 
 # Opus Magnum https://store.steampowered.com/app/558990/Opus_Magnum/
 { "name": "Lightning.exe", "type": "Game" }
@@ -332,15 +397,21 @@
 { "name": "Orcs Must Die! 3.exe", "type": "Game" }
 
 # Orcs Must Die! Deathtrap https://store.steampowered.com/app/2273980/Orcs_Must_Die_Deathtrap/
-{ "name": "Orcs Must Die! Deathtrap.exe", "type": "Game" }
+{ "name": "Orcs Must Die! Deathtrap.exe", "type": "BG_CPUIO" }
 { "name": "OMDDSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Order of Kings https://store.steampowered.com/app/4192650/Order_of_Kings/
 { "name": "Order_of_Kings.exe", "type": "Game" }
 
+# Order of the Sinking Star Demo https://store.steampowered.com/app/4597250/Order_of_the_Sinking_Star_Demo/
+{ "name": "sinking_star.exe", "type": "Game" }
+
 # Orebound https://store.steampowered.com/app/2467810/Orebound/
-{ "name": "OreBound.exe", "type": "Game" }
+{ "name": "OreBound.exe", "type": "BG_CPUIO" }
 { "name": "OreBound-Win64-Shipping.exe", "type": "Game" }
+
+# Ore Factory Squad ⛏️ https://store.steampowered.com/app/4210580/Ore_Factory_Squad/
+{ "name": "Ore Factory Squad.exe", "type": "Game" }
 
 # Organized Inside https://store.steampowered.com/app/3609750/Organized_Inside/
 { "name": "Organized Inside.exe", "type": "Game" }
@@ -417,18 +488,21 @@
 # Our Life: Now & Forever Demo https://store.steampowered.com/app/1871580/Our_Life_Now__Forever_Demo/
 { "name": "OurLifeNF.exe", "type": "Game" }
 
+# Our Red String https://store.steampowered.com/app/3669040/
+{ "name": "OurRedString.exe", "type": "Game" }
+
 # Outbound https://store.steampowered.com/app/2681030/Outbound/
 { "name": "Outbound.exe", "type": "Game" }
 
 # Outbreak Island https://store.steampowered.com/app/1442530/Outbreak_Island/
-{ "name": "OI_World.exe", "type": "Game" }
+{ "name": "OI_World.exe", "type": "BG_CPUIO" }
 { "name": "OI_World-Win64-Shipping.exe", "type": "Game" }
 
 # OUTBRK https://store.steampowered.com/app/1107320/OUTBRK/
 { "name": "Outbrk.exe", "type": "Game" }
 
 # Outcast - A New Beginning https://store.steampowered.com/app/1013140/Outcast__A_New_Beginning/
-{ "name": "O2.exe", "type": "Game" }
+{ "name": "O2.exe", "type": "BG_CPUIO" }
 { "name": "O2-Win64-Shipping.exe", "type": "Game" }
 
 # Outcast - Second Contact https://store.steampowered.com/app/618970/Outcast__Second_Contact/
@@ -461,14 +535,17 @@
 { "name": "Outlive2025.exe", "type": "Game" }
 
 # Out of Action https://store.steampowered.com/app/1670780/Out_of_Action/
-{ "name": "OutOfAction.exe", "type": "Game" }
+{ "name": "OutOfAction.exe", "type": "BG_CPUIO" }
 { "name": "OutOfAction-Win64-Shipping.exe", "type": "Game" }
+
+# Out Of Hands https://store.steampowered.com/app/1839810/Out_Of_Hands/
+{ "name": "OutOfHands.exe", "type": "Game" }
 
 # Out of Orbit https://store.steampowered.com/app/1859990/Out_of_Orbit/
 { "name": "OutOfOrbit.exe", "type": "Game" }
 
 # Out of Ore https://store.steampowered.com/app/2009350/Out_of_Ore/
-{ "name": "OutOfOre.exe", "type": "Game" }
+{ "name": "OutOfOre.exe", "type": "BG_CPUIO" }
 { "name": "OutOfOre-Win64-Shipping.exe", "type": "Game" }
 
 # Out of Space https://store.steampowered.com/app/400080/Out_of_Space/
@@ -507,12 +584,12 @@
 # Out of the Park Baseball 27 https://store.steampowered.com/app/4045750/Out_of_the_Park_Baseball_27/
 { "name": "ootp27.exe", "type": "Game" }
 
-# Outpath https://store.steampowered.com/app/2237970/Outpath/
-{ "name": "Outpath.exe", "type": "Game" }
-
 # Outpost: Infinity Siege https://store.steampowered.com/app/1566690/Outpost_Infinity_Siege/
-{ "name": "U01.exe", "type": "Game" }
+{ "name": "U01.exe", "type": "BG_CPUIO" }
 { "name": "U01-Win64-Shipping.exe", "type": "Game" }
+
+# OUTRIDERS Demo https://store.steampowered.com/app/1435990/
+{ "name": "EAC_OUTRIDERS.exe", "type": "BG_CPUIO" }
 
 # Out There Somewhere https://store.steampowered.com/app/263980/Out_There_Somewhere/
 { "name": "ots.exe", "type": "Game" }
@@ -527,7 +604,7 @@
 { "name": "Outward.exe", "type": "Game" }
 
 # Outworld Station https://store.steampowered.com/app/3242950/Outworld_Station/
-{ "name": "OutworldStation.exe", "type": "Game" }
+{ "name": "OutworldStation.exe", "type": "BG_CPUIO" }
 { "name": "OutworldStation-Win64-Shipping.exe", "type": "Game" }
 
 # Ova Magica https://store.steampowered.com/app/1299170/Ova_Magica/
@@ -551,6 +628,10 @@
 # Overcooked! All You Can Eat https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/
 { "name": "Overcooked All You Can Eat.exe", "type": "Game" }
 
+# Overdungeon https://store.steampowered.com/app/919370/Overdungeon/
+{ "name": "Windows-64bit.exe", "type": "Game" }
+{ "name": "Windows-32bit.exe", "type": "Game" }
+
 # OverField https://store.steampowered.com/app/3879660/OverField/
 { "name": "PCSDKUI.exe", "type": "Game" }
 
@@ -559,6 +640,9 @@
 
 # Overlewd https://store.steampowered.com/app/2308870/
 { "name": "SteamWindows.exe", "type": "Game" }
+
+# Overload https://store.steampowered.com/app/448850/Overload/
+{ "name": "Overload.exe", "type": "Game" }
 
 # Overlooting https://store.steampowered.com/app/3410180/Overlooting/
 { "name": "Overlooting.exe", "type": "Game" }
@@ -570,8 +654,11 @@
 { "name": "overpass.exe", "type": "Game" }
 
 # Overpass 2 https://store.steampowered.com/app/1830630/Overpass_2/
-{ "name": "Buggy2.exe", "type": "Game" }
+{ "name": "Buggy2.exe", "type": "BG_CPUIO" }
 { "name": "Buggy2-Win64-Shipping.exe", "type": "Game" }
+
+# over the hill Demo https://store.steampowered.com/app/4703940/over_the_hill_Demo/
+{ "name": "over the hill.exe", "type": "Game" }
 
 # Over The Top: WWI https://store.steampowered.com/app/2778610/Over_The_Top_WWI/
 { "name": "Over_The_Top_WWI.exe", "type": "Game" }
@@ -612,5 +699,5 @@
 { "name": "OyasumiVR.exe", "type": "Game" }
 
 # Ozymandias https://store.steampowered.com/app/1768280/Ozymandias_Bronze_Age_Empire_Sim/
-{ "name": "Ozymandias.exe", "type": "Game" }
+{ "name": "Ozymandias.exe", "type": "BG_CPUIO" }
 { "name": "Ozymandias-Win64-Shipping.exe", "type": "Game" }

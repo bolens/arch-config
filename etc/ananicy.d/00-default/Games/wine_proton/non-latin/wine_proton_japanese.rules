@@ -17,6 +17,9 @@
 # Daburu Supoirā 〜 Tōhō Bunkachō ダブルスポイラー 〜 東方文花帖 Double Spoiler https://store.steampowered.com/app/1100170/Double_Spoiler/
 { "name": "th125.exe", "type": "Game" }
 
+# Danjon jinrō ダンジョン人狼 https://store.steampowered.com/app/2996190/_/
+{ "name": "ダンジョン人狼.exe", "type": "Game" }
+
 # Danmaku Amanojaku ~ Impossible Spell Card. 弾幕アマノジャク 〜 Impossible Spell Card. https://store.steampowered.com/app/937570/Danmaku_Amanojaku__Impossible_Spell_Card/
 { "name": "th143.exe", "type": "Game" }
 
@@ -28,6 +31,9 @@
 
 # Dōruzufurontorain ドールズフロントライン https://store.steampowered.com/app/3907240/
 { "name": "DollsFrontLine.exe", "type": "Game" }
+
+# Ganbaregoemon dai shūgō! がんばれゴエモン大集合！ https://store.steampowered.com/app/3652140/
+{ "name": "Goemon.exe", "type": "Game" }
 
 # Girudo tankyū-dan e yōkoso! ギルド探求団へようこそ！ https://store.steampowered.com/app/4327530/_/
 { "name": "RPGDetecive.exe", "type": "Game" }
@@ -49,9 +55,12 @@
 { "name": "MasterofGarden_Steam.exe", "type": "Game" }
 
 # Iru dō イル・ドー https://store.steampowered.com/app/3561770/Irudo/
-{ "name": "Irudo.exe", "type": "Game" }
+{ "name": "Irudo.exe", "type": "BG_CPUIO" }
 { "name": "Pirate_Island.exe", "type": "Game" }
 { "name": "Pirate_Island-Win64-Shipping.exe", "type": "Game" }
+
+# Jigoku-raku paradaisubatoru 地獄楽 パラダイスバトル https://store.steampowered.com/app/4375120/Jigokuraku_BATTLE_IN_HELLS_PARADISE/
+{ "name": "paradisebattle.exe", "type": "Game" }
 
 # Kanji de GO! Shūeisha manga-sai 漢字でGO! 集英社マンガ祭 https://store.steampowered.com/app/3350140/GO/
 { "name": "集英社マンガ祭.exe", "type": "Game" }
@@ -68,8 +77,14 @@
 # Kugayama shiori no shi-sama techō 久我山栞の死様手帖 https://store.steampowered.com/app/4141950/Kugayama_Shioris_Death_Diary/
 { "name": "KugayamaShiorisDeathDiary.exe", "type": "Game" }
 
+# Miko usagi - KANNAGI USAGI - 巫兎 - KANNAGI USAGI - https://store.steampowered.com/app/2551500/
+{ "name": "KannagiUsagi.exe", "type": "Game" }
+
 # Natsume yūjinchō ~ hadzuki no ki ~ 夏目友人帳 ～葉月の記～ https://store.steampowered.com/app/3344960/_/
 { "name": "Natsume Yujincho.exe", "type": "Game" }
+
+# Nihon jiko bukken kanshi kyōkai - Japan Stigmatized Property - 日本事故物件監視協会 -Japan Stigmatized Property- https://store.steampowered.com/app/3809110/Japan_Stigmatized_Property/
+{ "name": "jsp.exe", "type": "Game" }
 
 # Rabu raibu! Niji ~ke Saki gakuen sukūruaidoru dōkō-kai tokimeki no mirai chizu ラブライブ！虹ヶ咲学園スクールアイドル同好会　トキメキの未来地図 https://store.steampowered.com/app/3213690/Love_Live_Nijigasaki_High_School_Idol_Club_TOKIMEKI_Roadmap_to_Future/
 { "name": "nijichizu.exe", "type": "Game" }
@@ -92,6 +107,9 @@
 
 # Riyō kiyaku ni dōi shitai 利用規約に同意したい https://store.steampowered.com/app/3757210/Agreeee/
 { "name": "Agreeee.exe", "type": "Game" }
+
+# Sakura, mo yu. - As the Night' s, rīinkānēshon - さくら、もゆ。-as the Night's, Reincarnation- https://store.steampowered.com/app/2899760/as_the_Nights_Reincarnation/
+{ "name": "Sakura.exe", "type": "Game" }
 
 # sōu Inochi No Rasutiru - Tokoshie No mí Miyagi 蒐命のラスティル - とこしえの迷宮城 https://store.steampowered.com/app/2162820/Rustil_Eternal_Labyrinth_Castle/
 { "name": "Rustil_ELC.exe", "type": "Game" }
@@ -165,12 +183,18 @@
 # Uma musume puritīdābī ウマ娘 プリティーダービー https://steamdb.info/app/3564400/
 { "name": "UmamusumePrettyDerby_Jpn.exe", "type": "Game" }
 
+# Unchi ga i sagashi ~ unchi no hinshitsu o mamoru gēmu ~ うんちがいさがし ～うんちの品質を守るゲーム～ https://store.steampowered.com/app/2892530/Poop_Spotter__The_game_to_improve_the_quality_of_poop/
+{ "name": "FactoryGame-Win64-Shipping.exe", "type": "Game" }
+
 # Wārudonebārando erunea ōkoku no hibi ワールドネバーランド　エルネア王国の日々　Another Life Adventure https://store.steampowered.com/app/3034340/
 { "name": "WorldNeverland.exe", "type": "Game" }
 
 # Watashi no Riaru wa jūjitsu shi sugite iru furuboisu-ban 私のリアルは充実しすぎている フルボイス版 https://store.steampowered.com/app/2106520/_/
 { "name": "Wataju.exe", "type": "Game" }
 { "name": "WTJ.exe", "type": "Game" }
+
+# yāo Katari / Yokai' s Secret 妖語り/Yokai's Secret https://store.steampowered.com/app/1146630/Yokais_Secret/
+{ "name": "Yokai's Secret.exe", "type": "Game" }
 
 # Yōsei Daisensō ~ Touhou Sangetsusei 妖精大戦争 〜 東方三月精 https://store.steampowered.com/app/1100180/Yousei_Daisensou__Touhou_Sangetsusei/
 { "name": "th128.exe", "type": "Game" }

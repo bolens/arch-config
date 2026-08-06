@@ -224,7 +224,6 @@ bash-completion
 bash-language-server
 bashfuscator
 bashscan
-batman-adv
 batman-alfred
 bats
 bbdown-git
@@ -334,6 +333,7 @@ bowcaster
 box-js
 boxtron-git
 bpftune-git
+bpm-tools
 bqm
 braa
 braces
@@ -346,7 +346,6 @@ brave-origin-nightly-bin
 breeze-icons-git
 bridge-utils
 bridgekeeper
-brltty-udev-generic
 brosec
 browselist
 browser-fuzzer
@@ -840,7 +839,6 @@ dpscan
 dr-checker
 dr0p1t-framework
 dracnmap
-dracut-brltty
 dradis-ce
 dragon
 dragon-backdoor
@@ -1081,7 +1079,6 @@ flite
 flood-git
 floorp-bin
 flowinspect
-fluffychat-bin
 flunym0us
 fluxion
 flycast
@@ -1371,7 +1368,6 @@ hashpeek
 hashpump
 hashrat
 hashtag
-haskell-language-server
 hasura-cli-bin
 hatcloud
 hate-crack
@@ -1633,7 +1629,6 @@ jackdaw
 jaeles
 jaidam
 jast
-java-brltty
 javasnoop
 jbe
 jboss-autopwn
@@ -1781,6 +1776,7 @@ kernelpop
 kew
 keychain
 keye
+keyfinder-cli
 keysmith
 kfind
 kfourinline
@@ -1979,7 +1975,6 @@ ldeep
 ldsview
 leaklooker
 leena
-legcord
 legion
 leo
 leroy-jenkins
@@ -2039,7 +2034,6 @@ libretro-beetle-supergrafx
 libretro-beetle-vb-git
 libretro-bk-git
 libretro-blastem
-libretro-bluemsx-git
 libretro-bsnes
 libretro-bsnes-hd
 libretro-cap32-git
@@ -2050,16 +2044,13 @@ libretro-dice-git
 libretro-dinothawr-git
 libretro-dolphin
 libretro-dosbox-pure-git
-libretro-ecwolf-git
 libretro-fbneo-git
 libretro-fceumm-git
-libretro-ffmpeg-git
 libretro-flycast
 libretro-fmsx-git
 libretro-freeintv-git
 libretro-freej2me-plus-git
 libretro-gambatte
-libretro-gearcoleco-git
 libretro-gearsystem
 libretro-genesis-plus-gx
 libretro-gme-git
@@ -2086,7 +2077,6 @@ libretro-picodrive
 libretro-play
 libretro-pokemini-git
 libretro-ppsspp
-libretro-prboom-git
 libretro-prosystem-git
 libretro-px68k-git
 libretro-sameboy
@@ -2094,7 +2084,6 @@ libretro-scummvm
 libretro-shaders-slang
 libretro-skyemu-git
 libretro-snes9x
-libretro-stella-git
 libretro-uae-git
 libretro-vice-x128-git
 libretro-vice-x64-git
@@ -2149,6 +2138,7 @@ linux-exploit-suggester.sh
 linux-firmware
 linux-firmware-marvell
 linux-firmware-mellanox
+linux-headers-meta
 linux-inject
 linux-smart-enumeration
 liri-wallpapers-git
@@ -2408,6 +2398,7 @@ multitun
 munin-hashchecker
 mupen64plus-git
 muraena
+musepack-tools
 musikcube
 mutator
 mwebfp
@@ -2437,7 +2428,6 @@ nbnspoof
 nbtenum
 nbtool
 ncdu
-ncpfs
 necromant
 needle
 neglected
@@ -2574,7 +2564,7 @@ obfs4proxy
 objdump2shellcode
 objection
 obsidian
-ocaml-brltty
+ocaml
 oclhashcat
 ocs
 octopi
@@ -2647,7 +2637,6 @@ origami
 orjail
 os-prober
 oscanner
-osert
 osfooler-ng
 osi.ig
 osint-spy
@@ -3016,7 +3005,6 @@ pythem
 python
 python-api-dnsdumpster
 python-booleanoperations
-python-brltty
 python-cuda
 python-customtkinter
 python-cymruwhois
@@ -3261,6 +3249,7 @@ rrs
 rsactftool
 rsakeyfind
 rsatool
+rsgain-git
 rshack
 rsmangler
 rspet
@@ -3731,6 +3720,7 @@ syntax-highlighting
 syringe
 sysfsutils
 sysinternals-suite
+sysstat
 system-config-printer
 t50
 tabi
@@ -3782,13 +3772,16 @@ texinfo
 texlive-bibtexextra
 texlive-binextra
 texlive-context
+texlive-fontsextra
 texlive-formatsextra
 texlive-games
 texlive-humanities
+texlive-latexextra
 texlive-luatex
 texlive-mathscience
 texlive-metapost
 texlive-music
+texlive-pictures
 texlive-plaingeneric
 texlive-pstricks
 texlive-publishers
@@ -3878,7 +3871,6 @@ trufflehog
 trusttrees
 tsh
 tsh-sctp
-tsmuxer-git
 ttf-0xproto-nerd
 ttf-3270-nerd
 ttf-adwaitamono-nerd
@@ -3954,7 +3946,6 @@ twitch-tui
 twofi
 typescript-language-server
 typo3scan
-tyton
 u3-pwn
 uacme
 uatester
@@ -4048,7 +4039,6 @@ veil
 veles
 venom
 verinice
-vesktop
 vfeed
 vhostscan
 vhs
@@ -4134,7 +4124,6 @@ webacoo
 webanalyze
 webapp-manager
 webborer
-webcord
 webenum
 webexploitationtool
 webfixy
@@ -4317,7 +4306,6 @@ xxexploiter
 xxxpwn
 xxxpwn-smart
 yaaf
-yacreader-bin
 yaf
 yakuake
 yaml-language-server
@@ -4333,6 +4321,7 @@ yazi
 ycrawler
 yersinia
 yeti
+yggdrasil
 yinjector
 yomikiru-bin
 you-get-git

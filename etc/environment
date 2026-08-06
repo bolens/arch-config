@@ -17,7 +17,7 @@ NVPRESENT_ENABLE_SMOOTH_MOTION=1
 
 # Desktop Environment Fixes (GTK4 / GNOME)
 # 'ngl' is the modern replacement for 'gl'. 'vulkan' is also an option.
-GSK_RENDERER=ngl 
+GSK_RENDERER=gl
 
 # Linker Optimization
 # Forces the 'mold' linker globally for any manual compiles

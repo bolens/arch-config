@@ -25,6 +25,9 @@
 { "name": "saintsrow3", "type": "Game" }
 { "name": "SaintsRow3.i386", "type": "Game" }
 
+# Sakura Dungeon https://store.steampowered.com/app/407330/Sakura_Dungeon/
+{ "name": "sakura_dungeon", "type": "Game" }
+
 # Sally Face - Episode One https://store.steampowered.com/app/541570/Sally_Face__Episode_One/
 { "name": "Sally Face.x86_64", "type": "Game" }
 { "name": "Sally Face.x86", "type": "Game" }
@@ -48,19 +51,12 @@
 { "name": "SatelliteReignLinux.x86", "type": "Game" }
 { "name": "SatelliteReignLinux.x86_64", "type": "Game" }
 
-# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
-{ "name": "FactoryGame", "type": "Game" }
-{ "name": "FactoryGameSteam", "type": "Game" }
-
 # Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
 { "name": "FactoryServer-Linux-Shipping", "type": "Service" }
 { "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
 
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
-
-# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
-{ "name": "scapewatch", "type": "Game" }
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow", "type": "Game" }
@@ -89,6 +85,9 @@
 
 # Secret of the Magic Crystals https://store.steampowered.com/app/45100/Secret_of_the_Magic_Crystals/
 { "name": "Secret of the Magic Crystal", "type": "Game" }
+
+# Sector Space https://store.steampowered.com/app/3978250/Sector_Space/
+{ "name": "Launch Sector Space", "type": "Game" }
 
 # Seeds of Chaos https://store.steampowered.com/app/1205950/
 { "name": "seeds-of-chaos", "type": "Game" }
@@ -130,6 +129,12 @@
 
 # Sexbot https://store.steampowered.com/app/2178930/
 { "name": "SexBot", "type": "Game" }
+
+# SEX CLUB Simulator 🔞🍓 https://store.steampowered.com/app/3288380/
+{ "name": "SEXCLUBSimulator.x86_64", "type": "Game" }
+
+# Sextates Manager https://store.steampowered.com/app/4617060/
+{ "name": "SextatesManager", "type": "Game" }
 
 # Shadowgate https://store.steampowered.com/app/294440/Shadowgate/
 { "name": "Shadowgate.x86", "type": "Game" }
@@ -185,6 +190,9 @@
 # Shelter 2 https://store.steampowered.com/app/275100/Shelter_2/
 { "name": "Shelter2.x86", "type": "Game" }
 
+# S.H.E.L.T.E.R. - An Apocalyptic Tale https://store.steampowered.com/app/1394100/
+{ "name": "Shelter", "type": "Game" }
+
 # Sheltered https://store.steampowered.com/app/356040/Sheltered/
 { "name": "Sheltered.x86", "type": "Game" }
 { "name": "Sheltered.x86_64", "type": "Game" }
@@ -203,6 +211,9 @@
 
 # Ship of Harkinian https://www.shipofharkinian.com/
 { "name": "soh.appimage", "type": "Game" }
+
+# Shipped https://store.steampowered.com/app/1037190/Shipped/
+{ "name": "Shipped.x86_64", "type": "Game" }
 
 # Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
 { "name": "sm_sdl_steam", "type": "Game" }
@@ -226,6 +237,10 @@
 # Shroud of the Avatar: Forsaken Virtues https://store.steampowered.com/app/326160/Shroud_of_the_Avatar_Forsaken_Virtues/
 { "name": "Shroud of the Avatar.x86", "type": "Game" }
 { "name": "Shroud of the Avatar.x86_64", "type": "Game" }
+
+# SickBrick https://store.steampowered.com/app/341860/SickBrick/
+{ "name": "SickBrick.x86_64", "type": "Game" }
+{ "name": "SickBrick.x86", "type": "Game" }
 
 # Sid Meier's Civilization: Beyond Earth https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
 { "name": "CivBE", "type": "Game" }
@@ -262,14 +277,23 @@
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate", "type": "Game" }
 
+# Sir, We Have an Orc Problem Demo https://store.steampowered.com/app/4671800/
+{ "name": "swhaop_demo.x86_64", "type": "Game" }
+
 # Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
 { "name": "swhaop_playtest.x86_64", "type": "Game" }
 
 # Sir, You Are Being Hunted https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/
 { "name": "sir", "type": "Game" }
 
+# Sisterly Lust https://store.steampowered.com/app/1224160/
+{ "name": "SL", "type": "Game" }
+
 # Sisters in Sin 🔞 https://store.steampowered.com/app/4414250/
 { "name": "SistersInSin.x86_64", "type": "Game" }
+
+# Sixty Four https://store.steampowered.com/app/2659900/Sixty_Four/
+{ "name": "sixtyfour", "type": "Game" }
 
 # Skeleseller https://store.steampowered.com/app/3226210/Skeleseller/
 { "name": "skeleseller", "type": "Game" }
@@ -300,6 +324,10 @@
 # SKYHILL https://store.steampowered.com/app/382140/SKYHILL/
 { "name": "Skyhill.x86", "type": "Game" }
 { "name": "Skyhill.x86_64", "type": "Game" }
+
+# SkyTime https://store.steampowered.com/app/513620/SkyTime/
+{ "name": "SkyTime.x86_64", "type": "Game" }
+{ "name": "SkyTime.x86", "type": "Game" }
 
 # Slay the Princess — The Pristine Cut https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/
 { "name": "SlaythePrincess", "type": "Game" }
@@ -337,6 +365,9 @@
 
 # Snakecremental https://store.steampowered.com/app/3570430/Snakecremental/
 { "name": "Snakecremental.x86_64", "type": "Game" }
+
+# Snow Daze https://store.steampowered.com/app/852480/
+{ "name": "SnowDaze", "type": "Game" }
 
 # Sober : Roblox game launcher https://sober.vinegarhq.org/
 { "name": "sober", "type": "Game" }
@@ -435,6 +466,9 @@
 # Square Brawl https://store.steampowered.com/app/394850/Square_Brawl/
 { "name": "Square Brawl.x86", "type": "Game" }
 
+# Stackflow https://store.steampowered.com/app/3908810/Stackflow/
+{ "name": "stackflow.x86_64", "type": "Game" }
+
 # Stacking https://store.steampowered.com/app/115110/Stacking/
 { "name": "Stack.bin.x86", "type": "Game" }
 
@@ -489,6 +523,10 @@
 # Staxel https://store.steampowered.com/app/405710/Staxel/
 { "name": "StaxelCE", "type": "Game" }
 
+# SteamVR https://store.steampowered.com/app/250820/SteamVR/
+{ "name": "steamvr_tutorial.x86_64", "type": "Game" }
+{ "name": "vrstartup", "type": "Game" }
+
 # SteamWorld Dig https://store.steampowered.com/app/252410/SteamWorld_Dig/
 { "name": "SteamWorldDig", "type": "Game" }
 
@@ -532,6 +570,9 @@
 # Stranded Deep https://store.steampowered.com/app/313120/Stranded_Deep/
 { "name": "Stranded_Deep", "type": "Game" }
 
+# Stranded in Space https://store.steampowered.com/app/2283780/
+{ "name": "StrandedInSpace", "type": "Game" }
+
 # Stranded In Time https://store.steampowered.com/app/385150/Stranded_In_Time/
 { "name": "StrandedInTime_Linux.x86", "type": "Game" }
 
@@ -557,6 +598,9 @@
 # Stygian: Reign of the Old Ones https://store.steampowered.com/app/779290/Stygian_Reign_of_the_Old_Ones/
 { "name": "STYGIAN.x86_64", "type": "Game" }
 
+# Sublight Demo https://store.steampowered.com/app/4468530/Sublight_Demo/
+{ "name": "sublight.x86_64", "type": "Game" }
+
 # Sub Rosa https://store.steampowered.com/app/272230/Sub_Rosa/
 { "name": "subrosa.x64", "type": "Game" }
 
@@ -581,6 +625,10 @@
 
 # Summer's Gone - Season 1 https://store.steampowered.com/app/2240150/
 { "name": "SummersGone_Season1_Steam", "type": "Game" }
+
+# Sundered: Eldritch Edition https://store.steampowered.com/app/535480/Sundered_Eldritch_Edition/
+{ "name": "Sundered.x86", "type": "Game" }
+{ "name": "Sundered.x86_64", "type": "Game" }
 
 # Sunless Sea https://store.steampowered.com/app/304650/SUNLESS_SEA/
 { "name": "Sunless Sea.x86", "type": "Game" }
@@ -632,8 +680,15 @@
 # Surviving Mars https://store.steampowered.com/app/464920/Surviving_Mars/
 { "name": "MarsSteam", "type": "Game" }
 
+# Survivor Strain - Season 1 https://store.steampowered.com/app/2568390/
+{ "name": "SomewhereIBelong", "type": "Game" }
+
 # Sven Co-op https://store.steampowered.com/app/225840/Sven_Coop/
 { "name": "svencoop_linux", "type": "Game" }
+
+# SweatShop https://store.steampowered.com/app/496680/SweatShop/
+{ "name": "SweatShop.x86_64", "type": "Game" }
+{ "name": "SweatShop.x86", "type": "Game" }
 
 # SWORDHAVEN https://store.steampowered.com/app/2108180/Swordhaven_Iron_Conspiracy/
 { "name": "Swordhaven.x86_64", "type": "Game" }

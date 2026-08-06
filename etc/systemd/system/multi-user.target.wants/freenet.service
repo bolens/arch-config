@@ -1,0 +1,57 @@
+[Unit]
+Description=Freenet Node
+Documentation=https://freenet.org
+After=network-online.target
+Wants=network-online.target
+StartLimitBurst=5
+StartLimitIntervalSec=120
+StartLimitAction=none
+
+[Service]
+Type=simple
+User=freenet
+Group=freenet
+Environment=HOME=/var/lib/freenet
+Environment=FREENET_SUPERVISED=1
+# Fast-crash-aware marker (upstream #4551); value must be present
+Environment=FREENET_SYSTEMD_FAST_CRASH=1
+
+# Stale-orphan self-heal (issue #3967). $$ escaped for systemd→shell.
+ExecStartPre=-/bin/sh -c 'self=$$$$; bin=/var/lib/freenet/.local/bin/freenet; ondisk=$$(timeout 5 "$$bin" --version 2>/dev/null | grep "^Freenet version:"); for pid in $$(pgrep -f -u freenet "freenet network" 2>/dev/null); do [ "$$pid" = "$$self" ] && continue; [ "$$pid" = "1" ] && continue; exe=$$(readlink -f /proc/$$pid/exe 2>/dev/null); hv=""; [ -x "$$exe" ] && hv=$$(timeout 5 "$$exe" --version 2>/dev/null | grep "^Freenet version:"); ppid=$$(sed "s/.*) //" /proc/$$pid/stat 2>/dev/null | awk "{print \\$$2}"); mismatch=1; [ -n "$$ondisk" ] && [ -n "$$hv" ] && [ "$$hv" != "$$ondisk" ] && mismatch=0; if [ "$$ppid" = "1" ] && { [ "$$mismatch" = "0" ] || [ -z "$$hv" ]; }; then kill -TERM "$$pid" 2>/dev/null || true; w=0; while kill -0 "$$pid" 2>/dev/null && [ $$w -lt 12 ]; do sleep 1; w=$$((w+1)); done; kill -0 "$$pid" 2>/dev/null && kill -KILL "$$pid" 2>/dev/null || true; fi; done'
+
+ExecStart=/var/lib/freenet/.local/bin/freenet network
+Restart=always
+RestartSec=10
+RestartSteps=10
+RestartMaxDelaySec=300
+TimeoutStopSec=45
+
+# Auto-update on exit 42 (version mismatch) or 45 (fast crash / boot wedge)
+ExecStopPost=-/bin/sh -c 'case "$$EXIT_STATUS" in 42|45) /var/lib/freenet/.local/bin/freenet update --quiet || true ;; esac'
+SuccessExitStatus=42 43
+RestartPreventExitStatus=43
+
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=freenet
+
+LimitNOFILE=65536
+MemoryMax=2G
+CPUQuota=200%
+
+# Hardening (home is /var/lib/freenet, not /home)
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/freenet
+PrivateDevices=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+LockPersonality=true
+RestrictRealtime=true
+
+[Install]
+WantedBy=multi-user.target

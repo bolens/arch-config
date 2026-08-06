@@ -8,9 +8,6 @@
 # Galaxy Life https://store.steampowered.com/app/1927780/Galaxy_Life/
 { "name": "GalaxyLife", "type": "Game" }
 
-# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
-{ "name": "gamblers-table.x86_64", "type": "Game" }
-
 # Gambonanza https://store.steampowered.com/app/3509230/Gambonanza/
 { "name": "Gambonanza.x86_64", "type": "Game" }
 
@@ -48,6 +45,9 @@
 { "name": "GeminiRue.bin.x86_64", "type": "Game" }
 { "name": "winsetup", "type": "Game" }
 
+# Geometry Wars 3: Dimensions Evolved https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/
+{ "name": "GeometryWars3", "type": "Game" }
+
 # Getting Over It with Bennett Foddy https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
 { "name": "GettingOverIt.x86_64", "type": "Game" }
 
@@ -74,8 +74,14 @@
 # Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame", "type": "Game" }
 
+# Goblin Camp https://store.steampowered.com/app/2431980/Goblin_Camp/
+{ "name": "GoblinCamp.x86_64", "type": "Game" }
+
 # Goblin Sushi https://store.steampowered.com/app/3734290/Goblin_Sushi/
 { "name": "SushiRoguelike", "type": "Game" }
+
+# Godhood https://store.steampowered.com/app/917150/Godhood/
+{ "name": "godhood", "type": "Game" }
 
 # Godlike Burger https://store.steampowered.com/app/1432910/Godlike_Burger/
 { "name": "Godlike Burger.x86_64", "type": "Game" }
@@ -144,9 +150,6 @@
 
 # Growing Things Up - Season 1 https://store.steampowered.com/app/3910610/
 { "name": "GrowingThingsUp", "type": "Game" }
-
-# Guacamelee! Gold Edition https://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/
-{ "name": "game", "type": "Game" }
 
 # Guardians of Victoria https://store.steampowered.com/app/385080/Guardians_of_Victoria/
 { "name": "guardiansofvictoria", "type": "Game" }

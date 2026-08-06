@@ -183,11 +183,17 @@
 # Mist Legacy https://store.steampowered.com/app/1259440/Mist_Legacy/
 { "name": "mistlegacy.x86_64", "type": "Game" }
 
+# MMA Life Simulator https://store.steampowered.com/app/2655080/
+{ "name": "MMALife.x86_64", "type": "Game" }
+
 # MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
 { "name": "MT2", "type": "Game" }
 
 # Mobmod https://gamebanana.com/mods/464620/
 { "name": "Mobbos", "type": "Game" }
+
+# Modern Tanks https://store.steampowered.com/app/782660/Modern_Tanks_War_Tank_Games/
+{ "name": "Modern Tanks.x86_64", "type": "Game" }
 
 # Momentum Mod Playtest https://store.steampowered.com/app/1802710/Momentum_Mod/
 { "name": "momentum", "type": "Game" }

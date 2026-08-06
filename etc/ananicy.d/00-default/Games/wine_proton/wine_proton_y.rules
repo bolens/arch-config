@@ -38,9 +38,6 @@
 # Yakuza Kiwami 2 (Legacy) https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/
 { "name": "YakuzaKiwami2.exe", "type": "Game" }
 
-# Yakuza Kiwami 3 & Dark Ties https://store.steampowered.com/app/3937550/Yakuza_Kiwami_3__Dark_Ties/
-{ "name": "yakuzakiwami3.exe", "type": "Game" }
-
 # Yakuza Kiwami (Legacy) https://store.steampowered.com/app/834530/Yakuza_Kiwami/
 { "name": "YakuzaKiwami.exe", "type": "Game" }
 
@@ -60,7 +57,7 @@
 { "name": "yapyap.exe", "type": "Game" }
 
 # YAR: Forgotten Throne https://store.steampowered.com/app/2669860/YAR_Forgotten_Throne/
-{ "name": "YAR.exe", "type": "Game" }
+{ "name": "YAR.exe", "type": "BG_CPUIO" }
 { "name": "YAR-Win64-Shipping.exe", "type": "Game" }
 
 # Yargis - Space Melee - Dedicated Server https://store.steampowered.com/app/382030/
@@ -81,6 +78,9 @@
 # Yellow Taxi Goes Vroom https://store.steampowered.com/app/2011780/Yellow_Taxi_Goes_Vroom/
 { "name": "Yellow Taxi Goes Vroom.exe", "type": "Game" }
 
+# Yellow: The Yellow Artifact https://store.steampowered.com/app/486820/
+{ "name": "yellow.exe", "type": "Game" }
+
 # Yesterday https://store.steampowered.com/app/205840/Yesterday/
 { "name": "Yesterday.exe", "type": "Game" }
 
@@ -89,6 +89,12 @@
 
 # Yes, Your Grace 2: Snowfall https://store.steampowered.com/app/1373090/Yes_Your_Grace_2_Snowfall/
 { "name": "Yes Your Grace Snowfall.exe", "type": "Game" }
+
+# Yet Another Incremental Game https://store.steampowered.com/app/3729810/Yet_Another_Incremental_Game_but_this_time_about_coding/
+{ "name": "yaig.exe", "type": "Game" }
+
+# Yet Another Zombie Defense https://store.steampowered.com/app/270550/Yet_Another_Zombie_Defense/
+{ "name": "YetAnotherZombieDefense.exe", "type": "Game" }
 
 # Yet Another Zombie Defense HD https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/
 { "name": "YAZD_HD.exe", "type": "Game" }
@@ -113,6 +119,15 @@
 
 # Yog-Sothoth’s Yard https://store.steampowered.com/app/2194530/YogSothoths_Yard/
 { "name": "Yog-Sothoth's Yard.exe", "type": "Game" }
+
+# Yokai Art 2: Tales of the Nine-Tails https://store.steampowered.com/app/3405160/Yokai_Art_2_Tales_of_the_NineTails/
+{ "name": "Yokai Art 2.exe", "type": "Game" }
+
+# Yokai Art: Night Parade of One Hundred Demons https://store.steampowered.com/app/1812060/Yokai_Art_Night_Parade_of_One_Hundred_Demons/
+{ "name": "Yokai Art.exe", "type": "Game" }
+
+# Yoko no Hanashi https://store.steampowered.com/app/3906610/Yoko_no_Hanashi/
+{ "name": "Yoko no Hanashi.exe", "type": "Game" }
 
 # Yoku's Island Express https://store.steampowered.com/app/334940/Yokus_Island_Express/
 { "name": "Yoku.exe", "type": "Game" }
@@ -141,6 +156,10 @@
 
 # YOU and ME and HER: A Love Story https://store.steampowered.com/app/1293820/YOU_and_ME_and_HER_A_Love_Story/
 { "name": "totono_Steam.exe", "type": "Game" }
+
+# YOU ARE THE MONSTER https://store.steampowered.com/app/3986670/YOU_ARE_THE_MONSTER/
+{ "name": "YOU ARE THE MONSTER.exe", "type": "BG_CPUIO" }
+{ "name": "Kaiju_2025-Win64-Shipping.exe", "type": "Game" }
 
 # YOU DON'T KNOW JACK HEADRUSH https://store.steampowered.com/app/260060/YOU_DONT_KNOW_JACK_HEADRUSH/
 { "name": "YDKJVH.EXE", "type": "Game" }
@@ -238,8 +257,11 @@
 { "name": "ys6_win_dx9.exe", "type": "Game" }
 { "name": "ys6_win.exe", "type": "Game" }
 
-# Ys X: Proud Nordics https://store.steampowered.com/app/3949290/Ys_X_Proud_Nordics/
+# Ys X: Proud Nordics (20 Feb, 2026) https://store.steampowered.com/app/3949290/Ys_X_Proud_Nordics/
 { "name": "ysx_pn.exe", "type": "Game" }
+
+# Ys X: Proud Nordics (21 Aug, 2025) https://store.steampowered.com/app/3821790/Ys_X_Proud_Nordics/
+{ "name": "ysx.exe", "type": "Game" }
 
 # Yu-Gi-Oh! Duel Links https://store.steampowered.com/app/601510/YuGiOh_Duel_Links/
 { "name": "dlpc.exe", "type": "Game" }
@@ -250,9 +272,6 @@
 
 # Yu-Gi-Oh! Master Duel https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
 { "name": "masterduel.exe", "type": "Game" }
-
-# Yume Nikki https://store.steampowered.com/app/650700/Yume_Nikki/
-{ "name": "RPG_RT.exe", "type": "Game" }
 
 # Yunyun Syndrome!? Rhythm Psychosis https://store.steampowered.com/app/2914150/Yunyun_Syndrome_Rhythm_Psychosis/
 { "name": "Yunyun_Syndrome.exe", "type": "Game" }

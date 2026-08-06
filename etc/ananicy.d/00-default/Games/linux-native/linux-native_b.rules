@@ -13,11 +13,17 @@
 # BABBDI https://store.steampowered.com/app/2240530/BABBDI/
 { "name": "BABBDI_1.2.5.x86_64", "type": "Game" }
 
+# Babel Legacy Demo https://store.steampowered.com/app/4802030/Babel_Legacy_Demo/
+{ "name": "Babel Legacy Demo.x86_64", "type": "Game" }
+
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
 { "name": "Lunar.x86_64", "type": "Game" }
 
 # Baddies, Inc. https://store.steampowered.com/app/3465660/
 { "name": "BaddiesInc", "type": "Game" }
+
+# BAD END THEATER https://store.steampowered.com/app/1764390/BAD_END_THEATER/
+{ "name": "badendtheater", "type": "Game" }
 
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
@@ -40,8 +46,14 @@
 # Banana https://store.steampowered.com/app/2923300/Banana/
 { "name": "Banana.x86_64", "type": "Game" }
 
+# Bang Average Football https://store.steampowered.com/app/2393770/Bang_Average_Football__Play_Manage_Create/
+{ "name": "BangAverageFootball.AppImage", "type": "Game" }
+
 # Bao Bao's Cozy Laundromat https://store.steampowered.com/app/3194550/Bao_Baos_Cozy_Laundromat/
 { "name": "BaoBao-Linux-Build.x86_64", "type": "Game" }
+
+# Barely Working https://store.steampowered.com/app/2241000/
+{ "name": "barely_working.x86_64", "type": "Game" }
 
 # Bare Witness https://store.steampowered.com/app/2387380/
 { "name": "BareWitness", "type": "Game" }
@@ -111,6 +123,10 @@
 # Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
 { "name": "BeatHazard", "type": "Game" }
 { "name": "BeatHazard_Linux2", "type": "Game" }
+
+# Beavers Be Dammed https://store.steampowered.com/app/764570/Beavers_Be_Dammed/
+{ "name": "BeaversBeDammed.x86_64", "type": "Game" }
+{ "name": "BeaversBeDammed.x86", "type": "Game" }
 
 # Before the Echo https://store.steampowered.com/app/200910/Before_the_Echo/
 { "name": "BeforeTheEcho", "type": "Game" }
@@ -211,6 +227,9 @@
 
 # Borderless Gaming https://store.steampowered.com/app/388080/Borderless_Gaming/
 { "name": "bg-holo", "type": "Game" }
+
+# Boring Man - Online Tactical Stickman Combat https://store.steampowered.com/app/346120/Boring_Man__Online_Tactical_Stickman_Combat/
+{ "name": "BoringManRewrite", "type": "Game" }
 
 # Born Again https://store.steampowered.com/app/2332210/Born_Again/
 { "name": "Born_Again.x86_64", "type": "Game" }

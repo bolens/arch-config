@@ -11,6 +11,15 @@
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "wakingmars", "type": "Game" }
 
+# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
+{ "name": "AppRun", "type": "BG_CPUIO" }
+
+# War Brokers https://store.steampowered.com/app/750470/War_Brokers/
+{ "name": "war_brokers.x86_64", "type": "Game" }
+
+# Warfare Legacy Collection https://store.steampowered.com/app/2745870/Warfare_Legacy_Collection/
+{ "name": "wflc-linux.x86_64", "type": "Game" }
+
 # Warfork https://store.steampowered.com/app/671610/Warfork/
 { "name": "warfork.x86_64", "type": "Game" }
 
@@ -78,6 +87,9 @@
 # We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
 { "name": "GlimpseGame", "type": "Game" }
 
+# Welcome to Free Will https://store.steampowered.com/app/1743260/
+{ "name": "WelcometoFreeWill", "type": "Game" }
+
 # We Need To Go Deeper https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/
 { "name": "WeNeedToGoDeeper", "type": "Game" }
 
@@ -85,12 +97,27 @@
 { "name": "West of Loathing.x86", "type": "Game" }
 { "name": "West of Loathing.x86_64", "type": "Game" }
 
+# We. The Revolution https://store.steampowered.com/app/736850/We_The_Revolution/
+{ "name": "We.TheRevolution.x86_64", "type": "Game" }
+{ "name": "We.TheRevolution.x86", "type": "Game" }
+{ "name": "We.TheRevolution.x86_64elf", "type": "Game" }
+{ "name": "We.TheRevolution.x86elf", "type": "Game" }
+
 # We Were Here Too https://store.steampowered.com/app/677160/We_Were_Here_Too/
 { "name": "We Were Here Too.x86", "type": "Game" }
 { "name": "We Were Here Too.x86_64", "type": "Game" }
 
+# WHAT THE GOLF? https://store.steampowered.com/app/785790/WHAT_THE_GOLF/
+{ "name": "WHAT THE GOLF", "type": "Game" }
+
 # Where the Heart is https://store.steampowered.com/app/2287710/
 { "name": "WTHI_Season1", "type": "Game" }
+
+# while True: learn() https://store.steampowered.com/app/619150/while_True_learn/
+{ "name": "wtl.x86_64", "type": "Game" }
+
+# Whispering Ledger https://store.steampowered.com/app/4323500/
+{ "name": "WhisperingLedger", "type": "Game" }
 
 # Whispering Willows https://store.steampowered.com/app/288060/Whispering_Willows/
 { "name": "WhisperingWillows.x86", "type": "Game" }
@@ -115,6 +142,9 @@
 # Wireworks https://store.steampowered.com/app/4206270/Wireworks/
 { "name": "Wireworks.x86_64", "type": "Game" }
 
+# With Eyes Closed - Season 1 https://store.steampowered.com/app/2492780/
+{ "name": "WithEyesClosed", "type": "Game" }
+
 # Without Within https://store.steampowered.com/app/345650/Without_Within/
 { "name": "without_within", "type": "Game" }
 
@@ -130,9 +160,6 @@
 
 # Wonder Boy: The Dragon's Trap https://store.steampowered.com/app/543260/Wonder_Boy_The_Dragons_Trap/
 { "name": "WonderBoy", "type": "Game" }
-
-# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
-{ "name": "wordle.x86", "type": "Game" }
 
 # WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
 { "name": "worldbox", "type": "Game" }

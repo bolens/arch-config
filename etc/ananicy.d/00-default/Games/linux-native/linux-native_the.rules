@@ -47,6 +47,12 @@
 # The Colonists https://store.steampowered.com/app/677340/The_Colonists/
 { "name": "TheColonists.x86", "type": "Game" }
 
+# The Coma 2: Vicious Sisters https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/
+{ "name": "TheComa2ViciousSisters.x86_64", "type": "Game" }
+
+# The Coma: Recut https://store.steampowered.com/app/600090/The_Coma_Recut/
+{ "name": "TheComaRecut.x86_64", "type": "Game" }
+
 # The Culling https://store.steampowered.com/app/437220/The_Culling/
 { "name": "Victory", "type": "Game" }
 
@@ -55,6 +61,9 @@
 
 # The Dark Queen of Mortholme https://store.steampowered.com/app/3587610/The_Dark_Queen_of_Mortholme/
 { "name": "The Dark Queen of Mortholme.x86_64", "type": "Game" }
+
+# The Darkside Detective https://store.steampowered.com/app/368390/The_Darkside_Detective/
+{ "name": "thedarksidedetective.x86_64", "type": "Game" }
 
 # The Deer https://store.steampowered.com/app/400240/The_Deer/
 { "name": "TheDeer.x86", "type": "Game" }
@@ -107,6 +116,9 @@
 
 # The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
 { "name": "ImpossibleGame", "type": "Game" }
+
+# The Incident at Galley House https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/
+{ "name": "galleyhouse", "type": "Game" }
 
 # The Jackbox Megapicker https://store.steampowered.com/app/2828500/The_Jackbox_Megapicker/
 { "name": "The Jackbox Megapicker", "type": "Game" }
@@ -207,6 +219,9 @@
 { "name": "The Novelist.x86", "type": "Game" }
 { "name": "The Novelist.x86_64", "type": "Game" }
 
+# The one who pulls out the sword will be crowned king https://store.steampowered.com/app/1865370/The_one_who_pulls_out_the_sword_will_be_crowned_king/
+{ "name": "The one who pulls out the sword will be crowned king.x86_64", "type": "Game" }
+
 # The Operator https://store.steampowered.com/app/1771980/The_Operator/
 { "name": "OPERATOR", "type": "Game" }
 
@@ -234,14 +249,11 @@
 # The Séance of Blake Manor https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/
 { "name": "The Seance of Blake Manor.x86_64", "type": "Game" }
 
-# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
-{ "name": "TheSevenRealms", "type": "Game" }
-
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
 { "name": "TheSpellBrigade.x86_64", "type": "Game" }
 
-# The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
-{ "name": "stanley", "type": "Game" }
+# The Stanley Parable Demo https://store.steampowered.com/app/247750/
+{ "name": "stanley_linux", "type": "Game" }
 
 # The Stanley Parable: Ultra Deluxe https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/
 { "name": "The Stanley Parable Ultra Deluxe.x86_64", "type": "Game" }

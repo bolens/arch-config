@@ -5,6 +5,9 @@
 
 ### U ###
 
+# u4ia https://store.steampowered.com/app/2890150/
+{ "name": "u4ia", "type": "Game" }
+
 # Ultimate Chicken Horse https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/
 { "name": "UltimateChickenHorse.x86_64", "type": "Game" }
 
@@ -22,6 +25,9 @@
 
 # Umineko When They Cry - Question Arcs https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
 { "name": "Umineko1to4", "type": "Game" }
+
+# Unaware in The City https://store.steampowered.com/app/2532340/
+{ "name": "UiTC.x86_64", "type": "Game" }
 
 # UnderMine https://store.steampowered.com/app/656350/UnderMine/
 { "name": "UnderMine", "type": "Game" }

@@ -43,6 +43,9 @@
 # Cardboard Town https://store.steampowered.com/app/2198070/Cardboard_Town/
 # Witchy Business https://store.steampowered.com/app/3415230/Witchy_Business/
 # Perfume Atelier https://store.steampowered.com/app/3962270/Perfume_Atelier/
+# Treasure Beach https://store.steampowered.com/app/3939700/Treasure_Beach/
+# Cozy Cleaner  https://store.steampowered.com/app/2742710/Cozy_Cleaner/
+# Plinbo https://store.steampowered.com/app/3948580/Plinbo_Roguelike_Plinko/
 { "name": "app.x86_64", "type": "Game" }
 
 # Backpack Battles Demo https://store.steampowered.com/app/2444170/Backpack_Battles/
@@ -72,6 +75,7 @@
 # Freedom Planet https://store.steampowered.com/app/248310/Freedom_Planet/
 # Environmental Station Alpha https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 # Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
+# Iconoclasts https://store.steampowered.com/app/393520/Iconoclasts/
 # Astral Ascent https://store.steampowered.com/app/1280930/Astral_Ascent/
 # The Escapists https://store.steampowered.com/app/298630/The_Escapists/
 { "name": "Chowdren", "type": "Game" }
@@ -83,6 +87,14 @@
 # Dead Island https://store.steampowered.com/app/91310/
 # Dead Island Definitive Edition https://store.steampowered.com/app/383150/
 { "name": "DeadIslandGame", "type": "Game" }
+
+# Dimhaven Enigmas Demo https://store.steampowered.com/app/3010310/
+# Dimhaven - The Lost Source https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/
+{ "name": "Dimhaven Enigmas.x86_64", "type": "Game" }
+
+# Dome Keeper Demo https://store.steampowered.com/app/1650980/Dome_Keeper_Demo/
+# Dome Keeper https://store.steampowered.com/app/1637320/Dome_Keeper/
+{ "name": "domekeeper.x86_64", "type": "Game" }
 
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
@@ -131,19 +143,41 @@
 # FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
 { "name": "FreshWomen", "type": "Game" }
 
+# Gamblers Table Demo https://store.steampowered.com/app/3747250/Gamblers_Table_Demo/
+# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
+{ "name": "gamblers-table.x86_64", "type": "Game" }
+
+# Guacamelee! Gold Edition https://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/
+# How to lose one's virginity https://store.steampowered.com/app/2578880/
+{ "name": "game", "type": "Game" }
+
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
 # Everafter Falls https://store.steampowered.com/app/1416960/Everafter_Falls/
+# Idol Hands 2 https://store.steampowered.com/app/2053940/
+# Daily life with my succubus boss https://store.steampowered.com/app/2059310/
+# Lovey-Dovey Lockdown https://store.steampowered.com/app/2329630/
+# Lewd gym https://store.steampowered.com/app/2019680/
+# MARVEL Cosmic Invasion Demo https://store.steampowered.com/app/4013980/MARVEL_Cosmic_Invasion_Demo/
 { "name": "Game", "type": "Game" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 # Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
+# Space Hulk Ascension (Classic) https://store.steampowered.com/app/317620/Space_Hulk_Ascension_Classic/
 { "name": "game.x86", "type": "Game" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 # Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
+
+# Happy Endings https://store.steampowered.com/app/4689440/
+# Happy Endings Demo https://store.steampowered.com/app/4738790/
+{ "name": "happy-endings", "type": "Game" }
+
+# Haste Demo https://store.steampowered.com/app/2940200/Haste_Demo/
+# Haste https://store.steampowered.com/app/1796470/Haste/
+{ "name": "Haste.x86_64", "type": "Game" }
 
 # Northgard: Definitive Edition https://store.steampowered.com/app/466560/Northgard_Definitive_Edition/
 # Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
@@ -165,6 +199,7 @@
 # Synergy https://store.steampowered.com/app/17520/Synergy/
 # Half-Life 2: Update https://store.steampowered.com/app/290930/HalfLife_2_Update/
 # Treason https://store.steampowered.com/app/1786950/Klaus_Veens_Treason/
+# Half-Life 2: Demo https://store.steampowered.com/app/219/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
@@ -226,20 +261,37 @@
 
 # Gourdlets https://store.steampowered.com/app/2013730/Gourdlets/
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
+# Backpack Hero Demo https://store.steampowered.com/app/2066510/
 # Watermelon https://store.steampowered.com/app/2373450/Watermelon/
 { "name": "linux.x86_64", "type": "Game" }
+
+# LookPilot Demo https://store.steampowered.com/app/3517680/
+# LookPilot https://store.steampowered.com/app/3326890/LookPilot/
+{ "name": "LookPilot", "type": "Game" }
 
 # Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
 # LOOTPLOT https://store.steampowered.com/app/3057190/LOOTPLOT/
 { "name": "love", "type": "Game" }
 
+# Lust Academy Season 3 https://store.steampowered.com/app/2655960/
+# Lust Academy https://store.steampowered.com/app/1846920/
+{ "name": "Lust-Academy", "type": "Game" }
+
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
 
+# Five Hearts Under One Roof Demo https://store.steampowered.com/app/3166530/Five_Hearts_Under_One_Roof_Demo/
+# Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
+{ "name": "MilkGame.x86_64", "type": "Game" }
+
 # My Dorm - Season 1 https://store.steampowered.com/app/3510160/
 # My Dorm - Season 2 https://store.steampowered.com/app/4178920/
 { "name": "MyDorm", "type": "Game" }
+
+# Neverway Prologue https://store.steampowered.com/app/4520130/
+# Neverway https://store.steampowered.com/app/2318330/Neverway/
+{ "name": "Neverway", "type": "Game" }
 
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
@@ -247,6 +299,12 @@
 # Treasure of Nadia https://store.steampowered.com/app/1737100/
 # The Genesis Order https://store.steampowered.com/app/2553870/
 # - Arcane Raise - https://store.steampowered.com/app/603750/_Arcane_Raise/
+# Dorm Janitor's Revenge https://store.steampowered.com/app/3416960/
+# Meltys Quest https://store.steampowered.com/app/723090/
+# Liveza: Death of the Earth https://store.steampowered.com/app/463100/Liveza_Death_of_the_Earth/
+# Liè wū nísī de wǎngē 列乌尼斯的挽歌 https://store.steampowered.com/app/3371260/Requiem_of_Reuinis/
+# Latex Dungeon https://store.steampowered.com/app/1622780/
+# Yellow: The Yellow Artifact https://store.steampowered.com/app/486820/
 { "name": "nw", "type": "Game" }
 
 # Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/
@@ -267,6 +325,10 @@
 # Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
 { "name": "PA", "type": "Game" }
 
+# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
+# Pathogenic https://store.steampowered.com/app/3808690/Pathogenic/
+{ "name": "pathogenic.x86_64", "type": "Game" }
+
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
@@ -275,11 +337,16 @@
 # Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
 # Portal 2 https://store.steampowered.com/app/620/Portal_2/
 # Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
+# Aperture Tag: The Paint Gun Testing Initiative https://store.steampowered.com/app/280740/Aperture_Tag_The_Paint_Gun_Testing_Initiative/
 { "name": "portal2_linux", "type": "Game" }
 
 # Projekt: Passion https://store.steampowered.com/app/2173800/
 # Projekt: Passion - Season 2 https://store.steampowered.com/app/2863160/
 { "name": "ProjektPassion", "type": "Game" }
+
+# Pure Badminton Demo https://store.steampowered.com/app/4013610/Pure_Badminton_Demo/
+# Pure Badminton https://store.steampowered.com/app/2591310/Pure_Badminton/
+{ "name": "Pure Badminton.x86_64", "type": "Game" }
 
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 # Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
@@ -292,6 +359,7 @@
 # X-Blades https://store.steampowered.com/app/7510/XBlades/
 # Enclave https://store.steampowered.com/app/253980/Enclave/
 # Jack Orlando Director's Cut https://store.steampowered.com/app/253960/Jack_Orlando_Directors_Cut/
+# Battle vs Chess https://store.steampowered.com/app/211050/Battle_vs_Chess/
 { "name": "RunGame", "type": "Game" }
 
 # Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
@@ -321,7 +389,14 @@
 # TTV2 https://store.steampowered.com/app/701470/TTV2/
 # Porradaria Upgrade https://store.steampowered.com/app/399000/Porradaria_Upgrade/
 # The Red Strings Club https://store.steampowered.com/app/589780/The_Red_Strings_Club/
+# Madrobot X https://store.steampowered.com/app/513610/Madrobot_X/
+# Tiamat X https://store.steampowered.com/app/343340/Tiamat_X/
+# DEADBOLT https://store.steampowered.com/app/394970/DEADBOLT/
 { "name": "runner", "type": "Game" }
+
+# Scapewatch: Idle MMO Demo https://store.steampowered.com/app/4750660/Scapewatch_Idle_MMO_Demo/
+# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
+{ "name": "scapewatch", "type": "Game" }
 
 # Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
 # Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
@@ -359,6 +434,10 @@
 # Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
 { "name": "srcds_run", "type": "Service" }
 
+# The Stanley Parable Demo https://store.steampowered.com/app/247750/
+# The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
+{ "name": "stanley", "type": "Game" }
+
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
 # Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
@@ -379,10 +458,30 @@
 # X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
 { "name": "testandlaunch", "type": "Game" }
 
+# The First Million https://store.steampowered.com/app/4446010/The_First_Million/
+# The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
+{ "name": "TheFirstMillion.x86_64", "type": "Game" }
+
+# The Seven Realms: High Lathión https://store.steampowered.com/app/2580130/
+# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
+{ "name": "TheSevenRealms", "type": "Game" }
+
+# Tiny Glade Demo https://store.steampowered.com/app/2932580/
+# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
+{ "name": "tiny-glade", "type": "Game" }
+
+# Turnbound Demo https://store.steampowered.com/app/3810040/
+# Turnbound https://store.steampowered.com/app/3802470/Turnbound/
+{ "name": "Turnbound.x86_64", "type": "Game" }
+
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
 # Tower of Guns https://store.steampowered.com/app/266110/Tower_of_Guns/
 { "name": "UDKGame-Linux", "type": "Game" }
+
+# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
+# Langoth https://store.steampowered.com/app/581100/Langoth/
+{ "name": "UE4Game-Linux-Shipping", "type": "Game" }
 
 # Wargame: AirLand Battle https://store.steampowered.com/app/222750/Wargame_Airland_Battle/
 # Wargame: European Escalation https://store.steampowered.com/app/58610/Wargame_European_Escalation/
@@ -391,6 +490,18 @@
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }
+
+# Wordle https://store.steampowered.com/app/1334000/Wordle/
+# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
+{ "name": "wordle.x86", "type": "Game" }
+
+# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+{ "name": "WreckRunners.exe", "type": "BG_CPUIO" }
+
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
+{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
 
 # Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
 # Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/

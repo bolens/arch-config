@@ -14,6 +14,9 @@
 # Odd Realm https://store.steampowered.com/app/688060/Odd_Realm/
 { "name": "OddRealm.x86_64", "type": "Game" }
 
+# Oddworld: New 'n' Tasty https://store.steampowered.com/app/314660/Oddworld_New_n_Tasty/
+{ "name": "NNT.x86", "type": "Game" }
+
 # Odysseus Kosmos and his Robot Quest - Episode 1 https://store.steampowered.com/app/769920/Odysseus_Kosmos_and_his_Robot_Quest_Episode_1/
 { "name": "Odysseus_S1E1.x86_64", "type": "Game" }
 { "name": "Odysseus_S1E1.x86", "type": "Game" }
@@ -80,6 +83,9 @@
 # Our Life: Now & Forever Demo https://store.steampowered.com/app/1871580/Our_Life_Now__Forever_Demo/
 { "name": "OurLifeNF", "type": "Game" }
 
+# Our Red String https://store.steampowered.com/app/3669040/
+{ "name": "OurRedString", "type": "Game" }
+
 # Outlast https://store.steampowered.com/app/238320/Outlast/
 { "name": "OLGame.x86_64", "type": "Game" }
 
@@ -97,6 +103,10 @@
 # Overgrowth https://store.steampowered.com/app/25000/Overgrowth/
 { "name": "Overgrowth.bin.x86", "type": "Game" }
 { "name": "Overgrowth.bin.x86_64", "type": "Game" }
+
+# Overload https://store.steampowered.com/app/448850/Overload/
+{ "name": "Overload.x86", "type": "Game" }
+{ "name": "Overload.x86_64", "type": "Game" }
 
 # Overlord II https://store.steampowered.com/app/12810/Overlord_II/
 { "name": "overlord2", "type": "Game" }

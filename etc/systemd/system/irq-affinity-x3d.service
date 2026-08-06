@@ -1,0 +1,15 @@
+[Unit]
+Description=Pin NVMe/NIC IRQs to 7900X3D CCD1 (CPUs 12-23)
+Documentation=file:///usr/local/sbin/irq-affinity-x3d
+After=irqbalance.service network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStartPre=/bin/sleep 3
+ExecStart=/usr/local/sbin/irq-affinity-x3d
+Nice=10
+
+[Install]
+WantedBy=multi-user.target

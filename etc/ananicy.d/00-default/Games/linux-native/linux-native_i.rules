@@ -48,14 +48,23 @@
 # I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
 { "name": "IHNMAIMS.x86_64", "type": "Game" }
 
+# Immortal Redneck https://store.steampowered.com/app/595140/Immortal_Redneck/
+{ "name": "ImmortalRedneck.x64", "type": "Game" }
+
 # I'm on Observation Duty https://store.steampowered.com/app/1046820/Im_on_Observation_Duty/
 { "name": "I'm on Observation Duty.x86_64", "type": "Game" }
+
+# I'm on Observation Duty 8 https://store.steampowered.com/app/2564960/Im_on_Observation_Duty_8/
+{ "name": "I'm on Observation Duty 8", "type": "Game" }
 
 # Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator", "type": "Game" }
 
 # Imperium Galactica II https://store.steampowered.com/app/490370/Imperium_Galactica_II/
 { "name": "ig2", "type": "Game" }
+
+# Impostor Factory https://store.steampowered.com/app/1182620/Impostor_Factory/
+{ "name": "ImpostorFactory.x86_64", "type": "Game" }
 
 # Increlution https://store.steampowered.com/app/1593350/Increlution/
 { "name": "Increlution", "type": "Game" }
@@ -104,11 +113,18 @@
 { "name": "Inscryption.x86", "type": "Game" }
 { "name": "Inscryption.x86_64", "type": "Game" }
 
+# Inside Jennifer - Season 1 https://store.steampowered.com/app/1754860/
+{ "name": "InsideJennifer", "type": "Game" }
+
 # Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
 { "name": "Insider_Trading.x86_64", "type": "Game" }
 
 # Insurgency https://store.steampowered.com/app/222880/Insurgency/
 { "name": "insurgency_linux", "type": "Game" }
+
+# Intergalactic Bubbles https://store.steampowered.com/app/351490/Intergalactic_Bubbles/
+{ "name": "Intergalactic Bubbles.x86_64", "type": "Game" }
+{ "name": "Intergalactic Bubbles.x86", "type": "Game" }
 
 # Interstellar Marines https://store.steampowered.com/app/236370/Interstellar_Marines/
 { "name": "InterstellarMarines.x64", "type": "Game" }
@@ -116,6 +132,9 @@
 
 # Interstellar Space: Genesis https://store.steampowered.com/app/984680/Interstellar_Space_Genesis/
 { "name": "isg.x86_64", "type": "Game" }
+
+# Intertwined - Season 1 https://store.steampowered.com/app/4783540/
+{ "name": "Intertwined", "type": "Game" }
 
 # Into the Breach https://store.steampowered.com/app/590380/Into_the_Breach/
 { "name": "Breach", "type": "Game" }
@@ -165,6 +184,9 @@
 
 # Is This Seat Taken? https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/
 { "name": "Is This Seat Taken.x86_64", "type": "Game" }
+
+# It's Fine Demo https://store.steampowered.com/app/4608740/Its_Fine_Demo/
+{ "name": "Its Fine Demo.x86_64", "type": "Game" }
 
 # Ittle Dew https://store.steampowered.com/app/241320/Ittle_Dew/
 { "name": "IttleDew.x86", "type": "Game" }

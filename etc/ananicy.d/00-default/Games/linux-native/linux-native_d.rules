@@ -76,6 +76,9 @@
 # Decay: The Mare https://store.steampowered.com/app/323720/Decay_The_Mare/
 { "name": "Decay - The Mare.x86", "type": "Game" }
 
+# Deep Sky Derelicts https://store.steampowered.com/app/698640/Deep_Sky_Derelicts/
+{ "name": "Deep Sky Derelicts.x86_64", "type": "Game" }
+
 # DEFCON https://store.steampowered.com/app/1520/DEFCON/
 { "name": "defcon.bin.x86", "type": "Game" }
 
@@ -137,8 +140,14 @@
 # Despot's Game: Dystopian Battle Simulator https://store.steampowered.com/app/1227280/Despots_Game_Dystopian_Battle_Simulator/
 { "name": "DespotsGame.x86_64", "type": "Game" }
 
+# Destroyer: The U-Boat Hunter https://store.steampowered.com/app/1272010/Destroyer_The_UBoat_Hunter/
+{ "name": "Destroyer The U-Boat Hunter.x86_64", "type": "Game" }
+
 # Detective Grimoire https://store.steampowered.com/app/272600/Detective_Grimoire/
 { "name": "DetectiveGrimoire", "type": "Game" }
+
+# Detention https://store.steampowered.com/app/555220/Detention/
+{ "name": "Detention.x86", "type": "Game" }
 
 # Deus Ex: Mankind Divided https://store.steampowered.com/app/337000/
 { "name": "DeusExMD", "type": "Game" }
@@ -182,9 +191,6 @@
 # Divinity: Original Sin - Enhanced Edition https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 { "name": "EoCApp", "type": "Game" }
 
-# Dome Keeper https://store.steampowered.com/app/1637320/Dome_Keeper/
-{ "name": "domekeeper.x86_64", "type": "Game" }
-
 # Dominions 4 https://store.steampowered.com/app/259060/Dominions_4_Thrones_of_Ascension/
 { "name": "dom4_amd64", "type": "Game" }
 { "name": "dom4_x86", "type": "Game" }
@@ -200,6 +206,12 @@
 # Do Not Feed the Monkeys https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/
 { "name": "dnftm.x86", "type": "Game" }
 { "name": "dnftm.x86_64", "type": "Game" }
+
+# Don't Let It Starve https://store.steampowered.com/app/3930510/Dont_Let_It_Starve/
+{ "name": "Don't Let It Starve.x86_64", "type": "Game" }
+
+# Don’t Pull Me! Demo https://store.steampowered.com/app/4739810/Dont_Pull_Me_Demo/
+{ "name": "DontPullMeLinux.x86_64", "type": "Game" }
 
 # Doodle Empires https://store.steampowered.com/app/3438800/Doodle_Empires/
 { "name": "Doodle Empires.x86_64", "type": "Game" }
@@ -267,6 +279,9 @@
 # Drift Legends 2 https://store.steampowered.com/app/3664010/Drift_Legends_2/
 { "name": "DL2_Linux.x86_64", "type": "Game" }
 
+# #DRIVE Rally https://store.steampowered.com/app/2494780/DRIVE_Rally/
+{ "name": "DRIVERally.x86_64", "type": "Game" }
+
 # Dropsy https://store.steampowered.com/app/274350/Dropsy/
 { "name": "Dropsy.x86", "type": "Game" }
 { "name": "Dropsy.x86_64", "type": "Game" }
@@ -279,6 +294,9 @@
 
 # Duck Detective: The Secret Salami https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/
 { "name": "Duck Detective - The Secret Salami", "type": "Game" }
+
+# Duelyst II https://store.steampowered.com/app/2004320/Duelyst_II/
+{ "name": "Duelyst2", "type": "Game" }
 
 # Dummynation https://store.steampowered.com/app/1892030/Dummynation/
 { "name": "Dummynation", "type": "Game" }
@@ -293,8 +311,14 @@
 { "name": "LinuxDownloadLauncher", "type": "Game" }
 { "name": "DungeonDefenders-x86", "type": "Game" }
 
+# Dungeon Drafters https://store.steampowered.com/app/1824580/Dungeon_Drafters/
+{ "name": "Dungeon Drafters.x86_64", "type": "Game" }+
+
 # Dungeon of Elements https://store.steampowered.com/app/302310/Dungeon_of_Elements/
 { "name": "DungeonofElements.x86", "type": "Game" }
+
+# Dungeon Rushers https://store.steampowered.com/app/429620/Dungeon_Rushers/
+{ "name": "Dungeon Rushers.x86", "type": "Game" }
 
 # Dungeons 2 https://store.steampowered.com/app/262280/Dungeons_2/
 { "name": "Dungeons2", "type": "Game" }
@@ -313,6 +337,9 @@
 
 # Dungreed https://store.steampowered.com/app/753420/Dungreed/
 { "name": "Dungreed.x86_64", "type": "Game" }
+
+# Durka Simulator https://store.steampowered.com/app/1450150/Durka_Simulator/
+{ "name": "DurkaSimulator", "type": "Game" }
 
 # DUSK https://store.steampowered.com/app/519860/DUSK/
 { "name": "dusk.x86_64", "type": "Game" }

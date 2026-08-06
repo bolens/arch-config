@@ -15,6 +15,9 @@
 # X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4.exe", "type": "Game" }
 
+# X-Angels https://store.steampowered.com/app/2090810/
+{ "name": "XAngel.exe", "type": "Game" }
+
 # XBPlay https://store.steampowered.com/app/2693120/XBPlay/
 { "name": "XBPlay Remote Play for Xbox.exe", "type": "Game" }
 
@@ -34,6 +37,9 @@
 # X-COM: UFO Defense https://store.steampowered.com/app/7760/XCOM_UFO_Defense/
 { "name": "UFO Defense_Patched.exe", "type": "Game" }
 
+# XenoFeels Demo https://store.steampowered.com/app/4791300/
+{ "name": "XenoFeels.exe", "type": "Game" }
+
 # Xenonauts https://store.steampowered.com/app/223830/Xenonauts/
 { "name": "xenonauts.exe", "type": "Game" }
 
@@ -41,7 +47,7 @@
 { "name": "Xenonauts2.exe", "type": "Game" }
 
 # XERA: Survival https://store.steampowered.com/app/625340/XERA_Survival/
-{ "name": "XERA_Launcher.exe", "type": "Game" }
+{ "name": "XERA_Launcher.exe", "type": "BG_CPUIO" }
 { "name": "XERA-Win64-Shipping.exe", "type": "Game" }
 
 # XiuzhenWorld2 / 修真世界2 https://store.steampowered.com/app/3080880/XiuzhenWorld2/
@@ -69,3 +75,6 @@
 
 # Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
 { "name": "swd3e.exe", "type": "Game" }
+
+# Xvirus https://store.steampowered.com/app/4450350/
+{ "name": "Xvirus.exe", "type": "Game" }

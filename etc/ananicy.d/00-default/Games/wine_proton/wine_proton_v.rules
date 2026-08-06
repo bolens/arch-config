@@ -14,14 +14,22 @@
 # Vacuum Warrior https://store.steampowered.com/app/2302990/Vacuum_Warrior__Idle_Game/
 { "name": "VacuumWarrior.exe", "type": "Game" }
 
+# Vade Retro : Exorcist https://store.steampowered.com/app/1931950/Vade_Retro__Exorcist/
+{ "name": "Exorcist-Win64-Shipping.exe", "type": "Game" }
+
+# Vae Victis - Khan https://store.steampowered.com/app/2540230/
+{ "name": "Khan.exe", "type": "Game" }
+{ "name": "Khan-32.exe", "type": "Game" }
+
 # Vagante https://store.steampowered.com/app/323220/Vagante/
 { "name": "vagante.exe", "type": "Game" }
 
 # Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
 { "name": "Vagrus.exe", "type": "Game" }
 
-# VAIL https://store.steampowered.com/app/801550/VAIL_Extraction/
-{ "name": "VAIL.exe", "type": "Game" }
+# VAIL https://store.steampowered.com/app/801550/VAIL/
+{ "name": "VAIL.exe", "type": "BG_CPUIO" }
+{ "name": "VAIL-Win64-Shipping.exe", "type": "Game" }
 
 # Valdis Story: Abyssal City https://store.steampowered.com/app/252030/Valdis_Story_Abyssal_City/
 { "name": "Valdis_Story_AC.exe", "type": "Game" }
@@ -46,15 +54,19 @@
 { "name": "Valkyria4_x64.exe", "type": "Game" }
 
 # Valorborn https://store.steampowered.com/app/3372530/Valorborn/
-{ "name": "MedievalRPG.exe", "type": "Game" }
+{ "name": "MedievalRPG.exe", "type": "BG_CPUIO" }
 { "name": "MedievalRPG-Win64-Shipping.exe", "type": "Game" }
 { "name": "ValorbornLauncher.exe", "type": "BG_CPUIO" }
+
+# Valor Mortis Demo https://store.steampowered.com/app/4641840/Valor_Mortis_Demo/
+{ "name": "ValorMortis.exe", "type": "BG_CPUIO" }
+{ "name": "ValorMortis-Win64-Shipping.exe", "type": "Game" }
 
 # Vampire Hunters https://store.steampowered.com/app/2206270/Vampire_Hunters/
 { "name": "Vampire Hunters.exe", "type": "Game" }
 
 # Vampires: Bloodlord Rising https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
-{ "name": "VBR.exe", "type": "Game" }
+{ "name": "VBR.exe", "type": "BG_CPUIO" }
 { "name": "VBR-Win64-Shipping.exe", "type": "Game" }
 
 # Vampire's Fall 2 https://store.steampowered.com/app/4264230/Vampires_Fall_2/
@@ -64,7 +76,7 @@
 { "name": "VampireSurvivors.exe", "type": "Game" }
 
 # Vampire: The Masquerade - Bloodhunt https://store.steampowered.com/app/760160/Vampire_The_Masquerade__Bloodhunt/
-{ "name": "Tiger.exe", "type": "Game" }
+{ "name": "Tiger.exe", "type": "BG_CPUIO" }
 { "name": "Tiger-Win64-Shipping.exe", "type": "Game" }
 
 # Vampire: The Masquerade - Bloodlines https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
@@ -72,7 +84,7 @@
 
 # Vampire: The Masquerade - Bloodlines 2 https://store.steampowered.com/app/532790/Vampire_The_Masquerade__Bloodlines_2/
 { "name": "Bloodlines2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Bloodlines2.exe", "type": "Game" }
+{ "name": "Bloodlines2.exe", "type": "BG_CPUIO" }
 
 # Vampire: The Masquerade Bloodlines : Unofficial Patch https://www.moddb.com/mods/vtmb-unofficial-patch
 { "name": "Vampire.exe", "type": "Game" }
@@ -81,7 +93,7 @@
 { "name": "VtM Coteries of New York.exe", "type": "Game" }
 
 # Vampire: The Masquerade – Swansong https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
-{ "name": "Swansong.exe", "type": "Game" }
+{ "name": "Swansong.exe", "type": "BG_CPUIO" }
 { "name": "Swansong-Win64-Shipping.exe", "type": "Game" }
 
 # Vampire Therapist https://store.steampowered.com/app/2481020/Vampire_Therapist/
@@ -112,6 +124,9 @@
 
 # Vault of the Void https://store.steampowered.com/app/1135810/Vault_of_the_Void/
 { "name": "VaultoftheVoid.exe", "type": "Game" }
+
+# Vaygren - Lustful Temptation https://store.steampowered.com/app/1771700/
+{ "name": "VaygrenLT.exe", "type": "Game" }
 
 # VBridger https://store.steampowered.com/app/1898830/VBridger/
 { "name": "VBridger.exe", "type": "Game" }
@@ -170,8 +185,18 @@
 # Verho - Curse of Faces https://store.steampowered.com/app/3017330/Verho__Curse_of_Faces/
 { "name": "Verho.exe", "type": "Game" }
 
+# Veritas Tales: Witch of the Dark Castle https://store.steampowered.com/app/4508570/Veritas_Tales_Witch_of_the_Dark_Castle/
+{ "name": "DarkCastle.exe", "type": "Game" }
+
+# Vertigo 2 https://store.steampowered.com/app/843390/Vertigo_2/
+{ "name": "vertigo2.exe", "type": "Game" }
+
 # VGDD2 https://store.steampowered.com/app/2457540/Cardfight_Vanguard_Dear_Days_2/
 { "name": "VGDD2.exe", "type": "Game" }
+
+# VHOLUME Demo https://store.steampowered.com/app/4245250/VHOLUME_Demo/
+{ "name": "VHOLUME.exe", "type": "BG_CPUIO" }
+{ "name": "VHOLUME-Win64-Shipping.exe", "type": "Game" }
 
 # VHS https://store.steampowered.com/app/3074340/VHS/
 { "name": "VHS.exe", "type": "Game" }
@@ -198,7 +223,7 @@
 { "name": "vigil.exe", "type": "Game" }
 
 # Vigor https://store.steampowered.com/app/2818260/Vigor/
-{ "name": "Vigor.exe", "type": "Game" }
+{ "name": "Vigor.exe", "type": "BG_CPUIO" }
 { "name": "FlameSteamClient-Win64-Shipping.exe", "type": "Game" }
 
 # Viking: Battle for Asgard https://store.steampowered.com/app/211160/Viking_Battle_for_Asgard/
@@ -249,14 +274,14 @@
 { "name": "vsf_ng.exe", "type": "Game" }
 
 # Visage https://store.steampowered.com/app/594330/Visage/
-{ "name": "Visage.exe", "type": "Game" }
+{ "name": "Visage.exe", "type": "BG_CPUIO" }
 { "name": "Visage-Win64-Shipping.exe", "type": "Game" }
 
 # Viscera Cleanup Detail https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/
 { "name": "UDKLift.exe", "type": "Game" }
 
 # Visions of Mana https://store.steampowered.com/app/2490990/Visions_of_Mana/
-{ "name": "VisionsofMana.exe", "type": "Game" }
+{ "name": "VisionsofMana.exe", "type": "BG_CPUIO" }
 { "name": "VisionsofMana-Win64-Shipping.exe", "type": "Game" }
 
 # Visseron Idle https://store.steampowered.com/app/4601670/Visseron_Idle/
@@ -265,15 +290,24 @@
 # Vital Shell https://store.steampowered.com/app/3741860/Vital_Shell/
 { "name": "VitalShell.exe", "type": "Game" }
 
+# VIVE Hub https://store.steampowered.com/app/1649260/VIVE_Hub/
+{ "name": "VHConsole.exe", "type": "Game" }
+
 # vivid/stasis https://store.steampowered.com/app/2093940/vividstasis/
 { "name": "VIVIDSTASIS.exe", "type": "Game" }
 
+# Vivid World https://store.steampowered.com/app/2468550/Vivid_World/
+{ "name": "VividWorld.exe", "type": "Game" }
+
 # VLADiK BRUTAL https://store.steampowered.com/app/1316680/VLADiK_BRUTAL/
-{ "name": "VLADiK_BRUTAL.exe", "type": "Game" }
+{ "name": "VLADiK_BRUTAL.exe", "type": "BG_CPUIO" }
 { "name": "VLADiK_BRUTAL-Win64-Shipping.exe", "type": "Game" }
 
 # V-LOVER! https://store.steampowered.com/app/3044740/
 { "name": "V-Lover.exe", "type": "Game" }
+
+# Voice of Chernobyl https://store.steampowered.com/app/1886120/Voice_of_Chernobyl/
+{ "name": "Voice Of Chernobyl.exe", "type": "Game" }
 
 # Voices of the Void https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
@@ -282,7 +316,7 @@
 { "name": "Void Bastards.exe", "type": "Game" }
 
 # VOID/BREAKER https://store.steampowered.com/app/2615540/VOIDBREAKER/
-{ "name": "VOIDBREAKER.exe", "type": "Game" }
+{ "name": "VOIDBREAKER.exe", "type": "BG_CPUIO" }
 { "name": "VOIDBREAKER-Win64-Shipping.exe", "type": "Game" }
 
 # Void Crew https://store.steampowered.com/app/1063420/Void_Crew/
@@ -301,7 +335,7 @@
 { "name": "VoidStranger.exe", "type": "Game" }
 
 # Voidtrain https://store.steampowered.com/app/1159690/Voidtrain/
-{ "name": "VoidTrain.exe", "type": "Game" }
+{ "name": "VoidTrain.exe", "type": "BG_CPUIO" }
 { "name": "VoidTrain-Win64-Shipping.exe", "type": "Game" }
 
 # Void War https://store.steampowered.com/app/2853590/Void_War/
@@ -311,7 +345,7 @@
 { "name": "Voidwrought.exe", "type": "Game" }
 
 # VOIN https://store.steampowered.com/app/2464530/VOIN/
-{ "name": "VOIN.exe", "type": "Game" }
+{ "name": "VOIN.exe", "type": "BG_CPUIO" }
 { "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
 
 # Volcanoids https://store.steampowered.com/app/951440/Volcanoids/
@@ -323,14 +357,14 @@
 # Volgarr the Viking https://store.steampowered.com/app/247240/Volgarr_the_Viking/
 { "name": "Volgarr.exe", "type": "Game" }
 
+# Volkolak: The Will of Gods https://store.steampowered.com/app/2499040/Volkolak_The_Will_of_Gods/
+{ "name": "Volkolak.exe", "type": "Game" }
+
 # Volley Court https://store.steampowered.com/app/2175250/Volley_Court/
 { "name": "VolleyCourt.exe", "type": "Game" }
 
-# Voodoo Fishin' https://store.steampowered.com/app/3071240/Voodoo_Fishin/
-{ "name": "Voodoo Fishin'.exe", "type": "Game" }
-
 # Voor De Kroon https://store.steampowered.com/app/1702390/Voor_De_Kroon/
-{ "name": "FormationSystem.exe", "type": "Game" }
+{ "name": "FormationSystem.exe", "type": "BG_CPUIO" }
 { "name": "FormationSystem-Win64-Shipping.exe", "type": "Game" }
 
 # Voxelgram https://store.steampowered.com/app/1158470/Voxelgram/
@@ -343,7 +377,7 @@
 { "name": "vm.exe", "type": "Game" }
 
 # Voyagers of Nera https://store.steampowered.com/app/2686630/Voyagers_of_Nera/
-{ "name": "BoatGame.exe", "type": "Game" }
+{ "name": "BoatGame.exe", "type": "BG_CPUIO" }
 { "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Service" }
 
 # VPet / VPet-Simulator https://store.steampowered.com/app/1920960/VPetSimulator/

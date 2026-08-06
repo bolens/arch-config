@@ -17,42 +17,48 @@
 # BABBDI https://store.steampowered.com/app/2240530/BABBDI/
 { "name": "Babbdi.exe", "type": "Game" }
 
+# Babel Legacy Demo https://store.steampowered.com/app/4802030/Babel_Legacy_Demo/
+{ "name": "Babel Legacy Demo.exe", "type": "Game" }
+
 # Baby Steps https://store.steampowered.com/app/1281040/Baby_Steps/
 { "name": "BabySteps.exe", "type": "Game" }
 
 # Back 4 Blood https://store.steampowered.com/app/924970/Back_4_Blood/
 { "name": "Back4Blood.exe", "type": "Game" }
 
+# Back in Service: a Metro Driver https://store.steampowered.com/app/3331320/Back_in_Service_a_Metro_Driver/
+{ "name": "BackInService.exe", "type": "BG_CPUIO" }
+{ "name": "BackInService-Win64-Shipping.exe", "type": "Game" }
+
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
-{ "name": "Backpack Hero.exe", "type": "Game" }
 { "name": "Lunar.exe", "type": "Game" }
 
 # Backroom Company https://store.steampowered.com/app/3010460/Backroom_Company/
 { "name": "BackroomCompany.exe", "type": "Game" }
 { "name": "BackroomCompany-Win64-DebugGame.exe", "type": "Game" }
 
+# Backrooms Cleanup Crew https://store.steampowered.com/app/3140990/Backrooms_Cleanup_Crew/
+{ "name": "BackroomsCleanupCrew.exe", "type": "BG_CPUIO" }
+{ "name": "BackroomsCleanupCrew-Win64-Shipping.exe", "type": "Game" }
+
 # Backrooms: Escape Together https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/
-{ "name": "BetGame.exe", "type": "Game" }
+{ "name": "BetGame.exe", "type": "BG_CPUIO" }
 { "name": "BETGameSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Backrooms: Extractions https://store.steampowered.com/app/2835530/Backrooms_Extractions/
-{ "name": "BackroomsExtractions.exe", "type": "Game" }
+{ "name": "BackroomsExtractions.exe", "type": "BG_CPUIO" }
 { "name": "BackroomsExtractions-Win64-Shipping.exe", "type": "Game" }
 
-# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
-{ "name": "BackroomsLostRunners.exe", "type": "Game" }
-{ "name": "BackroomsLostRunners-Win64-Shipping.exe", "type": "Game" }
-
 # Backrooms Rec. https://store.steampowered.com/app/2275020/Backrooms_Rec/
-{ "name": "SCPExperiences.exe", "type": "Game" }
+{ "name": "SCPExperiences.exe", "type": "BG_CPUIO" }
 { "name": "SCPExperiences-Win64-Shipping.exe", "type": "Game" }
 
 # Backrooms Society https://store.steampowered.com/app/2304620/Backrooms_Society/
-{ "name": "GameBackroomsSociety.exe", "type": "Game" }
+{ "name": "GameBackroomsSociety.exe", "type": "BG_CPUIO" }
 { "name": "GameBackroomsSociety-Win64-Shipping.exe", "type": "Game" }
 
 # Backseat Drivers https://store.steampowered.com/app/3558400/Backseat_Drivers/
-{ "name": "BDS.exe", "type": "Game" }
+{ "name": "BDS.exe", "type": "BG_CPUIO" }
 { "name": "BDS-Win64-Shipping.exe", "type": "Game" }
 
 # Back to the Dawn https://store.steampowered.com/app/1735700/Back_to_the_Dawn/
@@ -60,6 +66,9 @@
 
 # Back to the Future: The Game https://store.steampowered.com/app/31290/Back_to_the_Future_The_Game/
 { "name": "BackToTheFuture101.exe", "type": "Game" }
+
+# Backyard Baseball https://store.steampowered.com/app/3935020/Backyard_Baseball/
+{ "name": "Backyard Baseball.exe", "type": "Game" }
 
 # Backyard Baseball '01 https://store.steampowered.com/app/3104970/Backyard_Baseball_01/
 { "name": "baseball 2001.exe", "type": "Game" }
@@ -75,6 +84,9 @@
 
 # Baddies, Inc. https://store.steampowered.com/app/3465660/
 { "name": "BaddiesInc.exe", "type": "Game" }
+
+# BAD END THEATER https://store.steampowered.com/app/1764390/BAD_END_THEATER/
+{ "name": "badendtheater.exe", "type": "Game" }
 
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "Badland.exe", "type": "Game" }
@@ -93,22 +105,32 @@
 # Bait Soul Demo https://store.steampowered.com/app/3689970/Bait_Soul_Demo/
 { "name": "BaitSoul.exe", "type": "Game" }
 
+# Bakery Cafe Simulator https://store.steampowered.com/app/3444080/Bakery_Cafe_Simulator/
+{ "name": "SimulatorGame.exe", "type": "BG_CPUIO" }
+{ "name": "SimulatorGame-Win64-Shipping.exe", "type": "Game" }
+
 # Bakery Cafe Simulator: Prologue https://store.steampowered.com/app/3669720/Bakery_Cafe_Simulator_Prologue/
-{ "name": "SimulatorGamePrologue.exe", "type": "Game" }
+{ "name": "SimulatorGamePrologue.exe", "type": "BG_CPUIO" }
 { "name": "SimulatorGamePrologue-Win64-Shipping.exe", "type": "Game" }
 
 # BakeryDiary https://store.steampowered.com/app/3755320/BakeryDiary/
 { "name": "breadpush.exe", "type": "Game" }
 
 # Bakery Simulator https://store.steampowered.com/app/1031120/Bakery_Simulator/
-{ "name": "BakerySimulatorFull.exe", "type": "Game" }
+{ "name": "BakerySimulatorFull.exe", "type": "BG_CPUIO" }
 { "name": "BakerySimulatorFull-Win64-Shipping.exe", "type": "Game" }
 
 # Bakso Simulator https://store.steampowered.com/app/2022270/Bakso_Simulator/
 { "name": "Bakso Simulator.exe", "type": "Game" }
 
+# Bakso Simulator 2 https://store.steampowered.com/app/3354200/Bakso_Simulator_2/
+{ "name": "Bakso Simulator 2.exe", "type": "Game" }
+
 # Balatro https://store.steampowered.com/app/2379780/Balatro/
 { "name": "Balatro.exe", "type": "Game" }
+
+# Baldr Sky https://store.steampowered.com/app/741140/Baldr_Sky/
+{ "name": "BaldrSky.exe", "type": "Game" }
 
 # Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3_dx11.exe", "type": "Game" }
@@ -130,9 +152,6 @@
 # BallisticNG https://store.steampowered.com/app/473770/BallisticNG/
 { "name": "BallisticNG.exe", "type": "Game" }
 
-# BALL x PIT https://store.steampowered.com/app/2062430/BALL_x_PIT/
-{ "name": "Balls.exe", "type": "Game" }
-
 # Banagine https://store.steampowered.com/app/3077790/Banana_Gine/
 { "name": "Banagine.exe", "type": "Game" }
 
@@ -145,8 +164,14 @@
 # Banana Hell: Mountain of Madness https://store.steampowered.com/app/2068520/Banana_Hell_Mountain_of_Madness/
 { "name": "banana_hell2.exe", "type": "Game" }
 
+# Bananamana https://store.steampowered.com/app/3056550/Bananamana/
+{ "name": "Bananamana.exe", "type": "Game" }
+
 # Bananametr https://store.steampowered.com/app/3013470/Bananametr/
 { "name": "Bananametr.exe", "type": "Game" }
+
+# Banana Monkeys https://store.steampowered.com/app/3057390/Banana_Monkeys/
+{ "name": "Banana Monkeys.exe", "type": "Game" }
 
 # Banana-Shaped https://store.steampowered.com/app/3085950/BananaShaped/
 { "name": "Banana-Shaped.exe", "type": "Game" }
@@ -165,7 +190,7 @@
 { "name": "BBF.exe", "type": "Game" }
 
 # Bang-On Balls: Chronicles https://store.steampowered.com/app/1227650/BangOn_Balls_Chronicles/
-{ "name": "BoB.exe", "type": "Game" }
+{ "name": "BoB.exe", "type": "BG_CPUIO" }
 { "name": "BoB-Win64-Shipping.exe", "type": "Game" }
 
 # Banished https://store.steampowered.com/app/242920/Banished/
@@ -199,11 +224,17 @@
 # Bard Idle https://store.steampowered.com/app/1803580/Bard_Idle/
 { "name": "bard.exe", "type": "Game" }
 
+# Barely Working https://store.steampowered.com/app/2241000/
+{ "name": "barely_working.exe", "type": "Game" }
+
 # Bare Witness https://store.steampowered.com/app/2387380/
 { "name": "BareWitness.exe", "type": "Game" }
 
+# Barfender Demo https://store.steampowered.com/app/4613560/
+{ "name": "Barfender.exe", "type": "Game" }
+
 # BarnFinders https://store.steampowered.com/app/991170/Barn_Finders/
-{ "name": "BarnFinders.exe", "type": "Game" }
+{ "name": "BarnFinders.exe", "type": "BG_CPUIO" }
 { "name": "BarnFinders-Win64-Shipping.exe", "type": "Game" }
 
 # Barony https://store.steampowered.com/app/371970/Barony/
@@ -313,11 +344,14 @@
 { "name": "bfv.exe", "type": "Game" }
 
 # Battlefleet Gothic: Armada https://store.steampowered.com/app/363680/Battlefleet_Gothic_Armada/
-{ "name": "BattleFleetGothic.exe", "type": "Game" }
+{ "name": "BattleFleetGothic.exe", "type": "BG_CPUIO" }
 { "name": "BattleFleetGothic-Win64-Shipping.exe", "type": "Game" }
 
 # Battlefleet Gothic: Armada 2 https://store.steampowered.com/app/573100/Battlefleet_Gothic_Armada_2/
 { "name": "BattlefleetGothic2.exe", "type": "Game" }
+
+# Battle For Embolia https://store.steampowered.com/app/3462790/
+{ "name": "Battle For Embolia.exe", "type": "Game" }
 
 # Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
 { "name": "wesnoth.exe", "type": "Game" }
@@ -345,7 +379,7 @@
 { "name": "Battlerite.exe", "type": "Game" }
 
 # Battle Royale Trainer https://store.steampowered.com/app/772540/Battle_Royale_Trainer/
-{ "name": "BattleRoyaleTrainer.exe", "type": "Game" }
+{ "name": "BattleRoyaleTrainer.exe", "type": "BG_CPUIO" }
 { "name": "BattleRoyaleTrainer-Win64-Shipping.exe", "type": "Game" }
 
 # Battle Shapers https://store.steampowered.com/app/1421290/Battle_Shapers/
@@ -392,6 +426,13 @@
 # Battle Train https://store.steampowered.com/app/1708950/Battle_Train/
 { "name": "BattleTrain.exe", "type": "Game" }
 
+# Battle vs Chess https://store.steampowered.com/app/211050/Battle_vs_Chess/
+{ "name": "battlevschess.exe", "type": "Game" }
+
+# Battlezone 98 Redux https://store.steampowered.com/app/301650/Battlezone_98_Redux/
+{ "name": "BZLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "battlezone98redux.exe", "type": "Game" }
+
 # Battlezone: Combat Commander https://store.steampowered.com/app/624970/Battlezone_Combat_Commander/
 { "name": "battlezone2.exe", "type": "Game" }
 
@@ -408,9 +449,6 @@
 # Beacon Pines https://store.steampowered.com/app/1269640/Beacon_Pines/
 { "name": "Beacon Pines.exe", "type": "Game" }
 
-# Beam Eye Tracker https://store.steampowered.com/app/2375780/Beam_Eye_Tracker/
-{ "name": "BeamEyeTracker.exe", "type": "Game" }
-
 # BeamNG.drive https://store.steampowered.com/app/284160/BeamNGdrive/
 { "name": "BeamNG.drive.x64.exe", "type": "Game" }
 
@@ -424,7 +462,7 @@
 { "name": "beastieball.exe", "type": "Game" }
 
 # Beastro https://store.steampowered.com/app/2417470/Beastro/
-{ "name": "Spinel_02.exe", "type": "Game" }
+{ "name": "Spinel_02.exe", "type": "BG_CPUIO" }
 { "name": "Spinel_02-Win64-Shipping.exe", "type": "Game" }
 
 # Beasts of Bermuda https://store.steampowered.com/app/719890/Beasts_of_Bermuda/
@@ -450,6 +488,9 @@
 
 # Beauty Store Simulator https://store.steampowered.com/app/3969150/Beauty_Store_Simulator/
 { "name": "BeautyStoreSimulator.exe", "type": "Game" }
+
+# Beavers Be Dammed https://store.steampowered.com/app/764570/Beavers_Be_Dammed/
+{ "name": "BeaversBeDammed.exe", "type": "Game" }
 
 # Becastled https://store.steampowered.com/app/1330460/Becastled/
 { "name": "Becastled.exe", "type": "Game" }
@@ -481,6 +522,9 @@
 # Beggar's Life Demo https://store.steampowered.com/app/3917920/Beggars_Life_Demo/
 { "name": "beggar_windows_steam_demo.exe", "type": "Game" }
 
+# Behind the Frame: The Finest Scenery https://store.steampowered.com/app/1634150/Behind_the_Frame_The_Finest_Scenery/
+{ "name": "Behind the Frame.exe", "type": "Game" }
+
 # Beholder https://store.steampowered.com/app/475550/Beholder/
 { "name": "Beholder.exe", "type": "Game" }
 
@@ -507,14 +551,14 @@
 { "name": "BejeweledTwist.exe", "type": "Game" }
 
 # Bellwright https://store.steampowered.com/app/1812450/Bellwright/
-{ "name": "BellwrightGame.exe", "type": "Game" }
+{ "name": "BellwrightGame.exe", "type": "BG_CPUIO" }
 { "name": "BellwrightGame-Win64-Shipping.exe", "type": "Game" }
 
 # Beltmatic https://store.steampowered.com/app/2674590/Beltmatic/
 { "name": "Beltmatic.exe", "type": "Game" }
 
 # Be My Horde https://store.steampowered.com/app/2499520/Be_My_Horde/
-{ "name": "BeMyHorde.exe", "type": "Game" }
+{ "name": "BeMyHorde.exe", "type": "BG_CPUIO" }
 { "name": "BeMyHorde-Win64-Shipping.exe", "type": "Game" }
 
 # Ben and Ed https://store.steampowered.com/app/395200/Ben_and_Ed/
@@ -550,6 +594,9 @@
 # Besiege https://store.steampowered.com/app/346010/Besiege/
 { "name": "Besiege.exe", "type": "Game" }
 
+# B.E.S.T https://store.steampowered.com/app/2404390/
+{ "name": "B.E.S.T.exe", "type": "Game" }
+
 # Best Plumber https://store.steampowered.com/app/1166580/Best_Plumber/
 { "name": "BEST PLUMBER.exe", "type": "Game" }
 
@@ -560,15 +607,18 @@
 { "name": "Betrayer.exe", "type": "Game" }
 
 # Better Mart https://store.steampowered.com/app/3498270/Better_Mart_Simulator/
-{ "name": "BetterMart.exe", "type": "Game" }
+{ "name": "BetterMart.exe", "type": "BG_CPUIO" }
 { "name": "BetterMart-Win64-Shipping.exe", "type": "Game" }
 
 # Better Minesweeper https://store.steampowered.com/app/3898970/Better_Minesweeper/
 { "name": "BetterMinesweeper.exe", "type": "Game" }
 
 # Better than Dead https://store.steampowered.com/app/2599690/Better_Than_Dead/
-{ "name": "BTD.exe", "type": "Game" }
+{ "name": "BTD.exe", "type": "BG_CPUIO" }
 { "name": "BTD-Win64-Shipping.exe", "type": "Game" }
+
+# Between Adventures IDLE Demo https://store.steampowered.com/app/3815790/
+{ "name": "Between Adventures IDLE.exe", "type": "Game" }
 
 # Between the Stars https://store.steampowered.com/app/727130/Between_the_Stars/
 { "name": "BetweenTheStars.exe", "type": "Game" }
@@ -580,7 +630,7 @@
 { "name": "Beyond Blue.exe", "type": "Game" }
 
 # Beyond Citadel https://store.steampowered.com/app/3371240/Beyond_Citadel/
-{ "name": "beyond_citadel.exe", "type": "Game" }
+{ "name": "beyond_citadel.exe", "type": "BG_CPUIO" }
 { "name": "beyond_citadel-Win64-Shipping.exe", "type": "Game" }
 
 # Beyond Good and Evil https://store.steampowered.com/app/15130/Beyond_Good_and_Evil/
@@ -589,8 +639,12 @@
 # Beyond Good & Evil - 20th Anniversary Edition https://store.steampowered.com/app/2556990/Beyond_Good__Evil__20th_Anniversary_Edition/
 { "name": "bge.exe", "type": "Game" }
 
+# Beyond Hanwell https://store.steampowered.com/app/2565550/Beyond_Hanwell/
+{ "name": "BeyondHanwell.exe", "type": "BG_CPUIO" }
+{ "name": "BeyondHanwell-Win64-Shipping.exe", "type": "Game" }
+
 # Beyond Sandbox https://store.steampowered.com/app/3385970/Beyond_Sandbox/
-{ "name": "Beyond.exe", "type": "Game" }
+{ "name": "Beyond.exe", "type": "BG_CPUIO" }
 { "name": "Beyond-Win64-Shipping.exe", "type": "Game" }
 
 # Beyond The Wire https://store.steampowered.com/app/1058650/Beyond_The_Wire/
@@ -610,10 +664,10 @@
 
 # BIGFOOT https://store.steampowered.com/app/509980/BIGFOOT/
 { "name": "Bigfoot-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Bigfoot.exe", "type": "Game" }
+{ "name": "Bigfoot.exe", "type": "BG_CPUIO" }
 
 # Big Helmet Heroes https://store.steampowered.com/app/2397250/Big_Helmet_Heroes/
-{ "name": "BigHelmetHeroes.exe", "type": "Game" }
+{ "name": "BigHelmetHeroes.exe", "type": "BG_CPUIO" }
 { "name": "BigHelmetHeroes-Win64-Shipping.exe", "type": "Game" }
 
 # Big Pharma https://store.steampowered.com/app/344850/Big_Pharma/
@@ -624,6 +678,12 @@
 
 # Bigscreen Beyond Utility https://store.steampowered.com/app/2467050/
 { "name": "BeyondHID.exe", "type": "Game" }
+
+# Billies Wheelie https://store.steampowered.com/app/3180310/Billies_Wheelie/
+{ "name": "Billie Wheelie.exe", "type": "Game" }
+
+# Bills Must Be Paid Demo https://store.steampowered.com/app/4577620/Bills_Must_Be_Paid_Demo/
+{ "name": "Bills Must Be Paid.exe", "type": "Game" }
 
 # Binary Domain https://store.steampowered.com/app/203750/Binary_Domain/
 { "name": "BinaryDomain.exe", "type": "Game" }
@@ -638,8 +698,11 @@
 # Bio Inc. Redemption https://store.steampowered.com/app/612470/Bio_Inc_Redemption/
 { "name": "BioIncRedemption.exe", "type": "Game" }
 
+# BioKept https://store.steampowered.com/app/2919510/BioKept/
+{ "name": "LootBox.exe", "type": "Game" }
+
 # BIOMUTANT https://store.steampowered.com/app/597820/BIOMUTANT/
-{ "name": "Biomutant.exe", "type": "Game" }
+{ "name": "Biomutant.exe", "type": "BG_CPUIO" }
 { "name": "Biomutant-Win64-Shipping.exe", "type": "Game" }
 
 # Bionic Bay https://store.steampowered.com/app/1928690/
@@ -742,13 +805,13 @@
 
 # Black Myth: Wukong https://store.steampowered.com/app/2358720/Black_Myth_Wukong/
 { "name": "b1-Win64-Shipping.exe", "type": "Game" }
-{ "name": "b1.exe", "type": "Game" }
+{ "name": "b1.exe", "type": "BG_CPUIO" }
 
 # Black Myth: Wukong Benchmark Tool https://store.steampowered.com/app/3132990/Black_Myth_Wukong_Benchmark_Tool/
 { "name": "b1_benchmark.exe", "type": "Game" }
 
 # Black One Blood Brothers https://store.steampowered.com/app/1621560/Black_One_Blood_Brothers/
-{ "name": "BOBB.exe", "type": "Game" }
+{ "name": "BOBB.exe", "type": "BG_CPUIO" }
 { "name": "BOBB-Win64-Shipping.exe", "type": "Game" }
 
 # Blackout Z: Slaughterhouse Edition https://store.steampowered.com/app/729660/Blackout_Z_Slaughterhouse_Edition/
@@ -781,8 +844,12 @@
 { "name": "BlackSquadGame_BELauncher.exe", "type": "BG_CPUIO" }
 { "name": "BlackSquadGame.exe", "type": "Game" }
 
+# BLACK STIGMA https://store.steampowered.com/app/1277530/BLACK_STIGMA/
+{ "name": "StigmaClient.exe", "type": "BG_CPUIO" }
+{ "name": "StigmaClient-Win64-Shipping.exe", "type": "Game" }
+
 # BLACKTAIL https://store.steampowered.com/app/1532690/BLACKTAIL/
-{ "name": "BLACKTAIL.exe", "type": "Game" }
+{ "name": "BLACKTAIL.exe", "type": "BG_CPUIO" }
 { "name": "BLACKTAIL-Win64-Shipping.exe", "type": "Game" }
 
 # Blackthorn Arena: Reforged https://store.steampowered.com/app/3168260/Blackthorn_Arena_Reforged/
@@ -796,6 +863,9 @@
 
 # Blade Assault https://store.steampowered.com/app/1367300/Blade_Assault/
 { "name": "BladeAssault.exe", "type": "Game" }
+
+# BLADECHIMERA https://store.steampowered.com/app/2671230/BLADECHIMERA/
+{ "name": "BLADE_CHIMERA.exe", "type": "Game" }
 
 # Blade Kitten https://store.steampowered.com/app/9940/Blade_Kitten/
 { "name": "bladekitten.exe", "type": "Game" }
@@ -812,7 +882,7 @@
 { "name": "bladesoftime.exe", "type": "Game" }
 
 # Bladesong https://store.steampowered.com/app/2305640/Bladesong/
-{ "name": "Bladesong.exe", "type": "Game" }
+{ "name": "Bladesong.exe", "type": "BG_CPUIO" }
 { "name": "Bladesong-Win64-Shipping.exe", "type": "Game" }
 
 # Blade & Soul NEO https://store.steampowered.com/app/3669060/
@@ -822,7 +892,7 @@
 { "name": "berimbau.exe", "type": "Game" }
 
 # Blair Witch https://store.steampowered.com/app/1092660/
-{ "name": "Blairwitch.exe", "type": "Game" }
+{ "name": "Blairwitch.exe", "type": "BG_CPUIO" }
 { "name": "Blairwitch-Win64-Shipping-Win7.exe", "type": "Game" }
 { "name": "Blairwitch-Win64-Shipping.exe", "type": "Game" }
 
@@ -841,6 +911,12 @@
 # BlazBlue Centralfiction https://store.steampowered.com/app/586140/BlazBlue_Centralfiction/
 { "name": "BBCF.exe", "type": "Game" }
 
+# BlazBlue: Chronophantasma Extend https://store.steampowered.com/app/388750/BlazBlue_Chronophantasma_Extend/
+{ "name": "BBCPEX.exe", "type": "Game" }
+
+# BlazBlue: Continuum Shift Extend https://store.steampowered.com/app/294810/BlazBlue_Continuum_Shift_Extend/
+{ "name": "BBCSE.exe", "type": "Game" }
+
 # BlazBlue Cross Tag Battle https://store.steampowered.com/app/702890/BlazBlue_Cross_Tag_Battle/
 { "name": "BBTAG.exe", "type": "Game" }
 
@@ -849,7 +925,7 @@
 
 # Blazing Sails https://store.steampowered.com/app/1158940/Blazing_Sails/
 { "name": "BlazingSails-Win64-Shipping.exe", "type": "Game" }
-{ "name": "BlazingSails.exe", "type": "Game" }
+{ "name": "BlazingSails.exe", "type": "BG_CPUIO" }
 
 # BLEACH Brave Souls https://store.steampowered.com/app/1201240/BLEACH_Brave_Souls/
 { "name": "BleachBraveSouls.exe", "type": "Game" }
@@ -858,7 +934,7 @@
 { "name": "BLEACH_Rebirth_of_Souls.exe", "type": "Game" }
 
 # Bleak Faith: Forsaken https://store.steampowered.com/app/1173220/Bleak_Faith_Forsaken/
-{ "name": "Forsaken.exe", "type": "Game" }
+{ "name": "Forsaken.exe", "type": "BG_CPUIO" }
 { "name": "Forsaken-Win64-Shipping.exe", "type": "Game" }
 
 # Bleed https://store.steampowered.com/app/239800/Bleed/
@@ -870,6 +946,9 @@
 # Bless Unleashed https://store.steampowered.com/app/1254120/Bless_Unleashed/
 { "name": "Bless.exe", "type": "Game" }
 { "name": "BlessUnleashedLauncher.exe", "type": "BG_CPUIO" }
+
+# Blightstone https://store.steampowered.com/app/2832280/Blightstone/
+{ "name": "Blightstone.exe", "type": "Game" }
 
 # Blind Box Shop Simulator https://store.steampowered.com/app/4284570/Blind_Box_Shop_Simulator/
 { "name": "BlindBoxShopSimulator.exe", "type": "Game" }
@@ -906,7 +985,7 @@
 { "name": "BloodBowl2_GL_32.exe", "type": "Game" }
 
 # Blood Bowl 3 https://store.steampowered.com/app/1016950/Blood_Bowl_3/
-{ "name": "BB3.exe", "type": "Game" }
+{ "name": "BB3.exe", "type": "BG_CPUIO" }
 { "name": "BB3-Win64-Shipping.exe", "type": "Game" }
 
 # Blood Bowl: Chaos Edition https://store.steampowered.com/app/216890/Blood_Bowl_Chaos_Edition/
@@ -967,7 +1046,7 @@
 { "name": "COTM.exe", "type": "Game" }
 
 # Bloodstained: Ritual of the Night https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/
-{ "name": "BloodstainedRotN.exe", "type": "Game" }
+{ "name": "BloodstainedRotN.exe", "type": "BG_CPUIO" }
 { "name": "BloodstainedRotN-Win64-Shipping.exe", "type": "Game" }
 
 # Blood Strike https://store.steampowered.com/app/3199170/Blood_Strike/
@@ -977,9 +1056,12 @@
 { "name": "bloodthief.exe", "type": "Game" }
 
 # Blood Trail https://store.steampowered.com/app/1032430/Blood_Trail/
-{ "name": "BTVR.exe", "type": "Game" }
-{ "name": "BloodTrail_419ai.exe", "type": "Game" }
+{ "name": "BTVR.exe", "type": "BG_CPUIO" }
+{ "name": "BloodTrail_419ai.exe", "type": "BG_CPUIO" }
 { "name": "BTVR-Win64-Shipping.exe", "type": "Game" }
+
+# Blood Typers https://store.steampowered.com/app/2790330/Blood_Typers/
+{ "name": "Blood Typers.exe", "type": "Game" }
 
 # Blood West https://store.steampowered.com/app/1587130/Blood_West/
 { "name": "Blood West.exe", "type": "Game" }
@@ -998,6 +1080,9 @@
 
 # Bloons Adventure Time TD https://store.steampowered.com/app/979060/Bloons_Adventure_Time_TD/
 { "name": "btdadventuretime.exe", "type": "Game" }
+
+# Bloons Card Storm https://store.steampowered.com/app/2876550/Bloons_Card_Storm/
+{ "name": "BloonsCardStorm.exe", "type": "Game" }
 
 # Bloons Monkey City https://store.steampowered.com/app/1252780/Bloons_Monkey_City/
 { "name": "MonkeyCity-Win.exe", "type": "Game" }
@@ -1045,18 +1130,18 @@
 { "name": "BMX Streets.exe", "type": "Game" }
 
 # Boba Cafe Simulator Demo https://store.steampowered.com/app/3683840/Boba_Cafe_Simulator_Demo/
-{ "name": "BobaCafeSimulator.exe", "type": "Game" }
+{ "name": "BobaCafeSimulator.exe", "type": "BG_CPUIO" }
 { "name": "BobaCafeSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # Bobo Bay https://store.steampowered.com/app/1889810/Bobo_Bay/
 { "name": "Bobo Bay.exe", "type": "Game" }
 
 # Bodycam https://store.steampowered.com/app/2406770/Bodycam/
-{ "name": "Bodycam.exe", "type": "Game" }
+{ "name": "Bodycam.exe", "type": "BG_CPUIO" }
 { "name": "Bodycam-Win64-Shipping.exe", "type": "Game" }
 
 # Bogos Binted https://store.steampowered.com/app/3588490/Bogos_Binted/
-{ "name": "ProjectCards.exe", "type": "Game" }
+{ "name": "ProjectCards.exe", "type": "BG_CPUIO" }
 { "name": "ProjectCards-Win64-Shipping.exe", "type": "Game" }
 
 # BOKURA https://store.steampowered.com/app/1801110/BOKURA/
@@ -1065,11 +1150,17 @@
 # BOKURA: planet https://store.steampowered.com/app/3126150/BOKURA_planet/
 { "name": "BOKURA_PLANET.exe", "type": "Game" }
 
+# BOMBANANA! Demo https://store.steampowered.com/app/4747510/BOMBANANA_Demo/
+{ "name": "BOMBANANA.exe", "type": "Game" }
+
 # Bombe https://store.steampowered.com/app/2262930/Bombe/
 { "name": "Bombe.exe", "type": "Game" }
 
 # Bomber Crew https://store.steampowered.com/app/537800/Bomber_Crew/
 { "name": "BomberCrew.exe", "type": "Game" }
+
+# Bombergrounds: Reborn https://store.steampowered.com/app/1104450/Bombergrounds_Reborn/
+{ "name": "Bombergrounds.exe", "type": "Game" }
 
 # Bombix https://store.steampowered.com/app/662830/Bombix/
 { "name": "bombix.exe", "type": "Game" }
@@ -1086,6 +1177,9 @@
 # Boneraiser Minions https://store.steampowered.com/app/1944570/Boneraiser_Minions/
 { "name": "Boneraiser Minions.exe", "type": "Game" }
 
+# BoneTown https://store.steampowered.com/app/288080/
+{ "name": "BoneTown.exe", "type": "Game" }
+
 # BONEWORKS https://store.steampowered.com/app/823500/BONEWORKS/
 { "name": "BONEWORKS.exe", "type": "Game" }
 
@@ -1094,6 +1188,10 @@
 
 # Bongo Waifu https://store.steampowered.com/app/3861430/
 { "name": "BongoWaifu.exe", "type": "Game" }
+
+# BOOBS SAGA: Prepare To Hentai Edition https://store.steampowered.com/app/726360/
+{ "name": "Boobs Saga.exe", "type": "Game" }
+{ "name": "Boobs Saga Online.exe", "type": "Game" }
 
 # Book of Demons https://store.steampowered.com/app/449960/Book_of_Demons/
 { "name": "r2g_launcher.exe", "type": "Game" }
@@ -1116,8 +1214,14 @@
 # Boomerang Fu https://store.steampowered.com/app/965680/Boomerang_Fu/
 { "name": "Boomerang Fu.exe", "type": "Game" }
 
+# BoomTown! Deluxe https://store.steampowered.com/app/536750/BoomTown_Deluxe/
+{ "name": "BoomTown! Deluxe.exe", "type": "Game" }
+
+# Booster Pack Heroes Demo https://store.steampowered.com/app/4659940/Booster_Pack_Heroes_Demo/
+{ "name": "Booster Pack Heroes.exe", "type": "Game" }
+
 # Bootstrap Island https://store.steampowered.com/app/1942110/Bootstrap_Island/
-{ "name": "Flintlock.exe", "type": "Game" }
+{ "name": "Flintlock.exe", "type": "BG_CPUIO" }
 { "name": "Flintlock-Win64-Shipping.exe", "type": "Game" }
 
 # Booty Calls https://store.steampowered.com/app/823550/Booty_Calls/
@@ -1147,6 +1251,9 @@
 # Borderless Gaming https://store.steampowered.com/app/388080/Borderless_Gaming/
 { "name": "BorderlessGaming.exe", "type": "Game" }
 
+# Boring Man - Online Tactical Stickman Combat https://store.steampowered.com/app/346120/Boring_Man__Online_Tactical_Stickman_Combat/
+{ "name": "BoringManGame.exe", "type": "Game" }
+
 # Born Again https://store.steampowered.com/app/2332210/Born_Again/
 { "name": "Born Again.exe", "type": "Game" }
 
@@ -1158,6 +1265,9 @@
 
 # Bouncemasters https://store.steampowered.com/app/3697340/Bouncemasters/
 { "name": "BounceMasters.exe", "type": "Game" }
+
+# Bouncemasters 2: Pengu Throw Demo https://store.steampowered.com/app/4091980/Bouncemasters_2_Pengu_Throw_Demo/
+{ "name": "BounceMasters2.exe", "type": "Game" }
 
 # Bound By Flame https://store.steampowered.com/app/243930/Bound_By_Flame/
 { "name": "BoundByFlame.exe", "type": "Game" }
@@ -1171,6 +1281,12 @@
 # Bounty of One https://store.steampowered.com/app/1968730/Bounty_of_One/
 { "name": "BountyOfOne.exe", "type": "Game" }
 
+# Bounty Trail Demo https://store.steampowered.com/app/4795170/Bounty_Trail_Demo/
+{ "name": "BountyTrail.exe", "type": "Game" }
+
+# Box Bakery https://store.steampowered.com/app/2942950/Box_Bakery/
+{ "name": "BoxBakery.exe", "type": "Game" }
+
 # Box Clicker https://store.steampowered.com/app/3071740/Box_Clicker/
 { "name": "Box Clicker.exe", "type": "Game" }
 
@@ -1182,7 +1298,7 @@
 
 # BPM: BULLETS PER MINUTE https://store.steampowered.com/app/1286350/BPM_BULLETS_PER_MINUTE/
 { "name": "BPMGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "BPMGame.exe", "type": "Game" }
+{ "name": "BPMGame.exe", "type": "BG_CPUIO" }
 
 # Braid https://store.steampowered.com/app/26800/Braid/
 { "name": "Braid.exe", "type": "Game" }
@@ -1197,7 +1313,7 @@
 { "name": "Brainrot Online.exe", "type": "Game" }
 
 # Bramble: The Mountain King https://store.steampowered.com/app/1623940/Bramble_The_Mountain_King/
-{ "name": "Bramble_TMK.exe", "type": "Game" }
+{ "name": "Bramble_TMK.exe", "type": "BG_CPUIO" }
 { "name": "Bramble_TMK-Win64-Shipping.exe", "type": "Game" }
 
 # Brass: Birmingham https://store.steampowered.com/app/1287920/Brass_Birmingham/
@@ -1236,18 +1352,18 @@
 # Breachway https://store.steampowered.com/app/2118810/Breachway/
 { "name": "Breachway.exe", "type": "Game" }
 
-# Bread & Fred https://store.steampowered.com/app/1607680/Bread__Fred/
-{ "name": "Bread&Fred.exe", "type": "Game" }
+# BREAK ARTS III https://store.steampowered.com/app/2522430/BREAK_ARTS_III/
+{ "name": "BREAK ARTS III.exe", "type": "Game" }
 
 # Breakout 13 https://store.steampowered.com/app/2095300/Breakout_13/
 { "name": "Breakout 13.exe", "type": "Game" }
 
 # Break the Chain https://store.steampowered.com/app/1395930/Break_The_Chain/
-{ "name": "BreakTheChain.exe", "type": "Game" }
+{ "name": "BreakTheChain.exe", "type": "BG_CPUIO" }
 { "name": "BreakTheChain-Win64-Shipping.exe", "type": "Game" }
 
 # Breathedge https://store.steampowered.com/app/738520/Breathedge/
-{ "name": "Breathedge.exe", "type": "Game" }
+{ "name": "Breathedge.exe", "type": "BG_CPUIO" }
 { "name": "Breathedge-Win64-Shipping.exe", "type": "Game" }
 
 # Breath of Death VII https://store.steampowered.com/app/107300/Breath_of_Death_VII/
@@ -1258,11 +1374,18 @@
 { "name": "BOF4.exe", "type": "Game" }
 
 # Breeders of the Nephelym https://store.steampowered.com/app/1161770/
-{ "name": "OBF.exe", "type": "Game" }
+{ "name": "OBF.exe", "type": "BG_CPUIO" }
 { "name": "OBF-Win64-Shipping.exe", "type": "Game" }
 
 # Breeze of Passion https://store.steampowered.com/app/2409780/
 { "name": "BreezeOfPassion.exe", "type": "Game" }
+
+# BREKEKEKEX Demo https://store.steampowered.com/app/4820660/
+{ "name": "BREKEKEKEX.exe", "type": "Game" }
+
+# Brewmaster: Beer Brewing Simulator https://store.steampowered.com/app/1569200/Brewmaster_Beer_Brewing_Simulator/
+{ "name": "BrewmasterMain.exe", "type": "BG_CPUIO" }
+{ "name": "BrewmasterMain-Win64-Shipping.exe", "type": "Game" }
 
 # Brickadia https://store.steampowered.com/app/2199420/Brickadia/
 { "name": "BrickadiaSteam-Win64-Shipping.exe", "type": "Game" }
@@ -1272,7 +1395,7 @@
 { "name": "BrickBreaker.exe", "type": "Game" }
 
 # Brick Rigs https://store.steampowered.com/app/552100/Brick_Rigs/
-{ "name": "BrickRigs.exe", "type": "Game" }
+{ "name": "BrickRigs.exe", "type": "BG_CPUIO" }
 { "name": "BrickRigsSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Bridge Constructor https://store.steampowered.com/app/250460/Bridge_Constructor/
@@ -1295,6 +1418,10 @@
 
 # Bright Lord https://store.steampowered.com/app/2906370/
 { "name": "BrightLord.exe", "type": "Game" }
+
+# Bright Memory https://store.steampowered.com/app/955050/Bright_Memory/
+{ "name": "BrightMemory_EP1-Win64-Shipping.exe", "type": "Game" }
+{ "name": "BrightMemory_EP1.exe", "type": "BG_CPUIO" }
 
 # Bright Memory: Infinite https://store.steampowered.com/app/1178830/Bright_Memory_Infinite/
 { "name": "BrightMemoryInfinite-Win64-Shipping.exe", "type": "Game" }
@@ -1336,8 +1463,11 @@
 # Broken Sword - Shadow of the Templars: Reforged https://store.steampowered.com/app/2544110/Broken_Sword__Shadow_of_the_Templars_Reforged/
 { "name": "BS1R.exe", "type": "Game" }
 
+# BROKE PROTOCOL https://store.steampowered.com/app/696370/BROKE_PROTOCOL/
+{ "name": "BrokeProtocol.exe", "type": "Game" }
+
 # Bronzebeard's Tavern https://store.steampowered.com/app/2422870/Bronzebeards_Tavern/
-{ "name": "GameProject.exe", "type": "Game" }
+{ "name": "GameProject.exe", "type": "BG_CPUIO" }
 { "name": "GameProject-Win64-Shipping.exe", "type": "Game" }
 
 # Brotato https://store.steampowered.com/app/1942280/Brotato/
@@ -1347,7 +1477,7 @@
 { "name": "BrothersLauncher.exe", "type": "BG_CPUIO" }
 
 # Brothers: A Tale of Two Sons Remake https://store.steampowered.com/app/2153350/Brothers_A_Tale_of_Two_Sons_Remake/
-{ "name": "Brothers - A Tale of Two Sons - Remake.exe", "type": "Game" }
+{ "name": "Brothers - A Tale of Two Sons - Remake.exe", "type": "BG_CPUIO" }
 { "name": "Brothers-Win64-Shipping.exe", "type": "Game" }
 
 # Brothers in Arms: Earned in Blood https://store.steampowered.com/app/19800/Brothers_in_Arms_Earned_in_Blood/
@@ -1365,6 +1495,9 @@
 # Broventure: The Wild Co-op https://store.steampowered.com/app/2939640/Broventure_The_Wild_Coop/
 { "name": "Broventure.exe", "type": "Game" }
 
+# Bruisers 2D Boxing Demo https://store.steampowered.com/app/4344990/
+{ "name": "Bruisers 2d Boxing (TestBuild).exe", "type": "Game" }
+
 # BRUTALISTICK VR https://store.steampowered.com/app/2669380/BRUTALISTICK_VR/
 { "name": "BrutalistickVR.exe", "type": "Game" }
 
@@ -1373,6 +1506,9 @@
 
 # Brutal Orchestra https://store.steampowered.com/app/1734320/Brutal_Orchestra/
 { "name": "BrutalOrchestra.exe", "type": "Game" }
+
+# BSNES is an open source SNES emulator for Linux devices that focuses on performance, accuracy, friendly UI and special features. https://bsnes.org/
+{ "name": "bsnes.exe", "type": "Game" }
 
 # Bubsy 4D https://store.steampowered.com/app/3237970/Bubsy_4D/
 { "name": "Bubsy 4D.exe", "type": "Game" }
@@ -1388,6 +1524,9 @@
 
 # Bug Fables: The Everlasting Sapling https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/
 { "name": "Bug Fables.exe", "type": "Game" }
+
+# Buggos https://store.steampowered.com/app/789660/Buggos/
+{ "name": "Buggos.exe", "type": "Game" }
 
 # Buggos 2 https://store.steampowered.com/app/2908500/Buggos_2/
 { "name": "Buggos2.exe", "type": "Game" }
@@ -1414,11 +1553,15 @@
 { "name": "Bully.exe", "type": "Game" }
 
 # BULT: Hunting simulator https://store.steampowered.com/app/3929200/BULT_Hunting_simulator/
-{ "name": "BULT.exe", "type": "Game" }
+{ "name": "BULT.exe", "type": "BG_CPUIO" }
 { "name": "BULT-Win64-Shipping.exe", "type": "Game" }
 
 # Bulwark: Falconeer Chronicles https://store.steampowered.com/app/290100/Bulwark_Falconeer_Chronicles/
 { "name": "Bulwark.exe", "type": "Game" }
+
+# Bum: Revenge Prologue https://store.steampowered.com/app/3782070/
+{ "name": "BumRevenge.exe", "type": "BG_CPUIO" }
+{ "name": "BumRevenge-Win64-Shipping.exe", "type": "Game" }
 
 # Bum Simulator https://store.steampowered.com/app/855740/Bum_Simulator/
 { "name": "BumSim.exe", "type": "Game" }
@@ -1430,25 +1573,31 @@
 { "name": "BUNNY GARDEN 2.exe", "type": "Game" }
 
 # Bunny Guys! https://store.steampowered.com/app/2218460/Bunny_Guys/
-{ "name": "BunnyGuys.exe", "type": "Game" }
+{ "name": "BunnyGuys.exe", "type": "BG_CPUIO" }
 { "name": "BunnyGuys-Win64-Shipping.exe", "type": "Game" }
 
 # Bunny Hurling https://store.steampowered.com/app/3515620/Bunny_Hurling/
-{ "name": "BunnyHurling.exe", "type": "Game" }
+{ "name": "BunnyHurling.exe", "type": "BG_CPUIO" }
 { "name": "BunnyHurling-Win64-Shipping.exe", "type": "Game" }
 
 # Burden of Command https://store.steampowered.com/app/887490/Burden_of_Command/
 { "name": "BoC.exe", "type": "Game" }
 
 # Burger Shift: Team Rush: Prologue https://store.steampowered.com/app/3821150/Burger_Shift_Team_Rush_Prologue/
-{ "name": "Burger Shift Team Rush Prologue.exe", "type": "Game" }
+{ "name": "Burger Shift Team Rush Prologue.exe", "type": "BG_CPUIO" }
 { "name": "DDS_With_Exterior-Win64-Shipping.exe", "type": "Game" }
+
+# Burger Shop 2 https://store.steampowered.com/app/730870/Burger_Shop_2/
+{ "name": "BurgerShop2.exe", "type": "Game" }
 
 # Burger Shop 3 https://store.steampowered.com/app/2505570/Burger_Shop_3/
 { "name": "BurgerShop3.exe", "type": "Game" }
 
 # Burgie's cozy kitchen https://store.steampowered.com/app/3314340/Burgies_Cozy_Kitchen/
 { "name": "Burgies cozy kitchen.exe", "type": "Game" }
+
+# Burgie's cozy kitchen - Demo https://store.steampowered.com/app/4738670/
+{ "name": "Burgies cozy kitchen Demo.exe", "type": "Game" }
 
 # BURIED STARS https://store.steampowered.com/app/1025960/BURIED_STARS/
 { "name": "BuriedStars.exe", "type": "Game" }
@@ -1464,14 +1613,14 @@
 { "name": "burnoutparadise.exe", "type": "Game" }
 
 # Bus Bound https://store.steampowered.com/app/2095420/Bus_Bound/
-{ "name": "BusGame.exe", "type": "Game" }
+{ "name": "BusGame.exe", "type": "BG_CPUIO" }
 { "name": "BusGame-Win64-Shipping.exe", "type": "Game" }
 
 # Bus Driver https://store.steampowered.com/app/302080/Bus_Driver/
 { "name": "busdriver.exe", "type": "Game" }
 
 # Bus Flipper Simulator https://store.steampowered.com/app/2174560/Bus_Flipper_Renovator_Simulator/
-{ "name": "BusFlipperGame.exe", "type": "Game" }
+{ "name": "BusFlipperGame.exe", "type": "BG_CPUIO" }
 { "name": "BusFlipperGame-Win64-Shipping.exe", "type": "Game" }
 
 # Business Tour - Board Game with Online Multiplayer https://store.steampowered.com/app/397900/Business_Tour__Board_Game_with_Online_Multiplayer/
@@ -1488,8 +1637,12 @@
 
 # Bus Simulator 21 Next Stop https://store.steampowered.com/app/976590/Bus_Simulator_21_Next_Stop/
 { "name": "BusSimulator20.exe", "type": "Game" }
-{ "name": "BusSimulator21.exe", "type": "Game" }
+{ "name": "BusSimulator21.exe", "type": "BG_CPUIO" }
 { "name": "BusSimulator21-Win64-Shipping.exe", "type": "Game" }
+
+# Bus Simulator 27 Demo https://store.steampowered.com/app/4311090/Bus_Simulator_27_Demo/
+{ "name": "BusSimulator27.exe", "type": "BG_CPUIO" }
+{ "name": "BusSimulator27-Win64-Shipping.exe", "type": "Game" }
 
 # BustyBiz https://store.steampowered.com/app/1443820/
 { "name": "BustyBiz.exe", "type": "Game" }
@@ -1503,6 +1656,9 @@
 # BUTT https://store.steampowered.com/app/3067770/BUTT/
 { "name": "BUTT.exe", "type": "Game" }
 
+# ButtKnight https://store.steampowered.com/app/2772820/
+{ "name": "ButtKnight.exe", "type": "Game" }
+
 # Button Tales https://store.steampowered.com/app/545590/Button_Tales/
 { "name": "ButtonTales.exe", "type": "Game" }
 { "name": "ButtonTalesWH.exe", "type": "Game" }
@@ -1511,5 +1667,5 @@
 { "name": "Bye Sweet Carole.exe", "type": "Game" }
 
 # Bylina https://store.steampowered.com/app/2461440/Bylina/
-{ "name": "TheEpicProject.exe", "type": "Game" }
+{ "name": "TheEpicProject.exe", "type": "BG_CPUIO" }
 { "name": "TheEpicProject-Win64-Shipping.exe", "type": "Game" }

@@ -12,6 +12,10 @@
 # I am an Air Traffic Controller 4 https://store.steampowered.com/app/1348390/I_am_an_Air_Traffic_Controller_4/
 { "name": "AXA.exe", "type": "Game" }
 
+# I Am Bread https://store.steampowered.com/app/327890/I_Am_Bread/
+{ "name": "iambread.exe", "type": "Game" }
+{ "name": "IamBread.exe", "type": "Game" }
+
 # I Am Cat https://store.steampowered.com/app/3016840/I_Am_Cat/
 { "name": "iamcat.exe", "type": "Game" }
 
@@ -22,7 +26,7 @@
 { "name": "I Am Future.exe", "type": "Game" }
 
 # I Am Jesus Christ https://store.steampowered.com/app/1198970/I_Am_Jesus_Christ/
-{ "name": "IMJCH.exe", "type": "Game" }
+{ "name": "IMJCH.exe", "type": "BG_CPUIO" }
 { "name": "IMJCH-Win64-Shipping.exe", "type": "Game" }
 
 # I Am Legion: Stand Survivors https://store.steampowered.com/app/3109580/I_Am_Legion_Stand_Survivors/
@@ -39,11 +43,13 @@
 
 # ICARUS https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Icarus.exe", "type": "Game" }
+{ "name": "Icarus.exe", "type": "BG_CPUIO" }
+
+# ICBM https://store.steampowered.com/app/1178220/ICBM/
+{ "name": "ICBM_MOD.exe", "type": "Game" }
 
 # ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
 { "name": "ICBM_mod.exe", "type": "Game" }
-{ "name": "ICBM.exe", "type": "Game" }
 
 # Ice Cream Simulator https://store.steampowered.com/app/3515530/Ice_Cream_Simulator/
 { "name": "Ice Cream Simulator.exe", "type": "Game" }
@@ -53,6 +59,9 @@
 
 # ICEY https://store.steampowered.com/app/553640/ICEY/
 { "name": "ICEY.exe", "type": "Game" }
+
+# Iconoclasts https://store.steampowered.com/app/393520/Iconoclasts/
+{ "name": "Iconoclasts.exe", "type": "Game" }
 
 # Idle Awakening: Mages Path https://store.steampowered.com/app/3678950/Idle_Awakening_Mages_Path/
 { "name": "IdleAwakening.exe", "type": "Game" }
@@ -66,6 +75,9 @@
 # Idle Champions of the Forgotten Realms https://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
 { "name": "IdleDragons.exe", "type": "Game" }
 
+# Idle Chapel https://store.steampowered.com/app/4102010/Idle_Chapel/
+{ "name": "Idle Chapel.exe", "type": "Game" }
+
 # Idle Clans https://store.steampowered.com/app/2103530/Idle_Clans/
 { "name": "Idle Clans.exe", "type": "Game" }
 
@@ -78,6 +90,9 @@
 # Idle Cooking Emperor https://store.steampowered.com/app/1053170/Idle_Cooking_Emperor/
 { "name": "IdleCookingEmperor.exe", "type": "Game" }
 
+# Idle Crown https://store.steampowered.com/app/4768400/Idle_Crown/
+{ "name": "Idle Crown.exe", "type": "Game" }
+
 # Idle Cultivation https://store.steampowered.com/app/3697240/Idle_Cultivation/
 { "name": "IdleCultivation.exe", "type": "Game" }
 
@@ -86,6 +101,9 @@
 
 # Idle Dice 2 https://store.steampowered.com/app/2238180/Idle_Dice_2/
 { "name": "Idle Dice 2.exe", "type": "Game" }
+
+# IDLE_DIRECTIVE Demo https://store.steampowered.com/app/4764590/
+{ "name": "IDLE_DIRECTIVE.exe", "type": "Game" }
 
 # Idle Dyson Swarm https://store.steampowered.com/app/4348570/Idle_Dyson_Swarm/
 { "name": "Idle Dyson Swarm.exe", "type": "Game" }
@@ -106,8 +124,14 @@
 { "name": "idle_iktah.exe", "type": "Game" }
 
 # Idle Kitties Online https://store.steampowered.com/app/3062030/Idle_Kitties_Online/
-{ "name": "IdleKittiesOnline.exe", "type": "Game" }
+{ "name": "IdleKittiesOnline.exe", "type": "BG_CPUIO" }
 { "name": "IdleKittiesOnline-Win64-Shipping.exe", "type": "Game" }
+
+# Idle Knight https://store.steampowered.com/app/4579750/Idle_Knight/
+{ "name": "Idle Knight.exe", "type": "Game" }
+
+# Idle Looter https://store.steampowered.com/app/4118640/Idle_Looter/
+{ "name": "Idle Looter.exe", "type": "Game" }
 
 # Idle Monster TD https://store.steampowered.com/app/1482910/Idle_Monster_TD/
 { "name": "IdleMonsterTD.exe", "type": "Game" }
@@ -131,6 +155,9 @@
 # Idle Quest Simulator https://store.steampowered.com/app/4243380/Idle_Quest_Simulator/
 { "name": "Idle Quest Simulator.exe", "type": "Game" }
 
+# Idle Realms: The Eternal Spire https://store.steampowered.com/app/4433150/Idle_Realms_The_Eternal_Spire/
+{ "name": "Idle Realms - The Eternal Spire.exe", "type": "Game" }
+
 # Idle Research https://store.steampowered.com/app/1482860/Idle_Research/
 { "name": "Idle Research.exe", "type": "Game" }
 
@@ -148,6 +175,13 @@
 
 # Idle Spiral https://store.steampowered.com/app/1827980/Idle_Spiral/
 { "name": "IdleSpiral.exe", "type": "Game" }
+
+# Idle Startup https://store.steampowered.com/app/4779560/Idle_Startup/
+{ "name": "Idle Startup.exe", "type": "Game" }
+
+# IdleTale https://store.steampowered.com/app/3196540/IdleTale/
+{ "name": "IdleLauncher.exe", "type": "Game" }
+{ "name": "IdleTale.exe", "type": "Game" }
 
 # Idle Tower Defense https://store.steampowered.com/app/3054090/Idle_Tower_Defense/
 { "name": "Idle Tower Defense.exe", "type": "Game" }
@@ -184,8 +218,14 @@
 # IDUN - Frontline Survival https://store.steampowered.com/app/2186360/IDUN__Frontline_Survival/
 { "name": "IDUN.exe", "type": "Game" }
 
+# Idyll Isle https://store.steampowered.com/app/4209160/Idyll_Isle/
+{ "name": "Idyll Isle.exe", "type": "Game" }
+
 # If Found... https://store.steampowered.com/app/1041920/If_Found/
 { "name": "iffound.exe", "type": "Game" }
+
+# If My Heart Had Wings https://store.steampowered.com/app/326480/If_My_Heart_Had_Wings/
+{ "name": "AdvHD.exe", "type": "Game" }
 
 # IfSunSets https://store.steampowered.com/app/2271930/IfSunSets/
 { "name": "IFSS.exe", "type": "Game" }
@@ -194,7 +234,7 @@
 { "name": "IGTAP.exe", "type": "Game" }
 
 # I Have No Change Playtest https://store.steampowered.com/app/3431570/I_Have_No_Change/
-{ "name": "IHaveNoChange.exe", "type": "Game" }
+{ "name": "IHaveNoChange.exe", "type": "BG_CPUIO" }
 { "name": "IHaveNoChange-Win64-Shipping.exe", "type": "Game" }
 
 # I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
@@ -217,6 +257,9 @@
 # Illusion Carnival https://store.steampowered.com/app/2796340/Illusion_Carnival/
 { "name": "Illusion Carnival.exe", "type": "Game" }
 
+# Immerse Gamepack https://store.steampowered.com/app/3138960/Immerse_Gamepack/
+{ "name": "Immerse Gamepack.exe", "type": "Game" }
+
 # Immoral-Bathhouse https://store.steampowered.com/app/3734630/
 { "name": "Immoral-Bathhouse.exe", "type": "Game" }
 
@@ -232,18 +275,27 @@
 # Immortal Life https://store.steampowered.com/app/1201230/Immortal_Life/
 { "name": "ImmortalLife.exe", "type": "Game" }
 
+# Immortal Redneck https://store.steampowered.com/app/595140/Immortal_Redneck/
+{ "name": "ImmortalRedneck.exe", "type": "Game" }
+
 # Immortals Fenyx Rising https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/
 { "name": "ImmortalsFenyxRising.exe", "type": "Game" }
 
 # Immortals of Aveum https://store.steampowered.com/app/2009100/Immortals_of_Aveum/
-{ "name": "ImmortalsOfAveum.exe", "type": "Game" }
+{ "name": "ImmortalsOfAveum.exe", "type": "BG_CPUIO" }
 { "name": "ImmortalsOfAveum-Win64-Shipping.exe", "type": "Game" }
 
 # I'm on Observation Duty https://store.steampowered.com/app/1046820/Im_on_Observation_Duty/
 { "name": "I'm on Observation Duty.exe", "type": "Game" }
 
+# I'm on Observation Duty 8 https://store.steampowered.com/app/2564960/Im_on_Observation_Duty_8/
+{ "name": "I'm on Observation Duty 8.exe", "type": "Game" }
+
 # Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator.exe", "type": "Game" }
+
+# Imperial Ambitions Demo https://store.steampowered.com/app/2918290/
+{ "name": "Imperial Ambitions.exe", "type": "Game" }
 
 # Imperial Glory https://store.steampowered.com/app/277450/Imperial_Glory/
 { "name": "ImperialGlory.exe", "type": "Game" }
@@ -300,7 +352,7 @@
 
 # Incursion Red River https://store.steampowered.com/app/2116120/Incursion_Red_River/
 { "name": "Test_C-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Test_C.exe", "type": "Game" }
+{ "name": "Test_C.exe", "type": "BG_CPUIO" }
 
 # Indiana Jones and the Fate of Atlantis https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/
 { "name": "Indiana Jones and the Fate of Atlantis.exe", "type": "Game" }
@@ -315,22 +367,22 @@
 { "name": "IGTM.exe", "type": "Game" }
 
 # Indigo Park https://store.steampowered.com/app/2504480/Indigo_Park_Chapter_1/
-{ "name": "RaccoonCh1.exe", "type": "Game" }
+{ "name": "RaccoonCh1.exe", "type": "BG_CPUIO" }
 { "name": "RaccoonCh1-Win64-Shipping.exe", "type": "Game" }
 
 # INDIKA https://store.steampowered.com/app/1373960/INDIKA/
-{ "name": "Indika.exe", "type": "Game" }
+{ "name": "Indika.exe", "type": "BG_CPUIO" }
 { "name": "Indika-Win64-Shipping.exe", "type": "Game" }
 
 # Indivisible https://store.steampowered.com/app/421170/Indivisible/
 { "name": "Indivisible.exe", "type": "Game" }
 
 # INDUSTRIA https://store.steampowered.com/app/1172650/INDUSTRIA/
-{ "name": "Industria.exe", "type": "Game" }
+{ "name": "Industria.exe", "type": "BG_CPUIO" }
 { "name": "Industria-Win64-Shipping.exe", "type": "Game" }
 
 # INDUSTRIA 2 https://store.steampowered.com/app/2154070/INDUSTRIA_2/
-{ "name": "Industria_2.exe", "type": "Game" }
+{ "name": "Industria_2.exe", "type": "BG_CPUIO" }
 { "name": "Industria_2-Win64-Shipping.exe", "type": "Game" }
 
 # Industry Giant 2 https://store.steampowered.com/app/271360/Industry_Giant_2/
@@ -338,7 +390,7 @@
 { "name": "ig2_AddOn.exe", "type": "Game" }
 
 # Industry Giant 4.0 https://store.steampowered.com/app/1129570/Industry_Giant_40/
-{ "name": "ig4.exe", "type": "Game" }
+{ "name": "ig4.exe", "type": "BG_CPUIO" }
 { "name": "ig4-Win64-Shipping.exe", "type": "Game" }
 
 # Industry Idle https://store.steampowered.com/app/1574000/Industry_Idle/
@@ -346,6 +398,9 @@
 
 # In Exilium https://store.steampowered.com/app/344880/In_Exilium/
 { "name": "In Exilium.exe", "type": "Game" }
+
+# In Falsus Demo https://store.steampowered.com/app/4355100/
+{ "name": "if-app.exe", "type": "Game" }
 
 # Infection Free Zone https://store.steampowered.com/app/1465460/Infection_Free_Zone/
 { "name": "Infection Free Zone.exe", "type": "Game" }
@@ -362,6 +417,9 @@
 # Infernax https://store.steampowered.com/app/374190/Infernax/
 { "name": "Infernax.exe", "type": "Game" }
 
+# Inferno Protocol Demo https://store.steampowered.com/app/4405620/
+{ "name": "Inferno Protocol Demo.exe", "type": "Game" }
+
 # Infested Planet https://store.steampowered.com/app/204530/Infested_Planet/
 { "name": "InfestedPlanet.exe", "type": "Game" }
 
@@ -372,8 +430,12 @@
 { "name": "InfiniteBorders_Launcher.exe", "type": "Game" }
 { "name": "InfiniteBorders3Kingdoms.exe", "type": "Game" }
 
+# Infinite Lives https://store.steampowered.com/app/3751210/Infinite_Lives/
+{ "name": "InfiniteLivesModLauncher.exe", "type": "Game" }
+{ "name": "Infinite Lives.exe", "type": "Game" }
+
 # Infinite Tournament Paintball https://store.steampowered.com/app/1341160/Infinite_Tournament_Paintball/
-{ "name": "ITP.exe", "type": "Game" }
+{ "name": "ITP.exe", "type": "BG_CPUIO" }
 { "name": "ITP8-Win64-Shipping.exe", "type": "Game" }
 
 # Infinitode 2 - Infinite Tower Defense https://store.steampowered.com/app/937310/Infinitode_2__Infinite_Tower_Defense/
@@ -425,7 +487,7 @@
 { "name": "Inkulinati.exe", "type": "Game" }
 
 # Inkwellers https://store.steampowered.com/app/3061390/Inkwellers/
-{ "name": "TwoToo.exe", "type": "Game" }
+{ "name": "TwoToo.exe", "type": "BG_CPUIO" }
 { "name": "TwoToo-Win64-Shipping.exe", "type": "Game" }
 
 # Innocence Or Money Season 1 - Episodes 1 to 3 https://store.steampowered.com/app/1958390/
@@ -434,6 +496,9 @@
 
 # Innocent Girl https://store.steampowered.com/app/1349030/
 { "name": "Innocent Girl.exe", "type": "Game" }
+
+# In Other Waters https://store.steampowered.com/app/890720/In_Other_Waters/
+{ "name": "In Other Waters.exe", "type": "Game" }
 
 # Inotia 4 https://store.steampowered.com/app/3956320/Inotia_4/
 { "name": "Inotia4.exe", "type": "Game" }
@@ -456,6 +521,9 @@
 
 # INSIDE https://store.steampowered.com/app/304430/INSIDE/
 { "name": "INSIDE.exe", "type": "Game" }
+
+# Inside Jennifer - Season 1 https://store.steampowered.com/app/1754860/
+{ "name": "InsideJennifer.exe", "type": "Game" }
 
 # Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
 { "name": "Insider_Trading.exe", "type": "Game" }
@@ -484,12 +552,18 @@
 { "name": "insurgency.exe", "type": "Game" }
 
 # Insurgency: Sandstorm https://store.steampowered.com/app/581320/Insurgency_Sandstorm/
-{ "name": "Insurgency.exe", "type": "Game" }
+{ "name": "Insurgency.exe", "type": "BG_CPUIO" }
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "BG_CPUIO" }
 
 # Interdimensional Vending Machine https://store.steampowered.com/app/3857430/Interdimensional_Vending_Machine/
 { "name": "IVM_windows.exe", "type": "Game" }
+
+# Intergalactic Bubbles https://store.steampowered.com/app/351490/Intergalactic_Bubbles/
+{ "name": "Intergalactic Bubbles.exe", "type": "Game" }
+
+# International Basketball Manager 26 https://store.steampowered.com/app/4062930/International_Basketball_Manager_26/
+{ "name": "IBM 2026.exe", "type": "Game" }
 
 # Internet Cafe Simulator https://store.steampowered.com/app/1136160/Internet_Cafe_Simulator/
 { "name": "Internet Cafe Simulator.exe", "type": "Game" }
@@ -506,8 +580,11 @@
 # Interstellar Space: Genesis https://store.steampowered.com/app/984680/Interstellar_Space_Genesis/
 { "name": "isg.exe", "type": "Game" }
 
+# Intertwined - Season 1 https://store.steampowered.com/app/4783540/
+{ "name": "Intertwined.exe", "type": "Game" }
+
 # In The Black https://store.steampowered.com/app/380110/In_The_Black/
-{ "name": "InTheBlack.exe", "type": "Game" }
+{ "name": "InTheBlack.exe", "type": "BG_CPUIO" }
 { "name": "InTheBlack-Win64-Shipping.exe", "type": "Game" }
 
 # Into the Breach https://store.steampowered.com/app/590380/Into_the_Breach/
@@ -521,19 +598,19 @@
 { "name": "ProjectTwo-Win64-Test.exe", "type": "Game" }
 
 # Into The Flames https://store.steampowered.com/app/1222300/Into_The_Flames/
-{ "name": "Project_Flames.exe", "type": "Game" }
+{ "name": "Project_Flames.exe", "type": "BG_CPUIO" }
 { "name": "Project_Flames-Win64-Shipping.exe", "type": "Game" }
 
 # Into the Necrovale https://store.steampowered.com/app/1717090/Into_the_Necrovale/
 { "name": "Necrovale.exe", "type": "Game" }
 
 # Into the Radius 2 https://store.steampowered.com/app/2307350/Into_the_Radius_2/
-{ "name": "IntoTheRadius2.exe", "type": "Game" }
+{ "name": "IntoTheRadius2.exe", "type": "BG_CPUIO" }
 { "name": "IntoTheRadius2-Win64-Shipping.exe", "type": "Game" }
 
 # Into the Radius VR https://store.steampowered.com/app/1012790/Into_the_Radius_VR/
 { "name": "IntoTheRadius-Win64-Shipping.exe", "type": "Game" }
-{ "name": "IntoTheRadius.exe", "type": "Game" }
+{ "name": "IntoTheRadius.exe", "type": "BG_CPUIO" }
 
 # Intravenous https://store.steampowered.com/app/1486630/Intravenous/
 { "name": "intravenous.exe", "type": "Game" }
@@ -552,11 +629,14 @@
 { "name": "IVV.exe", "type": "Game" }
 
 # Invincible VS https://store.steampowered.com/app/2353060/
-{ "name": "InvincibleVS.exe", "type": "Game" }
+{ "name": "InvincibleVS.exe", "type": "BG_CPUIO" }
 { "name": "InvincibleVS-Win64-Shipping.exe", "type": "Game" }
 
 # Invisible, Inc. https://store.steampowered.com/app/243970/Invisible_Inc/
 { "name": "invisibleinc.exe", "type": "Game" }
+
+# Invokyr Demo https://store.steampowered.com/app/4704030/Invokyr_Demo/
+{ "name": "vhs.exe", "type": "Game" }
 
 # inZOI https://store.steampowered.com/app/2456740/inZOI/
 { "name": "inZOI-Win64-Shipping.exe", "type": "Game" }
@@ -569,7 +649,7 @@
 { "name": "fury.exe", "type": "Game" }
 
 # ION Shift https://store.steampowered.com/app/2503950/ION_Shift/
-{ "name": "ION Shift.exe", "type": "Game" }
+{ "name": "ION Shift.exe", "type": "BG_CPUIO" }
 { "name": "Overkill-Win64-Shipping.exe", "type": "Game" }
 
 # IOSoccer https://store.steampowered.com/app/673560/IOSoccer/
@@ -608,6 +688,9 @@
 # Iron Meat https://store.steampowered.com/app/1157740/Iron_Meat/
 { "name": "Iron Meat.exe", "type": "Game" }
 
+# IRON NEST: Heavy Turret Simulator Demo https://store.steampowered.com/app/4300500/IRON_NEST_Heavy_Turret_Simulator_Demo/
+{ "name": "Iron Nest Heavy Turret Simulator.exe", "type": "Game" }
+
 # IRON REBELLION https://store.steampowered.com/app/1192900/IRON_REBELLION/
 { "name": "Iron Rebellion.exe", "type": "Game" }
 
@@ -624,8 +707,20 @@
 # Isekai Big Dick https://store.steampowered.com/app/3825660/
 { "name": "IsekaiBigDick.exe", "type": "Game" }
 
+# ISEKAI FRONTLINE https://store.steampowered.com/app/1924140/
+{ "name": "ISEKAI FRONTLINE.exe", "type": "Game" }
+
+# ISEKAI QUEST https://store.steampowered.com/app/1268110/
+{ "name": "ISEKAI QUEST.exe", "type": "Game" }
+
 # Isekai Sex Boutique https://store.steampowered.com/app/2962480/
 { "name": "IsekaiSexBoutique.exe", "type": "Game" }
+
+# Isekai Succubus ~My Genderbent Saga in Another World~ https://store.steampowered.com/app/1383680/
+{ "name": "IsekaiSuccubus.exe", "type": "Game" }
+
+# Isekai: Waifu Overlord Demo https://store.steampowered.com/app/3860030/
+{ "name": "IsekaiWaifuOverlord.exe", "type": "Game" }
 
 # ISLANDERS https://store.steampowered.com/app/1046030/ISLANDERS/
 { "name": "ISLANDERS.exe", "type": "Game" }
@@ -640,7 +735,7 @@
 { "name": "moneybox.exe", "type": "Game" }
 
 # Islands of Insight https://store.steampowered.com/app/2071500/Islands_of_Insight/
-{ "name": "IslandsofInsight.exe", "type": "Game" }
+{ "name": "IslandsofInsight.exe", "type": "BG_CPUIO" }
 { "name": "IslandsofInsight-Win64-Shipping.exe", "type": "Game" }
 
 # Islands & Trains https://store.steampowered.com/app/1957760/Islands__Trains/
@@ -672,6 +767,12 @@
 
 # Ithya: Magic Studies https://store.steampowered.com/app/3330250/Ithya_Magic_Studies/
 { "name": "Magic Studies.exe", "type": "Game" }
+
+# iTop Easy Desktop for Steam https://store.steampowered.com/app/2620310/iTop_Easy_Desktop/
+{ "name": "iEasyDesk.exe", "type": "BG_CPUIO" }
+
+# It's Fine Demo https://store.steampowered.com/app/4608740/Its_Fine_Demo/
+{ "name": "Its Fine Demo.exe", "type": "Game" }
 
 # It Takes Two Friend's Pass https://store.steampowered.com/app/1504980/It_Takes_Two_Friends_Pass/
 { "name": "ItTakesTwo_Trial.exe", "type": "Game" }

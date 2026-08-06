@@ -11,6 +11,9 @@
 # Race The Sun https://store.steampowered.com/app/253030/Race_The_Sun/
 { "name": "RaceTheSun.x86", "type": "Game" }
 
+# Radio Commander https://store.steampowered.com/app/871530/Radio_Commander_Vietnam_64/
+{ "name": "RC.x86_64", "type": "Game" }
+
 # Rail Route https://store.steampowered.com/app/1124180/Rail_Route/
 { "name": "Rail Route.x86", "type": "Game" }
 
@@ -35,11 +38,17 @@
 # Reassembly https://store.steampowered.com/app/329130/Reassembly/
 { "name": "ReassemblySteam64", "type": "Game" }
 
+# Rebel Cops https://store.steampowered.com/app/970960/Rebel_Cops/
+{ "name": "Rebel Cops.x86_64", "type": "Game" }
+
 # Receiver https://store.steampowered.com/app/234190/Receiver/
 { "name": "receiver", "type": "Game" }
 
 # Receiver 2 https://store.steampowered.com/app/1129310/Receiver_2/
 { "name": "Receiver2", "type": "Game" }
+
+# Reclaiming the Lost https://store.steampowered.com/app/3112280/
+{ "name": "ReclaimingtheLost", "type": "Game" }
 
 # Red Orchestra: Ostfront 41-45 https://store.steampowered.com/app/1200/Red_Orchestra_Ostfront_4145/
 { "name": "redorchestra-bin", "type": "Game" }
@@ -139,6 +148,9 @@
 # Robocraft http://store.steampowered.com/app/301520/Robocraft/
 { "name": "Robocraft.x86_64", "type": "Game" }
 
+# Robothorium https://store.steampowered.com/app/657090/Robothorium/
+{ "name": "Robothorium.x86", "type": "Game" }
+
 # Robot Roller-Derby Disco Dodgeball https://store.steampowered.com/app/270450/Robot_RollerDerby_Disco_Dodgeball/
 { "name": "Disco Dodgeball.x86", "type": "Game" }
 { "name": "Disco Dodgeball.x86_64", "type": "Game" }
@@ -187,6 +199,10 @@
 
 # RUINER https://store.steampowered.com/app/464060/RUINER/
 { "name": "Ruiner-Linux-Shipping", "type": "Game" }
+
+# RuneScape 3 https://runescape.com/
+{ "name": "rs3linux", "type": "Game" }
+{ "name": "rs2client", "type": "Game" }
 
 # RUNNING WITH RIFLES https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/
 { "name": "launch_config", "type": "Game" }

@@ -55,7 +55,7 @@
 { "name": "F1Manager24.exe", "type": "Game" }
 
 # Faaast Penguin https://store.steampowered.com/app/2590150/Faaast_Penguin/
-{ "name": "FaaastPenguin.exe", "type": "Game" }
+{ "name": "FaaastPenguin.exe", "type": "BG_CPUIO" }
 { "name": "FaaastPenguin-Win64-Shipping.exe", "type": "Game" }
 
 # Fable Anniversary https://store.steampowered.com/app/288470/Fable_Anniversary/
@@ -87,11 +87,14 @@
 # Factory Town https://store.steampowered.com/app/860890/Factory_Town/
 { "name": "Factory Town.exe", "type": "Game" }
 
+# Factory Town 2: Paradise https://store.steampowered.com/app/3312130/Factory_Town_2_Paradise/
+{ "name": "Factory Town 2.exe", "type": "Game" }
+
 # Factory Town Idle https://store.steampowered.com/app/2207490/Factory_Town_Idle/
 { "name": "Factory Town Idle.exe", "type": "Game" }
 
 # Fae Farm https://store.steampowered.com/app/2230110/Fae_Farm/
-{ "name": "FaeFarmClient.exe", "type": "Game" }
+{ "name": "FaeFarmClient.exe", "type": "BG_CPUIO" }
 { "name": "FaeFarmClient-Win64-Test.exe", "type": "Game" }
 { "name": "FaeFarmClient-Win64-Shipping.exe", "type": "Game" }
 
@@ -132,6 +135,9 @@
 { "name": "Aces Mod Manager.exe", "type": "BG_CPUIO" }
 { "name": "LeadPipe.exe", "type": "BG_CPUIO" }
 
+# Fallen / Brand New World https://store.steampowered.com/app/3561400/
+{ "name": "fallen.exe", "type": "Game" }
+
 # Fallen Earth Free2Play https://store.steampowered.com/app/113420/Fallen_Earth_Classic/
 { "name": "Frontend.exe", "type": "Game" }
 
@@ -140,6 +146,9 @@
 
 # Fallen Enchantress: Legendary Heroes https://store.steampowered.com/app/228260/Fallen_Enchantress_Legendary_Heroes/
 { "name": "LegendaryHeroes.exe", "type": "Game" }
+
+# Fallen Shinobi https://store.steampowered.com/app/2458490/
+{ "name": "Shinobi.exe", "type": "Game" }
 
 # Fallen Tear: The Ascension https://store.steampowered.com/app/1446900/Fallen_Tear_The_Ascension/
 { "name": "FallenTear.exe", "type": "Game" }
@@ -159,6 +168,9 @@
 
 # Fallout 4 https://store.steampowered.com/app/377160/Fallout_4/
 { "name": "Fallout4.exe", "type": "Game" }
+
+# Fallout 4: Creation Kit https://store.steampowered.com/app/1946160/Fallout_4_Creation_Kit/
+{ "name": "CreationKit32.exe", "type": "Game" }
 
 # Fallout 4 VR https://store.steampowered.com/app/611660/Fallout_4_VR/
 { "name": "Fallout4VR.exe", "type": "Game" }
@@ -185,7 +197,7 @@
 { "name": "FantasianND.exe", "type": "Game" }
 
 # Fantasia Sango Mysteria https://store.steampowered.com/app/1597460/Fantasia_Sango_Mysteria/
-{ "name": "FSM.exe", "type": "Game" }
+{ "name": "FSM.exe", "type": "BG_CPUIO" }
 { "name": "FSM-Win64-Shipping.exe", "type": "Game" }
 
 # Fantasy Aquarium https://store.steampowered.com/app/3183350/Fantasy_Aquarium/
@@ -204,7 +216,7 @@
 { "name": "fantasysim.exe", "type": "Game" }
 
 # FANTASY LIFE i: The Girl Who Steals Time https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/
-{ "name": "NFL1.exe", "type": "Game" }
+{ "name": "NFL1.exe", "type": "BG_CPUIO" }
 { "name": "NFL1-Win64-Shipping.exe", "type": "Game" }
 
 # Fantasy Maiden Wars - DREAM OF THE STRAY DREAMER - https://store.steampowered.com/app/3575980/Fantasy_Maiden_Wars__DREAM_OF_THE_STRAY_DREAMER/
@@ -218,6 +230,9 @@
 
 # FANTATALE https://store.steampowered.com/app/3301040/FANTATALE/
 { "name": "fantatale.publish_live.exe", "type": "Game" }
+
+# Farabel https://store.steampowered.com/app/364200/Farabel/
+{ "name": "Farabel.exe", "type": "Game" }
 
 # FAR: Changing Tides https://store.steampowered.com/app/1570010/FAR_Changing_Tides/
 { "name": "FarChangingTides.exe", "type": "Game" }
@@ -261,8 +276,11 @@
 { "name": "Farever.exe", "type": "Game" }
 
 # Far Far West https://store.steampowered.com/app/3124540/Far_Far_West/
-{ "name": "FarFarWest.exe", "type": "Game" }
+{ "name": "FarFarWest.exe", "type": "BG_CPUIO" }
 { "name": "FarFarWest-Win64-Shipping.exe", "type": "Game" }
+
+# Fargone https://store.steampowered.com/app/2242100/Fargone/
+{ "name": "Fargone.exe", "type": "Game" }
 
 # Farlands https://store.steampowered.com/app/2252680/Farlands/
 { "name": "Farlands.exe", "type": "Game" }
@@ -272,7 +290,7 @@
 
 # Farlight 84 https://store.steampowered.com/app/1928420/Farlight_84/
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
-{ "name": "SolarlandClient.exe", "type": "Game" }
+{ "name": "SolarlandClient.exe", "type": "BG_CPUIO" }
 
 # FAR: Lone Sails https://store.steampowered.com/app/609320/FAR_Lone_Sails/
 { "name": "FarLoneSails.exe", "type": "Game" }
@@ -295,11 +313,13 @@
 # Farmer's Life https://store.steampowered.com/app/1137750/Farmers_Life/
 { "name": "FarmersLife.exe", "type": "Game" }
 
+# Farm Factory Simulator https://store.steampowered.com/app/4668220/Farm_Factory_Simulator/
+{ "name": "Farm Factory Simulator.exe", "type": "Game" }
+
 # Farm Frenzy Collection https://store.steampowered.com/app/391000/Farm_Frenzy_Collection/
 { "name": "FarmFrenzyMegaPack.exe", "type": "Game" }
 { "name": "FarmFrenzyPizzaParty.exe", "type": "Game" }
 { "name": "farm.exe", "type": "Game" }
-{ "name": "farm2.exe", "type": "Game" }
 { "name": "FarmFrenzy3.exe", "type": "Game" }
 { "name": "FarmFrenzy3_America.exe", "type": "Game" }
 { "name": "FarmFrenzy3_Arctica.exe", "type": "Game" }
@@ -341,6 +361,9 @@
 # Farming & Supermarket Simulator https://store.steampowered.com/app/3070880/Farming__Supermarket_Simulator/
 { "name": "Farming and Supermarket Simulator.exe", "type": "Game" }
 
+# Far Mining https://store.steampowered.com/app/4685070/Far_Mining/
+{ "name": "Far Mining.exe", "type": "Game" }
+
 # Farm Manager https://store.steampowered.com/app/3759820/Farm_Manager/
 { "name": "FarmManager.exe", "type": "Game" }
 
@@ -374,9 +397,6 @@
 # Fast Food Simulator https://store.steampowered.com/app/2916430/Fast_Food_Simulator/
 { "name": "Fast Food Simulator.exe", "type": "Game" }
 
-# FATAL FRAME II: Crimson Butterfly REMAKE https://store.steampowered.com/app/3920610/FATAL_FRAME_II_Crimson_Butterfly_REMAKE/
-{ "name": "FatalFrameII.exe", "type": "Game" }
-
 # FATAL FRAME / PROJECT ZERO: Maiden of Black Water https://store.steampowered.com/app/1732190/FATAL_FRAME__PROJECT_ZERO_Maiden_of_Black_Water/
 { "name": "FATAL_FRAME_MOBW.exe", "type": "Game" }
 
@@ -384,8 +404,11 @@
 { "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
 
 # FATAL FURY: City of the Wolves https://store.steampowered.com/app/2492040/FATAL_FURY_City_of_the_Wolves/
-{ "name": "FATAL FURY City of the Wolves.exe", "type": "Game" }
+{ "name": "FATAL FURY City of the Wolves.exe", "type": "BG_CPUIO" }
 { "name": "CotW-Win64-Shipping.exe", "type": "Game" }
+
+# FatalZone https://store.steampowered.com/app/2488510/FatalZone/
+{ "name": "FatalZone.exe", "type": "Game" }
 
 # FATE https://store.steampowered.com/app/246840/FATE/
 { "name": "fate.exe", "type": "Game" }
@@ -397,7 +420,7 @@
 { "name": "hollow-win64vc14-release.exe", "type": "Game" }
 
 # Fatekeeper https://store.steampowered.com/app/2186990/Fatekeeper/
-{ "name": "SLASHER.exe", "type": "Game" }
+{ "name": "SLASHER.exe", "type": "BG_CPUIO" }
 { "name": "SLASHER-Win64-Shipping.exe", "type": "Game" }
 
 # FATE: Reawakened https://store.steampowered.com/app/3030720/FATE_Reawakened/
@@ -411,6 +434,9 @@
 
 # Fate War https://store.steampowered.com/app/3581600/Fate_War/
 { "name": "Fate War.exe", "type": "Game" }
+
+# Fattening Career Demo https://store.steampowered.com/app/2595490/
+{ "name": "Fattening_Career.exe", "type": "Game" }
 
 # fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
 { "name": "faultms1.exe", "type": "Game" }
@@ -451,6 +477,12 @@
 # Fear Surrounds https://store.steampowered.com/app/1526490/Fear_Surrounds/
 { "name": "FearSurround.exe", "type": "Game" }
 
+# Feastopia https://store.steampowered.com/app/3085910/Feastopia/
+{ "name": "Feastopia.exe", "type": "Game" }
+
+# FeeBay https://store.steampowered.com/app/3547880/FeeBay_Simulator/
+{ "name": "FeeBay.exe", "type": "Game" }
+
 # Feed and Grow: Fish https://store.steampowered.com/app/429050/Feed_and_Grow_Fish/
 { "name": "Feed and Grow.exe", "type": "Game" }
 { "name": "FeedAndGrowFishLauncher.exe", "type": "BG_CPUIO" }
@@ -460,6 +492,12 @@
 
 # Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
 { "name": "Feed the Cups.exe", "type": "Game" }
+
+# Feed The Cups Demo https://store.steampowered.com/app/2400400/
+{ "name": "Feed the Cups DEMO.exe", "type": "Game" }
+
+# Feed The Pit https://store.steampowered.com/app/3278290/Feed_The_Pit/
+{ "name": "ftp.exe", "type": "Game" }
 
 # FEED THE QUEEN https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
 { "name": "feedthequeen.exe", "type": "Game" }
@@ -474,10 +512,19 @@
 { "name": "FelixJumpman.exe", "type": "Game" }
 
 # Fellowship Playtest https://store.steampowered.com/app/3165720/
-{ "name": "fellowship.exe", "type": "Game" }
+{ "name": "fellowship.exe", "type": "BG_CPUIO" }
 
 # Fell Seal: Arbiter's Mark https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/
 { "name": "Fell Seal.exe", "type": "Game" }
+
+# Fellwood Demo https://store.steampowered.com/app/4777870/
+{ "name": "Fellwood.exe", "type": "Game" }
+
+# Female Anchor Next Door https://store.steampowered.com/app/1997410/
+{ "name": "Female Anchor Next Door.exe", "type": "Game" }
+
+# FEMBOY called it “MASSAGE”😈💦 https://store.steampowered.com/app/3920180/
+{ "name": "FEMBOY called it “MASSAGE”.exe", "type": "Game" }
 
 # FEMBOY FUTA HOUSE https://store.steampowered.com/app/3602290/
 { "name": "FEMBOY FUTA HOUSE.exe", "type": "Game" }
@@ -485,6 +532,9 @@
 
 # Femboy Futa Mania 🌶️ https://store.steampowered.com/app/4280140/
 { "name": "Femboy Futa Mania.exe", "type": "Game" }
+
+# Femboy Survival https://store.steampowered.com/app/3832120/
+{ "name": "Femboy Survival.exe", "type": "Game" }
 
 # Femtazio https://store.steampowered.com/app/3647400/
 { "name": "Femtazio.exe", "type": "Game" }
@@ -498,11 +548,17 @@
 # Fetish Locator: S&M Studio https://store.steampowered.com/app/3763690/
 { "name": "SM.exe", "type": "Game" }
 
+# Fetish Locator Week One https://store.steampowered.com/app/1360980/
+{ "name": "FetishLocator.exe", "type": "Game" }
+
 # Fetish Locator Week Three https://store.steampowered.com/app/2231010/
 { "name": "FetishLocatorWeek3.exe", "type": "Game" }
 
+# Fetish Locator Week Two https://store.steampowered.com/app/1684170/
+{ "name": "FetishLocatorWeek2.exe", "type": "Game" }
+
 # Fever Meme https://store.steampowered.com/app/3110070/Fever_Meme/
-{ "name": "TheTrollGame.exe", "type": "Game" }
+{ "name": "TheTrollGame.exe", "type": "BG_CPUIO" }
 { "name": "TheTrollGame-Win64-Shipping.exe", "type": "Game" }
 
 # FEZ https://store.steampowered.com/app/224760/FEZ/
@@ -539,6 +595,12 @@
 { "name": "FIFA22_Trial.exe", "type": "Game" }
 { "name": "FIFA22.exe", "type": "Game" }
 
+# Fight Angel Special Edition https://store.steampowered.com/app/1041840/Fight_Angel_Special_Edition/
+{ "name": "FightAngelSE.exe", "type": "Game" }
+
+# Fight Crab https://store.steampowered.com/app/1213750/Fight_Crab/
+{ "name": "FightCrab.exe", "type": "Game" }
+
 # Fight'N Rage https://store.steampowered.com/app/674520/FightN_Rage/
 { "name": "FIGHT_N_RAGE.exe", "type": "Game" }
 
@@ -550,6 +612,9 @@
 
 # Figment https://store.steampowered.com/app/493540/Figment/
 { "name": "Figment.exe", "type": "Game" }
+
+# Fill Up The Hole https://store.steampowered.com/app/3343160/Fill_Up_The_Hole/
+{ "name": "Fill Up The Hole.exe", "type": "Game" }
 
 # Final Exam https://store.steampowered.com/app/233190/Final_Exam/
 { "name": "final_exam.exe", "type": "Game" }
@@ -658,7 +723,7 @@
 { "name": "FFX.exe", "type": "Game" }
 
 # Final Sentence https://store.steampowered.com/app/2413950/Final_Sentence/
-{ "name": "TheEnd.exe", "type": "Game" }
+{ "name": "TheEnd.exe", "type": "BG_CPUIO" }
 { "name": "TheEndClient-Win64-Shipping.exe", "type": "Game" }
 
 # Final War: Frozen Defense https://store.steampowered.com/app/3689850/Final_War_Frozen_Defense/
@@ -668,17 +733,23 @@
 { "name": "Find 100 Ducks And Blast Them!.exe", "type": "Game" }
 
 # Finding Frankie https://store.steampowered.com/app/2597970/Finding_Frankie/
-{ "name": "FF_Train_test.exe", "type": "Game" }
+{ "name": "FF_Train_test.exe", "type": "BG_CPUIO" }
 { "name": "FF_Train_test-Win64-Shipping.exe", "type": "Game" }
+
+# Finding Paradise https://store.steampowered.com/app/337340/Finding_Paradise/
+{ "name": "Finding Paradise.exe", "type": "Game" }
 
 # Find Matt's Cats https://store.steampowered.com/app/2624670/Find_Matts_Cats/
 { "name": "Find Matt's Cats.exe", "type": "Game" }
+
+# Fine Sweeper https://store.steampowered.com/app/367000/Fine_Sweeper/
+{ "name": "Fine Sweeper.exe", "type": "Game" }
 
 # Finn Dorset's Institute For Livestock Replication https://store.steampowered.com/app/3135530/Finn_Dorsets_Institute_For_Livestock_Replication/
 { "name": "finndorsets.exe", "type": "Game" }
 
 # Finnish Cottage Simulator https://store.steampowered.com/app/1723780/Finnish_Cottage_Simulator/
-{ "name": "FCS.exe", "type": "Game" }
+{ "name": "FCS.exe", "type": "BG_CPUIO" }
 { "name": "FCS-Win64-Shipping.exe", "type": "Game" }
 
 # FireAlpaca SE https://store.steampowered.com/app/458750/FireAlpaca_SE/
@@ -688,11 +759,11 @@
 { "name": "Fbwg.exe", "type": "Game" }
 
 # Firefighting Simulator: Ignite https://store.steampowered.com/app/1669480/Firefighting_Simulator_Ignite/
-{ "name": "FFSIgnite.exe", "type": "Game" }
+{ "name": "FFSIgnite.exe", "type": "BG_CPUIO" }
 { "name": "FFSIgnite-Win64-Shipping.exe", "type": "Game" }
 
 # Firefighting Simulator - The Squad https://store.steampowered.com/app/420560/Firefighting_Simulator__The_Squad/
-{ "name": "FG.exe", "type": "Game" }
+{ "name": "FG.exe", "type": "BG_CPUIO" }
 { "name": "FG-Win64-Shipping.exe", "type": "Game" }
 
 # Firehawk FPV https://store.steampowered.com/app/3365170/Firehawk_FPV_Drone_Fighter/
@@ -711,7 +782,7 @@
 { "name": "Fireworks Mania.exe", "type": "Game" }
 
 # First Class Trouble https://store.steampowered.com/app/953880/First_Class_Trouble/
-{ "name": "FCTClient.exe", "type": "Game" }
+{ "name": "FCTClient.exe", "type": "BG_CPUIO" }
 { "name": "FCTClient-Win64-Shipping.exe", "type": "Game" }
 
 # First Cut: Samurai Duel https://store.steampowered.com/app/2193490/First_Cut_Samurai_Duel/
@@ -720,6 +791,13 @@
 # First Day https://store.steampowered.com/app/1067810/First_Day/
 { "name": "First Day.exe", "type": "Game" }
 
+# First Dwarf https://store.steampowered.com/app/1714900/First_Dwarf/
+{ "name": "FirstDwarf.exe", "type": "BG_CPUIO" }
+{ "name": "FirstDwarf-Win64-Shipping.exe", "type": "Game" }
+
+# First Strike https://store.steampowered.com/app/587000/First_Strike/
+{ "name": "FirstStrikeClassic.exe", "type": "Game" }
+
 # Fischer's Fishing Journey https://store.steampowered.com/app/3363270/Fischers_Fishing_Journey/
 { "name": "Fischer'sFishingJourney.exe", "type": "Game" }
 
@@ -727,21 +805,28 @@
 { "name": "fishbowl.exe", "type": "Game" }
 
 # Fishermurs https://store.steampowered.com/app/564210/Fishermurs/
-{ "name": "Fishermurs.exe", "type": "Game" }
+{ "name": "Fishermurs.exe", "type": "BG_CPUIO" }
 { "name": "BattleBoats-Win32-Shipping.exe", "type": "Game" }
 
 # Fisher Online https://store.steampowered.com/app/1094780/Fisher_Online/
 { "name": "theFisher.exe", "type": "Game" }
 
+# Fish Game https://store.steampowered.com/app/1372150/Fish_Game/
+{ "name": "FishGame.exe", "type": "BG_CPUIO" }
+{ "name": "FishGame-Win64-Shipping.exe", "type": "Game" }
+
+# Fish Hunters 🐟 https://store.steampowered.com/app/3468330/Fish_Hunters_Most_Lethal_Fishing_Simulator/
+{ "name": "FishTmp.exe", "type": "Game" }
+
 # Fishing: Barents Sea https://store.steampowered.com/app/501080/Fishing_Barents_Sea/
-{ "name": "FBS.exe", "type": "Game" }
+{ "name": "FBS.exe", "type": "BG_CPUIO" }
 { "name": "FBS-Win64-Shipping.exe", "type": "Game" }
 
 # Fishing Inc https://store.steampowered.com/app/4126480/Fishing_Inc/
 { "name": "FishingInc.exe", "type": "Game" }
 
 # Fishing: North Atlantic https://store.steampowered.com/app/1264250/Fishing_North_Atlantic__Enhanced_Edition/
-{ "name": "FNA.exe", "type": "Game" }
+{ "name": "FNA.exe", "type": "BG_CPUIO" }
 { "name": "FNA-Win64-Shipping.exe", "type": "Game" }
 
 # Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
@@ -755,14 +840,18 @@
 { "name": "Fish to Dish.exe", "type": "Game" }
 
 # F.I.S.T.: Forged In Shadow Torch https://store.steampowered.com/app/1330470/FIST_Forged_In_Shadow_Torch/
-{ "name": "ZingangGame.exe", "type": "Game" }
+{ "name": "ZingangGame.exe", "type": "BG_CPUIO" }
 { "name": "ZingangGame-Win64-Shipping.exe", "type": "Game" }
-
-# Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
-{ "name": "MilkGame.exe", "type": "Game" }
 
 # Five Hearts Under One Roof season2 https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/
 { "name": "FHUOR2.exe", "type": "Game" }
+
+# Five Laps at Freddy's Demo https://store.steampowered.com/app/3107080/
+{ "name": "flaf.exe", "type": "BG_CPUIO" }
+{ "name": "flaf-Win64-Shipping.exe", "type": "Game" }
+
+# Five nights at Floppa https://store.steampowered.com/app/1878740/Five_Nights_At_Floppa/
+{ "name": "FiveNightsAtFloppa.exe", "type": "Game" }
 
 # Five Nights at Freddy's https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
 { "name": "FiveNightsatFreddys.exe", "type": "Game" }
@@ -778,7 +867,7 @@
 { "name": "HalloweenEdition.exe", "type": "Game" }
 
 # FIVE NIGHTS AT FREDDY'S: HELP WANTED https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
-{ "name": "freddys.exe", "type": "Game" }
+{ "name": "freddys.exe", "type": "BG_CPUIO" }
 { "name": "freddys-Win64-Shipping.exe", "type": "Game" }
 
 # Five Nights at Freddy's: Help Wanted 2 https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/
@@ -791,11 +880,11 @@
 { "name": "FNAF 1 REMAKE.exe", "type": "Game" }
 
 # Five Nights at Freddy's: Secret of the Mimic https://store.steampowered.com/app/2215390/Five_Nights_at_Freddys_Secret_of_the_Mimic/
-{ "name": "FNAF_SOTM.exe", "type": "Game" }
+{ "name": "FNAF_SOTM.exe", "type": "BG_CPUIO" }
 { "name": "FNAF_SOTM-Win64-Shipping.exe", "type": "Game" }
 
 # Five Nights at Freddy's: Security Breach https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/
-{ "name": "fnaf9.exe", "type": "Game" }
+{ "name": "fnaf9.exe", "type": "BG_CPUIO" }
 { "name": "fnaf9-Win64-Shipping.exe", "type": "Game" }
 
 # Five Nights at Freddy's: Sister Location https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
@@ -809,6 +898,9 @@
 
 # Flash Party https://store.steampowered.com/app/1799370/Flash_Party/
 { "name": "FlashParty.exe", "type": "Game" }
+
+# FLASK Demo https://store.steampowered.com/app/4891490/FLASK_Demo/
+{ "name": "Flask.exe", "type": "Game" }
 
 # FlatOut https://store.steampowered.com/app/6220/FlatOut/
 { "name": "FlatOut Mod Manager.exe", "type": "Game" }
@@ -835,11 +927,14 @@
 { "name": "Fling to the Finish.exe", "type": "Game" }
 
 # Flintlock: The Siege of Dawn https://store.steampowered.com/app/1832040/Flintlock_The_Siege_of_Dawn/
-{ "name": "Saltpeter.exe", "type": "Game" }
+{ "name": "Saltpeter.exe", "type": "BG_CPUIO" }
 { "name": "Saltpeter-Win64-Shipping.exe", "type": "Game" }
 
 # Flippant https://store.steampowered.com/app/4323290/Flippant/
 { "name": "Flippant.exe", "type": "Game" }
+
+# Flipping is Hard Demo https://store.steampowered.com/app/4111020/Flipping_is_Hard_Demo/
+{ "name": "Flipping is Hard Demo.exe", "type": "Game" }
 
 # FlipWitch - Forbidden Sex Hex https://store.steampowered.com/app/1748620/
 { "name": "FlipWitch.exe", "type": "Game" }
@@ -857,9 +952,18 @@
 # Flotsam https://store.steampowered.com/app/821250/Flotsam/
 { "name": "Flotsam.exe", "type": "Game" }
 
+# Flower https://store.steampowered.com/app/966330/Flower/
+{ "name": "Flower.exe", "type": "Game" }
+
 # Flowers Blooming at the End of Summer https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/
 { "name": "flowersblooming-32.exe", "type": "Game" }
 { "name": "flowersblooming.exe", "type": "Game" }
+
+# FlowTrak Demo https://store.steampowered.com/app/4733380/
+{ "name": "FlowTrak.exe", "type": "Game" }
+
+# Fluffy Kitchen Saga https://store.steampowered.com/app/3706590/Fluffy_Kitchen_Saga/
+{ "name": "Fluffy Kitchen Saga.exe", "type": "Game" }
 
 # Fly Corp https://store.steampowered.com/app/1372530/Fly_Corp/
 { "name": "Fly Corp.exe", "type": "Game" }
@@ -871,18 +975,21 @@
 { "name": "Flyout.exe", "type": "Game" }
 
 # FMTC https://store.steampowered.com/app/2324110/FMTC/
-{ "name": "FMTC.exe", "type": "Game" }
+{ "name": "FMTC.exe", "type": "BG_CPUIO" }
 { "name": "FMTC-Win64-Shipping.exe", "type": "Game" }
 
 # FNaF World https://steamdb.info/app/427920/
 { "name": "FNaF_World.exe", "type": "Game" }
 
 # Fobia - St. Dinfna Hotel https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/
-{ "name": "Fobia.exe", "type": "Game" }
+{ "name": "Fobia.exe", "type": "BG_CPUIO" }
 { "name": "Fobia-Win64-Shipping.exe", "type": "Game" }
 
 # Focus Grove Demo https://store.steampowered.com/app/4124020/Focus_Grove_Demo/
 { "name": "Focus Grove.exe", "type": "Game" }
+
+# Fogpiercer Demo https://store.steampowered.com/app/3350900/Fogpiercer_Demo/
+{ "name": "Fogpiercer-demo.exe", "type": "Game" }
 
 # Folie Fatale https://store.steampowered.com/app/2734450/Folie_Fatale/
 { "name": "FolieFatale.exe", "type": "Game" }
@@ -936,6 +1043,23 @@
 # Forefront https://store.steampowered.com/app/2981220/Forefront/
 { "name": "Forefront_Internal.exe", "type": "Game" }
 
+# Forensics: Crime Scene Detective https://store.steampowered.com/app/3765010/Forensics_Crime_Scene_Detective/
+{ "name": "Forensics.exe", "type": "Game" }
+
+# Forensics: Crime Scene Detective Demo https://store.steampowered.com/app/4753480/
+{ "name": "Forensics Demo.exe", "type": "Game" }
+
+# Forest Escape: Last Train https://store.steampowered.com/app/4090360/Forest_Escape_Last_Train/
+{ "name": "LastTrain.exe", "type": "BG_CPUIO" }
+{ "name": "LastTrain-Win64-Shipping.exe", "type": "Game" }
+
+# Forest Escape: Last Train Demo https://store.steampowered.com/app/4405670/Forest_Escape_Last_Train_Demo/
+{ "name": "LastTrainDemo.exe", "type": "BG_CPUIO" }
+{ "name": "LastTrainDemo-Win64-Shipping.exe", "type": "Game" }
+
+# Forest Hustle https://store.steampowered.com/app/4168290/Forest_Hustle/
+{ "name": "Forest Hustle.exe", "type": "Game" }
+
 # Forestrike https://store.steampowered.com/app/2325920/Forestrike/
 { "name": "Forestrike.exe", "type": "Game" }
 
@@ -949,12 +1073,12 @@
 { "name": "FOREWARNED.exe", "type": "Game" }
 
 # Forgive Me Father https://store.steampowered.com/app/1590910/Forgive_Me_Father/
-{ "name": "FMF.exe", "type": "Game" }
+{ "name": "FMF.exe", "type": "BG_CPUIO" }
 { "name": "FMF-Win64-Shipping.exe", "type": "Game" }
 
 # Forgive Me Father 2 https://store.steampowered.com/app/2272250/Forgive_Me_Father_2/
 { "name": "FMF2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "FMF2.exe", "type": "Game" }
+{ "name": "FMF2.exe", "type": "BG_CPUIO" }
 
 # Forgotlings https://store.steampowered.com/app/2059570/Forgotlings/
 { "name": "Forgotlings.exe", "type": "Game" }
@@ -977,6 +1101,9 @@
 # For The King II https://store.steampowered.com/app/1676840/For_The_King_II/
 { "name": "For The King II.exe", "type": "Game" }
 
+# For the Queen https://store.steampowered.com/app/2261050/
+{ "name": "ForTheQueen.exe", "type": "Game" }
+
 # FORTIFY https://store.steampowered.com/app/505040/FORTIFY/
 { "name": "Fortify.exe", "type": "Game" }
 
@@ -986,6 +1113,9 @@
 
 # Forts https://store.steampowered.com/app/410900/Forts/
 { "name": "Forts.exe", "type": "Game" }
+
+# Fort Solis https://store.steampowered.com/app/1931730/Fort_Solis/
+{ "name": "fortsolis.exe", "type": "Game" }
 
 # Fortune Mill https://store.steampowered.com/app/4731620/Fortune_Mill/
 { "name": "FortuneMill.exe", "type": "Game" }
@@ -1012,8 +1142,11 @@
 { "name": "Foundry.exe", "type": "Game" }
 
 # Foxhole https://store.steampowered.com/app/505460/Foxhole/
-{ "name": "War.exe", "type": "Game" }
+{ "name": "War.exe", "type": "BG_CPUIO" }
 { "name": "War-Win64-Shipping.exe", "type": "Game" }
+
+# Fox Sex Farm https://store.steampowered.com/app/3122920/
+{ "name": "Fox Sex Farm.exe", "type": "Game" }
 
 # FPS Chess https://store.steampowered.com/app/2021910/FPS_Chess/
 { "name": "FPSChess-Win64-Shipping.exe", "type": "Game" }
@@ -1031,7 +1164,7 @@
 { "name": "FPVKamikazeDrone.exe", "type": "Game" }
 
 # FPV LOGIC https://store.steampowered.com/app/2398030/FPV_LOGIC/
-{ "name": "FPVLOGIC.exe", "type": "Game" }
+{ "name": "FPVLOGIC.exe", "type": "BG_CPUIO" }
 { "name": "FPVLOGIC-Win64-Shipping.exe", "type": "Game" }
 
 # FPV SkyDive : FPV Drone Simulator https://store.steampowered.com/app/1278060/FPV_SkyDive__FPV_Drone_Simulator/
@@ -1077,6 +1210,9 @@
 # Freedom Planet https://store.steampowered.com/app/248310/Freedom_Planet/
 { "name": "fp.exe", "type": "Game" }
 
+# Freedom Planet 2 https://store.steampowered.com/app/595500/Freedom_Planet_2/
+{ "name": "FP2.exe", "type": "Game" }
+
 # Freeman: Guerrilla Warfare https://store.steampowered.com/app/773951/Freeman_Guerrilla_Warfare/
 { "name": "Freeman Guerrilla Warfare.exe", "type": "Game" }
 { "name": "StartFGW.exe", "type": "Game" }
@@ -1118,6 +1254,9 @@
 # Friday the 13th: The Game https://store.steampowered.com/app/438740/Friday_the_13th_The_Game/
 { "name": "SummerCamp.exe", "type": "Game" }
 
+# Friendly Steps Demo https://store.steampowered.com/app/4708970/
+{ "name": "Friendly Steps.exe", "type": "Game" }
+
 # Friendship with Benefits https://store.steampowered.com/app/1299370/
 { "name": "FriendshipwithBenefits.exe", "type": "Game" }
 
@@ -1126,6 +1265,9 @@
 
 # Frog Detective 1: The Haunted Island https://store.steampowered.com/app/963000/Frog_Detective_1_The_Haunted_Island/
 { "name": "The_Haunted_Island.exe", "type": "Game" }
+
+# Froggin' Around Demo https://store.steampowered.com/app/4006090/Froggin_Around_Demo/
+{ "name": "Froggin Around.exe", "type": "Game" }
 
 # FROGGY HATES SNOW https://store.steampowered.com/app/3232380/FROGGY_HATES_SNOW/
 { "name": "FROGGY HATES SNOW.exe", "type": "Game" }
@@ -1141,6 +1283,12 @@
 
 # From Glory To Goo https://store.steampowered.com/app/2607060/From_Glory_To_Goo/
 { "name": "From Glory To Goo.exe", "type": "Game" }
+
+# From Madness with Love https://store.steampowered.com/app/2101130/From_Madness_with_Love/
+{ "name": "from Madness with Love.exe", "type": "Game" }
+
+# From Space https://store.steampowered.com/app/1502190/From_Space/
+{ "name": "FromSpace.exe", "type": "Game" }
 
 # From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
 { "name": "From_The_Depths.exe", "type": "Game" }
@@ -1170,7 +1318,7 @@
 { "name": "Front Office Football Eight.exe", "type": "Game" }
 
 # FrostBound https://store.steampowered.com/app/3649580/FrostBound/
-{ "name": "Card.exe", "type": "Game" }
+{ "name": "Card.exe", "type": "BG_CPUIO" }
 { "name": "Card-Win64-Shipping.exe", "type": "Game" }
 
 # Frosthaven https://store.steampowered.com/app/2347080/Frosthaven/
@@ -1181,12 +1329,21 @@
 { "name": "Frostpunk.exe", "type": "Game" }
 
 # Frostpunk 2 https://store.steampowered.com/app/1601580/Frostpunk_2/
-{ "name": "Frostpunk2.exe", "type": "Game" }
+{ "name": "Frostpunk2.exe", "type": "BG_CPUIO" }
 { "name": "Frostpunk2-Win64-Shipping.exe", "type": "Game" }
 
+# Frostrain https://store.steampowered.com/app/2735630/Frostrain/
+{ "name": "Frostrain.exe", "type": "Game" }
+
+# Frostrain 2 https://store.steampowered.com/app/3690490/Frostrain_2/
+{ "name": "Frostrain 2.exe", "type": "Game" }
+
 # Frozenheim https://store.steampowered.com/app/1134100/Frozenheim/
-{ "name": "Frozenheim.exe", "type": "Game" }
+{ "name": "Frozenheim.exe", "type": "BG_CPUIO" }
 { "name": "Frozenheim-Win64-Shipping.exe", "type": "Game" }
+
+# Frozen Ship Demo https://store.steampowered.com/app/3733060/
+{ "name": "FrozenShip.exe", "type": "Game" }
 
 # Frozen Synapse https://store.steampowered.com/app/98200/Frozen_Synapse/
 { "name": "FrozenSynapse.exe", "type": "Game" }
@@ -1206,19 +1363,23 @@
 # FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
 { "name": "FTLGame.exe", "type": "Game" }
 
+# FUCK HITLER https://store.steampowered.com/app/2157110/FUCK_HITLER/
+{ "name": "FH.exe", "type": "BG_CPUIO" }
+{ "name": "FH-Win64-Shipping.exe", "type": "Game" }
+
 # FUCK PUTIN https://store.steampowered.com/app/1926680/FUCK_PUTIN/
-{ "name": "FP.exe", "type": "Game" }
+{ "name": "FP.exe", "type": "BG_CPUIO" }
 { "name": "FP-Win64-Shipping.exe", "type": "Game" }
 
 # Fueled Up Demo https://store.steampowered.com/app/1985480/Fueled_Up/
-{ "name": "FueledUp.exe", "type": "Game" }
+{ "name": "FueledUp.exe", "type": "BG_CPUIO" }
 { "name": "FueledUp-Win64-Shipping.exe", "type": "Game" }
 
 # Fuel Harvest Together https://store.steampowered.com/app/3441460/Fuel_Harvest_Together/
 { "name": "Fuel Harvest Together.exe", "type": "Game" }
 
 # Fuga: Melodies of Steel 3 https://store.steampowered.com/app/3081320/Fuga_Melodies_of_Steel_3/
-{ "name": "TANK.exe", "type": "Game" }
+{ "name": "TANK.exe", "type": "BG_CPUIO" }
 
 # Full Ace Tennis Simulator https://store.steampowered.com/app/779430/Full_Ace_Tennis_Simulator/
 { "name": "FullAce.exe", "type": "Game" }
@@ -1226,11 +1387,18 @@
 # Full Mojo Rampage https://store.steampowered.com/app/225280/Full_Mojo_Rampage/
 { "name": "FullMojo.exe", "type": "Game" }
 
+# Full Stride https://store.steampowered.com/app/4181970/Full_Stride/
+{ "name": "FullStride.exe", "type": "BG_CPUIO" }
+{ "name": "FullStride-Win64-Shipping.exe", "type": "Game" }
+
 # Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
 { "name": "Throttle.exe", "type": "Game" }
 
+# Func Key Demo https://store.steampowered.com/app/4622520/Func_Key_Demo/
+{ "name": "FuncKey.exe", "type": "Game" }
+
 # Funguys Swarm https://store.steampowered.com/app/3371770/Funguys_Swarm/
-{ "name": "Funguys.exe", "type": "Game" }
+{ "name": "Funguys.exe", "type": "BG_CPUIO" }
 { "name": "Funguys-Win64-Shipping.exe", "type": "Game" }
 
 # Fun Hospital https://store.steampowered.com/app/829420/Fun_Hospital/
@@ -1239,6 +1407,10 @@
 # Funi Raccoon Game https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/
 { "name": "Funi_Raccoon_Game.exe", "type": "Game" }
 
+# Funnel Runners https://store.steampowered.com/app/3712080/Funnel_Runners/
+{ "name": "FunnelRunners.exe", "type": "BG_CPUIO" }
+{ "name": "StormEscape-Win64-Shipping.exe", "type": "Game" }
+
 # Fun with Ragdolls: The Game https://store.steampowered.com/app/1142500/Fun_with_Ragdolls_The_Game/
 { "name": "Fun with Ragdolls.exe", "type": "Game" }
 
@@ -1246,8 +1418,15 @@
 { "name": "Furi.exe", "type": "Game" }
 
 # Furnish Master https://store.steampowered.com/app/2004080/Furnish_Master/
-{ "name": "FurnishMaster.exe", "type": "Game" }
+{ "name": "FurnishMaster.exe", "type": "BG_CPUIO" }
 { "name": "FurnishMaster-Win64-Shipping.exe", "type": "Game" }
+
+# Furry Aim Trainer https://store.steampowered.com/app/2940490/
+{ "name": "FurryAimTrainer.exe", "type": "BG_CPUIO" }
+{ "name": "FurryAimTrainer-Win64-Shipping.exe", "type": "Game" }
+
+# Furry Boss https://store.steampowered.com/app/2089060/Furry_Boss/
+{ "name": "FurryBoss.exe", "type": "Game" }
 
 # Furry Love https://store.steampowered.com/app/1334590/
 { "name": "Furry Love.exe", "type": "Game" }
@@ -1261,5 +1440,15 @@
 # Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
 { "name": "FuryUnleashed.exe", "type": "Game" }
 
+# FUTA FIGHT & FUCK 🥊 https://store.steampowered.com/app/4491210/
+{ "name": "FutaFight&Fuck.exe", "type": "Game" }
+
 # Futa Fucks Femboys https://store.steampowered.com/app/3989810/
 { "name": "FUTA FUCKS FEMBOYS.exe", "type": "Game" }
+
+# FUTA RUNNER: Big Dick Edition https://store.steampowered.com/app/2608630/
+{ "name": "FutaRunner.exe", "type": "BG_CPUIO" }
+{ "name": "FutaRunner-Win64-Shipping.exe", "type": "Game" }
+
+# Future Fragments https://store.steampowered.com/app/1238920/
+{ "name": "Future_Fragments.exe", "type": "Game" }
