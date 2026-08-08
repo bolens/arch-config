@@ -18,4 +18,4 @@ concurrency:
 
 jobs:
   actionlint:
-    uses: bolens/.github/.github/workflows/reusable-actionlint.yml@5c0011f9c9b34e7ef78639a4048befbb49970753
+    uses: bolens/.github/.github/workflows/reusable-actionlint.yml@5c0011f4e1045c431c3d2e1a1df0a5bd859daeb5
