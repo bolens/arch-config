@@ -1,0 +1,17 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  fish-syntax:
+    uses: bolens/.github/.github/workflows/reusable-fish.yml@5c0011f9c9b34e7ef78639a4048befbb49970753
