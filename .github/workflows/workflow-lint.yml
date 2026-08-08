@@ -1,0 +1,21 @@
+name: Workflow lint
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/**'
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: workflow-lint-${{ github.head_ref || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  actionlint:
+    uses: bolens/.github/.github/workflows/reusable-actionlint.yml@5c0011f4e1045c431c3d2e1a1df0a5bd859daeb5
