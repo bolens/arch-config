@@ -1,0 +1,76 @@
+documentation:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.md'
+          - 'docs/**'
+
+github-actions:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '.github/**'
+
+dependencies:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/Cargo.lock'
+          - '**/Cargo.toml'
+          - '**/go.mod'
+          - '**/go.sum'
+          - '**/package.json'
+          - '**/pnpm-lock.yaml'
+          - '**/requirements*.txt'
+          - '**/uv.lock'
+
+tests:
+  - changed-files:
+      - any-glob-to-any-file:
+          - 'tests/**'
+          - '**/*_test.go'
+          - '**/*.test.*'
+          - '**/*.spec.*'
+
+docker:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/Dockerfile*'
+          - '**/compose*.yml'
+          - '**/compose*.yaml'
+
+shell:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.bash'
+          - '**/*.sh'
+
+fish:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.fish'
+
+typescript:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.ts'
+          - '**/*.tsx'
+
+go:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.go'
+
+rust:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.rs'
+
+powershell:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.ps1'
+          - '**/*.psd1'
+          - '**/*.psm1'
+
+python:
+  - changed-files:
+      - any-glob-to-any-file:
+          - '**/*.py'
