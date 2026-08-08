@@ -2309,7 +2309,7 @@ middler
 mikrotik-npk
 mildew
 millennium
-millennium-helpers-git
+millennium-helpers-bin
 mimikatz
 mimipenguin
 mindforger
