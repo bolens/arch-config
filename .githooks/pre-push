@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+root=$(git rev-parse --show-toplevel)
+cd "$root"
+find . -type f -name '*.fish' -not -path './.git/*' -print0 | xargs -0 -r fish --no-execute
+actionlint
+zizmor --offline --min-severity medium --min-confidence medium .github
