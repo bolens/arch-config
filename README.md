@@ -44,3 +44,7 @@ The sync is fully automated via a daily systemd timer:
   1. Synchronizes configurations from host `/etc`, `/boot`, and `/home/panda/.config` into the repository.
   2. Updates `pkglist.txt` with current package listings.
   3. Automatically commits and pushes changes to GitHub.
+
+### Git hooks
+
+Run `bash scripts/install-git-hooks` once per clone. The pre-commit hook runs fast staged checks; pre-push runs the broader local CI gate.

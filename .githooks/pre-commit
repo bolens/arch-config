@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+root=$(git rev-parse --show-toplevel)
+cd "$root"
+git diff --cached --check
+
+mapfile -t fish_files < <(git diff --cached --name-only --diff-filter=ACMR -- '*.fish')
+if ((${#fish_files[@]})); then
+  fish --no-execute "${fish_files[@]}"
+fi
+
+if git diff --cached --quiet -- '.github/workflows/*.yml' '.github/workflows/*.yaml'; then
+  exit 0
+fi
+actionlint
+zizmor --offline --min-severity medium --min-confidence medium .github
