@@ -9,8 +9,7 @@ on:
     paths:
       - '.github/workflows/**'
 
-permissions:
-  contents: read
+permissions: {}
 
 concurrency:
   group: workflow-lint-${{ github.head_ref || github.ref }}
@@ -18,4 +17,9 @@ concurrency:
 
 jobs:
   actionlint:
-    uses: bolens/.github/.github/workflows/reusable-actionlint.yml@5c0011f4e1045c431c3d2e1a1df0a5bd859daeb5
+    permissions:
+      contents: read
+      security-events: write
+    uses: bolens/.github/.github/workflows/reusable-actionlint.yml@d30ff6a56b47317d3d565e7b4747d133966db8d2
+    with:
+      security-audit: true
