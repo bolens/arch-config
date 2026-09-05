@@ -34,3 +34,7 @@ CI checks each tracked Fish file separately with `fish --no-execute`. When
 reproducing locally, invoke Fish once per file: additional positional arguments
 to a single invocation are script arguments and do not validate other files.
 This syntax check does not load the live shell configuration.
+
+Do not save `npm completion` (Bash/Zsh code) or Docker Compose help output as
+`.fish` files. Use Fish's packaged completions or a generator that explicitly
+supports Fish. Invalid local files can shadow the packaged completions.
