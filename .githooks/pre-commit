@@ -7,7 +7,9 @@ git diff --cached --check
 
 mapfile -t fish_files < <(git diff --cached --name-only --diff-filter=ACMR -- '*.fish')
 if ((${#fish_files[@]})); then
-  fish --no-execute "${fish_files[@]}"
+  for file in "${fish_files[@]}"; do
+    fish --no-execute "$file"
+  done
 fi
 
 if git diff --cached --quiet -- '.github/workflows/*.yml' '.github/workflows/*.yaml'; then

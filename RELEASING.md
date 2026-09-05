@@ -27,3 +27,10 @@ smallest target, and verify its service or syntax. Restore the saved state on
 failure; never make an untested broad rollback from this playbook.
 
 Fleet policy: <https://github.com/bolens/.github/blob/main/RELEASING.md>.
+
+## Fish syntax coverage
+
+CI checks each tracked Fish file separately with `fish --no-execute`. When
+reproducing locally, invoke Fish once per file: additional positional arguments
+to a single invocation are script arguments and do not validate other files.
+This syntax check does not load the live shell configuration.
