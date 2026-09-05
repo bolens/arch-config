@@ -14,4 +14,4 @@ concurrency:
 
 jobs:
   fish-syntax:
-    uses: bolens/.github/.github/workflows/reusable-fish.yml@5c0011f4e1045c431c3d2e1a1df0a5bd859daeb5
+    uses: bolens/.github/.github/workflows/reusable-fish.yml@7603518f305fb76f7bb1b9979f2692521f633b82
