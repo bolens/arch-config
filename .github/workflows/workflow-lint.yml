@@ -12,7 +12,7 @@ on:
 permissions: {}
 
 concurrency:
-  group: workflow-lint-${{ github.head_ref || github.ref }}
+  group: workflow-lint-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
