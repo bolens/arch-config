@@ -54,6 +54,7 @@ desktop.ini
 
 # Shell variables and local state
 fish_variables*
+private.fish
 
 # Locks and sockets
 *.lock

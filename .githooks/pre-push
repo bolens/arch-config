@@ -3,6 +3,7 @@ set -euo pipefail
 
 root=$(git rev-parse --show-toplevel)
 cd "$root"
+python3 -m unittest discover -s tests -v
 find . -type f -name '*.fish' -not -path './.git/*' -print0 | xargs -0 -r -n1 fish --no-execute
 actionlint
 zizmor --offline --min-severity medium --min-confidence medium .github
