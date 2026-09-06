@@ -38,7 +38,10 @@ This repository contains system-level and user-level configurations for a high-p
 
 [sync.fish](sync.fish) previews configuration capture by default. It requires
 Fish, rsync, Git, and pacman. Source roots must exist and the destination must
-be a Git repository root outside the captured source directories.
+be a Git repository root outside the captured source directories. Existing
+`etc`, `boot`, and `user-config` capture roots must be real directories, not
+symlinks. A symlink is rejected before any capture writes; review and deliberately
+choose a suitable checkout instead of relying on links to live configuration.
 
 ```sh
 fish sync.fish --user-config-root /path/to/user/.config --destination /path/to/checkout

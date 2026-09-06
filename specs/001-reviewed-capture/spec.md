@@ -5,7 +5,7 @@
 **Basis**: Retrospective audit of `f0ac95e9cf8b` with a corrective contract.
 
 The existing repository retains host-specific boot, system, Fish, and package
-configuration. Its capture helper currently stages all changes and pushes to
+configuration. Its capture helper originally staged all changes and pushed to
 `main`. That behavior conflicts with the repository's reviewed PR delivery rule.
 The following requirements describe the correction, not historical behavior.
 
@@ -38,6 +38,11 @@ updating a repository checkout. Publication happens through the delivery playboo
 - **FR-005**: Missing required input, invalid options, failed copy, or failed
   package inventory MUST return nonzero. Previously written capture files may
   remain after failure and MUST be reviewed before retrying.
+
+- **FR-006**: Existing `etc`, `boot`, and `user-config` destination roots MUST
+  not be symlinks, including dangling links. Reject them before capture writes
+  so local capture cannot follow a destination into another directory. This
+  preflight does not defend against concurrent filesystem replacement.
 
 ## Success criteria
 

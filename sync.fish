@@ -40,6 +40,14 @@ for source in "$source_root/etc" "$source_root/boot" "$user_config_root"
         exit 2
     end
 end
+# Explicit rsync destination paths follow directory symlinks, unlike copied links.
+# Reject capture roots before the first write, including dangling destinations.
+for relative in etc boot user-config
+    if test -L "$destination/$relative"
+        echo "Capture destination must not be a symlink: $relative" >&2
+        exit 2
+    end
+end
 for dependency in rsync pacman
     if not command -q $dependency
         echo "Missing dependency: $dependency" >&2

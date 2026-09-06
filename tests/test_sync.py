@@ -73,6 +73,31 @@ class CaptureTests(unittest.TestCase):
         self.assertFalse((self.dest / ".git/index").exists(), "capture must not stage files")
         self.assertFalse((self.dest / ".git/logs/HEAD").exists(), "capture must not commit")
 
+    def test_symlinked_capture_roots_fail_before_writes(self):
+        for relative in ("etc", "boot", "user-config"):
+            for dangling in (False, True):
+                with self.subTest(relative=relative, dangling=dangling):
+                    outside = self.root / (relative + "-outside")
+                    if not dangling:
+                        outside.mkdir()
+                        (outside / "sentinel").write_text("preserve\n")
+                    link = self.dest / relative
+                    link.symlink_to(outside, target_is_directory=True)
+                    before = self.snapshot()
+                    result = self.run_capture("--apply")
+                    self.assertNotEqual(result.returncode, 0, result.stdout)
+                    self.assertIn("Capture destination must not be a symlink", result.stderr)
+                    self.assertTrue(link.is_symlink())
+                    self.assertEqual(self.snapshot(), before)
+                    if not dangling:
+                        self.assertEqual(list(outside.iterdir()), [outside / "sentinel"])
+                        self.assertEqual((outside / "sentinel").read_text(), "preserve\n")
+                        (outside / "sentinel").unlink()
+                        outside.rmdir()
+                    else:
+                        self.assertFalse(outside.exists())
+                    link.unlink()
+
     def test_package_failure_precedes_capture(self):
         self.stub("pacman", "exit 7\n")
         before = self.snapshot()
