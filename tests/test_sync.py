@@ -35,9 +35,15 @@ class CaptureTests(unittest.TestCase):
         (self.user / "fish/external.fish").symlink_to(self.user / "fish/conf.d/private.fish")
         (self.user / "fish/relative.fish").symlink_to("config.fish")
         (self.dest / "unrelated.txt").write_text("preserve\n")
-        subprocess.run(["git", "init", "-q", str(self.dest)], check=True)
-        self.stub("pacman", "printf 'fixture-package\\n'\n")
         self.env = dict(os.environ, PATH=f"{self.bin}:/usr/bin:/bin")
+        # Hooks export repository-local variables; fixtures must own their Git state.
+        local_git_vars = subprocess.check_output(
+            ["git", "rev-parse", "--local-env-vars"], text=True
+        ).splitlines()
+        for name in local_git_vars:
+            self.env.pop(name, None)
+        subprocess.run(["git", "init", "-q", str(self.dest)], env=self.env, check=True)
+        self.stub("pacman", "printf 'fixture-package\\n'\n")
 
     def stub(self, name, body):
         path = self.bin / name
