@@ -1,5 +1,7 @@
 # arch-config Spec Kit project guide
 
+[Documentation](../../docs/README.md)
+
 Reviewed desired state for one specific Arch workstation, including boot, system, and
 user configuration.
 
