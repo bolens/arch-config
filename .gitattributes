@@ -1,0 +1,2 @@
+# Preserve the upstream Markdown hard break in this verbatim LGPL notice.
+LICENSES/pisces.txt whitespace=-blank-at-eol
