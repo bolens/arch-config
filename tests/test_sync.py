@@ -1,11 +1,10 @@
 """Exercise capture only against disposable sources and Git repositories."""
 
 import os
-from pathlib import Path
 import subprocess
 import tempfile
 import unittest
-
+from pathlib import Path
 
 SCRIPT = Path(__file__).resolve().parents[1] / "sync.fish"
 
@@ -37,7 +36,7 @@ class CaptureTests(unittest.TestCase):
         (self.dest / "unrelated.txt").write_text("preserve\n")
         subprocess.run(["git", "init", "-q", str(self.dest)], check=True)
         self.stub("pacman", "printf 'fixture-package\\n'\n")
-        self.env = dict(os.environ, PATH=f"{self.bin}:/usr/bin:/bin")
+        self.env = dict(os.environ, PATH=f"{self.bin}{os.pathsep}{os.environ.get('PATH', os.defpath)}")
 
     def stub(self, name, body):
         path = self.bin / name
@@ -48,7 +47,7 @@ class CaptureTests(unittest.TestCase):
         return subprocess.run([
             "fish", "--no-config", str(SCRIPT), "--source-root", str(self.source),
             "--user-config-root", str(self.user), "--destination", str(self.dest), *args,
-        ], env=self.env, capture_output=True, text=True, timeout=20)
+        ], env=self.env, capture_output=True, text=True, timeout=20, check=False)
 
     def snapshot(self):
         return {str(p.relative_to(self.dest)): p.read_bytes()
