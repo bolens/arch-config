@@ -17,3 +17,13 @@ package publication, and Git authority boundary. No live capture was executed.
 PR #14 merged at `2a6cdfa75aca99ac1ad587901be7b28eaed577e7`. All three
 merge-revision workflows passed: CI, Spec Kit, and workflow lint. The capture
 helper has not been applied to the live host.
+
+## Follow-up destination audit
+
+- [x] T007 Reproduce an external write through a destination user-config symlink.
+- [x] T008 Reject symlinked capture roots before writes and cover all three roots,
+  including dangling links, with disposable fixtures.
+
+The follow-up suite passes seven tests, with six symlink-root cases in the new
+regression. Existing preview, source-link, exclusion, and failure checks remain.
+Current PR validation and delivery are tracked separately from the prior receipt.

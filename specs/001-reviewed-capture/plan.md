@@ -22,3 +22,10 @@ Run `python3 -m unittest discover -s tests -v`, `fish --no-execute sync.fish`,
 and the existing `.githooks/pre-push` gate. Tests use disposable source and
 destination trees and a fixture package command. Check the final PR independently
 and follow `RELEASING.md` through its squash merge and main checks.
+
+## Destination boundary correction
+
+Validate the three capture roots before invoking rsync or writing package output.
+Reject both valid and dangling destination symlinks. Copied source links retain
+the existing safe-link behavior. This is preflight validation for an operator-owned
+checkout; concurrent hostile filesystem mutation is outside this contract.
