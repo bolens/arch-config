@@ -13,5 +13,18 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  capture-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Install fixture dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes --no-install-recommends fish rsync
+      - name: Verify isolated capture
+        run: python3 -m unittest discover -s tests -v
   fish-syntax:
     uses: bolens/.github/.github/workflows/reusable-fish.yml@7603518f305fb76f7bb1b9979f2692521f633b82

@@ -32,12 +32,16 @@ path. Do not claim generic workstation compatibility from this host-specific rep
 
 ```sh
 fish --no-execute sync.fish
+python3 -m unittest discover -s tests -v
 actionlint
 ```
 
 Choose subsystem-specific offline validation for changed files. Syntax checks do not
 prove bootability or runtime behavior. Never run sync.fish, install packages, reload
 services, or apply settings as part of documentation or static verification.
+The capture tests invoke `sync.fish` only against disposable source trees and
+repositories. The helper previews by default and requires `--apply` for local
+capture. It never stages, commits, or pushes. See `specs/001-reviewed-capture/`.
 
 ## Working through Spec Kit
 
@@ -50,7 +54,11 @@ and constitution checks in `plan.md`, and evidence-bearing work in `tasks.md` un
 feature directory created by Spec Kit. Resolve material unknowns before implementation.
 Mark tasks complete only after their stated verification, and distinguish completed,
 skipped, blocked, and manual checks. Retain completed feature documents as decision
-history; do not backfill feature specifications for already finished code.
+history. Backfill finished work only when explicitly requested. Label those
+specifications as retrospective baselines, record the inspected revision, and map
+requirements to source and acceptance evidence. Separate observed behavior from
+corrective requirements. Never imply the specification preceded its code or mark
+unverified checks complete.
 
 Keep `.specify/templates/`, `.specify/scripts/`, and generated Codex skills under their
 integration manifests. Use this guide and the constitution for local customization.
