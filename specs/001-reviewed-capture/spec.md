@@ -1,7 +1,7 @@
 # Feature specification: Reviewed configuration capture
 
 **Created**: 2026-09-05
-**Status**: Implemented and verified locally; hosted delivery pending
+**Status**: Implemented; local and hosted source validation passed
 **Basis**: Retrospective audit of `f0ac95e9cf8b` with a corrective contract.
 
 The existing repository retains host-specific boot, system, Fish, and package
