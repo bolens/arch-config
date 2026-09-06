@@ -1,5 +1,7 @@
 # Delivery playbook
 
+[Documentation](docs/README.md)
+
 Arch Config is continuously delivered from protected `main`; it has no tags or
 published artifacts. A squash merge records reviewed desired state. Applying
 that state to a workstation is a separate, explicitly authorized operation.
