@@ -54,10 +54,11 @@ desktop.ini
 
 # Shell variables and local state
 fish_variables*
-fish_plugins*
 
 # Locks and sockets
 *.lock
 *.sock
-*.socket
 *.pid
+
+# Local tooling and runtime artifacts
+.ruff_cache/
