@@ -61,3 +61,8 @@ Run `bash scripts/install-git-hooks` once per clone. The pre-commit hook runs fa
 
 For isolated syntax and capture-fixture tooling, see
 [development environments](docs/development-environments.md).
+
+## Devcontainer
+
+See [the devcontainer guide](.devcontainer/README.md) for the repository toolchain,
+setup, checks and platform limits.
