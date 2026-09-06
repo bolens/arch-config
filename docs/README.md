@@ -42,3 +42,5 @@ runtime proof. A topic without an implementation stays explicitly unimplemented.
 ## Topic guides
 
 - [Development environments](development-environments.md)
+
+- [Editor setup](../.vscode/README.md)
