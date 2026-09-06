@@ -86,3 +86,8 @@ Run `bash scripts/install-git-hooks` once per clone. The pre-commit hook runs fa
 
 For isolated syntax and capture-fixture tooling, see
 [development environments](docs/development-environments.md).
+
+## License scope and attribution
+
+See [third-party notices](THIRD_PARTY_NOTICES.md) for the project license scope,
+retained upstream notices, and dependency or asset exceptions.
