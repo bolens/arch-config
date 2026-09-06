@@ -63,3 +63,11 @@ private.fish
 
 # Local tooling and runtime artifacts
 .ruff_cache/
+
+# Local Nix state and development image archives
+.devenv/
+.direnv/
+.devenv.*
+.devenv.flake.nix
+devenv.local.*
+!devenv.lock

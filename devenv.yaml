@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=https://devenv.sh/devenv.schema.json
+inputs:
+  devenv:
+    url: github:cachix/devenv/v1.11.2
+  nixpkgs:
+    url: github:cachix/devenv-nixpkgs/rolling
+  nix2container:
+    url: github:nlewo/nix2container
+    inputs:
+      nixpkgs:
+        follows: nixpkgs
+  mk-shell-bin:
+    url: github:rrbutani/nix-mk-shell-bin

@@ -1,11 +1,10 @@
 """Exercise capture only against disposable sources and Git repositories."""
 
 import os
-from pathlib import Path
 import subprocess
 import tempfile
 import unittest
-
+from pathlib import Path
 
 SCRIPT = Path(__file__).resolve().parents[1] / "sync.fish"
 
@@ -35,7 +34,7 @@ class CaptureTests(unittest.TestCase):
         (self.user / "fish/external.fish").symlink_to(self.user / "fish/conf.d/private.fish")
         (self.user / "fish/relative.fish").symlink_to("config.fish")
         (self.dest / "unrelated.txt").write_text("preserve\n")
-        self.env = dict(os.environ, PATH=f"{self.bin}:/usr/bin:/bin")
+        self.env = dict(os.environ, PATH=f"{self.bin}{os.pathsep}{os.environ.get('PATH', os.defpath)}")
         # Hooks export repository-local variables; fixtures must own their Git state.
         local_git_vars = subprocess.check_output(
             ["git", "rev-parse", "--local-env-vars"], text=True
@@ -54,7 +53,7 @@ class CaptureTests(unittest.TestCase):
         return subprocess.run([
             "fish", "--no-config", str(SCRIPT), "--source-root", str(self.source),
             "--user-config-root", str(self.user), "--destination", str(self.dest), *args,
-        ], env=self.env, capture_output=True, text=True, timeout=20)
+        ], env=self.env, capture_output=True, text=True, timeout=20, check=False)
 
     def snapshot(self):
         return {str(p.relative_to(self.dest)): p.read_bytes()

@@ -83,3 +83,6 @@ criteria and the retrospective audit that identified the direct-push conflict.
 ### Git hooks
 
 Run `bash scripts/install-git-hooks` once per clone. The pre-commit hook runs fast staged checks; pre-push runs the broader local CI gate.
+
+For isolated syntax and capture-fixture tooling, see
+[development environments](docs/development-environments.md).
