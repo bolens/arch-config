@@ -1,5 +1,7 @@
 # Development environments
 
+[Documentation](README.md)
+
 Install [devenv](https://devenv.sh/getting-started/), then use `devenv shell`
 and
 `repo-check`, or run `devenv test` directly. Locked tools include Fish, Python,
