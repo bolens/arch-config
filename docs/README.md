@@ -44,3 +44,5 @@ runtime proof. A topic without an implementation stays explicitly unimplemented.
 - [Development environments](development-environments.md)
 
 - [Editor setup](../.vscode/README.md)
+
+- [Woodpecker validation transition](woodpecker-transition.md)

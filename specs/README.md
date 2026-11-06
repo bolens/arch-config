@@ -6,3 +6,5 @@
 Source delivery does not authorize applying captured configuration to the host.
 
 - [Development environments](002-development-environments/spec.md): prospective tooling and fixture contract.
+
+- [Woodpecker Linux validation](003-woodpecker-validation/spec.md) - planned native CI transition.
