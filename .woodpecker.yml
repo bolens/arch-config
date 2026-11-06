@@ -22,11 +22,11 @@ steps:
       NIX_CONFIG: |-
         experimental-features = nix-command flakes
         sandbox = false
-        build-users-group =
+        build-users-group = nixbld
         max-jobs = 1
         cores = 2
         extra-substituters = https://devenv.cachix.org
         extra-trusted-public-keys = devenv.cachix.org-1:w1cLUi8dv3hnoSPGAuibQv+f9TZLr6cv/Hm9XgU50cw=
     commands:
       - git config --global --add safe.directory "$CI_WORKSPACE"
-      - nix run github:cachix/devenv/42246161fa3bf7cd18f8334d08c73d6aaa8762d3 -- test
+      - nix run --accept-flake-config github:cachix/devenv/b904dcb51fe48c30db250038241507f60752f222 -- test

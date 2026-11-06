@@ -30,6 +30,7 @@ jobs:
           filters: |
             environment:
               - 'devenv.*'
+              - '.devcontainer/**'
               - '.github/workflows/devenv.yml'
               - '*.sh'
               - '**/*.fish'
@@ -67,14 +68,28 @@ jobs:
             extra-substituters = https://devenv.cachix.org
             extra-trusted-public-keys = devenv.cachix.org-1:w1cLUi8dv3hnoSPGAuibQv+f9TZLr6cv/Hm9XgU50cw=
       - name: Install pinned devenv
-        run: nix profile install github:cachix/devenv/42246161fa3bf7cd18f8334d08c73d6aaa8762d3
+        run: nix profile add --accept-flake-config github:cachix/devenv/b904dcb51fe48c30db250038241507f60752f222
       - name: Validate native development environment
+        if: runner.os == 'macOS'
         run: devenv test
       - name: Validate Docker development image
         if: runner.os == 'Linux'
         run: |
           python3 scripts/development-container.py build docker
           python3 scripts/development-container.py run docker -- bash scripts/check-development.sh
+      - name: Build and smoke-test the editor devcontainer
+        if: runner.os == 'Linux'
+        run: |
+          set -euo pipefail
+          image="localhost/arch-config-editor:${GITHUB_SHA}"
+          trap 'docker image rm "$image" >/dev/null' EXIT
+          docker build --tag "$image" --file .devcontainer/Dockerfile .devcontainer
+          docker run --rm --network none --read-only --cap-drop ALL \
+            --security-opt no-new-privileges --pids-limit 128 --memory 512m \
+            --cpus 1 --user "$(id -u):$(id -g)" --tmpfs /tmp:rw,size=64m \
+            --env HOME=/tmp/editor-home \
+            --mount "type=bind,source=${GITHUB_WORKSPACE},target=/workspace" \
+            --workdir /workspace "$image" bash .devcontainer/post-create.sh
 
   result:
     name: Development environment

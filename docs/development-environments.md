@@ -35,3 +35,18 @@ adapter tests, individual Fish syntax checks, and source/workflow validation.
 Hosted macOS and Docker checks remain pending. Follow [the delivery
 playbook](../RELEASING.md) for protected merges.
 Applying workstation state remains a separate operational action.
+
+## Locked CI toolchain
+
+CI uses devenv 2.4.0 and a reviewed nix2container update that removes deprecated
+platform aliases. Other locked input graphs remain unchanged. Only the fixed
+upstream CLI invocation accepts its reviewed cache settings; repository flakes
+receive no global configuration trust. Disposable Nix steps retain standard
+unprivileged `nixbld` users. Development-image export uses the 2.x `container
+copy` option order.
+
+Woodpecker runs the Linux native development gate. GitHub retains native macOS
+and actual Linux Docker development-image checks, and now builds the actual
+editor Dockerfile and executes its post-create smoke with networking and
+capabilities disabled. These checks use disposable fixtures and never install
+the tracked configuration on a workstation.
