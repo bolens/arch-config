@@ -40,3 +40,11 @@ This syntax check does not load the live shell configuration.
 Do not save `npm completion` (Bash/Zsh code) or Docker Compose help output as
 `.fish` files. Use Fish's packaged completions or a generator that explicitly
 supports Fish. Invalid local files can shadow the packaged completions.
+
+## Woodpecker validation
+
+[The transition contract](docs/woodpecker-transition.md) runs the existing Linux
+`devenv test` on Woodpecker. Require actual native PR and merged-main success
+before retiring duplicate GitHub validation. Platform and administrative gates
+remain in GitHub until an equivalent contract is verified. This pipeline does
+not deploy configurations, publish artifacts, or create release tags.

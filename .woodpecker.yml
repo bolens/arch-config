@@ -1,0 +1,32 @@
+# Locked Linux development gate. No host mounts or publishing credentials.
+labels:
+  platform: linux/amd64
+  backend: docker
+clone:
+  git:
+    image: docker.io/woodpeckerci/plugin-git@sha256:9802cb7852dcf31f9c5c1d1ddeadfb9002d4fae85751f7b6a792eedb267bcc59
+    settings:
+      depth: 0
+      partial: false
+when:
+  - event: push
+    branch: main
+  - event:
+      - pull_request
+      - manual
+steps:
+  - name: development-environment
+    image: docker.io/nixos/nix:2.35.4@sha256:f159a58f390677f41e8e900a74b6e2f9c7f27b364122ae6acf7a652ce6c551c0
+    environment:
+      CI: 'true'
+      NIX_CONFIG: |-
+        experimental-features = nix-command flakes
+        sandbox = false
+        build-users-group =
+        max-jobs = 1
+        cores = 2
+        extra-substituters = https://devenv.cachix.org
+        extra-trusted-public-keys = devenv.cachix.org-1:w1cLUi8dv3hnoSPGAuibQv+f9TZLr6cv/Hm9XgU50cw=
+    commands:
+      - git config --global --add safe.directory "$CI_WORKSPACE"
+      - nix run github:cachix/devenv/42246161fa3bf7cd18f8334d08c73d6aaa8762d3 -- test
